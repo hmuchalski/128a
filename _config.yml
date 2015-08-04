@@ -18,9 +18,9 @@ course:
   description:
   # E.g., Spring 2013:
   term:
-  instructor: Dr. Hubert Muchalski
-    name:
-    office:
+  instructor:
+    name: Dr. Hubert Muchalski
+    office: Science I 352
     office_hours:
     email:
     phone:
