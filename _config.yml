@@ -4,24 +4,24 @@
 
 
 # Course-site specific configuration:
-course:128
+course:
   # Enter a base path if needed; not necessary for testing at localhost:4000/
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  baseurl:/ghp-starter
+  baseurl: /ghp-starter
   # E.g., ENGL 536
-  number:a
-  name:Organic Chemistry
+  number: 128a
+  name: Organic Chemistry
   # Keep the description brief, about 140 chars
   description:
   # E.g., Spring 2013:
   term:
   instructor:
-    name:Dr. Hubert Muchalski
-    office:Science I 352
+    name: Dr. Hubert Muchalski
+    office: Science I 352
     office_hours:
     email:
     phone:
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:hubertmuchalski
+    twitter: hubertmuchalski
