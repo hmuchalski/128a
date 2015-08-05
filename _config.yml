@@ -9,19 +9,19 @@ course:
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  base_path:
+  baseurl: /ghp-starter
   # E.g., ENGL 536
-  number:
-  name:
+  number: 128a
+  name: Organic Chemistry
   # Keep the description brief, about 140 chars
   description:
   # E.g., Spring 2013:
   term:
   instructor:
-    name:
-    office:
+    name: Dr. Hubert Muchalski
+    office: Science I 352
     office_hours:
     email:
     phone:
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: hubertmuchalski
