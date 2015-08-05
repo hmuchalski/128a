@@ -13,7 +13,7 @@ course:
   # E.g., ENGL 536
   # baseurl: /ghp-starter
   number:
-  name:
+  name: 128a
   # Keep the description brief, about 140 chars
   description:
   # E.g., Spring 2013:
