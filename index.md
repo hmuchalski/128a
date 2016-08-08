@@ -1,5 +1,5 @@
 ---
-title: Calendar
+title: About
 layout: default
 ---
 
