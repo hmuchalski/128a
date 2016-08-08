@@ -16,13 +16,12 @@ course:
   # Keep the description brief, about 140 chars
   description: Fall 2016
   # E.g., Spring 2013:
-  term:
+  term: Fall 2016
   instructor:
     name: Dr. Hubert Muchalski
     office: Science I 352
     office_hours:
     email: hubert_muchalski@csufresno.edu
     phone:
-    term: Fall 2016
     # No @ before your username; e.g., twitter, not @twitter
     twitter: hubertmuchalski
