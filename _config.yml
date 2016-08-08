@@ -14,7 +14,7 @@ course:
   number: CHEM 128A
   name: Organic Chemistry
   # Keep the description brief, about 140 chars
-  description: Fall 2016
+  description: Upper-division course for science majors.
   # E.g., Spring 2013:
   term: Fall 2016
   instructor:
