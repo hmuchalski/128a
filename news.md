@@ -1,6 +1,6 @@
 ---
 title: news
-layout: default
+layout: news
 ---
 
 ## Announcement title
