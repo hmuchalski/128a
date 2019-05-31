@@ -1,6 +1,6 @@
 ---
-title: Calendar
+title: About
 layout: default
 ---
 
-Welcome to the page. I updated the content of the first page on 2015-08-05. The CSS was working yesterday but today it doesn't.
+Welcome to the course page. Here you will find the most up-to-date materials and information.

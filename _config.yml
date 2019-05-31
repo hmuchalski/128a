@@ -9,19 +9,20 @@ course:
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  baseurl: /ghp-starter
+  baseurl: /128a
   # E.g., ENGL 536
-  number: 128a
+  number: CHEM 128A
   name: Organic Chemistry
   # Keep the description brief, about 140 chars
-  description:
+  description: Upper-division course for science majors.
   # E.g., Spring 2013:
-  term:
+  term: Fall 2016
   instructor:
     name: Dr. Hubert Muchalski
     office: Science I 352
     office_hours:
-    email:
-    phone:
+    email: hubert_muchalski@csufresno.edu
+    phone: (559) 278-2711
+    web: http://muchalski.net/
     # No @ before your username; e.g., twitter, not @twitter
     twitter: hubertmuchalski
