@@ -16,13 +16,14 @@ course:
   # Keep the description brief, about 140 chars
   description: Upper-division course for science majors.
   # E.g., Spring 2013:
-  term: Fall 2016
+  term: Fall 2019
   instructor:
     name: Dr. Hubert Muchalski
     office: Science I 352
     office_hours:
-    email: hubert_muchalski@csufresno.edu
+    email: hmuchalski@mail.fresnostate.edu
     phone: (559) 278-2711
     web: http://muchalski.net/
     # No @ before your username; e.g., twitter, not @twitter
     twitter: hubertmuchalski
+    github: hmuchalski

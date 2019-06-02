@@ -1,1 +1,10 @@
 _site/*
+syllabus-CHEM-128A/pandoc-builds/*.*
+syllabus-CHEM-128A/*.pdf
+syllabus-CHEM-128A/*.png
+syllabus-CHEM-128A/.DS_Store
+.DS_Store
+*.rtf
+*.odt
+*.epub
+*.indd
