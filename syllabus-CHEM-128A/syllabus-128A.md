@@ -36,7 +36,7 @@ CHEM 128A is the first part of a two-semester course in organic chemistry, the c
 
 ## Course goals and learning objectives
 
-The goal of this course is that students reach fluency in communicating structure and reactivity of orgnic molecules. This knowledge is essential for appreciating the world and preparing for future professional work. At the successful completion of this course you will be able to do the following:
+The goal of this course is that students reach fluency in communicating structure and reactivity of orgnic molecules. This knowledge is essential for appreciating the world and preparing for future professional work. At the successful completion of this course you will be able to:
 
 - communicate the structure and properties of organic molecules using common drawing and naming conventions;
 - analyze chemical structures and reactions to make and defend predictions about chemical processes;
@@ -55,7 +55,7 @@ This course uses Immediate Access to course materials. All students have access 
 - **Textbook:** "Organic Chemistry" by David Klein 3rd edition published by Wiley.
 - **WileyPLUS with ORION:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
 - **Student response system:** Each student will need an _i>clicker2_ remote or access to the iClicker Reef mobile app. The officially supported model is _i>clicker2_ (available at the Bookstore). [^iclicker-registration]
-- **Study Guide and Solutions Manual (Optional):**
+- **Study Guide and Solutions Manual (Optional)**
 
 [56263602]: http://www.kennelbookstore.com/immediateaccess "Read more about immediate access"
 [^WileyPLUS-version]: WileyPLUS version is tied to the edition of the textbook. If you opt out of Immediate Access and decide to buy a paper version of the textbook, make sure that your access code is for the 3rd edition.
