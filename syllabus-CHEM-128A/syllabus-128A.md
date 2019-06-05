@@ -154,7 +154,9 @@ When you submit WileyPLUS assignment, you receive instant feedback on which answ
 
 LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. I found that students tend to defer retaking LTAs until it's too late. Therefore, LTA retakes will cost x tokens if they happen within x weeks of the first failed attempt and student can attempt no more than 3 LTA re-takes per week.
 
-LTA re-takes take place immediately after the class session. I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 2 pm the day before you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/NdV77BoKq3aY1iZF8][dac9248f]
+LTA re-takes take place immediately after each class session and during regularly scheduled LTA sessions. There is limit of 1 LTA re-take after class.
+
+I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 2 pm the day before you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/NdV77BoKq3aY1iZF8][dac9248f]
 
   [dac9248f]: https://forms.gle/NdV77BoKq3aY1iZF8 "LTA re-take request"
 
