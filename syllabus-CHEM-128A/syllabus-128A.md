@@ -12,6 +12,7 @@ Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one
 
 Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
+- 2019-06-05: Minor tweaks and typo corrections
 - 2019-06-01: Draft completed. Copy distributed to all students
 
 # Course information
@@ -49,13 +50,14 @@ The goal of this course is that students reach fluency in communicating structur
 
 ## Course materials and technology
 
-This course uses Immediate Access to course materials. All students have access to a digital version of the textbook and associated materials on the first day of class and have until the 10th day of instruction to OPT-OUT of the low cost digital materials, but will have to purchase the materials elsewhere.  Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term. More info can be found at [http://www.kennelbookstore.com/immediateaccess][56263602]
+This course uses Immediate Access to course materials. All students have access to a digital version of the textbook and associated materials on the first day of class and have until the 10th day of instruction to OPT-OUT of the low cost digital materials, but will have to purchase the materials elsewhere.  Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term.
+<!-- More info can be found at [http://www.kennelbookstore.com/immediateaccess][56263602] -->
 
 - **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
-- **Textbook:** "Organic Chemistry" by David Klein 3rd edition published by Wiley.
+- **Textbook:** "Organic Chemistry" by David Klein 3rd edition published by Wiley (via Immediate Access)
 - **WileyPLUS with ORION:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
 - **Student response system:** Each student will need an _i>clicker2_ remote or access to the iClicker Reef mobile app. The officially supported model is _i>clicker2_ (available at the Bookstore). [^iclicker-registration]
-- **Study Guide and Solutions Manual (Optional)**
+- **Study Guide and Solutions Manual** As the name suggests. This is optional item. It is included in IA.
 
 [56263602]: http://www.kennelbookstore.com/immediateaccess "Read more about immediate access"
 [^WileyPLUS-version]: WileyPLUS version is tied to the edition of the textbook. If you opt out of Immediate Access and decide to buy a paper version of the textbook, make sure that your access code is for the 3rd edition.
