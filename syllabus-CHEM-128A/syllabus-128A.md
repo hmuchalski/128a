@@ -12,6 +12,7 @@ Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one
 
 Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
+- 2019-06-13: Revised grade bundles (Mastery/iClicker/ORION component)
 - 2019-06-05: Minor tweaks and typo corrections
 - 2019-06-01: Draft completed. Copy distributed to all students
 
@@ -116,23 +117,23 @@ The grade you earn at the end of the semester is determined by referring to the 
 
 - [ ] 5 ELTAs
 - [ ] 15 points on the final exam
-- [ ] ORION diagnostics for 5 chapters
+- [ ] ORION diagnostics for 4 chapters
 - [ ] 50% on Mastery
 
 ## C grade bundle
 
 - [ ] 6 ELTAs
 - [ ] 22 points on the final exam
-- [ ] ORION diagnostics for 7 chapters
-- [ ] 60% on two the following: ORION proficiency, Mastery, iClicker
+- [ ] ORION diagnostics for 6 chapters
+- [ ] 50% on two the following: ORION proficiency, Mastery, iClicker
 
 ## B grade bundle
 
 - [ ] 6 ELTAs
 - [ ] 2 SLTAs
 - [ ] 29 points on the final exam
-- [ ] ORION diagnostics for 9 chapters
-- [ ] 70% on two of the following: ORION proficiency, Mastery, iClicker
+- [ ] ORION diagnostics for 8 chapters
+- [ ] 60% on two of the following: ORION proficiency, Mastery, iClicker
 - [ ] One of the following: Connections, Synthesis, 36 points on the final exam
 
 ## A grade bundle
@@ -140,8 +141,8 @@ The grade you earn at the end of the semester is determined by referring to the 
 - [ ] 6 ELTAs
 - [ ] 4 SLTAs
 - [ ] 36 points on the final exam
-- [ ] ORION diagnostics for 11 chapters
-- [ ] 80% on two of the following: ORION proficiency, Mastery, iClicker
+- [ ] ORION diagnostics for 10 chapters
+- [ ] 70% on two of the following: ORION proficiency, Mastery, iClicker
 - [ ] Two of the following: Connections, Synthesis, 43 points on the final exam
 
 # Revision and reassessment {#revisions}
