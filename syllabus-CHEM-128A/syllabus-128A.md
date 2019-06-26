@@ -12,6 +12,7 @@ Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one
 
 Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
+- 2019-06-26: Increased the quota for LTA re-takes per week (from 3 to 5) and clarified Mastery homework extension.
 - 2019-06-13: Revised grade bundles (Mastery/iClicker/ORION component)
 - 2019-06-05: Minor tweaks and typo corrections
 - 2019-06-01: Draft completed. Copy distributed to all students
@@ -155,7 +156,7 @@ When you submit WileyPLUS assignment, you receive instant feedback on which answ
 
 ## Revision of Learning Target Assessments (LTAs)
 
-LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. I found that students tend to defer retaking LTAs until it's too late. Therefore, LTA retakes will cost x tokens if they happen within x weeks of the first failed attempt and student can attempt no more than 3 LTA re-takes per week.
+LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. I found that students tend to defer retaking LTAs until it's too late. Therefore, LTA retakes will cost x tokens if they happen within x weeks of the first failed attempt and student can attempt no more than 5 LTA re-takes per week.
 
 LTA re-takes take place immediately after each class session and during regularly scheduled LTA sessions. There is limit of 1 LTA re-take after class.
 
@@ -169,7 +170,7 @@ Tokens are a “currency” in the course that you can use to purchase LTA re-ta
 
 * LTA re-takes according to the policy describe above;
 * feedback on a draft of _Connections_ or _Synthesis_ assignment (2 tokens/consultation);
-* 24-hour deadline extension on Mastery assignment (1 token/assignment);
+* 24-hour deadline extension on Mastery assignment (1 token/assignment module);
 * Participation Credits (2 tokens/credit);
 * total reset of ORION proficiency metric (3 tokens); and
 * points on the final exam (3 tokens/point).
