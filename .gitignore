@@ -1,9 +1,6 @@
 _site/*
 syllabus-CHEM-128A/pandoc-builds/*
-syllabus-CHEM-128A/*.pdf
-syllabus-CHEM-128A/*.png
-syllabus-CHEM-128A/.DS_Store
-.DS_Store
+*.DS_Store
 *.rtf
 *.odt
 *.epub
@@ -11,5 +8,4 @@ syllabus-CHEM-128A/.DS_Store
 *.xlsx
 *.pdf
 *.docx
-syllabus-CHEM-128A/syllabus-128A-2019su.docx
-_current_syllabus-128A-2019su.pdf
+*.png
