@@ -1,0 +1,89 @@
+# Makefile for conversion of a Markdown input file
+# to other formats (HTML, PDF, DOCX, RTF, ODT, EPUB) using Pandoc
+# <http://johnmacfarlane.net/pandoc/>
+#
+# The input file is converted using PANDOC_OPTIONS.
+# Then, the output file is copied to "pandoc-builds" directory with a timestamp as a prefix
+#
+# Run "make pdf" to only execute conversion to PDF etc.
+# Run "make all" to convert to all formats (HTML, PDF, DOCX, RTF, ODT, EPUB)
+# Run "make clean" to delete converted files (it doesn't delete files in "pandoc-builds" directory)
+
+# Defining the timestamp variable
+ts := $(shell /bin/date "+%y%m%d%H%M")
+
+# Semester variable
+SEMESTER=2019su
+
+# Convert all files in this directory that have a .md suffix
+SOURCE_DOCS := $(wildcard *.md)
+
+# Create pandoc files appended with semester name
+
+EXPORTED_DOCS=\
+ $(SOURCE_DOCS:.md=-$(SEMESTER).txt) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).html) \
+ $(SOURCE_DOCS:.md=-standalone.html) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).docx) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).rtf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).odt) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).epub)
+
+# Define commands
+
+RM=/bin/rm
+CP=/bin/cp
+PANDOC=/usr/local/bin/pandoc
+
+# Pandoc
+
+PANDOC_OPTIONS=-f markdown+smart
+
+PANDOC_MD_OPTIONS=-t markdown
+PANDOC_HTML_OPTIONS=--to html5
+PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
+PANDOC_LATEX_OPTIONS=-t latex
+PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
+PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.docx
+PANDOC_RTF_OPTIONS=
+PANDOC_EPUB_OPTIONS=--to epub3
+
+# Pattern-matching rules. The "md" rule is for achiving purposes
+
+%-$(SEMESTER).txt : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_MD_OPTIONS) -o $@ $<
+
+%-$(SEMESTER).html : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o $@ $<
+
+%-standalone.html : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_STANDALONE_HTML_OPTIONS) -o $@ $<
+
+%-$(SEMESTER).tex : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
+
+%-$(SEMESTER).pdf : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
+
+%-$(SEMESTER).docx : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
+
+# Targets and dependencies
+
+.PHONY: all clean
+
+all : $(EXPORTED_DOCS)
+
+# Individual outputs commands
+
+md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
+standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
+html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
+latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
+pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)
+docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
+
+clean:
+	- $(RM) $(EXPORTED_DOCS)
