@@ -170,10 +170,10 @@ Tokens are a “currency” in the course that you can use to purchase LTA re-ta
 
 * LTA re-takes according to the policy describe above;
 * feedback on a draft of _Connections_ or _Synthesis_ assignment (2 tokens/consultation);
-* 24-hour deadline extension on Mastery assignment (1 token/assignment module);
+* 24-hour deadline extension on Mastery assignments in a module;
 * Participation Credits (2 tokens/credit);
 * total reset of ORION proficiency metric (3 tokens); and
-* points on the final exam (3 tokens/point).
+* points on the final exam (3 tokens/points, max 5 points).
 
 # Course policies
 
@@ -210,15 +210,37 @@ Failing or performing poorly in a class is not an acceptable "serious and compel
 
 Currently, the university does not have a formal policy on children in the classroom. The policy described here is thus, a reflection of my own beliefs and commitments to student, staff and faculty parents. I hope that you will feel comfortable disclosing your student-parent status to me. This is the first step in my being able to accommodate any special needs that arise. While I maintain the same high expectations for all student in my classes regardless of parenting status, I am happy to problem solve with you in a way that makes you feel supported as you strive for school-parenting balance.
 
-I understand that minor illnesses and unforeseen disruptions in childcare often put parents in the position of having to chose between missing class to stay home with a child and leaving him or her with someone you or the child does not feel comfortable with. While this is not meant to be a long-term childcare solution, occasionally bringing a child to class in order to cover gaps in care is acceptable. In all cases where babies and children come to class, I ask that you sit close to the door so that if your little one needs special attention and is disrupting learning for other students, you may step outside until their need has been met.
-
 # University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
+**Students with Disabilities**: Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
+
+
+
 - Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/](http://fresnostate.edu/studentaffairs/classschedule/policy/)
 - Copyright Policy: [http://libguides.csufresno.edu/copyright](http://libguides.csufresno.edu/copyright)
-- Students with Dissabilities: [http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
-- Academic Integrity: [http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/](http://fresnostate.edu/studentaffairs/studentconduct/academic-integrity/)
+- Students with Disabilities: [http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html](http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html)
+- Academic Integrity and Honor Code: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf)
 - Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/](http://www.fresnostate.edu/studentaffairs/registrar/registration/)
+- Computer requirements: [https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq][ec516c9f]
+- Disruptive classroom behavior: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf][d520cf08]
+-
+
+  [ec516c9f]: https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq "Computer requirements"
+  [d520cf08]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf "Disruptive classroom behavior"
+
+# University Services
+
+- [Associated Students, Inc.][aef8ae07]
+- [Dream Success Center][a7e41318]
+- [Learning Center Information][0896546b]
+- [Student Health and Counseling Center][820f4ac6]
+- [Writing Center][b17a5bde]
+
+  [aef8ae07]: http://fresnostateasi.org/ "ASI"
+  [a7e41318]: http://fresnostate.edu/studentaffairs/dsc/index.html "Dream Success Center"
+  [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learninc center"
+  [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
+  [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"

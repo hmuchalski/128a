@@ -26,7 +26,7 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-standalone.html) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
- $(SOURCE_DOCS:.md=-$(SEMESTER).docx) 
+ $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 # Define commands
 
@@ -40,7 +40,7 @@ PANDOC_OPTIONS=-f markdown+smart
 
 PANDOC_MD_OPTIONS=-t markdown
 PANDOC_HTML_OPTIONS=--to html5
-PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
+PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc --toc-depth=1
 PANDOC_LATEX_OPTIONS=-t latex
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
 PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.docx
