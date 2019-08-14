@@ -10,3 +10,5 @@ syllabus-CHEM-129A/pandoc-builds/*
 *.pdf
 *.docx
 *.png
+*.jpg
+*.jpeg

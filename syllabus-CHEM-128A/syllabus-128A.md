@@ -12,19 +12,15 @@ Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one
 
 Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
-- 2019-06-26: Increased the quota for LTA re-takes per week (from 3 to 5) and clarified Mastery homework extension.
-- 2019-06-13: Revised grade bundles (Mastery/iClicker/ORION component)
-- 2019-06-05: Minor tweaks and typo corrections
-- 2019-06-01: Draft completed. Copy distributed to all students
+- 2019-08-14: Syllabus updated and published on Canvas
 
 # Course information
 
-- **Course name and number**: CHEM 128A (50366 20-LEC), 3 units
+- **Course name and number**: CHEM 128A (76318-07-LEC), 3 units
 - **Prerequisites**: Grade C or better in CHEM 1B or CHEM 8.
-- **Meetings**: Monday–Friday 07:30–09:00 AM in S2-307
+- **Meetings**: Tu/Th 3:30--4:45 PM in S1-109
 - **Instructor**: Hubert Muchalski, Ph.D., Assistant Professor of Chemistry
-- **Instructor office**: Science 1 room 352
-- **Office Phone**: (559) 278-2711
+- **Instructor office and phone**: Science 1 room 352; (559) 278-2711
 - **Email**[^email-philosophy]: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) or [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) (they go to the same inbox).
 
 [^email-philosophy]: Please note that I typically check email between 11 am and 5 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
@@ -156,13 +152,11 @@ When you submit WileyPLUS assignment, you receive instant feedback on which answ
 
 ## Revision of Learning Target Assessments (LTAs)
 
-LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. I found that students tend to defer retaking LTAs until it's too late. Therefore, LTA retakes will cost x tokens if they happen within x weeks of the first failed attempt and student can attempt no more than 5 LTA re-takes per week.
+LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes.
 
-LTA re-takes take place immediately after each class session and during regularly scheduled LTA sessions. There is limit of 1 LTA re-take after class.
+I found that students tend to defer retaking LTAs until it's too late. Therefore, each student can attempt maximum 2 LTA re-takes per week and LTA retakes will be more costly as time goes by ([see Appendix A](#lta-cost)). LTA re-take sessions schedule will be announced on Canvas. Also, I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 12 pm the day you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/vzeBem1uMybtgb7B7][dac9248f]
 
-I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 2 pm the day before you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/NdV77BoKq3aY1iZF8][dac9248f]
-
-  [dac9248f]: https://forms.gle/NdV77BoKq3aY1iZF8 "LTA re-take request"
+  [dac9248f]: https://forms.gle/vzeBem1uMybtgb7B7 "LTA re-take request"
 
 ## Tokens
 
@@ -244,3 +238,23 @@ In addition to course policies, you are expected to be familiar with Academic Re
   [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learninc center"
   [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
   [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
+
+# Appendix A {#lta-cost}
+
+| date  | ELT1 | ELT2 | ELT3 | ELT4 | ELT5 | ELT6 | SLT1 | SLT2 | SLT3 | SLT4 | SLT5 |
+|-------|------|------|------|------|------|------|------|------|------|------|------|
+| 09/03 | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 09/10 | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 09/17 | 2    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 09/24 | 3    | 1    | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 10/01 | 4    | 2    | 2    | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 10/08 | 5    | 3    | 3    | 2    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 10/15 | 6    | 4    | 4    | 3    | 1    | 0    | 0    | 0    | 0    | 0    | 0    |
+| 10/22 | 7    | 5    | 5    | 4    | 2    | 1    | 0    | 0    | 0    | 0    | 0    |
+| 10/29 | 8    | 6    | 6    | 5    | 3    | 2    | 0    | 0    | 0    | 0    | 0    |
+| 11/05 | 9    | 7    | 7    | 6    | 4    | 3    | 1    | 0    | 0    | 0    | 0    |
+| 11/12 | 10   | 8    | 8    | 7    | 5    | 4    | 2    | 1    | 0    | 0    | 0    |
+| 11/19 | 10   | 9    | 9    | 8    | 6    | 5    | 3    | 2    | 1    | 0    | 0    |
+| 11/26 | 10   | 10   | 10   | 9    | 7    | 6    | 4    | 3    | 2    | 1    | 1    |
+| 12/03 | 10   | 10   | 10   | 10   | 8    | 7    | 5    | 4    | 3    | 2    | 2    |
+| 12/10 | 10   | 10   | 10   | 10   | 9    | 8    | 6    | 5    | 4    | 3    | 3    |

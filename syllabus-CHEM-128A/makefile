@@ -26,7 +26,8 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-standalone.html) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
- $(SOURCE_DOCS:.md=-$(SEMESTER).docx) 
+ $(SOURCE_DOCS:.md=-test.pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 # Define commands
 
@@ -42,7 +43,7 @@ PANDOC_MD_OPTIONS=-t markdown
 PANDOC_HTML_OPTIONS=--to html5
 PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
 PANDOC_LATEX_OPTIONS=-t latex
-PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
+PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
 PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.docx
 
 
@@ -69,6 +70,9 @@ PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.d
 	cp $@ pandoc-builds/$(ts)-$@
 	cp $@ ../_current_$@
 
+%-test.pdf : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
+
 %-$(SEMESTER).docx : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
@@ -85,6 +89,7 @@ md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
 standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
+test : $(SOURCE_DOCS:.md=-test.pdf)
 pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)
 docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 

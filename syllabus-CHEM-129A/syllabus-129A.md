@@ -14,9 +14,11 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 
 # Changelog
 
-The syllabus is a live document which is regularly updated. This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
+This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
-- 2019-08-19: Syllabus published on Canvas
+- 2019-08-14: Syllabus updated and published on Canvas
+
+\newpage
 
 # General information
 
@@ -30,14 +32,14 @@ The syllabus is a live document which is regularly updated. This syllabus and sc
 
 ## Office hours and instructor availability
 
-I will be available for consultations for 30 min after each class meeting. Consultation appointments can be scheduled through Canvas calendar feature. Walk-in visits are welcome but appointments get first priority.
+I will be available for consultations for 30 min after each class meeting. Consultation appointments can be scheduled through Canvas calendar function "Find Appointments." Walk-in visits are welcome but appointments get first priority.
 
 # Course materials and technology
 
 - **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques, 6th edition" by Donald Pavia et al. published by Thompson/Brooks Cole. Previous editions will also be sufficient to learn the material but page numbers as well as problems will be different.
-- **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good but will not have organic chemistry-specific reference materials on covers.
+- **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com](https://fresnostate.instructure.com). The Canvas site will house your grades, links to handouts, videos, and other materials; and other course tools.
+- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials; and other course tools.
 
 # Laboratory Code of Safe Practices
 
@@ -78,7 +80,7 @@ Students who successfully complete CHEM 129A should be able to:
 
 ## In-lab requirements
 
-Two 170-minute meetings per week (Monday and Wednesday) where we experimentally explore selected organic chemistry concepts (5.67 hours per week). Attendance is mandatory because you must complete all experiments to obtain a passing grade. Typically, the in-lab session will start with a short review of relevant material, concepts, and chemical safety through group discussions and problem-solving activities.
+Two 170-minute lab meetings per week (Monday and Wednesday) where we experimentally explore selected organic chemistry concepts (5.67 hours per week). Attendance is mandatory because you must complete all experiments to obtain a passing grade. Typically, the in-lab session will start with a short review of relevant material, concepts, and chemical safety through group discussions and problem-solving activities.
 
 You will not be allowed to enter the lab if a) you are late and missed the pre-lab discussion; b) you are not appropriately dressed to work in the lab; or 3) you don't complete the pre-lab assignment.
 
@@ -86,15 +88,15 @@ If you cannot attend a lab you must notify your instructor and lab coordinator a
 
 ## Out-of-class requirements
 
-I expect that you will come to lab with a basic understanding of the concepts that will allow you to fully participate in pre-lab discussions. Preparing for the lab means making honest effort to learn on your own by:
+I expect that you will come to lab with a basic understanding of the concepts that will allow you to fully participate in pre-lab discussions. Preparing for the lab means making honest effort to learn on your own. This is done by:
 
-- reading the textbook material related to the scheduled experiment;
-- preparing the pre-lab write-up;
+- reading the assigned textbook material related to the scheduled experiment;
+- preparing the pre-lab assignment;
 - reviewing the relevant techniques for each experiment (listed in the introduction section for each experiment);
 - watching videos demonstrating laboratory techniques; and
 - reviewing safety data sheets (SDS) for chemicals you will be working with.
 
-Out-of-class work also includes analysis of data collected in the lab. For the first half of the semester this will take form of post-lab summary written in your notebook. Later in the semester the post-lab analysis will include a typewritten lab report. (8--12 hours per week)
+Out-of-class work also includes analysis of data collected in the lab. For the first half of the semester this will take form of post-lab summary written in your notebook. Later in the semester the post-lab analysis will include a typewritten lab report. Total out-of-class workload is estimated at 8--12 hours per week.
 
 # Types of graded work
 
@@ -107,38 +109,35 @@ There are four kinds of graded work you will encounter in this course:
 
 ## Laboratory notebook
 
-Assume that you're in note-taking mode at all time when you are in the lab. Well prepared pre-lab and in-lab notes are very important because they are the basis for the post-lab summary or report that you will write for each set of experiments. Pre-lab notes are generated in preparation for the scheduled experiment. In-lab notes document what you did in the lab (including notes taken during lecture and discussions) as well as results of your experimental work. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need only details that are relevant and necessary to reproduce the experiment. You can assume that your notes are going to be read by a trained organic chemist. For example, you don't have to explain what is a round-bottomed flask. Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of you notes portfolio. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook are discussed in the textbook and will be reviewed in the lab.
-
-You will submit copies of your pre-lab notes at the beginning of the lab and in-lab notes before you leave the lab room.
+Assume that you're in note-taking mode at all time when you are in the lab. Well prepared pre-lab and in-lab notes are very important because they are the basis for the post-lab summary or report that you will write for each set of experiments. Pre-lab notes are generated in preparation for the scheduled experiment. In-lab notes document what you did in the lab (including notes taken during lecture and discussions) as well as results of your experimental work. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need only details that are relevant and necessary to reproduce the experiment. You can assume that your notes are going to be read by a trained organic chemist. For example, you don't have to explain what is a round-bottomed flask. Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of you notes portfolio. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook are discussed in the textbook and will be reviewed in the lab. You will submit copies of your pre-lab notes at the beginning of the lab and in-lab notes before you leave the lab room.
 
 ## Post-lab summaries and reports
 
-One of the main objectives of this course is for students to learn to interpret and communicate the meaning of experimental results. The post-lab summary or lab report is an assignment that shows the depth of your understanding of the concepts, techniques, and instrumentation used in the lab.
+One of the main objectives of this course is for students to learn to interpret and communicate the meaning of experimental results. The post-lab summary or lab report is an assignment that shows the depth of your understanding of the concepts, techniques, and instrumentation used in the lab. For experiments in the first half of the semester you will write a short summary of results and conclusions in your notebook. All notebook pages will be graded as a whole (5% per lab).
 
-For experiments in the first half of the semester you will write a short summary of results and conclusions in your notebook. Later in the semester, a typewritten report will be assigned as post-lab summary and reflection. There will be total of six (6) typewritten reports. Four reports on scheduled experiments and two on results of practicals (see [the schedule](https://hmlab.page.link/129a-schedule) for details).
+## Lab reports
 
-To grade the typewritten reports I will use a grading system of revision of your work that gives you multiple attempts to demonstrate the level of learning you achieved. Lab reports will be evaluated using a rubric that classifies the work with marks of *Satisfactory* (S) *Progressing* (P), or *Incomplete* (I). Points are not involved in grading reports. Work marked as *Satisfactory* will receive full credit. Reports marked as *Incomplete* or *Progressing* can be revised and resubmitted before the grade becomes final. If a resubmitted report meets criteria for *Satisfactory* grade, full credit will be awarded. Deadlines and conditions for re-submission of revised reports will be communicated via Canvas.
+Later in the semester, a typewritten report will be assigned as post-lab summary and reflection. There will be total of six (6) typewritten reports. Four regular experiments and two practicals. I will use a grading system that allows for revision and resubmission that gives you multiple attempts to demonstrate the level of learning you achieved. Lab reports will be evaluated using a rubric that classifies the work with marks of *Satisfactory* (S) *Progressing* (P), or *Incomplete* (I). Work marked as *Satisfactory* will receive full credit. Reports marked as *Incomplete* or *Progressing* can be revised and resubmitted before the grade becomes final. Each student can re-submit up to two reports (or one report twice) without point reduction. Additional revisions will carry be at a cost of point reduction. Details of the process of revision and resubmission will be discussed in class.
 
 ## Quizzes
 
 Quizzes test your understanding of the lab techniques and experiments you conducted and will be based on material covered in the pre-lab lectures, reading assignments, and experiments. Quizzes will be take-home assignments because they test higher order thinking skills which are rarely well performed under the pressure of time. The only quiz we will have in class is the *Safety Quiz*.
 
-**Safety Quiz**. You must pass the Safety Quiz to remain in the class. You can take the quiz up to 3 times. The quiz is based upon the information on safety sheet, your instructor’s lab lecture on safety, and Technique 1 (Safety) in the lab textbook. You are strongly encouraged to read the safety related notes, abide by the guidelines ALL THE TIME to keep the lab, lab occupants, and everyone else in the department safe.
+**Safety Quiz**. You must pass the Safety Quiz to remain in the class. You can take the quiz up to 3 times. The quiz is based upon the information on safety sheet, your instructor’s lab lecture on safety, and Technique 1 (Safety) in the lab textbook. You must be familiar with the safety protocols, abide by the guidelines _at all time_ to keep yourself, other lab occupants, and everyone else in the building safe.
 
 ## Practicals
 
 These are the last two experiments for the semester (see [Lab Schedule](https://hmlab.page.link/129a-schedule)). You will be given a procedure (handout) at the beginning of the Practical session and your grade for these Practicals will be based on your skills and performance in the lab (yield and purity of your product) and your experimental write-up.
 
-# How your course grade is determined
+# Final letter grade scheme
 
 Grade brackets are imposed by course coordinator. In the past, the grading scale followed a pattern close to the following: A = 85--100, B 75--84, C 65--74; D 50--64; and F <50.
 
 | Grade component  | % (each) | Subtotal |
 |------------------|----------|----------|
 | Experiments (10) | 5%       | 50%      |
-| Practicals (2)   | 7%       | 14%      |
+| Practicals (2)   | 9%       | 18%      |
 | Quizzes (4)      | 8%       | 32%      |
-| Evaluation       | 4%       | 4%       |
 
 # Course policies
 
