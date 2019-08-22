@@ -7,6 +7,7 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
+\newpage
 
 Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce you to one of the richest and most beautiful areas of modern chemistry: *chemistry of carbon compounds*. In CHEM 129A, we will learn skills that are essential for performing experiments in organic chemistry laboratory.
 
@@ -17,29 +18,24 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
 - 2019-08-14: Syllabus updated and published on Canvas
-
-\newpage
+- 2019-08-22: Added office hours information and corrected typographical errors.
 
 # General information
 
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**: CHEM 8 or CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
 - **Class schedule**: [https://chem129a.page.link/schedule](https://chem129a.page.link/schedule) (Week = Sunday 12:00 am until Saturday 11:59 pm)
-- **Instructor**: Hubert Muchalski, Ph.D., Assistant Professor of Chemistry
 - **Contact**[^email-philosophy]: Science 1 room 352, phone (559) 278-2711,  [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
+- **Office Hours**: I will be available for consultations for 30 min after each class meeting. Walk-in office hours are Monday and Wednesday 12:00--01:00 pm. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
 [^email-philosophy]: Please note that I typically check email between 11 am and 5 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
-
-## Office hours and instructor availability
-
-I will be available for consultations for 30 min after each class meeting. Consultation appointments can be scheduled through Canvas calendar function "Find Appointments." Walk-in visits are welcome but appointments get first priority.
 
 # Course materials and technology
 
 - **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques, 6th edition" by Donald Pavia et al. published by Thompson/Brooks Cole. Previous editions will also be sufficient to learn the material but page numbers as well as problems will be different.
 - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials; and other course tools.
+- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials.
 
 # Laboratory Code of Safe Practices
 
@@ -117,7 +113,7 @@ One of the main objectives of this course is for students to learn to interpret 
 
 ## Lab reports
 
-Later in the semester, a typewritten report will be assigned as post-lab summary and reflection. There will be total of six (6) typewritten reports. Four regular experiments and two practicals. I will use a grading system that allows for revision and resubmission that gives you multiple attempts to demonstrate the level of learning you achieved. Lab reports will be evaluated using a rubric that classifies the work with marks of *Satisfactory* (S) *Progressing* (P), or *Incomplete* (I). Work marked as *Satisfactory* will receive full credit. Reports marked as *Incomplete* or *Progressing* can be revised and resubmitted before the grade becomes final. Each student can re-submit up to two reports (or one report twice) without point reduction. Additional revisions will carry be at a cost of point reduction. Details of the process of revision and resubmission will be discussed in class.
+Later in the semester, a typewritten report will be assigned as post-lab summary and reflection. There will be total of six (6) typewritten reports. Four regular experiments and two practicals. I will use a grading system that allows for revision and resubmission that gives you multiple attempts to demonstrate the level of learning you achieved. Lab reports will be evaluated using a rubric that classifies the work with marks of *Satisfactory* (S) *Progressing* (P), or *Incomplete* (I). Work marked as *Satisfactory* will receive full credit. Reports marked as *Incomplete* or *Progressing* can be revised and resubmitted before the grade becomes final. Each student can re-submit up to two reports (or one report twice) without point reduction. Additional revisions will be at a cost of point reduction. Details of the process of revision and resubmission will be discussed in class.
 
 ## Quizzes
 

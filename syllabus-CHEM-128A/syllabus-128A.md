@@ -1,6 +1,11 @@
-% Course Syllabus: CHEM 128A (Organic Chemistry I)
-%
-%
+---
+title: "Course Syllabus for Organic Chemistry 1"
+subtitle: "CHEM 128A, Fall 2019"
+author: "Instructor: Hubert Muchalski, Ph.D."
+
+header-includes:
+- \usepackage[document]{ragged2e}
+---
 
 \newpage
 
@@ -13,21 +18,18 @@ Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one
 Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
 - 2019-08-14: Syllabus updated and published on Canvas
+- 2019-08-22: Updated final exam date. Added office hours information. Corrected typographical errors.
 
 # Course information
 
 - **Course name and number**: CHEM 128A (76318-07-LEC), 3 units
 - **Prerequisites**: Grade C or better in CHEM 1B or CHEM 8.
 - **Meetings**: Tu/Th 3:30--4:45 PM in S1-109
-- **Instructor**: Hubert Muchalski, Ph.D., Assistant Professor of Chemistry
 - **Instructor office and phone**: Science 1 room 352; (559) 278-2711
 - **Email**[^email-philosophy]: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) or [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) (they go to the same inbox).
+- **Office Hours**: Walk-in office hours are Monday and Wednesday 12:00--01:00 pm. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
 [^email-philosophy]: Please note that I typically check email between 11 am and 5 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
-
-## Office hours and instructor availability
-
-I will be available for consultations for 30 min after each class meeting. Consultation appointments can be scheduled through Canvas calendar feature. Walk-in visits are welcome but appointments get first priority.
 
 # Course description
 
@@ -48,7 +50,7 @@ The goal of this course is that students reach fluency in communicating structur
 
 ## Course materials and technology
 
-This course uses Immediate Access to course materials. All students have access to a digital version of the textbook and associated materials on the first day of class and have until the 10th day of instruction to OPT-OUT of the low cost digital materials, but will have to purchase the materials elsewhere.  Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term.
+This course uses Immediate Access to course materials. All students have access to a digital version of the textbook and associated materials on the first day of class and have until the 10th day of instruction to OPT-OUT of the low cost digital materials, but will have to purchase the materials elsewhere.  Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term. See Canvas for details.
 <!-- More info can be found at [http://www.kennelbookstore.com/immediateaccess][56263602] -->
 
 - **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
@@ -78,7 +80,7 @@ There are six types of assignments and tests that you will encounter in this cou
 3. **Learning Target Assessments (LTAs).** Short quizzes on one of the 11 Learning Targets in the course. Each is graded *Satisfactory* or *Progressing* on the basis of correctness and completeness.
 4. **Participation Credits.** Taking part in student response polls in class.
 5. **Connections & Synthesis.** Take-home assignments that explore organic chemistry applications involving real life examples from the lab and beyond. *Connections* are graded *Satisfactory*, *Progresing*, or *Incomplete* on correctness, clarity, and completeness.
-6. **Final Exam.** This exam measures retention of knowledge and skills you learned throughout the semester. The exam is comprehensive (all the material covered throughout the semester) and is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Final exam will be on **Monday, July 15th 09:00--11:00 AM**.
+6. **Final Exam.** This exam measures retention of knowledge and skills you learned throughout the semester. The exam is comprehensive (all the material covered throughout the semester) and is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Final exam will be on **Thursday, December 19th 05:45--07:45 PM**.
 
 ## Pre-class readings and diagnostics
 
