@@ -19,6 +19,7 @@ Until the census date, the content of this syllabus may change. The schedule and
 
 - 2019-08-14: Syllabus updated and published on Canvas
 - 2019-08-22: Updated final exam date. Added office hours information. Corrected typographical errors.
+- 2019-09-17: Updated LTA re-take pricing table
 
 # Course information
 
@@ -154,7 +155,7 @@ When you submit WileyPLUS assignment, you receive instant feedback on which answ
 
 ## Revision of Learning Target Assessments (LTAs)
 
-LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes.
+LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. LTAs can be re-attempted during scheduled LTA sessions and during office hours. 
 
 I found that students tend to defer retaking LTAs until it's too late. Therefore, each student can attempt maximum 2 LTA re-takes per week and LTA retakes will be more costly as time goes by ([see Appendix A](#lta-cost)). LTA re-take sessions schedule will be announced on Canvas. Also, I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 12 pm the day you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/vzeBem1uMybtgb7B7][dac9248f]
 
@@ -243,20 +244,16 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 # Appendix A {#lta-cost}
 
-| date  | ELT1 | ELT2 | ELT3 | ELT4 | ELT5 | ELT6 | SLT1 | SLT2 | SLT3 | SLT4 | SLT5 |
-|-------|------|------|------|------|------|------|------|------|------|------|------|
-| 09/03 | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 09/10 | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 09/17 | 2    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 09/24 | 3    | 1    | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 10/01 | 4    | 2    | 2    | 1    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 10/08 | 5    | 3    | 3    | 2    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 10/15 | 6    | 4    | 4    | 3    | 1    | 0    | 0    | 0    | 0    | 0    | 0    |
-| 10/22 | 7    | 5    | 5    | 4    | 2    | 1    | 0    | 0    | 0    | 0    | 0    |
-| 10/29 | 8    | 6    | 6    | 5    | 3    | 2    | 0    | 0    | 0    | 0    | 0    |
-| 11/05 | 9    | 7    | 7    | 6    | 4    | 3    | 1    | 0    | 0    | 0    | 0    |
-| 11/12 | 10   | 8    | 8    | 7    | 5    | 4    | 2    | 1    | 0    | 0    | 0    |
-| 11/19 | 10   | 9    | 9    | 8    | 6    | 5    | 3    | 2    | 1    | 0    | 0    |
-| 11/26 | 10   | 10   | 10   | 9    | 7    | 6    | 4    | 3    | 2    | 1    | 1    |
-| 12/03 | 10   | 10   | 10   | 10   | 8    | 7    | 5    | 4    | 3    | 2    | 2    |
-| 12/10 | 10   | 10   | 10   | 10   | 9    | 8    | 6    | 5    | 4    | 3    | 3    |
+| effective | 09/09 | 09/16 | 09/23 | 09/30 | 10/07 | 10/14 | 10/21 | 10/28 | 11/04 | 11/11 | 11/18 | 11/25 | 12/02 |
+|-----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| ELTA1 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 | 5 |
+| ELTA2 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 |
+| ELTA3 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 |
+| ELTA4 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |
+| ELTA5 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| ELTA6 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
+| SLTA1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 |
+| SLTA2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
+| SLTA3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| SLTA4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| SLTA5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |

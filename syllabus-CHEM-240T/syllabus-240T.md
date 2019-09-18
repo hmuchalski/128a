@@ -9,7 +9,7 @@ header-includes:
 
 # General information
 
-- **Course name and number**: Strategies and Tactics in Organic Synthesis; CHEM 240T (graduate, 2 Units)
+- **Course name and number**: Strategies and Tactics in Organic Synthesis; CHEM 240T (graduate, 3 Units)
 - **Contact**: Science 1 room 352, phone (559) 278-2711,  [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/4365](https://fresnostate.instructure.com/courses/4365). The Canvas site will house your grades, links to handouts, videos, and other materials.
 - **Textbook:** There is no specific textbook for this class but  I recommend you get a copy of organic chemistry textbook to use as general reference. It doesn't have to be recent. Older edition of any major textbook will work just as well.
