@@ -20,6 +20,8 @@ header-includes:
 
 When you took the sophomore course in organic chemistry, you studied the typical reactions of halooalkanes, alkenes/alkynes, aromatic compounds and organic carbonyl compounds, etc. That was to introduce you to compound classes and to give you an understanding of how and why such reactions occur. However, the course did not focus how to design a synthetic route to prepare a given organic compound from readily available starting materials. This is a crucial aspect of organic chemistry. The design and synthesis of novel organic compounds is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. This course will introduce you to the ideas involved in synthetic design, particularly ‘retrosynthetic analysis’ (RSA).
 
+\newpage
+
 ## Student Learning Outcomes{#slo}
 
 Students who successfully complete this course should be able to:
@@ -57,25 +59,27 @@ There are three types of graded work you will encounter in this course:
 
 1. Problem sets
 2. Midterm take-home exam
-2. Synthesis proposal
-3. Proposal presentation
+3. Total synthesis presentation
+4. Synthesis proposal (written)
+5. Proposal presentation
 
-Problem sets are written homework assignments containing synthetic problems and mechanisms. We will review some of those problems and students will be asked to go to the board and solve the problem in front of the group. Thus, just having the answer may not be sufficient to receive full credit on the assignment if you are not able to develop the solution again.
+Problem sets are written homework assignments containing synthetic problems and mechanisms. We will review some of those problems and occasionally students will be asked to go to the board and solve the problem in front of the group. The take-home exam will be just like problem sets but bigger (more problems) and more comprehensive.
 
-The take-home exam will be just like problem sets but bigger (more problems) and more comprehensive.
+Each student will present a 15-20 min talk on a recently published total synthesis of a natural product or pharmaceutical (chosen by the instructor). This will require reading several research papers and condensing it into a short talk. 
 
-Each student will also propose total synthesis of natural product and present it to the class.
+The culminating assignment in this course will be a synthesis proposal of a natural product (chosen by the instructor). This assignment has two parts: written document (due 12/17) and presentation (dates TBA).
 
 # Final letter grade scheme
 
 Grade brackets are imposed by course coordinator. In the past, the grading scale followed a pattern close to the following: A = 90--100, B 80--89, C 70--79; D 60--69; and F <60.
 
-| Grade component          | Subtotal |
-|--------------------------|----------|
-| Problem Sets             | 50%      |
-| Midterm take-home exam   | 20%      |
-| Synthesis Proposal       | 15%      |
-| Presentation             | 15%      |
+| Grade component              | Subtotal |
+|------------------------------|----------|
+| Problem Sets                 | 35%      |
+| Midterm take-home exam       | 20%      |
+| Total synthesis presentation | 15%      |
+| Synthesis Proposal           | 15%      |
+| Presentation                 | 15%      |
 
 # Course policies
 
