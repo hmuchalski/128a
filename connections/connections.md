@@ -1,6 +1,6 @@
 ---
 title: "Connections"
-subtitle: "Due: Friday, July 12th at 9:00 am"
+subtitle: "Due: Tuesday, December 10 at 3:30 pm (last class)"
 author: "Hubert Muchalski Ph.D."
 ---
 
@@ -10,9 +10,9 @@ It is okay, or even desirable, to collaborate with other students. The work that
 
 # Radical Chemistry in Foods and Consumer Products
 
-1. Food additive E307 (alpha-tocopherol), commonly known as vitamin E and ascorbic acid (vitamin C) are considered essential vitamins in human diet. They are both considered antioxidants. It is recommended that vitamin E supplements are taken with fatty foods but there is no such recommendation to vitamin C. Draw structures of both molecules and propose explanation for the dietary recommendation mentioned above.
-2. Polyunsaturated fatty acids (PUFAs) readily undergo autoxidation (peroxidation). Linoleic acid (omega-6 fatty acid) is 62 times more reactive than oleic acid because the intermediate carbon radical is stabilized by resonance. Draw all resonance contributors of the radical that forms upon abstraction of the bis-allylic hydrogen atom from linoleic acid. Also, explain the nomenclature convention that uses "omega-#" notion to name PUFAs
-3. Most consumer products made of polymer materials (a.k.a. plastics) have triangular symbols that identify the plastic resin out of which the product is made and each has designated number and letter code. Draw the mechanism of formation of tetramer of polypropylene. What symbol and number are used to identify polypropylene? Give an example of consumer products made of polypropylene.
+1. Food additive E307 (alpha-tocopherol), commonly known as vitamin E and ascorbic acid (vitamin C) are considered essential vitamins in human diet. They are both considered antioxidants. It is recommended that vitamin E supplements are taken with fatty foods but there is no such recommendation to vitamin C. Draw structures of both molecules and propose explanation for the dietary recommendation.
+2. Polyunsaturated fatty acids (PUFAs) readily undergo autoxidation (peroxidation). Linoleic acid (omega-6 fatty acid) is 62 times more reactive than oleic acid because the intermediate carbon radical is stabilized by resonance. Draw all resonance contributors of the radical that forms upon abstraction of the bis-allylic hydrogen atom from linoleic acid. Also, explain the nomenclature convention that uses "omega-#" notion to name PUFAs.
+3. Most consumer products made of polymer materials (a.k.a. plastics) have triangular symbols that identify the plastic resin out of which the product is made and each has designated number and letter code. Draw the mechanism of formation of pentamer of polyvinyl chloride. What symbol and number are used to identify polyvinyl chloride? Give two examples of consumer products made of polyvinyl chloride.
 
 
 # Physics and Chemistry Interface

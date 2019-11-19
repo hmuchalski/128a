@@ -43,7 +43,7 @@ PANDOC_MD_OPTIONS=-t markdown
 PANDOC_HTML_OPTIONS=--to html5
 PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
 PANDOC_LATEX_OPTIONS=-t latex
-PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
+PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25+in -V fontsize=10pt -V mainfont='Minion Pro' -V colorlinks
 PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.docx
 
 
@@ -51,31 +51,24 @@ PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.d
 
 %-$(SEMESTER).txt : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_MD_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
 
 %-$(SEMESTER).html : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_HTML_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
 
 %-standalone.html : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_STANDALONE_HTML_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
 
 %-$(SEMESTER).tex : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
 
 %-$(SEMESTER).pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
-	cp $@ ../_current_$@
 
 %-test.pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
 
 %-$(SEMESTER).docx : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
-	cp $@ pandoc-builds/$(ts)-$@
 
 # Targets and dependencies
 

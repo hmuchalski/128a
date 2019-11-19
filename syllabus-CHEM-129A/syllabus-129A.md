@@ -19,6 +19,7 @@ This syllabus and schedule are subject to change in the event of extenuating cir
 
 - 2019-08-14: Syllabus updated and published on Canvas
 - 2019-08-22: Added office hours information and corrected typographical errors.
+- 2019-10-15: Clarified report submission and revision criteria.
 
 # General information
 
