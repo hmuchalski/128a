@@ -2,6 +2,7 @@ _site/*
 syllabus-CHEM-128A/pandoc-builds/*
 syllabus-CHEM-129A/pandoc-builds/*
 syllabus-CHEM-240T/pandoc-builds/*
+syllabus-CHEM-160H260/pandoc-builds/*
 *.DS_Store
 *.rtf
 *.odt
