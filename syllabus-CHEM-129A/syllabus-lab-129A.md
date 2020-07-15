@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus for Organic Chemistry Laboratory 1"
-subtitle: "CHEM 129A, Fall 2019"
+subtitle: "CHEM 129A, Fall 2020"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
@@ -17,19 +17,16 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
-- 2019-08-14: Syllabus updated and published on Canvas
-- 2019-08-22: Added office hours information and corrected typographical errors.
-- 2019-10-15: Clarified report submission and revision criteria.
+- 2020-06-22: Draft created
 
 # General information
 
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**: CHEM 8 or CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
-- **Class schedule**: [https://chem129a.page.link/schedule](https://chem129a.page.link/schedule) (Week = Sunday 12:00 am until Saturday 11:59 pm)
 - **Contact**[^email-philosophy]: Science 1 room 352, phone (559) 278-2711,  [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
-- **Office Hours**: I will be available for consultations for 30 min after each class meeting. Walk-in office hours are Monday and Wednesday 12:00--01:00 pm. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
+- **Office Hours**: TBA. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
-[^email-philosophy]: Please note that I typically check email between 11 am and 5 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+[^email-philosophy]: Please note that I typically check email between 11 am and 4 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. I strongly encourage you to use Canvas communication tools (Discussions) where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 
 # Course materials and technology
 
@@ -193,7 +190,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
   [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
   [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
 
-\newpage
+<!-- \newpage
 
 # Appendix A: Grading rubric
 
@@ -202,3 +199,4 @@ Lab reports assignments are graded either Satisfactory (S), Progressing (P), or 
 - **Satisfactory (S)**: Understanding of the concepts is evident, although there may be a small number of mistakes in the work that do not significantly affect the overall reasoning. Answers to all questions and prompts are backed up by work that is clearly shown and easy to read.
 - **Progressing (P)**: Partial understanding of concepts is evident, and all parts of the solution have a good-faith attempt. But there are significant errors in computation, logic, or writing that affect the overall reasoning. The work should be revised.
 - **Incomplete (I)**: No work submitted or there are significant omissions in the work, such as parts of the solution left blank intentionally or essential parts of the reasoning behind the answers that are missing or unreadable. Not enough information to determine if the concepts are fully understood.
+ -->

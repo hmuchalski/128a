@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus for Organic Chemistry Laboratory 2 (Virtual)"
-subtitle: "CHEM 129B, Summer 2020"
+subtitle: "CHEM 129B, Fall 2020"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
@@ -13,9 +13,9 @@ Welcome to CHEM 129B, Organic Chemistry Laboratory 2! This document contains all
 
 # Changelog
 
-This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
+This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
-- 2020-06-03: Syllabus updated and published on Canvas
+- 2020-08-15: Syllabus updated and published on Canvas
 
 # General information
 
@@ -34,11 +34,11 @@ This syllabus and schedule are subject to change in the event of extenuating cir
 <!-- - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided. -->
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/24394](https://fresnostate.instructure.com/courses/24394). The Canvas site will house your grades, links to handouts, videos, and other materials.
-- **Personal computer:** You will need a x86 class personal computer, either Windows of macOS that can run desktop applications. Mobile devices have potential to augment the learning experience, but are not capable to run the apps we will use. Refer to Canvas for the computer and software requirements. 
+- **Personal computer:** You will need a x86 class personal computer, either Windows of macOS that can run desktop applications. Mobile devices have potential to augment the learning experience, but are not capable to run the apps we will use. Refer to Canvas for the computer and software requirements.
 
 ## Course Learning Outcomes
 
-This course is organized into Modules and aims to help students achieve learning outcomes through online activities. Each module contains materials you need to complete the associated activities. Each course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society. 
+This course is organized into Modules and aims to help students achieve learning outcomes through online activities. Each module contains materials you need to complete the associated activities. Each course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society.
 
 Upon completion of this course students will be able to:
 
@@ -65,17 +65,17 @@ Upon completion of this course students will be able to:
 
 # Course Modules
 
-1. Chemical Hazards and Risk Assessment 
-2. Journals and Scientific Databases 
-3. SciFinder Scholar 
+1. Chemical Hazards and Risk Assessment
+2. Journals and Scientific Databases
+3. SciFinder Scholar
 4. Managing References
-5. Green Chemistry 
+5. Green Chemistry
 6. Spectroscopy
-7. Synthesis of Methyl Diantilis and its Derivatives 
+7. Synthesis of Methyl Diantilis and its Derivatives
 8. Greener Synthesis of Benzil    
-9. Stereochemistry of Reduction of Benzil with Sodium Borohydride 
+9. Stereochemistry of Reduction of Benzil with Sodium Borohydride
 10. Structural Elucidation of Acetophenone Derivatives
-11. Independent Project 
+11. Independent Project
 
 # Assignments and grading
 
@@ -92,6 +92,18 @@ Table below lists categories of assignment and weights associated with each grou
 | TOTAL               | **100%** |
 
 Grade brackets are imposed by course coordinator. In the past, the grading scale followed a pattern close to the following: A = 90--100, B 80--89, C 70--79; D 60--69; and F <60.
+
+# Teaching philosophy
+
+I have heard from many people that organic chemistry was their least favorite class in college or that it was very hard. Certainly, being a chemist is not for everyone, but the skills and tools required to solve organic chemistry problems are universal to all natural sciences. I strive to teach skills, rather than simply teaching facts. Critical thinking is the ability to take those facts and to evaluate and apply them in an intellectually disciplined way to solve important problems. My teaching aims to convey to my students that science is new, exciting, sometimes controversial, and related to their everyday lives. I strive to make my students comfortable with science by making it interesting and personally relevant, especially non‐science majors. I found that a good way to accomplish this is to reference current events, news articles, movies, and personal experiences, and then relate them to the principles of chemistry.
+
+In order to promote effective student learning and retention of often complicated and intricate concepts, my courses incorporate different teaching approaches, including lectures, classroom discussions, and group projects. For laboratory courses I seek to create an environment that allows for supervised exploration. For example, in teaching experiments that involve liquid–liquid extraction, I have often found that students come to me saying that they lost their product. They believe they’ve done something wrong and are concerned for their grade. To their surprise, my response is, “That’s fantastic! Let’s look for it.” The student doesn’t know what just happened or why, but she’s curious and wants to explore. We set up a micro investigation, analyze every solution that could contain the missing product, and by doing that clarify concepts of liquid density, acid‐base theory, and solubility. The confidence they gain from this exercise is revealed when they face an unexpected outcome again and are able to solve problem with minimal assistance. The best learning opportunities arise naturally when students commit small experimental errors that deliver unexpected results. Instead of revealing the answer, I guide students, encourage them to form their own hypotheses and design mini‐experiments that help them to determine what caused the odd result.  Students seem enjoy those situations not only because they are highly effective learning tools, and are not part of the official lab procedure, but also because they keep students engaged and excited about what they learn in my class.
+
+A teacher's chief responsibility in the classroom is to maximize student learning. However, one must realize that not all students learn in the same way. Once I spent some time in the class discussing the heat capacity of liquids using a problem I faced the same day. I asked my students to calculate the proportions of boiling and room temperature water one needs to prepare baby formula at the desired temperature. I have found that when students are presented with these linkages between science and “real life,” they think like scientists and are engaged on a personal level. One student approached me a few days later saying that he shared the result of the baby formula exercise with his sister who had a newborn baby. It is precisely this kind of retrospective and prospective learning I aim to foster through my teaching, as it encourages students to think beyond the parameters of the class and evaluate their experiences using science.
+
+I work very hard to maintain students’ attention and interest. As I continue my teaching career, especially now after the pandemic forced all educators to pivot and adopt to new reality, I want to incorporate new technology, online tools, and resources to enhance student participation and measure the effect I have on students and on their learning. Since many classes will need to be redesigned from the ground up, I’m committed to using proven pedagogies such as backward course design. To monitor and ensure that students fully benefit from my class I invested a lot of time to learn how to effectively use student response systems (clickers) in virtual setting. The third significant shift I made in light of virtual instruction, was adoption of mastery-based grading in most of my assessments. The system gives students control over the grading process and the letter grade is determined by the quantity and quality of evidence students provide provide that they have mastered the concepts of the course. Students have multiple attempts to earn a satisfactory grade on most assignments and the system allows revisions and multiple attempts to demonstrate a satisfactory level of learning (score of 80% or more is considered satisfactory).
+
+If I had to summarize my teaching philosophy in one sentence, I’d say I want to equip my students with skills and knowledge that will take them far beyond the final exam in my course. In our profession we can produce science that will last beyond our end. But, even more importantly, we produce people who go out and make contributions to the world and society in ways we cannot anticipate.
 
 # Course policies
 
@@ -150,4 +162,3 @@ In addition to course policies, you are expected to be familiar with Academic Re
   [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learninc center"
   [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
   [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
-
