@@ -13,6 +13,8 @@ This syllabus and schedule are subject to change in the event of extenuating cir
 
 - 2020-08-11: Draft sent for to instructors for review
 
+\newpage
+
 # Introduction
 
 Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce you to one of the richest and most beautiful areas of modern chemistry: *chemistry of carbon compounds*. In CHEM 129A, we will learn skills that are essential for performing experiments in organic chemistry laboratory.
@@ -21,12 +23,16 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
-- **Contact**: phone (559) 278-2711, or email [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
+- **Contact**<!-- [^email-philosophy] -->: Science 1 room 352, phone (559) 278-2711,  [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
 - **Office Hours**: TBA. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
+
+<!-- [^email-philosophy]: Please note that I typically check email between 11 am and 4 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. I strongly encourage you to use Canvas communication tools (Discussions) where you can ask questions to the entire class at any time, making it more likely to get a quick response. -->
 
 # What is CHEM 129A
 
-CHEM 129A is a two-unit introductory laboratory course in organic chemistry. It is primarily concerned with introducing the tools and techniques that chemists use to synthesize and investigate the properties of organic compounds (see the [list below](#slo)). Some of these techniques are the same or similar to those you learned in general chemistry courses but may be modified because the experiments use very small amounts of material (micro-scale techniques). Students who successfully complete CHEM 129A generally enroll in CHEM 129B, which further develops students' laboratory skills. Some students then continue with CHEM 190, undergraduate research or independent study.
+CHEM 129A is a two-unit introductory laboratory course in organic chemistry. It is primarily concerned with introducing the tools and techniques that chemists use to synthesize and investigate the properties of organic compounds (see the [list below](#slo)). Some of these techniques are the same or similar to those you learned in general chemistry courses but may be modified because the experiments use very small amounts of material (micro-scale techniques).
+
+Students who successfully complete CHEM 129A generally enroll in CHEM 129B, which further develops students' laboratory skills. Some students then continue with CHEM 190, undergraduate research or independent study.
 
 ## Student Learning Outcomes{#slo}
 
@@ -44,13 +50,22 @@ Students who successfully complete CHEM 129A should be able to:
 * analyze the results of an experiment and be able to identify sources of error and suggest improvements
 * communicate the results of experiments to the instructor and peers in a written form (lab report)
 
+
+<!-- * maintain an accurate laboratory notebook that would allow another properly trained person to reproduce the experimental work with the similar results;
+* understand how to work safely in the laboratory, including the disposal of chemical wastes;
+* find relevant information about reagents, equipment, and techniques;
+* build apparatus for a reflux reaction;
+* carry out  basic organic techniques such as extraction, crystallization, distillation, and chromatography;
+* measure physical properties of organic compounds including melting and boiling points;
+* carry out liquid–liquid extraction; and
+* analyze purity and chemical identity of organic compounds using TLC, GC, and IR. -->
+
 # Course materials and technology
 
 - **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques" by Donald Pavia et al. published by Thompson/Brooks Cole. All page/section/experiment numbers refer to the 6th edition. Previous editions will also be sufficient to learn the material, but page/section/experiment numbers may differ. 
 <!-- - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided. -->
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials.
-- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. 
 - **Document scanning**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 # Laboratory Code of Safe Practices
@@ -62,18 +77,26 @@ Students who successfully complete CHEM 129A should be able to:
 5. Avoid distractions and be alert to and aware of your surroundings and potential hazards in your area.
 6. Maintain a safe and clean work area.
 7. Only conduct experiments or procedures approved by your lab instructor or research advisor.
-8. Understand the common chemical hazards and hazards specific to the chemicals and procedures with which you are working.
+8. Understand the common chemical hazards and hazards specific to the chemicals and procedures with which you are working.  
 9. Understand and follow best practices on how to handle, transport, store, and dispose of chemicals safely.
 10. If any equipment, glassware, or procedures are not working properly or as expected, notify your instructor before proceeding.
-11. Notify your instructor if you have, develop, or may develop any medical conditions (e.g. severe asthma, limited mobility, vision impairment, pregnancy, etc) that may affect your safety in the laboratory or sensitivity to chemicals, so that your instructor can properly advise or accommodate you on minimizing the risks associated with laboratory work.
+11. Notify your instructor if you have, develop, or may develop any medical conditions (e.g. severe asthma, limited mobility, vision impairment, pregnancy, etc) that may affect your safety in the laboratory or sensitivity to chemicals, so that your instructor can properly advise or accommodate you on minimizing the risks associated with laboratory work.  
 
 These principles will be discussed in detail during the first week of class. More information can be found here: [https://goo.gl/1UFRbo](https://goo.gl/1UFRbo). Also, refer to [_Guidelines for Chemical Laboratory Safety in Academic Institutions_](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf) published by American Chemical Society.
 
 # Expectations
 
-Due to the ongoing coronavirus pandemic this class is delivered virtually in a blended mode, as a combination of synchronous and asynchronous activities. Activities planned for synchronous meetings will rely on breakout rooms. Although the sessions may be recorded, activities within breakout rooms are not being recorded.
+<!-- ## In-lab requirements
 
-I expect that you will be present during virtual class sessions equipped with a basic understanding of the concepts that will allow you to fully participate in discussions. Preparing for the class means making honest effort to learn on your own. This is done by:
+Two 170-minute lab meetings per week (Monday and Wednesday) where we experimentally explore selected organic chemistry concepts (5.67 hours per week). Attendance is mandatory because you must complete all experiments to obtain a passing grade. Typically, the in-lab session will start with a short review of relevant material, concepts, and chemical safety through group discussions and problem-solving activities.
+
+You will not be allowed to enter the lab if a) you are late and missed the pre-lab discussion; b) you are not appropriately dressed to work in the lab; or 3) you don't complete the pre-lab assignment.
+
+If you cannot attend a lab you must notify your instructor and lab coordinator as soon as possible explaining why you have to miss the lab. Arranging make-ups is very difficult because every semester all lab sections are at full capacity. If your request is approved you are still required to document the reason for missing the lab, and will be expected to make the lab up and complete the assigned work. If the above conditions are not met, you will receive 0 for the missed lab.
+
+## Out-of-class requirements -->
+
+I expect that you will come to virtual class sessions with a basic understanding of the concepts that will allow you to fully participate in discussions. Preparing for the class means making honest effort to learn on your own. This is done by:
 
 - reading the assigned material related to the experiment;
 - preparing the pre-lab assignment;
@@ -81,46 +104,54 @@ I expect that you will be present during virtual class sessions equipped with a 
 - watching videos demonstrating laboratory techniques; and
 - reviewing safety data sheets (SDS) for chemicals you will be working with.
 
-# Grading
+<!-- Out-of-class work also includes analysis of data collected in the lab. For the first half of the semester this will take form of post-lab summary written in your notebook. Later in the semester the post-lab analysis will include a typewritten lab report. Total out-of-class workload is estimated at 8--12 hours per week. -->
 
-| Grade | Total Score |  
-| ----- | ----------- |  
-| A     | 90--100%    |  
-| B     | 80--89%     |  
-| C     | 70--79%     |  
-| D     | 60-69%      |  
-| F     | <60%        |  
+<!-- # Types of graded work
 
-Graded assignments are organized into 11 assignment groups. Ten content-driven groups contribute 8% of the final grade. Four exams contribute the remaining 20%.
+There are four kinds of graded work you will encounter in this course:
 
-| Module                             | %Weight |  
-| ---------------------------------- | ------- |  
-| Solubility                         | 8%      |  
-| Crystallization                    | 8%      |  
-| Extraction                         | 8%      |  
-| Chromatography                     | 8%      |  
-| Distillation & GC                  | 8%      |  
-| Fischer Esterification             | 8%      |  
-| Nucleophilic Substitution          | 8%      |  
-| Synthesis of Acetaminophen         | 8%      |  
-| Grignard Synthesis of Benzoic Acid | 8%      |  
-| Miscellaneous                      | 8%      |  
-| Exams (5% each)                    | 20%     |  
-| Total                              | 100%    |  
+1. Laboratory notes (both pre-lab and in-lab notes)
+2. Post-lab summaries and lab reports
+3. Quizzes
+4. Practicals
+
+## Laboratory notebook
+
+Assume that you're in note-taking mode at all time when you are in the lab. Well prepared pre-lab and in-lab notes are very important because they are the basis for the post-lab summary or report that you will write for each set of experiments. Pre-lab notes are generated in preparation for the scheduled experiment. In-lab notes document what you did in the lab (including notes taken during lecture and discussions) as well as results of your experimental work. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need only details that are relevant and necessary to reproduce the experiment. You can assume that your notes are going to be read by a trained organic chemist. For example, you don't have to explain what is a round-bottomed flask. Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of you notes portfolio. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook are discussed in the textbook and will be reviewed in the lab. You will submit copies of your pre-lab notes at the beginning of the lab and in-lab notes before you leave the lab room.
+
+## Post-lab summaries and reports
+
+One of the main objectives of this course is for students to learn to interpret and communicate the meaning of experimental results. The post-lab summary or lab report is an assignment that shows the depth of your understanding of the concepts, techniques, and instrumentation used in the lab. For experiments in the first half of the semester you will write a short summary of results and conclusions in your notebook. All notebook pages will be graded as a whole (5% per lab).
+
+## Lab reports
+
+Later in the semester, a typewritten report will be assigned as post-lab summary and reflection. There will be total of six (6) typewritten reports. Four regular experiments and two practicals. I will use a grading system that allows for revision and resubmission that gives you multiple attempts to demonstrate the level of learning you achieved. Lab reports will be evaluated using a rubric that classifies the work with marks of *Satisfactory* (S) *Progressing* (P), or *Incomplete* (I). Work marked as *Satisfactory* will receive full credit. Reports marked as *Incomplete* or *Progressing* can be revised and resubmitted before the grade becomes final. Each student can re-submit up to two reports (or one report twice) without point reduction. Additional revisions will be at a cost of point reduction. Details of the process of revision and resubmission will be discussed in class.
+
+## Quizzes
+
+Quizzes test your understanding of the lab techniques and experiments you conducted and will be based on material covered in the pre-lab lectures, reading assignments, and experiments. Quizzes will be take-home assignments because they test higher order thinking skills which are rarely well performed under the pressure of time. The only quiz we will have in class is the *Safety Quiz*.
+
+**Safety Quiz**. You must pass the Safety Quiz to remain in the class. You can take the quiz up to 3 times. The quiz is based upon the information on safety sheet, your instructor’s lab lecture on safety, and Technique 1 (Safety) in the lab textbook. You must be familiar with the safety protocols, abide by the guidelines _at all time_ to keep yourself, other lab occupants, and everyone else in the building safe.
+
+## Practicals
+
+These are the last two experiments for the semester (see [Lab Schedule](https://hmlab.page.link/129a-schedule)). You will be given a procedure (handout) at the beginning of the Practical session and your grade for these Practicals will be based on your skills and performance in the lab (yield and purity of your product) and your experimental write-up. -->
+
+# Final letter grade scheme
+
+Grade brackets are imposed by course coordinator. In the past, the grading scale followed a pattern close to the following: A = 85--100, B 75--84, C 65--74; D 50--64; and F <50.
+
+| Grade component  | % (each) | Subtotal |
+|------------------|----------|----------|
+| Experiments (10) | 5%       | 50%      |
+| Practicals (2)   | 9%       | 18%      |
+| Quizzes (4)      | 8%       | 32%      |
 
 # Course policies
 
 ## Technology issues when submitting work
 
 For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to me (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
-
-## Respondus Lockdown Browser 
-
-Respondus Lockdown Browser is a custom browser that locks down the testing environment within Canvas. When students use the Respondus Lockdown Browser they are unable to print, copy, go to a URL, or access other applications. When an assessment is started, students are locked into it until they submit it for grading. Available for both Windows and Mac. Respondus Lockdown Browser does not work on a Chromebook.
-
-Respondus Lockdown Browser uses a standard Windows or Mac installer that can be downloaded by faculty or students from the following link (note: this link is unique for Fresno State):
-
-[http://www.respondus.com/lockdown/download.php?id=749643058](http://www.respondus.com/lockdown/download.php?id=749643058)
 
 ## Academic Dishonesty
 
@@ -172,3 +203,14 @@ In addition to course policies, you are expected to be familiar with Academic Re
   [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learninc center"
   [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
   [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
+
+<!-- \newpage
+
+# Appendix A: Grading rubric
+
+Lab reports assignments are graded either Satisfactory (S), Progressing (P), or Incomplete (I). The base criteria for all reports are as follows (some reports may have additional criteria which will be explained withing the assignment):
+
+- **Satisfactory (S)**: Understanding of the concepts is evident, although there may be a small number of mistakes in the work that do not significantly affect the overall reasoning. Answers to all questions and prompts are backed up by work that is clearly shown and easy to read.
+- **Progressing (P)**: Partial understanding of concepts is evident, and all parts of the solution have a good-faith attempt. But there are significant errors in computation, logic, or writing that affect the overall reasoning. The work should be revised.
+- **Incomplete (I)**: No work submitted or there are significant omissions in the work, such as parts of the solution left blank intentionally or essential parts of the reasoning behind the answers that are missing or unreadable. Not enough information to determine if the concepts are fully understood.
+ -->
