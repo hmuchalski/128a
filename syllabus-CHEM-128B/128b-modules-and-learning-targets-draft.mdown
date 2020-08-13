@@ -1,0 +1,90 @@
+## Learning modules
+
+Module 1: Recap of CHEM 128A material
+Module 2: Alcohols, phenols, and thiols (Ch12)
+Module 3: Ethers, epoxides, and sulfides (Ch13)
+Module 4: Infrared spectroscopy and mass spectrometry (Ch14)
+Module 5: NMR spectroscopy (CH15)
+Module 6: Conjugated pi systems and pericyclic reactions (Ch16)
+Module 7: Strucrure and properties of aromatic compounds (Ch17)
+Module 8: Reactions of aromatic compounds (Ch18)
+Module 9: Aldehydes and ketones (Ch19)
+Module 10: Carboxylic acids and their derivatives (Ch20)
+Module 11: Enols and enolates (Ch21)
+Module 12: Amines (Ch22)
+
+<!-- ## Module level objectives (MLOs)
+
+1-11
+
+- State and explain relative acidity of organic acids in terms of Brønsted–Lowry theory
+- Use nomenclature conventions to communicate the structure of organic compounds
+
+12
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involves alcohols
+- Draw mechanisms of reactions that produce alcohols or use alcohols as substrates
+
+13
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involves ethers and sulfides
+- Draw a mechanism to predict the outcome of ring-opening reaction of epoxides
+
+
+14
+
+- Use IR spectroscopy to determine what functional groups are present in the analyzed sample
+- Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
+
+15
+
+- Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
+
+
+16
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involve conjugated pi systems
+- Use the MO theory to state and explain the origins of selectivity in addition reactions of dienes and pericyclic reactions (thermal and photochemical)
+
+17
+
+- Use nomenclature conventions to communicate the structure of aromatic compounds 
+- Use the MO theory to predict/explain whether a compound is aromatic, antiaromatic, or non-aromatic
+
+
+18
+
+- Deduce products, substrates, or reagents needed to complete aromatic substitution reaction
+- Determine the effect of the existing substituents on the rate and regioselectivity of electrophilic aromatic substitution
+- Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
+
+
+19 
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involves aldehydes, ketones, imines, and enamines
+- Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines 
+
+20
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involves carboxylic acids and its derivatives
+- Draw mechanisms of reactions that carboxylic acids and its derivatives
+
+21
+
+- Deduce products, substrates, or reagents needed to complete a chemical reaction that involves aldehydes, ketones, imines, and enamines
+- Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines 
+
+22
+
+- Deduce products, substrates, or reagents needed to complete a chemical reactions that involve amines
+- Draw mechanisms of reactions that involve amines
+
+AEP
+
+- Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
+- Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
+- Design multi-step synthesis that involves reactions at the benzylic position (AEP)
+- Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (AEP)
+- Sharpless asymmetric epoxidation (AEP)
+- Autoxidation of ethers (AEP)
+

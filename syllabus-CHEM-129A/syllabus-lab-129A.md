@@ -22,7 +22,7 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
 - **Contact**: phone (559) 278-2711, or email [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
-- **Office Hours**: TBA. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
+- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas. 
 
 # What is CHEM 129A
 
