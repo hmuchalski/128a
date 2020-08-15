@@ -1,5 +1,5 @@
 ---
-title: "Syllabus for Organic Chemistry Laboratory 1"
+title: "Syllabus for Organic Chemistry 2"
 subtitle: "CHEM 129A, Fall 2020 (Virtual Classroom)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
@@ -105,7 +105,7 @@ You can also show that you mastered the material through means other than **Chec
 
 Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown below: 
 
-![EMRN rubric](EMRN.png)
+![EMRN rubric](emrn.png)
 
 
 
@@ -119,14 +119,14 @@ Your course grade is determined using the table below. In order to earn a partic
 
 Note: In the table, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For AEP's, "M+" means "either M or E".
 
-|              Category              |   D  |   C  |     B     |     A    |  
-| :--------------------------------: | :--: | :--: | :-------: | :------: |  
-|     Core Learning Targets (10)     |   5  |  10  |     10    |    10    |  
-| Supplemental Learning Targets (14) |   5  |   6  |     9     |    12    |  
-|             AEPs (8+)              | 1 M+ | 2 M+ | 2 E, 4 M+ | 4E, 2 M+ |  
-|       Weekly Portfolio (12)        |   4  |   6  |     8     |    10    |  
-|            PPP (1000+)             |  500 |  800 |    800    |    800   |  
-|             Final Exam             |  20% |  30% |    40%    |    50%   |  
+| Category                           | D    | C    | B         | A        |  
+| ---------------------------------- | ---- | ---- | --------- | -------- |  
+| Core Learning Targets (10)         | 5    | 10   | 10        | 10       |  
+| Supplemental Learning Targets (14) | 5    | 6    | 9         | 12       |  
+| AEPs (8+)                          | 1 M+ | 2 M+ | 2 E, 4 M+ | 4E, 2 M+ |  
+| Module Portfolio (12)              | 4    | 6    | 8         | 10       |  
+| PPP (1000+)                        | 500  | 800  | 800       | 800      |  
+| Final Exam                         | 20%  | 30%  | 40%       | 50%      |  
 
 ## Revisions and tokens {#revisions}
 
@@ -263,22 +263,6 @@ In addition to course policies, you are expected to be familiar with Academic Re
 * S2: Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
 * S3: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
 
-<!-- | Module | Focus                                          | Text | Learning Targets |
-|--------|------------------------------------------------|------|------------------|
-| 0      | Course orientation                             |      |                  |
-| 1      | Recap of CHEM 128A                             | 1–11 |                  |
-| 2      | Alcohols, phenols, and thiols                  | 12   | E1, R1, M1       |
-| 3      | Ethers, epoxides, and sulfides                 | 13   | R2, M2           |
-| 4      | Infrared spectroscopy and mass spectrometry    | 14   | S1, S2           |
-| 5      | NMR spectroscopy                               | 15   | S3               |
-| 6      | Conjugated pi systems and pericyclic reactions | 16   | E2, R3           |
-| 7      | Strucrure and properties of aromatic compounds | 17   | E3               |
-| 8      | Reactions of aromatic compounds                | 18   | E4, R4, M3       |
-| 9      | Aldehydes and ketones                          | 19   | R5, M4,          |
-| 10     | Carboxylic acids and their derivatives         | 20   | E5, R6, M5       |
-| 11     | Enols and enolates                             | 21   | R7, M6           |
-| 12     | Amines                                         | 22   | E6, R8, M7       |
- -->
 <!-- AEP
 
 - Sharpless asymmetric epoxidation (AEP)
