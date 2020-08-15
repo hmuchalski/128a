@@ -7,8 +7,6 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-\newpage
-
 Welcome to CHEM 129B, Organic Chemistry Laboratory 2! This document contains all the information you need to know about the course. **Read this document carefully, familiarize yourself with how the course works, and maintain that familiarity throughout the term.** It is nearly 1,700 words for a reason. Almost all questions about the course that you might ask can be answered by referencing the syllabus.
 
 # Changelog

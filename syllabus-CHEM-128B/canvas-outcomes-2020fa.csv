@@ -1,0 +1,28 @@
+﻿vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,
+a,group,Core,Core Learning Targets,,,,,,,,,,,,
+b,group,Supplemental,Supplemental Learning Targets,,,,,,,,,,,,
+ela,outcome,"E1: Acid-base (alcohols, phenols, thiols)","E1: State and explain acidity of alcohols, phenols, and thiols as Brønsted-Lowry acids",E1,latest,,active,1,b,1,Satisfactory,0,Progressing
+elb,outcome,E2: Conjugated dienes,E2: Use the MO theory to state and explain the origins of selectivity in addition reactions of dienes and pericyclic reactions (thermal and photochemical),E2,latest,,active,1,b,1,Satisfactory,0,Progressing
+elc,outcome,E3: Aromaticity,"E3: **(CORE)** Construct MO diagram and use the MO theory to predict/explain whether a compound is aromatic, antiaromatic, or non-aromatic",E3,latest,,active,1,a,1,Satisfactory,0,Progressing
+eld,outcome,E4: Directing effects in EAS,E4: Determine the effect of the existing substituents on the rate and regioselectivity of electrophilic aromatic substitution,E4,latest,,active,1,b,1,Satisfactory,0,Progressing
+elf,outcome,"E5: Acid-base (COOH, NH2)",E5: **(CORE)** State and explain acidity of carboxylic acids and amines (and basicity of their conjugate bases) in light of the Brønsted-Lowry theory,E5,latest,,active,1,a,1,Satisfactory,0,Progressing
+elg,outcome,"E6: Acid-base (enols, enolates)",E6: State and explain acidity of enolate precursors as Brønsted-Lowry acids,E6,latest,,active,1,b,1,Satisfactory,0,Progressing
+rxa,outcome,"R1: Reactions (alcohols, phenols, thiols)",R1: **(CORE)** Reactions involving alcohols,R1,latest,,active,1,a,1,Satisfactory,0,Progressing
+rxb,outcome,"R2: Reactions (ethers, sulfides)",R2: Reactions involving ethers and sulfides,R2,latest,,active,1,b,1,Satisfactory,0,Progressing
+rxc,outcome,R3: Reactions (conjugated pi systems),R3: Reactions involving conjugated pi systems,R3,latest,,active,1,b,1,Satisfactory,0,Progressing
+rxd,outcome,R4: Reactions (aromatic substitution),R4: **(CORE)** Aromatic substitution reactions,R4,latest,,active,1,a,1,Satisfactory,0,Progressing
+rxe,outcome,"R5: Reactions (aldehydes, ketones, etc.)","R5: **(CORE)** Reactions involving aldehydes, ketones, imines, and enamines",R5,latest,,active,1,a,1,Satisfactory,0,Progressing
+rxf,outcome,R6: Reactions (carboxylic acid derivatives),R6: **(CORE)** Reactions involving carboxylic acids and its derivatives,R6,latest,,active,1,a,1,Satisfactory,0,Progressing
+rxg,outcome,"R7: Reactions (alpha-carbon chemistry, enolates)",R7: Reactions involving enols and enolates,R7,latest,,active,1,b,1,Satisfactory,0,Progressing
+rxh,outcome,R8: Reactions (amines),R8: Reactions involving amines,R8,latest,,active,1,b,1,Satisfactory,0,Progressing
+mxa,outcome,"M1: Mechanisms (alcohols, phenols, and thiols)",M1: Draw mechanisms of reactions that involve alcohols,M1,latest,,active,1,b,1,Satisfactory,0,Progressing
+mxb,outcome,M2: Mechanisms (epoxide opening),M2: Draw a mechanism to predict the outcome of ring-opening reaction of epoxides,M2,latest,,active,1,b,1,Satisfactory,0,Progressing
+mxc,outcome,M3: Mechanisms (aromatic substitution) ,M3: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.,M3,latest,,active,1,a,1,Satisfactory,0,Progressing
+mxd,outcome,"M4: Mechanisms (aldehydes, ketones, etc)","M4: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines",M4,latest,,active,1,a,1,Satisfactory,0,Progressing
+mxe,outcome,M5: Mechanisms (carboxylic acids and its derivatives),M5: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives ,M5,latest,,active,1,a,1,Satisfactory,0,Progressing
+mxf,outcome,M6: Mechanisms (enols and enolates),M6: Draw mechanisms of reactions that involve enols and enolates,M6,latest,,active,1,b,1,Satisfactory,0,Progressing
+mxg,outcome,M7: Mechanisms (amines),M7: Draw mechanisms of reactions that involve amines,M7,latest,,active,1,b,1,Satisfactory,0,Progressing
+spa,outcome,S1: IR spectroscopy,S1: **(CORE)** Use IR spectroscopy to determine what functional groups are present in the analyzed sample,S1,latest,,active,1,a,1,Satisfactory,0,Progressing
+spb,outcome,S2: Mass spectrometry,S2: Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample,S2,latest,,active,1,b,1,Satisfactory,0,Progressing
+spc,outcome,S3: NMR spectroscopy,S3: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample,S3,latest,,active,1,b,1,Satisfactory,0,Progressing
+ppp,outcome,"PPP: Prepration, Participation, Practice","PPP: Prepration, Participation, Practice",PPP,latest,,active,1,,1,Satisfactory,0,Progressing
