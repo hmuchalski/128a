@@ -1,6 +1,6 @@
 ---
 title: "Syllabus for Organic Chemistry 2"
-subtitle: "CHEM 129A, Fall 2020 (Virtual Classroom)"
+subtitle: "CHEM 128B, Fall 2020 (Virtual Classroom)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
@@ -46,7 +46,7 @@ This course is part of the Immediate Access program. All students have access to
 - **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 - **Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 3rd edition published by Wiley (via Immediate Access).
 - **WileyPLUS with ORION:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
-- **Classroom Response System:** We will use iClicker Reef mobile app to collect responses to questions posed during class. Physical remotes do not work in a virtual setting.
+<!-- - **Classroom Response System:** We will use iClicker Reef mobile app to collect responses to questions posed during class. Physical remotes do not work in a virtual setting. -->
 
 [56263602]: https://als.csuprojects.org/immediate_access_programs "Read more about immediate access"
 
@@ -106,8 +106,6 @@ You can also show that you mastered the material through means other than **Chec
 Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown below: 
 
 ![EMRN rubric](emrn.png)
-
-
 
 # How work is graded in CHEM 128B {#grading}
 
