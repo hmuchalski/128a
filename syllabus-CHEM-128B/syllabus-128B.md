@@ -199,15 +199,15 @@ In addition to course policies, you are expected to be familiar with Academic Re
 | 1      | Recap of CHEM 128A                             | 1–11 |                  |
 | 2      | Alcohols, phenols, and thiols                  | 12   | E1, R1, M1       |
 | 3      | Ethers, epoxides, and sulfides                 | 13   | R2, M2           |
-| 4      | Infrared spectroscopy and mass spectrometry    | 14   | S1, S2           |
-| 5      | NMR spectroscopy                               | 15   | S3               |
-| 6      | Conjugated pi systems and pericyclic reactions | 16   | E2, R3           |
-| 7      | Strucrure and properties of aromatic compounds | 17   | E3               |
-| 8      | Reactions of aromatic compounds                | 18   | E4, R4, M3       |
-| 9      | Aldehydes and ketones                          | 19   | R5, M4,          |
-| 10     | Carboxylic acids and their derivatives         | 20   | E5, R6, M5       |
-| 11     | Enols and enolates                             | 21   | R7, M6           |
-| 12     | Amines                                         | 22   | E6, R8, M7       |
+| 4      | Infrared spectroscopy and mass spectrometry    | 14   | S1,              |
+| 5      | NMR spectroscopy                               | 15   | S2               |
+| 6      | Conjugated pi systems and pericyclic reactions | 16   | E2, R3, M3       |
+| 7      | Structure and properties of aromatic compounds | 17   | E3               |
+| 8      | Reactions of aromatic compounds                | 18   | E4, R4, M4       |
+| 9      | Aldehydes and ketones                          | 19   | R5, M5,          |
+| 10     | Carboxylic acids and their derivatives         | 20   | E5, R6, M6       |
+| 11     | Enols and enolates                             | 21   | R7, M7           |
+| 12     | Amines                                         | 22   | E6, R8, M8       |
 
 
 <!-- * Module 1: Recap of CHEM 128A material
@@ -227,14 +227,14 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 **Group E**: Analyze electronic structure of molecules to make and defend predictions about properties and reactivity of organic molecules.
 
-* E1: State and explain acidity of alcohols as Brønsted-Lowry acids
+* E1: State and explain acidity of alcohols and phenols in light of the Brønsted–Lowry acid--base theory
 * E2: Use the MO theory to state and explain the origins of selectivity in addition reactions of dienes and pericyclic reactions (thermal and photochemical)
 * E3: **(CORE)** Construct MO diagram and use the MO theory to predict/explain whether a compound is aromatic, antiaromatic, or non-aromatic
 * E4: Determine the effect of the existing substituents on the rate and regioselectivity of electrophilic aromatic substitution
 * E5: **(CORE)** State and explain acidity of carboxylic acids and amines (and basicity of their conjugate bases) in light of the Brønsted-Lowry theory
 * E6: State and explain acidity of enolate precursors as Brønsted-Lowry acids
 
-**Group R**: Predict products, infer substrates, and propose reagents needed to complete a chemical reaction scheme.
+**Group R**: Predict products, infer substrates, and propose reagents needed to complete a reaction scheme.
 
 * R1: **(CORE)** Reactions involving alcohols
 * R2: Reactions involving ethers and sulfides
@@ -248,18 +248,18 @@ In addition to course policies, you are expected to be familiar with Academic Re
 **Group M**: Use curved arrow notation to depict plausible reaction mechanisms
     
 * M1: Draw mechanisms of reactions that involve alcohols
-* M2: Draw a mechanism to predict the outcome of ring-opening reaction of epoxides
-* M3: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
-* M4: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines 
-* M5: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives
-* M6: Draw mechanisms of reactions that involve enols and enolates
-* M7: Draw mechanisms of reactions that involve amines
+* M2: Draw a mechanism to predict the outcome and selectivity of reactions that involve epoxides
+* M3: Draw a mechanism to predict the outcome and selectivity of reactions involving conjugated pi systems.
+* M4: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
+* M5: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines 
+* M6: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives
+* M7: Draw mechanisms of reactions that involve enols and enolates
+* M8: Draw mechanisms of reactions that involve amines
 
 **Group S**: Use spectroscopic data to determine the structure of a molecule
 
-* S1: **(CORE)** Use IR spectroscopy to determine what functional groups are present in the analyzed sample
-* S2: Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
-* S3: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
+* S1: **(CORE)** Use IR spectroscopy to determine what functional groups are present in the analyzed sample. Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
+* S2: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
 
 <!-- AEP
 

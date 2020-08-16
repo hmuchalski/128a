@@ -27,7 +27,7 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
- $(SOURCE_DOCS:.md=-test.pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 # Define commands
