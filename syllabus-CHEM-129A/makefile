@@ -27,7 +27,7 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
- $(SOURCE_DOCS:.md=-test.pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 # Define commands
@@ -72,11 +72,11 @@ PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-D
 	cp $@ pandoc-builds/$(ts)-$@
 	cp $@ ../_current_$@
 
-%-$(SEMESTER)-toc.pdf : %.md
+%-toc-$(SEMESTER).pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_TOC_PDF_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
 
-%-test.pdf : %.md
+%-$(SEMESTER)-test.pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
 
 %-$(SEMESTER).docx : %.md
@@ -95,8 +95,8 @@ md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
 standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
-test : $(SOURCE_DOCS:.md=-test.pdf)
-pdf-toc : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)
+test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
+pdf-toc : $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf)
 pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)	
 docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 

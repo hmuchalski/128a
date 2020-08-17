@@ -11,11 +11,11 @@ header-includes:
 
 Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm Hubert Muchalski, a professor in the Chemistry Department. Before reading any further, here are some things to know:
 
-1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being **challenged** to grow as a learner, that you are **engaging actively** with tasks that feed your growth, and that you are creating **excellent work** by solving challenging organic chemistry problems. It also means that you are **building your lifelong learning skills** so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently. 
-2. **College-level chemistry is more than just memorizing structures and reactions.** On the pathway to "success" as outlined above, you will be asked to do more than just give answers to problems. Your task is to **seek deep understanding** of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules. 
-3. **Expect to be challenged intellectually throughout this course.** None of these elements of "success" come easily. They require dedicated devotion of time and energy to wrestling with the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help. 
-4. **Intellectual struggle is normal and healthy in a challenging course.** Since none of this is easy, you can expect at times to feel like you are really struggling with the material, even if in your earlier chemistry courses you might never have experienced struggle. **This is a normal and healthy experience.** Legitimate struggle is actually a sign you are doing things right, and it's a signal you're about to experience explosive growth. My goal is to provide **a safe place for you to experience those struggles.** 
-5. **You have a lot of help available to you as you work.** Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups. **Everyone in the course has your back.** 
+1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being **challenged** to grow as a learner, that you are **engaging actively** with tasks that feed your growth, and that you are creating **excellent work** by solving challenging organic chemistry problems. It also means that you are **building your lifelong learning skills** so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
+2. **College-level chemistry is more than just memorizing structures and reactions.** On the pathway to "success" as outlined above, you will be asked to do more than just give answers to problems. Your task is to **seek deep understanding** of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
+3. **Expect to be challenged intellectually throughout this course.** None of these elements of "success" come easily. They require dedicated devotion of time and energy to wrestling with the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
+4. **Intellectual struggle is normal and healthy in a challenging course.** Since none of this is easy, you can expect at times to feel like you are really struggling with the material, even if in your earlier chemistry courses you might never have experienced struggle. **This is a normal and healthy experience.** Legitimate struggle is actually a sign you are doing things right, and it's a signal you're about to experience explosive growth. My goal is to provide **a safe place for you to experience those struggles.**
+5. **You have a lot of help available to you as you work.** Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups. **Everyone in the course has your back.**
 
 # Course information
 
@@ -24,8 +24,8 @@ Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm H
 - **Meetings**: MWF 9:00--9:50 am on Zoom (access link on Canvas)
 <!-- - **Instructor office**: Science 1 room 352 -->
 - **Office Phone**: (559) 278-2711
-- **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Please note that I typically check email between 11 am and 5 pm, Monday thru Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response. 
-- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas. 
+- **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Please note that I typically check email between 11 am and 5 pm, Monday thru Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
 ## Learning objectives
 
@@ -37,7 +37,7 @@ In this course we will continue to explore one of the richest and most beautiful
 * Use curved arrow notation to depict plausible reaction mechanisms.
 * Use spectroscopic data to deduce the structure of the molecule.
 
-**This course uses a different grading system** to ones that you experienced in other courses and the details are explained in the sections below. *Please read the entire syllabus carefully,* it is nearly 4,000 words for a reason. Almost all questions about the course that you might ask, can be answered by referencing the syllabus. If you are uncertain that you understand all rules and regulations, please contact me. 
+**This course uses a different grading system** to ones that you experienced in other courses and the details are explained in the sections below. *Please read the entire syllabus carefully,* it is nearly 4,000 words for a reason. Almost all questions about the course that you might ask, can be answered by referencing the syllabus. If you are uncertain that you understand all rules and regulations, please contact me.
 
 ## Course materials
 
@@ -52,17 +52,17 @@ This course is part of the Immediate Access program. All students have access to
 
 [^WileyPLUS-version]: WileyPLUS version is tied to the edition of the textbook. If you opt out of Immediate Access and buy the textbook and access to WileyPLUS through other means, make sure that your access code is for the 3rd edition of the textbook
 
-## Technology 
+## Technology
 
-To use the course tools, you will need to have access to the following: 
+To use the course tools, you will need to have access to the following:
 
 + **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device is an acceptable alternative, but the online homework platform doesn't work as well on mobile devices.
-+ **A modern web browser**: Chrome is recommended by campus IT, but browsers such as Edge, Firefox, or Safari are also fine. 
-+ **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. 
++ **A modern web browser**: Chrome is recommended by campus IT, but browsers such as Edge, Firefox, or Safari are also fine.
++ **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 + **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 + **Active Fresno State network account** so that you can access email, Canvas, and Google Suite
 
-If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class. 
+If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
 **Course content:** We will cover chapters 12-22 of the *Organic Chemistry* text. Key topics to be studied include: understanding how structure determines function and reactivity of organic molecules. In every topic, we seek a **conceptual understanding** from several perspectives, the ability to **apply ideas**, development of **logical reasoning and communication skills**, and an **appreciation for organic chemistry as a whole**.
 
@@ -70,7 +70,7 @@ If you have any issue with accessing any of the above, please let me know as soo
 
 This CHEM 128B course is being offered in a virtual flipped mode. "Flipped" means that the course is a combination of synchronous (on-Zoom) and asynchronous (off-Zoom) work. The content is divided into [12 modules](#modules), generally following the chapters in the textbook. Your work in the class will follow a repeating pattern that will involve you before, during, and after our Zoom meetings.
 
-**Before each class,** your task will be to review previously covered material, and get familiar with the basic concepts of the upcoming lesson through guided reading, video, or exercises on new concepts. Not all material needs formal instruction. Some sections are a review of concepts from prior chapters, others present new content which not difficult to learn on your own. Take notes and write down questions you have while engaging in self-directed learning. You will have an opportunity to ask them in class. 
+**Before each class,** your task will be to review previously covered material, and get familiar with the basic concepts of the upcoming lesson through guided reading, video, or exercises on new concepts. Not all material needs formal instruction. Some sections are a review of concepts from prior chapters, others present new content which not difficult to learn on your own. Take notes and write down questions you have while engaging in self-directed learning. You will have an opportunity to ask them in class.
 
 **Each class meeting,** which is only 50 minutes, we will begin with 10 min period for going over the pre-class material and fielding your questions. Then we will spend most of the class (~30 minutes) doing activities together on the harder concepts from the material. There may be some small lectures, but active work will be the main event since the best way to learn organic chemistry is by doing lots of problems! The remaining time (~10 min) will be for reviewing the main points of the lesson.
 
@@ -78,7 +78,7 @@ This CHEM 128B course is being offered in a virtual flipped mode. "Flipped" mean
 
 ## Zoom meetings
 
-We will have online conference calls on the days/times the class is scheduled. The sessions will be recorded, although many activities will happen in small breakout rooms and those aren't part of the recording. It is in your interest to attend live class meetings. 
+We will have online conference calls on the days/times the class is scheduled. The sessions will be recorded, although many activities will happen in small breakout rooms and those aren't part of the recording. It is in your interest to attend live class meetings.
 
 # Learning activities in CHEM 128B
 
@@ -87,29 +87,29 @@ You will be engaging with several different kinds of activities in the course, b
 The kinds of activities you will undertake are:
 
 1. **Learning Target Assessments (LTA)** are short tests assessing student learning within one learning objective. Throughout the semester, you will be asked to provide evidence that you mastered the skills and concepts that by completing short quizzes, each addressing a single Learning Target. LTAs are graded either *satisfactory* or *progressing* and no partial credit is awarded. See ["How work is graded in CHEM 128B"](#grading) below for details.
-2. **Application/Extension Problems (AEP)** are more challenging integrated problems for which students must to clearly communicate a complete solution. AEPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. AEPs are graded using the EMRN rubric discussed in ["How work is graded in CHEM 128B"](#grading) and can be revised and resubmitted if needed. 
-3. **Preparation, practice, and participation (PPP)** category includes poins earned on online pre-class assignments and online homework (WileyPLUS) as well as participation during lecture. It is in your interest to complete pre-class assignments because the results guide my decisions about what activities to plan and what concepts to focus on in the upcoming class meeting. 
-4. **Module Portfolio (MP)** is a collection of notes and problems you generated while studying and practicing the content in each module. 
-4. **Final exam** will be on **Monday, December 14th, 08:45–10:45 AM**. Final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. The final exam will be administered online via Canvas and the Respondus Lockdown Browser.
+2. **Application/Extension Problems (AEP)** are more challenging integrated problems for which students must to clearly communicate a complete solution. AEPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. AEPs are graded using the EMRN rubric discussed in ["How work is graded in CHEM 128B"](#grading) and can be revised and resubmitted if needed.
+3. **Preparation, practice, and participation (PPP)** category includes points earned on online pre-class assignments and online homework (WileyPLUS) as well as participation during lecture. It is in your interest to complete pre-class assignments because the results guide my decisions about what activities to plan and what concepts to focus on in the upcoming class meeting.
+4. **Module Portfolio (MP)** is a collection of notes and other content you generated while studying and practicing the topics discussed in each module.
+5. **Final exam** will be on **Monday, December 14th, 08:45–10:45 AM**. Final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. The final exam will be administered online via Canvas and the Respondus Lockdown Browser.
 
 ## Mastery Checkpoints
 
-Roughly every 3 weeks, I will post *Mastery Checkpoint*, an exam packet of LTAs, each one of which focuses on a single Learning Target from the list in the [Appendix A](#appendix-a). Each **Checkpoint** will contain one LTA that has been covered up to that point. For example, the first **Checkpoint** may contain problems for Learning Targets E1, R1, R2, M1, M2; the second **Checkpoint** will contain new versions of E1, R1, R2, M1, M2 along with first-time problems for S1 through S3; and so on. **You will only need to attempt problems for Learning Targets that you have not yet mastered**. The cumulative structure allows you to attempt problems multiple times in different weeks. Students will be provided with a detailed rubric for what constitutes acceptable work on each LTA. Work that meets the criteria will be given a *satisfactory* grade and will be considered **mastered**. Work that does not meet the criteria will receive an *progressing* grade and can be redone at any later **Checkpoint** (see the [Revision](revisions) policy for details. 
+Roughly every 3 weeks, I will post *Mastery Checkpoint*, an exam packet of LTAs, each one of which focuses on a single Learning Target from the list in the [Appendix A](#appendix-a). Each **Checkpoint** will contain one LTA that has been covered up to that point. For example, the first **Checkpoint** may contain problems for Learning Targets E1, R1, R2, M1, M2; the second **Checkpoint** will contain new versions of E1, R1, R2, M1, M2 along with first-time problems for S1 through S3; and so on. **You will only need to attempt problems for Learning Targets that you have not yet mastered**. The cumulative structure allows you to attempt problems multiple times in different weeks. Students will be provided with a detailed rubric for what constitutes acceptable work on each LTA. Work that meets the criteria will be given a *satisfactory* grade and will be considered **mastered**. Work that does not meet the criteria will receive an *progressing* grade and can be redone at any later **Checkpoint** (see the [Revision](revisions) policy for details.
 
 You can also show that you mastered the material through means other than **Checkpoints**, but no more than 3 LTAs per semester, and no more than one LTA per week, can be attempted through the following options:
 
-* **Option 1**: Schedule an oral assessment (via videoconference) during which I will give a new version of a **Checkpoint**-like LTA, and you solve that problem "live" at an acceptable level. 
+* **Option 1**: Schedule an oral assessment (via videoconference) during which I will give a new version of a **Checkpoint**-like LTA, and you solve that problem "live" at an acceptable level.
 * **Option 2**: Create a video of yourself working out the solution to a **Checkpoint**-like LTA that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up video meeting with me to discuss the solution and answer additional related questions to make sure you really understand the ideas. The video must adhere to standards for video creation (posted separately; basically the video must have clear audio, and keep face, handwriting, and voice in the frame at all times).
 
 ## The EMRN rubric
 
-Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown below: 
+Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown below:
 
 ![EMRN rubric](emrn.png)
 
 # How work is graded in CHEM 128B {#grading}
 
-CHEM 128B uses a mastery-based grading system that is designed to provide you with control over the grading process. The final grade in CHEM 128B will be determined by the quantity and quality of evidence you provide that show you have mastered the course learning objectives. There are 24 Learning Targets in the course, 10 of which are designated as **Core** targets due to their central nature in Organic Chemistry, and the other 14 of which are designated as **Supplemental**. Students get numerous opportunities to demonstrate mastery of the content described in Learning Targets. 
+CHEM 128B uses a mastery-based grading system that is designed to provide you with control over the grading process. The final grade in CHEM 128B will be determined by the quantity and quality of evidence you provide that show you have mastered the course learning objectives. There are 24 Learning Targets in the course, 10 of which are designated as **Core** targets due to their central nature in Organic Chemistry, and the other 14 of which are designated as **Supplemental**. Students get numerous opportunities to demonstrate mastery of the content described in Learning Targets.
 
 ## Final letter grade
 
@@ -128,20 +128,20 @@ Note: In the table, numerical values indicate the minimum level needed to meet t
 
 ## Revisions and tokens {#revisions}
 
-The mastery-based grading system insists that you show consistent excellence in all assignments in the course. Outstanding work on homework, for example, does not “bring up” poor work on LTAs. LTAs can be revised by reattempting the item on a later *Checkpoint* or through one of the other means described earlier. 
+The mastery-based grading system insists that you show consistent excellence in all assignments in the course. Outstanding work on homework, for example, does not “bring up” poor work on LTAs. LTAs can be revised by reattempting the item on a later *Checkpoint* or through one of the other means described earlier.
 
-AEPs earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. However, there are two important limitations on your revision and resubmission of AEP's: 
+AEPs earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. However, there are two important limitations on your revision and resubmission of AEP's:
 
-1. No more than two submissions of AEP sets may be made per week. This can be two new sets, two revisions, or one of each. A third submission can be purchased with a [token](#tokens) (below) but four or more submissions in a week are not allowed under any cirumstance. 
-2. Revision of N grades rule: Students have to spend a token (below) in order to revise any AEP that was graded at "N" (Not Assessable). 
+1. No more than two submissions of AEP sets may be made per week. This can be two new sets, two revisions, or one of each. A third submission can be purchased with a [token](#tokens) (below) but four or more submissions in a week are not allowed under any cirumstance.
+2. Revision of N grades rule: Students have to spend a token (below) in order to revise any AEP that was graded at "N" (Not Assessable).
 
-Scores for WileyPLUS assignments are final. If you do not get a percentage correct to show mastery (>75%), you can reset the assignment and try again until the deadline. 
+Scores for WileyPLUS assignments are final. If you do not get a percentage correct to show mastery (>75%), you can reset the assignment and try again until the deadline.
 
 ## Tokens {#tokens}
 
 Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with five of these. One token can be spent for any of the following at any time:
 
-+ Attempt a second Learning Target in a given week through non-*Checkpoint* means 
++ Attempt a second Learning Target in a given week through non-*Checkpoint* means
 + Submit a third AEP (either revision or new submission) in a given week
 + Revise an AEP graded "N"
 + Extend the deadline on a *Checkpoint* by 2 hours (request must be submitted prior to the original deadline)
@@ -156,31 +156,43 @@ WileyPLUS and ORION assignments are submitted electronically. It is the student�
 
 ## Academic integrity
 
-Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do: 
+Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do:
 
-+ *Checkpoints* and other work done on Learning Targets: No interations at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty. 
++ *Checkpoints* and other work done on Learning Targets: No interations at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
 + *AEPs*: Similarly, no interations at all with another person or with unauthorized sources on the internet is allowed.
 + *WileyPLUS*: You may discuss the general, broad ideas of WeBWorK problems with others but you may not use other people's work as your own.
 
-**Please note:** There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything. If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later. 
+**Please note:** There is no need to commit academic dishonesty in this class since you can revise and resubmit almost anything. If you come to believe that cheating or plagiarism is necessary given your situation: DON'T DO IT. Get some help instead and take comfort in the fact that you can just submit your best effort, get feedback, and try again later.
 
-All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be: 
+All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be:
 
-+ grade of "progressing" on Checkpoints and other Learning Target work and required expense of two tokens to reattempt; for severe cases, you may be barred from reattempting. 
++ grade of "progressing" on Checkpoints and other Learning Target work and required expense of two tokens to reattempt; for severe cases, you may be barred from reattempting.
 + AEP's: A grade of "N", and you will not be allowed to revise or resubmit the AEP for the rest of the semester.  
 
-Note these are *minimum* penalties. Academic dishonesty carries with it strong punitive measures mandated by Fresno State policies, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf). 
+Note these are *minimum* penalties. Academic dishonesty carries with it strong punitive measures mandated by Fresno State policies, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
 ## Dropping the course
 
-Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html). 
+Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html).
 
-A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor. 
+A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+
+
+# COVID-19 policies and statements
+
+## Health screening
+
+Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
+
+  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
+
+## Safety Measures
+
+Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
 
 # University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
-
 
 - Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/](http://fresnostate.edu/studentaffairs/classschedule/policy/)
 - Copyright Policy: [http://libguides.csufresno.edu/copyright](http://libguides.csufresno.edu/copyright)
@@ -246,12 +258,12 @@ In addition to course policies, you are expected to be familiar with Academic Re
 * R8: Reactions involving amines
 
 **Group M**: Use curved arrow notation to depict plausible reaction mechanisms
-    
+
 * M1: Draw mechanisms of reactions that involve alcohols
 * M2: Draw a mechanism to predict the outcome and selectivity of reactions that involve epoxides
 * M3: Draw a mechanism to predict the outcome and selectivity of reactions involving conjugated pi systems.
 * M4: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
-* M5: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines 
+* M5: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines
 * M6: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives
 * M7: Draw mechanisms of reactions that involve enols and enolates
 * M8: Draw mechanisms of reactions that involve amines

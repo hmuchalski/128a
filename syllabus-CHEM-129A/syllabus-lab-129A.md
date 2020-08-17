@@ -7,11 +7,26 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
+# COVID-19 Policies and statements
+
+## Health screening
+
+Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
+
+  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
+
+## Safety Measures
+
+Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
+
 # Changelog
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
+- 2020-08-14: Published on Canvas; added COVID-19 policies
 - 2020-08-11: Draft sent for to instructors for review
+
+\newpage
 
 # Introduction
 
@@ -22,7 +37,7 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
 - **Contact**: phone (559) 278-2711, or email [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
-- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas. 
+- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
 # What is CHEM 129A
 
@@ -46,11 +61,11 @@ Students who successfully complete CHEM 129A should be able to:
 
 # Course materials and technology
 
-- **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques" by Donald Pavia et al. published by Thompson/Brooks Cole. All page/section/experiment numbers refer to the 6th edition. Previous editions will also be sufficient to learn the material, but page/section/experiment numbers may differ. 
+- **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques" by Donald Pavia et al. published by Thompson/Brooks Cole. All page/section/experiment numbers refer to the 6th edition. Previous editions will also be sufficient to learn the material, but page/section/experiment numbers may differ.
 <!-- - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided. -->
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials.
-- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. 
+- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 - **Document scanning**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 # Laboratory Code of Safe Practices
@@ -114,7 +129,7 @@ Graded assignments are organized into 11 assignment groups. Ten content-driven g
 
 For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to me (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
 
-## Respondus Lockdown Browser 
+## Respondus Lockdown Browser
 
 Respondus Lockdown Browser is a custom browser that locks down the testing environment within Canvas. When students use the Respondus Lockdown Browser they are unable to print, copy, go to a URL, or access other applications. When an assessment is started, students are locked into it until they submit it for grading. Available for both Windows and Mac. Respondus Lockdown Browser does not work on a Chromebook.
 
@@ -142,6 +157,17 @@ A *serious and compelling reason* is defined as an unexpected condition that is 
 Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
 
 # University policies and disclaimers
+
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+## Contact information for chair and Dean
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter.
+
+* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
+* Dr. Chrisopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
