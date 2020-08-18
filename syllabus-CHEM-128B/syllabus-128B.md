@@ -7,6 +7,34 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
+# Virtual classroom policies and statements
+
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
+
+## Health screening
+
+Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
+
+  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
+
+## Safety Measures
+
+Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
+
+## Contact information for course coordinator, department chair and college dean
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the department and/or college administrators:
+
+* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
+* Chemistry Department Office: (559) 278-2103
+* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
+
+\newpage
+
 # Start here
 
 Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm Hubert Muchalski, a professor in the Chemistry Department. Before reading any further, here are some things to know:
@@ -178,17 +206,6 @@ Dates and details on withdrawing from courses are described on the [Admissions w
 A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
 
 
-# COVID-19 policies and statements
-
-## Health screening
-
-Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
-
-  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
-
-## Safety Measures
-
-Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
 
 # University policies and disclaimers
 

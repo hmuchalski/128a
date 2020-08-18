@@ -72,7 +72,7 @@ PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-D
 	cp $@ pandoc-builds/$(ts)-$@
 	cp $@ ../_current_$@
 
-%-$(SEMESTER)-toc.pdf : %.md
+%-toc-$(SEMESTER).pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_TOC_PDF_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
 

@@ -1,5 +1,31 @@
-COVID-19 Policies and statements
-================================
+Virtual classroom policies and statements
+=========================================
+
+Intellectual Property
+---------------------
+
+As part of your participation in virtual/online instruction, please
+remember that the same student conduct rules that are used for in-person
+classrooms instruction also apply for virtual/online classrooms.
+Students are prohibited from any unauthorized recording, dissemination,
+or publication of any academic presentation, including any online
+classroom instruction, for any commercial purpose. In addition, students
+may not record or use virtual/online instruction in any manner that
+would violate copyright law. Students are to use all online/virtual
+instruction exclusively for the educational purpose of the online class
+in which the instruction is being provided. Students may not re-record
+any online recordings or post any online recordings on any other format
+(e.g., electronic, video, social media, audio recording, web page,
+internet, hard paper copy, etc.) for any purpose without the explicit
+written permission of the faculty member providing the instruction.
+Exceptions for disability-related accommodations will be addressed by
+Services for Students with Disabilities (SSD) working in conjunction
+with the student and faculty member.
+
+In addition to course policies, you are expected to be familiar with
+Academic Regulations described in the [University
+Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as
+well as policies listed below.
 
 Health screening
 ----------------
@@ -29,6 +55,21 @@ anyone who arrives to campus without one. Please see university website
 for the most updated information:
 [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
 
+Contact information for course coordinator, department chair and college dean
+-----------------------------------------------------------------------------
+
+If there are questions or concerns that you have about this course that
+you and I are not able to resolve, please feel free to contact the
+course coordinator Dr. Hubert Muchalski. The the issue cannot be
+resolved with the lab coordinator, please contact the department and/or
+college administrators:
+
+-   Dr. Joy Goto (Chair, Chemistry Department):
+    jgoto\@mail.fresnostate.edu
+-   Chemistry Department Office: (559) 278-2103
+-   Dr. Christopher Meyer (Dean, College of Science and Mathematics):
+    cmeyer\@mail.fresnostate.edu
+
 Changelog
 =========
 
@@ -38,7 +79,7 @@ responsibility to check on announcements made while you were absent.
 Changes and corrections are listed in the changelog below and will be
 announced on Canvas.
 
--   2020-08-14: Published on Canvas; added COVID-19 policies
+-   2020-08-17: Published on Canvas; added COVID-19 policies
 -   2020-08-11: Draft sent for to instructors for review
 
 ```{=tex}
@@ -62,6 +103,7 @@ slightly from those used in other sections
 -   **Course name and number**: CHEM 129A (2 Units)
 -   **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A
     can be taken concurrently.
+-   **Instructor**: Hubert Muchalski, PhD
 -   **Contact**: phone (559) 278-2711, or email
     [hmuchalski\@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
 -   **Office Hours**: Appointments can be scheduled through calendar
@@ -304,44 +346,6 @@ dissatisfaction with the subject matter, class or instructor.
 
 University policies and disclaimers
 ===================================
-
-Intellectual Property
----------------------
-
-As part of your participation in virtual/online instruction, please
-remember that the same student conduct rules that are used for in-person
-classrooms instruction also apply for virtual/online classrooms.
-Students are prohibited from any unauthorized recording, dissemination,
-or publication of any academic presentation, including any online
-classroom instruction, for any commercial purpose. In addition, students
-may not record or use virtual/online instruction in any manner that
-would violate copyright law. Students are to use all online/virtual
-instruction exclusively for the educational purpose of the online class
-in which the instruction is being provided. Students may not re-record
-any online recordings or post any online recordings on any other format
-(e.g., electronic, video, social media, audio recording, web page,
-internet, hard paper copy, etc.) for any purpose without the explicit
-written permission of the faculty member providing the instruction.
-Exceptions for disability-related accommodations will be addressed by
-Services for Students with Disabilities (SSD) working in conjunction
-with the student and faculty member.
-
-Contact information for chair and Dean
---------------------------------------
-
-If there are questions or concerns that you have about this course that
-you and I are not able to resolve, please feel free to contact the Chair
-of the department to discuss the matter.
-
--   Dr. Joy Goto (Chair, Chemistry Department):
-    jgoto\@mail.fresnostate.edu
--   Dr. Chrisopher Meyer (Dean, College of Science and Mathematics):
-    cmeyer\@mail.fresnostate.edu
-
-In addition to course policies, you are expected to be familiar with
-Academic Regulations described in the [University
-Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as
-well as policies listed below.
 
 **Students with Disabilities**: Upon identifying themselves to the
 instructor and the university, students with disabilities will receive

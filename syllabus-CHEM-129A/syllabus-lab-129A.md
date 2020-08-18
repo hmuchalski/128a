@@ -7,7 +7,13 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-# COVID-19 Policies and statements
+# Virtual classroom policies and statements
+
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
 ## Health screening
 
@@ -19,11 +25,19 @@ Students who come to campus for face-to-face classes will be required to complet
 
 Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
 
+## Contact information for course coordinator, department chair and college dean
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the course coordinator Dr. Hubert Muchalski. The the issue cannot be resolved with the lab coordinator, please contact the department and/or college administrators:
+
+* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
+* Chemistry Department Office: (559) 278-2103
+* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
+
 # Changelog
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent.  Changes and corrections are listed in the changelog below and will be announced on Canvas.
 
-- 2020-08-14: Published on Canvas; added COVID-19 policies
+- 2020-08-17: Published on Canvas; added COVID-19 policies
 - 2020-08-11: Draft sent for to instructors for review
 
 \newpage
@@ -36,6 +50,7 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 
 - **Course name and number**: CHEM 129A (2 Units)
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
+- **Instructor**: Hubert Muchalski, PhD
 - **Contact**: phone (559) 278-2711, or email [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
 - **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
@@ -157,19 +172,6 @@ A *serious and compelling reason* is defined as an unexpected condition that is 
 Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
 
 # University policies and disclaimers
-
-## Intellectual Property
-
-As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
-
-## Contact information for chair and Dean
-
-If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter.
-
-* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
-* Dr. Chrisopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
-
-In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
 **Students with Disabilities**: Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
 
