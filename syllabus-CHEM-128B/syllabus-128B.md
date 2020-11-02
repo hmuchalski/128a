@@ -51,8 +51,8 @@ Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm H
 - **Pre-requisite**: Passed CHEM 128A with grade "C" or better.
 - **Meetings**: MWF 9:00--9:50 am on Zoom (access link on Canvas)
 <!-- - **Instructor office**: Science 1 room 352 -->
-- **Office Phone**: (559) 278-2711
-- **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Please note that I typically check email between 11 am and 5 pm, Monday thru Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+- **Office Phone**: (559) 278-2711 (redirects to my cell phone)
+- **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 - **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
 ## Learning objectives
@@ -148,11 +148,11 @@ Note: In the table, numerical values indicate the minimum level needed to meet t
 | Category                           | D    | C    | B         | A        |  
 | ---------------------------------- | ---- | ---- | --------- | -------- |  
 | Core Learning Targets (10)         | 5    | 10   | 10        | 10       |  
-| Supplemental Learning Targets (14) | 5    | 6    | 9         | 12       |  
-| AEPs (8+)                          | 1 M+ | 2 M+ | 2 E, 4 M+ | 4E, 2 M+ |  
-| Module Portfolio (12)              | 4    | 6    | 8         | 10       |  
-| PPP (1000+)                        | 500  | 800  | 800       | 800      |  
-| Final Exam                         | 20%  | 30%  | 40%       | 50%      |  
+| Supplemental Learning Targets (14) | 4    | 5    | 8         | 11       |  
+| AEPs (8+)                          |      | 1 M+ | 2 E, 2 M+ | 2E, 4 M+ |  
+| Module Portfolio (12)              | 3    | 5    | 7         | 9        |  
+| PPP (1000+)                        | 400  | 500  | 600       | 700      |  
+| Final Exam (70)                    | 14   | 21   | 28        | 35       |  
 
 ## Revisions and tokens {#revisions}
 
@@ -174,7 +174,7 @@ Tokens are a fake currency that are used to "purchase" exceptions to course poli
 + Revise an AEP graded "N"
 + Extend the deadline on a *Checkpoint* by 2 hours (request must be submitted prior to the original deadline)
 
-To spend a token, please use the *Token Spending form* found on Canvas. Tokens may not be "stacked". For example, by spending 3 tokens to get a 6-hour *Checkpoint* deadline extension.
+Tokens may not be "stacked". For example, by spending 3 tokens to get a 6-hour *Checkpoint* deadline extension.
 
 # Course policies
 
@@ -204,8 +204,6 @@ Note these are *minimum* penalties. Academic dishonesty carries with it strong p
 Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html).
 
 A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
-
-
 
 # University policies and disclaimers
 
