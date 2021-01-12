@@ -1,13 +1,13 @@
 ---
 title: "Syllabus for Organic Chemistry Laboratory 1"
-subtitle: "CHEM 129A, Fall 2020 (Virtual Classroom)"
+subtitle: "CHEM 129A, Spring 2021 (Virtual Classroom)"
 author: "Coordinator: Hubert Muchalski, Ph.D."
 
 header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-# Introduction
+# Introduction 
 
 Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce you to one of the richest and most beautiful areas of modern chemistry: *chemistry of carbon compounds*. In CHEM 129A, we will learn skills that are essential for performing experiments in organic chemistry laboratory.
 
