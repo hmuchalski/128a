@@ -92,7 +92,7 @@ all : $(EXPORTED_DOCS)
 # Individual outputs commands
 
 md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
-standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
+standalone : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
 test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
