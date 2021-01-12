@@ -1,8 +1,6 @@
-Virtual classroom policies and statements
-=========================================
+# Virtual classroom policies and statements
 
-Intellectual Property
----------------------
+## Intellectual Property
 
 As part of your participation in virtual/online instruction, please
 remember that the same student conduct rules that are used for in-person
@@ -27,8 +25,7 @@ Academic Regulations described in the [University
 Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as
 well as policies listed below.
 
-Health screening
-----------------
+## Health screening
 
 Students who come to campus for face-to-face classes will be required to
 complete a daily health screening which will include temperature checks.
@@ -40,8 +37,7 @@ to come to campus. Please complete the campus [online reporting
 form](https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form").
 A campus official will reply to provide guidance and information.
 
-Safety Measures
----------------
+## Safety Measures
 
 Consistent with the Governor's order and updated state public-health
 guidelines, face masks or cloth face coverings are required to be worn
@@ -55,8 +51,7 @@ anyone who arrives to campus without one. Please see university website
 for the most updated information:
 [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
 
-Contact information for course coordinator, department chair and college dean
------------------------------------------------------------------------------
+## Contact information for course coordinator, department chair and college dean
 
 If there are questions or concerns that you have about this course that
 you and I are not able to resolve, please feel free to contact the
@@ -71,8 +66,7 @@ department and/or college administrators:
 ```{=tex}
 \newpage
 ```
-Start here
-==========
+# Start here
 
 Welcome to the second semester of course in organic chemistry (CHEM
 128B)! I'm Hubert Muchalski, a professor in the Chemistry Department.
@@ -117,8 +111,7 @@ Before reading any further, here are some things to know:
     through structured and informal support groups. **Everyone in the
     course has your back.**
 
-Course information
-==================
+# Course information
 
 -   **Course name and number (units)**: CHEM 128B (75500 02-LEC) (3
     Units)
@@ -135,8 +128,7 @@ Course information
 -   **Office Hours**: Appointments can be scheduled through calendar
     function "Find Appointments" on Canvas.
 
-Learning objectives
--------------------
+## Learning objectives
 
 In this course we will continue to explore one of the richest and most
 beautiful areas of modern chemistry: *chemistry of carbon-based
@@ -162,8 +154,7 @@ that you might ask, can be answered by referencing the syllabus. If you
 are uncertain that you understand all rules and regulations, please
 contact me.
 
-Course materials
-----------------
+## Course materials
 
 This course is part of the Immediate Access program. All students have
 access to a digital version of the textbook and associated materials on
@@ -184,8 +175,7 @@ term. More info can be found at
     materials will be posted on Canvas. [^1]
     `<!-- - **Classroom Response System:** We will use iClicker Reef mobile app to collect responses to questions posed during class. Physical remotes do not work in a virtual setting. -->`{=html}
 
-Technology
-----------
+## Technology
 
 To use the course tools, you will need to have access to the following:
 
@@ -219,8 +209,7 @@ perspectives, the ability to **apply ideas**, development of **logical
 reasoning and communication skills**, and an **appreciation for organic
 chemistry as a whole**.
 
-Structure of the course
-=======================
+# Structure of the course
 
 This CHEM 128B course is being offered in a virtual flipped mode.
 "Flipped" means that the course is a combination of synchronous
@@ -253,16 +242,14 @@ ongoing work: online homework to practice the ideas from the module
 to the next level: and Checkpoints given roughly every other week that
 assess your mastery of basic skills.
 
-Zoom meetings
--------------
+## Zoom meetings
 
 We will have online conference calls on the days/times the class is
 scheduled. The sessions will be recorded, although many activities will
 happen in small breakout rooms and those aren't part of the recording.
 It is in your interest to attend live class meetings.
 
-Learning activities in CHEM 128B
-================================
+# Learning activities in CHEM 128B
 
 You will be engaging with several different kinds of activities in the
 course, both to facilitate learning of the material and to demonstrate
@@ -303,8 +290,7 @@ The kinds of activities you will undertake are:
     exam will be administered online via Canvas and the Respondus
     Lockdown Browser.
 
-Mastery Checkpoints
--------------------
+## Mastery Checkpoints
 
 Roughly every 3 weeks, I will post *Mastery Checkpoint*, an exam packet
 of LTAs, each one of which focuses on a single Learning Target from the
@@ -338,8 +324,7 @@ than one LTA per week, can be attempted through the following options:
     separately; basically the video must have clear audio, and keep
     face, handwriting, and voice in the frame at all times).
 
-The EMRN rubric
----------------
+## The EMRN rubric
 
 Work on Application/Extension Problems is graded not with points but
 with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the
@@ -350,8 +335,7 @@ improvement. The process of assigning these marks is shown below:
 
 ![EMRN rubric](emrn.png)
 
-How work is graded in CHEM 128B {#grading}
-===============================
+# How work is graded in CHEM 128B {#grading}
 
 CHEM 128B uses a mastery-based grading system that is designed to
 provide you with control over the grading process. The final grade in
@@ -363,8 +347,7 @@ and the other 14 of which are designated as **Supplemental**. Students
 get numerous opportunities to demonstrate mastery of the content
 described in Learning Targets.
 
-Final letter grade
-------------------
+## Final letter grade
 
 Your course grade is determined using the table below. In order to earn
 a particular letter grade, each requirement must be met in the column
@@ -378,16 +361,15 @@ to meet the requirement; amounts above this level also meet the
 requirement. For AEP's, "M+" means "either M or E".
 
   Category                             D     C      B           A
-  ------------------------------------ ----- ------ ----------- ----------
+  ------------------------------------ ----- ------ ----------- -----------
   Core Learning Targets (10)           5     10     10          10
-  Supplemental Learning Targets (14)   4     5      8           11
-  AEPs (8+)                                  1 M+   2 E, 2 M+   2E, 4 M+
+  Supplemental Learning Targets (11)   1     2      5           8
+  AEPs (8+)                                  1 M+   1 E, 1 M+   2 E, 2 M+
   Module Portfolio (12)                3     5      7           9
   PPP (1000+)                          400   500    600         700
-  Final Exam (70)                      14    21     28          35
+  Final Exam (70 pts)                  14    21     28          35
 
-Revisions and tokens {#revisions}
---------------------
+## Revisions and tokens {#revisions}
 
 The mastery-based grading system insists that you show consistent
 excellence in all assignments in the course. Outstanding work on
@@ -411,8 +393,7 @@ Scores for WileyPLUS assignments are final. If you do not get a
 percentage correct to show mastery (\>75%), you can reset the assignment
 and try again until the deadline.
 
-Tokens
-------
+## Tokens
 
 Tokens are a fake currency that are used to "purchase" exceptions to
 course policies and other advantageous items in the course. Every
@@ -430,11 +411,9 @@ following at any time:
 Tokens may not be "stacked". For example, by spending 3 tokens to get a
 6-hour *Checkpoint* deadline extension.
 
-Course policies
-===============
+# Course policies
 
-Technology issues when submitting work
---------------------------------------
+## Technology issues when submitting work
 
 WileyPLUS and ORION assignments are submitted electronically. It is the
 student's responsibility to make sure these items are submitted on time,
@@ -445,8 +424,7 @@ to Canvas and Canvas won't accept the file, you should try again later,
 use different browser, or send the file as an email attachment until you
 can upload it successfully.
 
-Academic integrity
-------------------
+## Academic integrity
 
 Some of the work you will do in the course involves collaboration; at
 other times collaboration may be allowed but not required; while at
@@ -488,8 +466,7 @@ possible automatic failure of the course or suspension from the
 university. For details, please see APM 235 by going to
 <http://www.fresnostate.edu/aps/documents/apm/235.pdf>.
 
-Dropping the course
--------------------
+## Dropping the course
 
 Dates and details on withdrawing from courses are described on the
 [Admissions web
@@ -506,8 +483,7 @@ performing poorly in a class is not an acceptable "serious and
 compelling reason" within the University policy, nor is dissatisfaction
 with the subject matter, class or instructor.
 
-University policies and disclaimers
-===================================
+# University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with
 Academic Regulations described in the [University
@@ -526,11 +502,9 @@ well as policies listed below.
 -   Add/Drop Course:
     [http://www.fresnostate.edu/studentaffairs/registrar/registration/add-drop-deadlines.html](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
-Appendix A: Course Modules and Learning Targets {#appendix-a}
-===============================================
+# Appendix A: Course Modules and Learning Targets {#appendix-a}
 
-Course modules {#modules}
---------------
+## Course modules {#modules}
 
   Module   Focus                                            Text    Learning Targets
   -------- ------------------------------------------------ ------- ------------------
@@ -562,8 +536,7 @@ Course modules {#modules}
 * Module 11: Enols and enolates (Ch21)
 * Module 12: Amines (Ch22) -->
 ```
-Learning Targets
-----------------
+## Learning Targets
 
 **Group E**: Analyze electronic structure of molecules to make and
 defend predictions about properties and reactivity of organic molecules.
@@ -581,8 +554,7 @@ defend predictions about properties and reactivity of organic molecules.
 -   E5: **(CORE)** State and explain acidity of carboxylic acids and
     amines (and basicity of their conjugate bases) in light of the
     Brønsted-Lowry theory
--   E6: State and explain acidity of enolate precursors as
-    Brønsted-Lowry acids
+    `<!-- * E6: State and explain acidity of enolate precursors as Brønsted-Lowry acids -->`{=html}
 
 **Group R**: Predict products, infer substrates, and propose reagents
 needed to complete a reaction scheme.
@@ -596,7 +568,7 @@ needed to complete a reaction scheme.
 -   R6: **(CORE)** Reactions involving carboxylic acids and its
     derivatives
 -   R7: Reactions involving enols and enolates
--   R8: Reactions involving amines
+    `<!-- * R8: Reactions involving amines -->`{=html}
 
 **Group M**: Use curved arrow notation to depict plausible reaction
 mechanisms
@@ -613,7 +585,7 @@ mechanisms
 -   M6: **(CORE)** Draw mechanisms of reactions that involve carboxylic
     acids and its derivatives
 -   M7: Draw mechanisms of reactions that involve enols and enolates
--   M8: Draw mechanisms of reactions that involve amines
+    `<!-- * M8: Draw mechanisms of reactions that involve amines -->`{=html}
 
 **Group S**: Use spectroscopic data to determine the structure of a
 molecule

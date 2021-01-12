@@ -1,55 +1,29 @@
 ---
-title: "Syllabus for Organic Chemistry 2"
-subtitle: "CHEM 128B, Fall 2020 (Virtual Classroom)"
+title: "CHEM 8: Elementary Organic Chemistry"
+subtitle: "Course Syllabus (AY20-21 Spring; Virtual Classroom)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-# Virtual classroom policies and statements
-
-## Intellectual Property
-
-As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
-
-In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
-
-## Health screening
-
-Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
-
-  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
-
-## Safety Measures
-
-Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
-
-## Contact information for course coordinator, department chair and college dean
-
-If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the department and/or college administrators:
-
-* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
-* Chemistry Department Office: (559) 278-2103
-* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
-
-\newpage
+<!-- I ended up not teaching this course -->
 
 # Start here
 
 Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm Hubert Muchalski, a professor in the Chemistry Department. Before reading any further, here are some things to know:
 
-1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being **challenged** to grow as a learner, that you are **engaging actively** with tasks that feed your growth, and that you are creating **excellent work** by solving challenging organic chemistry problems. It also means that you are **building your lifelong learning skills** so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
-2. **College-level chemistry is more than just memorizing structures and reactions.** On the pathway to "success" as outlined above, you will be asked to do more than just give answers to problems. Your task is to **seek deep understanding** of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
-3. **Expect to be challenged intellectually throughout this course.** None of these elements of "success" come easily. They require dedicated devotion of time and energy to wrestling with the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
-4. **Intellectual struggle is normal and healthy in a challenging course.** Since none of this is easy, you can expect at times to feel like you are really struggling with the material, even if in your earlier chemistry courses you might never have experienced struggle. **This is a normal and healthy experience.** Legitimate struggle is actually a sign you are doing things right, and it's a signal you're about to experience explosive growth. My goal is to provide **a safe place for you to experience those struggles.**
-5. **You have a lot of help available to you as you work.** Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups. **Everyone in the course has your back.**
+1. I want you to be successful in this course. I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being challenged to grow as a learner, that you are engaging actively with tasks that feed your growth, and that you are creating excellent work by solving challenging organic chemistry problems. It also means that you are building your lifelong learning skills so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
+2. College-level chemistry is more than just memorizing structures and reactions. On the pathway to "success" as outlined above, you will be asked to do more than just give answers to problems. Your task is to seek deep understanding of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
+3. Expect to be challenged intellectually throughout this course. None of these elements of "success" come easily. They require dedicated devotion of time and energy to wrestling with the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
+4. Intellectual struggle is normal and healthy in a challenging course. Since none of this is easy, you can expect at times to feel like you are really struggling with the material, even if in your earlier chemistry courses you might never have experienced struggle. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right, and it's a signal you're about to experience explosive growth. My goal is to provide a safe place for you to experience those struggles.
+5. You have a lot of help available to you as you work. Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups. Everyone in the course has your back.
 
 # Course information
 
-- **Course name and number (units)**: CHEM 128B (75500 02-LEC) (3 Units)
-- **Pre-requisite**: Passed CHEM 128A with grade "C" or better.
-- **Meetings**: MWF 9:00--9:50 am on Zoom (access link on Canvas)
+- **Course name and number (units)**: 
+- **Pre-requisite**: 
+- **Meetings**:  on Zoom (via registered link)
 <!-- - **Instructor office**: Science 1 room 352 -->
 - **Office Phone**: (559) 278-2711 (redirects to my cell phone)
 - **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
@@ -148,11 +122,11 @@ Note: In the table, numerical values indicate the minimum level needed to meet t
 | Category                           | D    | C    | B         | A        |  
 | ---------------------------------- | ---- | ---- | --------- | -------- |  
 | Core Learning Targets (10)         | 5    | 10   | 10        | 10       |  
-| Supplemental Learning Targets (11) | 1    | 2    | 5         | 8        |  
-| AEPs (8+)                          |      | 1 M+ | 1 E, 1 M+ | 2 E, 2 M+|  
+| Supplemental Learning Targets (14) | 4    | 5    | 8         | 11       |  
+| AEPs (8+)                          |      | 1 M+ | 2 E, 2 M+ | 2E, 4 M+ |  
 | Module Portfolio (12)              | 3    | 5    | 7         | 9        |  
 | PPP (1000+)                        | 400  | 500  | 600       | 700      |  
-| Final Exam (70 pts)                | 14   | 21   | 28        | 35       |  
+| Final Exam (70)                    | 14   | 21   | 28        | 35       |  
 
 ## Revisions and tokens {#revisions}
 
@@ -216,86 +190,33 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/add-drop-deadlines.html](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
-# Appendix A: Course Modules and Learning Targets {#appendix-a}
+# Virtual classroom policies and statements
+
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
+
+## Health screening
+
+Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
+
+  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
+
+## Safety Measures
+
+Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
+
+## Contact information for course coordinator, department chair and college dean
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the department and/or college administrators:
+
+* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
+* Chemistry Department Office: (559) 278-2103
+* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
+
+# Appendix B: Course Modules and Learning Targets {#appendix-a}
 
 ## Course modules {#modules}
 
-| Module | Focus                                          | Text | Learning Targets |
-|--------|------------------------------------------------|------|------------------|
-| 0      | Course orientation                             |      |                  |
-| 1      | Recap of CHEM 128A                             | 1–11 |                  |
-| 2      | Alcohols, phenols, and thiols                  | 12   | E1, R1, M1       |
-| 3      | Ethers, epoxides, and sulfides                 | 13   | R2, M2           |
-| 4      | Infrared spectroscopy and mass spectrometry    | 14   | S1,              |
-| 5      | NMR spectroscopy                               | 15   | S2               |
-| 6      | Conjugated pi systems and pericyclic reactions | 16   | E2, R3, M3       |
-| 7      | Structure and properties of aromatic compounds | 17   | E3               |
-| 8      | Reactions of aromatic compounds                | 18   | E4, R4, M4       |
-| 9      | Aldehydes and ketones                          | 19   | R5, M5,          |
-| 10     | Carboxylic acids and their derivatives         | 20   | E5, R6, M6       |
-| 11     | Enols and enolates                             | 21   | R7, M7           |
-| 12     | Amines                                         | 22   | E6, R8, M8       |
-
-
-<!-- * Module 1: Recap of CHEM 128A material
-* Module 2: Alcohols, phenols, and thiols (Ch12)
-* Module 3: Ethers, epoxides, and sulfides (Ch13)
-* Module 4: Infrared spectroscopy and mass spectrometry (Ch14)
-* Module 5: NMR spectroscopy (CH15)
-* Module 6: Conjugated pi systems and pericyclic reactions (Ch16)
-* Module 7: Structure and properties of aromatic compounds (Ch17)
-* Module 8: Reactions of aromatic compounds (Ch18)
-* Module 9: Aldehydes and ketones (Ch19)
-* Module 10: Carboxylic acids and their derivatives (Ch20)
-* Module 11: Enols and enolates (Ch21)
-* Module 12: Amines (Ch22) -->
-
-## Learning Targets
-
-**Group E**: Analyze electronic structure of molecules to make and defend predictions about properties and reactivity of organic molecules.
-
-* E1: State and explain acidity of alcohols and phenols in light of the Brønsted–Lowry acid--base theory
-* E2: Use the MO theory to state and explain the origins of selectivity in addition reactions of dienes and pericyclic reactions (thermal and photochemical)
-* E3: **(CORE)** Construct MO diagram and use the MO theory to predict/explain whether a compound is aromatic, antiaromatic, or non-aromatic
-* E4: Determine the effect of the existing substituents on the rate and regioselectivity of electrophilic aromatic substitution
-* E5: **(CORE)** State and explain acidity of carboxylic acids and amines (and basicity of their conjugate bases) in light of the Brønsted-Lowry theory
-<!-- * E6: State and explain acidity of enolate precursors as Brønsted-Lowry acids -->
-
-**Group R**: Predict products, infer substrates, and propose reagents needed to complete a reaction scheme.
-
-* R1: **(CORE)** Reactions involving alcohols
-* R2: Reactions involving ethers and sulfides
-* R3: Reactions involving conjugated pi systems
-* R4: **(CORE)** Aromatic substitution reactions
-* R5: **(CORE)** Reactions involving aldehydes, ketones, imines, and enamines
-* R6: **(CORE)** Reactions involving carboxylic acids and its derivatives
-* R7: Reactions involving enols and enolates
-<!-- * R8: Reactions involving amines -->
-
-**Group M**: Use curved arrow notation to depict plausible reaction mechanisms
-
-* M1: Draw mechanisms of reactions that involve alcohols
-* M2: Draw a mechanism to predict the outcome and selectivity of reactions that involve epoxides
-* M3: Draw a mechanism to predict the outcome and selectivity of reactions involving conjugated pi systems.
-* M4: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
-* M5: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines
-* M6: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives
-* M7: Draw mechanisms of reactions that involve enols and enolates
-<!-- * M8: Draw mechanisms of reactions that involve amines -->
-
-**Group S**: Use spectroscopic data to determine the structure of a molecule
-
-* S1: **(CORE)** Use IR spectroscopy to determine what functional groups are present in the analyzed sample. Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
-* S2: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
-
-<!-- AEP
-
-- Sharpless asymmetric epoxidation (AEP)
-- Autoxidation of ethers (AEP)
-- Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
-- Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
-- Design multi-step synthesis that involves reactions at the benzylic position (AEP)
-- Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (AEP)
-
-
- -->
