@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "syllabus-CHEM-128B/syllabus-128B.md",
+			"settings":
+			{
+				"buffer_size": 32094,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "syllabus-CHEM-129A/syllabus-lab-129A.md",
+			"settings":
+			{
+				"buffer_size": 19016,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "syllabus-CHEM-129B/syllabus-lab-129B.md",
+			"settings":
+			{
+				"buffer_size": 19459,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bui",
+				"Build With: Make"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"marked",
+				"Marked"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"html",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"code",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"mag",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"magi",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"foot",
+				"MarkdownEditing: Gather Missing Footnotes"
+			],
+			[
+				"foo",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"footno",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"brow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"editing",
+				"MarkdownEditing: Run markdownlint"
+			],
+			[
+				"h",
+				"Snippet: Markdown Header 2"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"pdf",
+				"Project: Add Folder"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"pakc",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"preferences",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"ls",
+			"make",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/hmuchalski/GitHub/128a/syllabus-CHEM-129A/syllabus-lab-129A-2020fa.txt",
+		"/Users/hmuchalski/GitHub/128a/syllabus-CHEM-8/syllabus-8.md",
+		"/Users/hmuchalski/GitHub/recommendation-letter/letter-for-hatcher-from-muchalski.md",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/LTAs (AY20–21)/spectroscopy LTAs/S1 - klucz.md",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/WileyPLUS assignment list.mdown",
+		"/Users/hmuchalski/GitHub/128a/course-syllabi.sublime-project",
+		"/Users/hmuchalski/GitHub/128a/syllabus-CHEM-128B/syllabus-128B.md",
+		"/Users/hmuchalski/GitHub/128a/syllabus-CHEM-8/makefile",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/WileyPLUS assignments",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/128b-modules-and-learning-targets.mdown",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/AY20-21 (zoom meeting agendas)/CHEM 128B zoom meeting agenda.mdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129B/green chemistry modules application.md",
+		"/Users/hmuchalski/Desktop/test.xml",
+		"/Users/hmuchalski/GitHub/recommendation-letter/201102-gustafson-nomination.md",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/AY20-21 (zoom meeting agendas)/2020-09-11 CHEM 128B zoom call.mdown",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/WileyPLUS assignment list (detailed).mdown",
+		"/Volumes/GoogleDrive/My Drive/CHEM 128B/AY20-21 (zoom meeting agendas)/2020-09-30 CHEM 128B zoom meeting agenda.mdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/xx_archive_xx/pavia-6th-ed-toc.md",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/zoom meeting agendas/2020-09-24 CHEM 129A (PM) zoom meeting agenda.mdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/zoom meeting agendas/2020-09-24 CHEM 129A (AM) zoom meeting agenda.mdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/chem-129a-operations.sublime-project",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/coordination.sublime-project",
+		"/Users/hubertmuchalski/Google Drive/LAB 129A/coordination/CHEM 129A (week 6).markdown",
+		"/Users/hubertmuchalski/Google Drive/LAB 129A/coordination/coordinator-notes.mdown",
+		"/Users/hubertmuchalski/Google Drive/LAB 129A/coordination/CHEM 129A (week 5).markdown",
+		"/Users/hubertmuchalski/Google Drive/LAB 129A/coordination/CHEM 129A (week 3).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/coordinator-notes.mdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/instructors meeting agenda (week 3-4).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A (week 3).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A (week 12).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/instructors meeting agenda (week 3-4)",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A (week 13).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/sunsetted files (purge on 2020-07-01)/CHEM 129A (week 2).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A SP20 lab schedule.xlsx",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A (week 5).markdown",
+		"/Volumes/GoogleDrive/My Drive/LAB 129A/coordination/CHEM 129A (week 11).markdown"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*.txt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "syllabus-CHEM-128B/syllabus-128B.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20645,
+								20645
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 4397,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "syllabus-CHEM-129A/syllabus-lab-129A.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4204,
+								214
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 2339,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "syllabus-CHEM-129B/syllabus-lab-129B.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 2569,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 66.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Marked2.sublime-build",
+	"project": "course-syllabi.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GitHub/128a/course-syllabi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
