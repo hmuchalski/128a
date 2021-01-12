@@ -1,0 +1,19 @@
+## Question 1: Solubility of simple ethers in water
+
+Look up the structures of two compounds from the ether class in the table below and propose an explanation for the drastic
+
+| Substance                      | Formula     | Solubility (g/L) |
+|--------------------------------|-------------|------------------|
+| diethyl ether                  | \ce{C4H10O} | 60               |
+| *tert*-butyl methyl ether      | \ce{C5H12O} | 42               |
+| *tert*-butyl ethyl ether       | \ce{C6H14O} | 12               |
+
+
+## latest
+
+[Smith--Lemli--Opitz Syndrome][d40fc3fc] (SLOS) is an autosomal recessive, multiple malformation syndrome caused by a mutation in the enzyme 7-Dehydrocholesterol reductase encoded by the DHCR7 gene. It was first described as cholesterol deficiency syndrome but latest research suggest that autoxidation (peroxidation) of 7-dehydrocholesterol (7-DHC) causes oxidative stress. Look up the structure of 7-DHC and draw the hydroperoxide that will result from autoxidation (the weakest C-H bond will be oxidized).
+
+  [d40fc3fc]: https://en.wikipedia.org/wiki/Smith–Lemli–Opitz_syndrome "Wikipedia article"
+
+4. Benzoic acid occurs naturally in wild blueberries. Imagine you ingested benzoic acid by eating a large handful of wild blueberries.^[Don't worry, this dose of benzoic acid is not toxic but always wash blueberries before you eat them.] What is the exact ratio of carboxylic acid to carboxylate anion in your stomach (pH ~2) and later when it reaches your bloodstream (pH 7.4). Explain how you arrived at the answer. Benzoic acid has p*K*~a~ of 4.2.
+5. Look up the structure of AIBN (azobisisobutyronitrile) and explain what makes it a very good radical initiator for laboratory applications.
