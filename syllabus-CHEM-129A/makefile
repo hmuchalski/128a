@@ -83,6 +83,9 @@ PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-D
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
 
+%-$(SEMESTER)-test.docx : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
+
 # Targets and dependencies
 
 .PHONY: all clean
@@ -96,6 +99,7 @@ standalone : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
 test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
+test-docx : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.docx)	
 pdf-toc : $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf)
 pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)	
 docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)

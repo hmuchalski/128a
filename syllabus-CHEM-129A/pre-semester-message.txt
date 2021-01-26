@@ -1,0 +1,55 @@
+---
+title: Pre-semester message from course coordinator
+---
+
+Dear Colleagues,
+
+Happy New Year! I hope that this new year in a new decade will bring health and happiness! The purpose of this message is to communicate the course structure and some changes that I made to (hopefully) improve the course content for the virtual offering. Few things I’d like you to know:
+
+- We have two more sections (total of 10); 
+- The semester starts on Tue, 1/19 and the first day of instruction is Thursday, 1/21. Thus, the first round of class meetings will be on Mon/Tu of the week 1/25. 
+- This semester (like many Spring semesters in the past) is shorter due to holidays that fall on Mondays. 
+
+Over the last week I was updating the Canvas site and I will have a complete course package for you to import in the next couple of days. Don't put anything on Canvas just yet, because it will be removed during import. Based on our experience last semester, I diversified the course content by including Labster simulations. I opted out of Labster in the Fall because their offering for organic chemistry was poor but since then they expanded their portfolio of simulations and some of them are quite good. You can go to the [Faculty Resource Page](https://www.labster.com/faculty-resources/?k=LMSregionUS#simulations-tab) to view Organic Chemistry Simulations or read [the flyer](https://drive.google.com/file/d/19T8AStG-el1gL8wBIKjsxAvpz_Z-Bmg6/view) which has all information in one place. 
+
+I selected the following simulations to augment the course offer:
+
+- Chemistry Safety
+- Lab Safety
+- Organic Chemistry Introduction: Learn about organic compounds
+- Recrystallization: Purify your solid
+- Liquid-Liquid Extraction: Extract caffeine from your everyday drinks
+- Simple Distillation: Recycle waste from biodiesel production
+- Nucleophilic Substitution Reaction: Alkyl halide substrates
+- Organic Chemistry Reactivity Rules: Time to react!
+- Ionic and Covalent Bonds [Extra credit]
+- Substitution vs. Elimination: Predict the outcome [Extra credit]
+- Elimination Reactions: Use cyclohexanol to create polymers [Extra credit]
+
+## Grading
+
+Grading will be based on assignment categories rather than modules, because points earned on assignments don’t have the same weight across all assignments. For example, Labster simulations (which have embedded easy quizzes) are worth 100 points. Therefore, simulations will be a grading category contributing 20% to the final grade. Here’s the breakdown of categories:
+
+- Chemical Safety: 5% 
+- Simulations: 15% 
+- Pre-lab assignments: 10% 
+- Reports: 20% 
+- Homework & Quizzes: 30% 
+- Exams: 20% 
+- Extra credit: 3% 
+
+One thing that still needs major work are Canvas exams. I will probably send you the course package without exams and share them with you when they’re ready. 
+
+## Meetings
+
+I’d like to have a meeting of all instructors weekly or biweekly. Friday is still the best day for many, including me. Please let me know if you’re available at 2 pm on Friday 1/22. You can do that easily by going to this page ([https://www.when2meet.com/?10688147-nSd2a](https://www.when2meet.com/?10688147-nSd2a)) and selecting the time blocks that you are available. There is no need to create an account or provide email. Just type your name and sign in. Password is only if you want to come back and change your availability.
+
+## Cross-listing multiple sections
+
+ I **did not** request cross-listing of all sections under one parent Canvas site, which means each section will be managed independently by the instructor who is teaching it. If you are teaching more than one section, you can request cross-listing of the sections you teach and you will have one unified Canvas page. It is very useful in my opinion because you only need to send one set of announcements, there’s one gradebook and all modifications to the Canvas content (uploading files, links, etc.) has to be done only once for all students to see it. CFE can help you with that. 
+
+Attached you’ll find the schedule of modules. The syllabus will follow shortly
+
+Best,
+
+Hubert

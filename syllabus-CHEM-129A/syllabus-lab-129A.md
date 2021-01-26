@@ -17,14 +17,20 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
 - **Course coordinator**: Hubert Muchalski, PhD 
     - phone: (559)-278-2711
-    - email [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu))
+    - email: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu))
     - office hours: TBA
+- **Instructor**: [INSERT NAME]
+    - phone:
+    - email:
+    - office hours:
 
 If there are questions or concerns that you have about this course that you and I are not able to resolve with your instructor, please contact the course coordinator Dr. Hubert Muchalski. The the issue cannot be resolved with the lab coordinator, please contact the department and/or college administrators:
 
 * Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
 * Chemistry Department Office: (559) 278-2103
 * Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
+
+\newpage
 
 # What is CHEM 129A
 
@@ -68,8 +74,8 @@ Students who successfully complete CHEM 129A should be able to:
 - **Textbook:** "A Micro-scale Approach to Organic Laboratory Techniques" by Donald Pavia et al. published by Thompson/Brooks Cole. All page/section/experiment numbers refer to the 6th edition. Previous editions will also be sufficient to learn the material, but page/section/experiment numbers may differ.
 <!-- - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided. -->
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/3782](https://fresnostate.instructure.com/courses/3782). The Canvas site will house your grades, links to handouts, videos, and other materials.
-- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
+- **Canvas:** The central repository for all course materials and information is our Canvas site. The Canvas site will house your grades, links to handouts, videos, and other materials.
+- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be provided by the instructor.
 - **Document scanning**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Office 365 Apps**: Many assignments in this course are submitted as Word documents and are based on tamplates that are Word documents. Office 365 apps are available for Fresno State students. The suite includes the scanning app _Office Lens_. Learn more here: [https://help.fresnostate.edu/students/software/office365.php](https://help.fresnostate.edu/students/software/office365.php).
 
@@ -109,10 +115,10 @@ Graded assignments are organized into assignment groups and each group contribut
 | ---------------------------------- | ------- |  
 | Chemical Safety                    | 5%      |  
 | Labster Simulations                | 15%     |  
-| Pre-lab assignments                | 10%     |  
+| Pre-lab assignments                | 15%     |  
 | Reports                            | 20%     |  
-| Homework and Quizzes               | 30%     |
-| Exams (5% each)                    | 20%     |  
+| Homework                           | 30%     |
+| Quizzes                            | 15%     |  
 | Extra credit                       | 3%      |  
 | Total                              | 103%    |  
 
@@ -120,11 +126,11 @@ Final grade will be determined based on overall performance according to the wei
 
 | Grade | Total Score |  
 | ----- | ----------- |  
-| A     | 88--100%    |  
-| B     | 75--87%     |  
-| C     | 60--74%     |  
-| D     | 50-59%      |  
-| F     | <50%        |  
+| A     | 90--100%    |  
+| B     | 80--89%     |  
+| C     | 70--79%     |  
+| D     | 60-69%      |  
+| F     | <60%        |  
 
 # Virtual classroom policies and statements
 
