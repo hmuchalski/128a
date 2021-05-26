@@ -17,7 +17,7 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 - **Prerequisites**:CHEM 128A with a grade of C or better. CHEM 128A can be taken concurrently.
 - **Course coordinator**: Hubert Muchalski, PhD 
     - phone: (559)-278-2711
-    - email: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu))
+    - email: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
     - office hours: TBA
 - **Instructor**: [INSERT NAME]
     - phone:
@@ -117,8 +117,8 @@ Graded assignments are organized into assignment groups and each group contribut
 | Labster Simulations                | 15%     |  
 | Pre-lab assignments                | 15%     |  
 | Reports                            | 20%     |  
-| Homework                           | 30%     |
-| Quizzes                            | 15%     |  
+| Homework                           | 25%     |
+| Quizzes                            | 20%     |  
 | Extra credit                       | 3%      |  
 | Total                              | 103%    |  
 

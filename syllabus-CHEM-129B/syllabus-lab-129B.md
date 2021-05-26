@@ -143,7 +143,18 @@ Consistent with the Governor’s order and updated state public-health guideline
 
 Students are expected to attend and actively participate in all class sessions. During the Zoom calls, students are expected to engage and collaborate with peers on assigned tasks. Outside of the synchronous class time, students are expected to complete reading assignments (Perusall) to prepare for the class and help the instructor shape the lesson plan.
 
-The course attendance policy follows university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). 
+### Definitions
+
+_Absence_ = Not attending the zoom meeting or more than 15 min late to the zoom meeting. 
+
+### Consequences
+
+- 1 Absence: Notification and a reminder about the attendance policy
+- 2 Absences: 1-on-1 zoom meeting with the instructor
+- 3 Absences: 3% reduction of the final grade; and 
+- 1% reduction for each additional absence
+
+Excuses and exceptions will be interpreted by following university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). 
 
 ## Late work/make-up policy
 

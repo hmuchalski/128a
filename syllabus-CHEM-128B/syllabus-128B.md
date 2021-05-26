@@ -1,4 +1,4 @@
----
+ ---
 title: "Syllabus for Organic Chemistry 2"
 subtitle: "CHEM 128B, Fall 2020 (Virtual Classroom)"
 author: "Instructor: Hubert Muchalski, Ph.D."
@@ -7,174 +7,144 @@ header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-# Virtual classroom policies and statements
+# TL;DR
 
-## Intellectual Property
+- I want you to succeed. Your classmates want you to succeed. 
+- Organic chemistry is a hard subject to master, especially as an intense summer course.
+- This course uses mastery grading system. There are no points and no partial credit. 
+- It doesn't matter what textbook you use but official text (Klein 4 ed) has some perks.
+- The course is designed around _flipped learning_ model.
+- Your learning will be measured with quizzes (LTAs), written assignments (AEPs), and a final exam (multiple choice).
 
-As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
-
-In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
-
-## Health screening
-
-Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
-
-  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
-
-## Safety Measures
-
-Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
-
-## Contact information for course coordinator, department chair and college dean
-
-If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the department and/or college administrators:
-
-* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
-* Chemistry Department Office: (559) 278-2103
-* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
-
-\newpage
 
 # Start here
 
-Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm Hubert Muchalski, a professor in the Chemistry Department. Before reading any further, here are some things to know:
+Welcome to the second semester of course in organic chemistry (CHEM 128B)! I'm Hubert Muchalski, a professor in Department of Chemistry and Biochemistry. Before reading any further, here are some things to know:
 
-1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being **challenged** to grow as a learner, that you are **engaging actively** with tasks that feed your growth, and that you are creating **excellent work** by solving challenging organic chemistry problems. It also means that you are **building your lifelong learning skills** so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
-2. **College-level chemistry is more than just memorizing structures and reactions.** On the pathway to "success" as outlined above, you will be asked to do more than just give answers to problems. Your task is to **seek deep understanding** of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
-3. **Expect to be challenged intellectually throughout this course.** None of these elements of "success" come easily. They require dedicated devotion of time and energy to wrestling with the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
-4. **Intellectual struggle is normal and healthy in a challenging course.** Since none of this is easy, you can expect at times to feel like you are really struggling with the material, even if in your earlier chemistry courses you might never have experienced struggle. **This is a normal and healthy experience.** Legitimate struggle is actually a sign you are doing things right, and it's a signal you're about to experience explosive growth. My goal is to provide **a safe place for you to experience those struggles.**
-5. **You have a lot of help available to you as you work.** Throughout the semester, you will be challenged but also given a lot of support to help you rise to the challenge. I will be readily available to help in several channels; your classmates will be available for help through structured and informal support groups. **Everyone in the course has your back.**
+1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than just good grades. It means that you are being challenged to grow as a learner, that you are engaging actively with tasks that feed your growth, and that you are doing your best work by solving challenging organic chemistry problems. It also means that you are building your lifelong learning skills so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
+2. **College-level chemistry is more than just memorizing structures and reactions**. On the pathway to success as outlined above, you will be asked to do more than just give answers to problems. Your task is to seek deep understanding of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
+3. **Expect to be challenged intellectually throughout this course.** None of these elements of success come easily. They require a great deal of time and attention to properly deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
+4. **Intellectual struggle is normal and healthy in a challenging course.** You can expect at times to feel like you are really struggling with the material, even if learning in earlier chemistry courses came easy. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right, training your mind beyond what it is capable at the moment. My goal is to support you in this process. 
+5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can. https://fresnostate.zoom.us/j/84121183466?pwd=OTB4N25QV0owOUNCcTE1QkVCR3VWUT09
 
 # Course information
 
 - **Course name and number (units)**: CHEM 128B (75500 02-LEC) (3 Units)
 - **Pre-requisite**: Passed CHEM 128A with grade "C" or better.
-- **Meetings**: MWF 9:00--9:50 am on Zoom (access link on Canvas)
+- **Meetings**: Mon–Thu 9:00--11:00 am on Zoom (registration link on Canvas)
 <!-- - **Instructor office**: Science 1 room 352 -->
 - **Office Phone**: (559) 278-2711 (redirects to my cell phone)
 - **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 - **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
 
-## Learning objectives
+# Introduction
 
-In this course we will continue to explore one of the richest and most beautiful areas of modern chemistry: *chemistry of carbon-based compounds*. This course is required for majors in life and physical sciences because it covers topics and concepts that are essential for understanding of biochemistry and medicine. Upon successful completion of this course you will be able to:
+Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The millions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences. Indeed organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered. 
 
-* Communicate the structure and properties using drawing and naming conventions introduced in CHEM 128A
-* Analyze electronic structure of molecules to make and defend predictions about their properties.
-* Predict products, infer substrates, and propose reagents needed to complete a chemical reactions.
-* Use curved arrow notation to depict plausible reaction mechanisms.
-* Use spectroscopic data to deduce the structure of the molecule.
+The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
-**This course uses a different grading system** to ones that you experienced in other courses and the details are explained in the sections below. *Please read the entire syllabus carefully,* it is nearly 4,000 words for a reason. Almost all questions about the course that you might ask, can be answered by referencing the syllabus. If you are uncertain that you understand all rules and regulations, please contact me.
+# Learning objectives
 
-## Course materials
+It is expected that you come to this course already familiar with concepts and skills introduced in CHEM 128A and you are able to:
 
-This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own, have *until the 10th day of instruction to opt-out*. Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term. More info can be found at [https://als.csuprojects.org/immediate_access_programs][56263602]
+* communicate the structure and reactivity of organic molecules using drawing and naming conventions;
+* analyze bonding and its consequences on molecular structure and reactivity of organic molecules; 
+* analyze the interplay between electronic, steric, and orbital interactions to predict the behavior and properties of organic molecules and reactive intermediates;
 
+Concepts and skills listed above will be further developed and reinforced in CHEM 128B. Upon successful completion of CHEM 128B students will be able to:
+
+* predict products, infer substrates, and propose reagents needed to complete a chemical reactions; 
+* use spectroscopic data to deduce the structure of the molecule.
+* use retrosynthetic analysis to plan multi-step synthesis of target molecules; and 
+* use curved arrow notation to depict organic reaction mechanisms including addition, elimination, substitution, rearrangement, functional group interconversions and redox transformations. 
+
+## Course materials and technology
+
+This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
+
+- **Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you may not have the access to the WileyPLUS platform (see below).
+- **WileyPLUS:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
++ **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device is an acceptable alternative, but the online homework platform is not optimized for mobile devices.
++ **A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 - **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
-- **Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 3rd edition published by Wiley (via Immediate Access).
-- **WileyPLUS with ORION:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
-<!-- - **Classroom Response System:** We will use iClicker Reef mobile app to collect responses to questions posed during class. Physical remotes do not work in a virtual setting. -->
-
-[56263602]: https://als.csuprojects.org/immediate_access_programs "Read more about immediate access"
-
-[^WileyPLUS-version]: WileyPLUS version is tied to the edition of the textbook. If you opt out of Immediate Access and buy the textbook and access to WileyPLUS through other means, make sure that your access code is for the 3rd edition of the textbook
-
-## Technology
-
-To use the course tools, you will need to have access to the following:
-
-+ **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device is an acceptable alternative, but the online homework platform doesn't work as well on mobile devices.
-+ **A modern web browser**: Chrome is recommended by campus IT, but browsers such as Edge, Firefox, or Safari are also fine.
-+ **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
++ **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. Make sure your Zoom client is up to date.
 + **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
-+ **Active Fresno State network account** so that you can access email, Canvas, and Google Suite
++ **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
-If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
+[^WileyPLUS-version]: WileyPLUS version must be the same as the official edition of the textbook (4th ed.). If you opt out of Immediate Access and buy the textbook and access to WileyPLUS through other means, make sure that your access code is for the 4th edition of the textbook.
 
-**Course content:** We will cover chapters 12-22 of the *Organic Chemistry* text. Key topics to be studied include: understanding how structure determines function and reactivity of organic molecules. In every topic, we seek a **conceptual understanding** from several perspectives, the ability to **apply ideas**, development of **logical reasoning and communication skills**, and an **appreciation for organic chemistry as a whole**.
 
 # Structure of the course
 
-This CHEM 128B course is being offered in a virtual flipped mode. "Flipped" means that the course is a combination of synchronous (on-Zoom) and asynchronous (off-Zoom) work. The content is divided into [12 modules](#modules), generally following the chapters in the textbook. Your work in the class will follow a repeating pattern that will involve you before, during, and after our Zoom meetings.
+I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities and class time is repurposed for collaborative work on creative applications. This [video series](https://vimeo.com/showcase/8484250) highlights the basics for getting started with flipped learning.
 
-**Before each class,** your task will be to review previously covered material, and get familiar with the basic concepts of the upcoming lesson through guided reading, video, or exercises on new concepts. Not all material needs formal instruction. Some sections are a review of concepts from prior chapters, others present new content which not difficult to learn on your own. Take notes and write down questions you have while engaging in self-directed learning. You will have an opportunity to ask them in class.
+**Before class**, your task will be to review previously covered material, and get familiar with the basic concepts of the upcoming lesson. Not all new material needs formal instruction. Information is abundant and you can learn the basics on your own (with guidance from the instructor). 
 
-**Each class meeting,** which is only 50 minutes, we will begin with 10 min period for going over the pre-class material and fielding your questions. Then we will spend most of the class (~30 minutes) doing activities together on the harder concepts from the material. There may be some small lectures, but active work will be the main event since the best way to learn organic chemistry is by doing lots of problems! The remaining time (~10 min) will be for reviewing the main points of the lesson.
+**Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems. We will have Zoom conference calls on the days/times the class is scheduled. The sessions will be recorded, but it is in your best interest to attend live class meetings.
 
-**After each class,** you will engage with the material through the ongoing work: online homework to practice the ideas from the module (WileyPLUS); Application/Extension problems that take your basic skills to the next level: and Checkpoints given roughly every other week that assess your mastery of basic skills.
+**After class** you must continue to engage with the material through deliberate practice and deliberation on the ideas discussed in class until you're ready to show mastery by attempting Learnint Target Assessment (LTA). 
 
-## Zoom meetings
+## Learning activities and assessments
 
-We will have online conference calls on the days/times the class is scheduled. The sessions will be recorded, although many activities will happen in small breakout rooms and those aren't part of the recording. It is in your interest to attend live class meetings.
+You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *mastery-based grading system* in which your work will be required to meet certain levels of quality that demonstrate *mastery*. These include:
 
-# Learning activities in CHEM 128B
-
-You will be engaging with several different kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. Our course uses a *mastery-based grading system* in which many graded items do not use points, but rather your work will be required to meet certain levels of quality that demonstrate *mastery*. We will discuss this several times in class, and there is more information later in this document.
-
-The kinds of activities you will undertake are:
-
-1. **Learning Target Assessments (LTA)** are short tests assessing student learning within one learning objective. Throughout the semester, you will be asked to provide evidence that you mastered the skills and concepts that by completing short quizzes, each addressing a single Learning Target. LTAs are graded either *satisfactory* or *progressing* and no partial credit is awarded. See ["How work is graded in CHEM 128B"](#grading) below for details.
-2. **Application/Extension Problems (AEP)** are more challenging integrated problems for which students must to clearly communicate a complete solution. AEPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. AEPs are graded using the EMRN rubric discussed in ["How work is graded in CHEM 128B"](#grading) and can be revised and resubmitted if needed.
-3. **Preparation, practice, and participation (PPP)** category includes points earned on online pre-class assignments and online homework (WileyPLUS) as well as participation during lecture. It is in your interest to complete pre-class assignments because the results guide my decisions about what activities to plan and what concepts to focus on in the upcoming class meeting.
-4. **Module Portfolio (MP)** is a collection of notes and other content you generated while studying and practicing the topics discussed in each module.
-5. **Final exam** will be on **Monday, December 14th, 08:45–10:45 AM**. Final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. The final exam will be administered online via Canvas and the Respondus Lockdown Browser.
-
-## Mastery Checkpoints
-
-Roughly every 3 weeks, I will post *Mastery Checkpoint*, an exam packet of LTAs, each one of which focuses on a single Learning Target from the list in the [Appendix A](#appendix-a). Each **Checkpoint** will contain one LTA that has been covered up to that point. For example, the first **Checkpoint** may contain problems for Learning Targets E1, R1, R2, M1, M2; the second **Checkpoint** will contain new versions of E1, R1, R2, M1, M2 along with first-time problems for S1 through S3; and so on. **You will only need to attempt problems for Learning Targets that you have not yet mastered**. The cumulative structure allows you to attempt problems multiple times in different weeks. Students will be provided with a detailed rubric for what constitutes acceptable work on each LTA. Work that meets the criteria will be given a *satisfactory* grade and will be considered **mastered**. Work that does not meet the criteria will receive an *progressing* grade and can be redone at any later **Checkpoint** (see the [Revision](revisions) policy for details.
-
-You can also show that you mastered the material through means other than **Checkpoints**, but no more than 3 LTAs per semester, and no more than one LTA per week, can be attempted through the following options:
-
-* **Option 1**: Schedule an oral assessment (via videoconference) during which I will give a new version of a **Checkpoint**-like LTA, and you solve that problem "live" at an acceptable level.
-* **Option 2**: Create a video of yourself working out the solution to a **Checkpoint**-like LTA that I will make for you, then submit the video. If you choose this option, you'll also be required to have a follow-up video meeting with me to discuss the solution and answer additional related questions to make sure you really understand the ideas. The video must adhere to standards for video creation (posted separately; basically the video must have clear audio, and keep face, handwriting, and voice in the frame at all times).
-
-## The EMRN rubric
-
-Work on Application/Extension Problems is graded not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown below:
-
-![EMRN rubric](emrn.png)
+2. **Perusall** .
+1. **Learning Target Assessments (LTA)** are short tests assessing student learning within one learning objective. There are 12 Learning Targets in the course (see [Appendix A](#appendix-a)), 6 of which are designated as **Core** targets due to their central nature in Organic Chemistry, and the other 6 of which are designated as **Supplemental**. Students get numerous opportunities to demonstrate mastery of the content described in Learning Targets. See ["How work is graded in CHEM 128B"](#grading) below for details how LTAs are scored.
+3. **Application/Extension Problems (AEP)** are more challenging integrated problems for which students must clearly communicate a complete solution. AEPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. Submission and grading of AEPs is discussed in ["How work is graded in CHEM 128B"](#grading) section below.
+4. **Final exam** will be on **Monday, July 19th, 2021 at 9:00 am**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. The final exam will be administered online via Canvas and the Respondus Lockdown Browser.
 
 # How work is graded in CHEM 128B {#grading}
 
-CHEM 128B uses a mastery-based grading system that is designed to provide you with control over the grading process. The final grade in CHEM 128B will be determined by the quantity and quality of evidence you provide that show you have mastered the course learning objectives. There are 24 Learning Targets in the course, 10 of which are designated as **Core** targets due to their central nature in Organic Chemistry, and the other 14 of which are designated as **Supplemental**. Students get numerous opportunities to demonstrate mastery of the content described in Learning Targets.
+CHEM 128B uses a mastery-based grading system that is designed to provide you with control over the grading process. The final grade in CHEM 128B will be determined by the quantity and quality of evidence you provide that show you have mastered the course learning objectives. 
+
+## Mastery Checkpoints and scoring of LTAs
+
+Each week we will have *Mastery Checkpoint*, a window of time during which you will have opportunity to attempt LTAs. An exam packet of LTAs will be available on Canvas and you will have 2 hours, from the moment you download the document, to submit your work. *You will only need to attempt problems for Learning Targets that you have not yet mastered*. 
+
+LTAs are scored using a 3-tier scale: 
+
+- green (satisfactory evidence of learning); 
+- yellow (shows progress but not mastery); and 
+- red (no evidence of learning). 
+
+Each LTA comes with a description of what constitutes acceptable evidence of learning. Work that meets the criteria will be given a *satisfactory* score (green) and will be considered *mastered*. Work that does not meet the criteria can be attempted again at later checkpoint (see the [Revision](revisions) policy for details.
+
+## Scoring of AEPs and the EMRN rubric
+
+Work on Application/Extension Problems (AEPs) is scored not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets the standard), "R" (Needs revision), or "N" (Not assessible/Not enough information). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown on the rubric diagram below:
+
+![EMRN rubric](emrn.png)
+
+## Revisions and reassessment {#revisions}
+
+You can reattempt LTAs which you did not master yet at a later *Checkpoint*. AEPs earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. 
+
+Only one AEP submission can may be made per week. This can be one new submission, or one revision. A second submission can be purchased with a [token](#tokens) (below) but three or more submissions in a week are not allowed under any cirumstance. Students have to spend a token in order to revise any AEP that was scored as "N" (Not Assessable).
+
+## Tokens {#tokens}
+
+Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with four tokens which can be spent for any of the following at any time:
+
++ submit a second AEP (either revision or new submission) in a given week;
++ revise an AEP scored as "N"; and
++ extend the LTA checkpoint deadline by 1 hour.
+
+Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *Checkpoint* deadline extension.
 
 ## Final letter grade
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met.
 
+The mastery-based grading system insists that you show consistent excellence in all assignments in the course. That is, an outstanding work on AEPs, for example, does not “bring up” poor work on LTAs. 
+
 Note: In the table, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For AEP's, "M+" means "either M or E".
 
 | Category                           | D    | C    | B         | A        |  
 | ---------------------------------- | ---- | ---- | --------- | -------- |  
-| Core Learning Targets (10)         | 5    | 10   | 10        | 10       |  
-| Supplemental Learning Targets (11) | 1    | 2    | 5         | 8        |  
-| AEPs (8+)                          |      | 1 M+ | 1 E, 1 M+ | 2 E, 2 M+|  
-| Module Portfolio (12)              | 3    | 5    | 7         | 9        |  
-| PPP (1000+)                        | 400  | 500  | 600       | 700      |  
-| Final Exam (70 pts)                | 14   | 21   | 28        | 35       |  
-
-## Revisions and tokens {#revisions}
-
-The mastery-based grading system insists that you show consistent excellence in all assignments in the course. Outstanding work on homework, for example, does not “bring up” poor work on LTAs. LTAs can be revised by reattempting the item on a later *Checkpoint* or through one of the other means described earlier.
-
-AEPs earning M, R, or N can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. However, there are two important limitations on your revision and resubmission of AEP's:
-
-1. No more than two submissions of AEP sets may be made per week. This can be two new sets, two revisions, or one of each. A third submission can be purchased with a [token](#tokens) (below) but four or more submissions in a week are not allowed under any cirumstance.
-2. Revision of N grades rule: Students have to spend a token (below) in order to revise any AEP that was graded at "N" (Not Assessable).
-
-Scores for WileyPLUS assignments are final. If you do not get a percentage correct to show mastery (>75%), you can reset the assignment and try again until the deadline.
-
-## Tokens {#tokens}
-
-Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with five of these. One token can be spent for any of the following at any time:
-
-+ Attempt a second Learning Target in a given week through non-*Checkpoint* means
-+ Submit a third AEP (either revision or new submission) in a given week
-+ Revise an AEP graded "N"
-+ Extend the deadline on a *Checkpoint* by 2 hours (request must be submitted prior to the original deadline)
-
-Tokens may not be "stacked". For example, by spending 3 tokens to get a 6-hour *Checkpoint* deadline extension.
+| Core Learning Targets (6)          | 4    | 6    | 6         | 6        |  
+| Supplemental Learning Targets (6)  | 0    | 1    | 3         | 5        |  
+| AEPs (4+)                          |      | 1 M+ | 2 M+      | 1 E, 2 M+|  
+| Final Exam (70 pts)                | 21   | 28   | 35        | 42       |  
 
 # Course policies
 
@@ -199,6 +169,10 @@ All suspected instances of academic dishonesty will be thoroughly investigated, 
 
 Note these are *minimum* penalties. Academic dishonesty carries with it strong punitive measures mandated by Fresno State policies, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
 ## Dropping the course
 
 Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html).
@@ -216,28 +190,26 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html](http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html)
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/add-drop-deadlines.html](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
-# Appendix A: Course Modules and Learning Targets {#appendix-a}
+# Appendix A: Course Modules
 
-## Course modules {#modules}
+| Week | Module                                         | Text |
+|------|------------------------------------------------|------|
+|  1   | Course orientation                             |      |
+|      | Review of CHEM 128A                            | 1–11 |
+|      | Alcohols, phenols, and thiols                  | 12   |
+|      | Aldehydes and ketones                          | 19   |
+|  2   | Ethers, epoxides, and sulfides                 | 13   |
+|      | Conjugated pi systems and pericyclic reactions | 16   |
+|      | Structure and properties of aromatic compounds | 17   |
+|  3   | Reactions of aromatic compounds                | 18   |
+|      | Infrared spectroscopy and mass spectrometry    | 14   |
+|  4   | NMR spectroscopy                               | 15   |
+|      | Carboxylic acids and their derivatives         | 20   |
+|  5   | Enols and enolates                             | 21   |
 
-| Module | Focus                                          | Text | Learning Targets |
-|--------|------------------------------------------------|------|------------------|
-| 0      | Course orientation                             |      |                  |
-| 1      | Recap of CHEM 128A                             | 1–11 |                  |
-| 2      | Alcohols, phenols, and thiols                  | 12   | E1, R1, M1       |
-| 3      | Ethers, epoxides, and sulfides                 | 13   | R2, M2           |
-| 4      | Infrared spectroscopy and mass spectrometry    | 14   | S1,              |
-| 5      | NMR spectroscopy                               | 15   | S2               |
-| 6      | Conjugated pi systems and pericyclic reactions | 16   | E2, R3, M3       |
-| 7      | Structure and properties of aromatic compounds | 17   | E3               |
-| 8      | Reactions of aromatic compounds                | 18   | E4, R4, M4       |
-| 9      | Aldehydes and ketones                          | 19   | R5, M5,          |
-| 10     | Carboxylic acids and their derivatives         | 20   | E5, R6, M6       |
-| 11     | Enols and enolates                             | 21   | R7, M7           |
-| 12     | Amines                                         | 22   | E6, R8, M8       |
+Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
 
-
-<!-- * Module 1: Recap of CHEM 128A material
+<!-- * Module 1: Review of CHEM 128A (electrophilic addition, nucleophilic substitution, and β-elimination).
 * Module 2: Alcohols, phenols, and thiols (Ch12)
 * Module 3: Ethers, epoxides, and sulfides (Ch13)
 * Module 4: Infrared spectroscopy and mass spectrometry (Ch14)
@@ -250,49 +222,50 @@ In addition to course policies, you are expected to be familiar with Academic Re
 * Module 11: Enols and enolates (Ch21)
 * Module 12: Amines (Ch22) -->
 
-## Learning Targets
+# Learning Targets{#appendix-a}
 
-**Group E**: Analyze electronic structure of molecules to make and defend predictions about properties and reactivity of organic molecules.
+## Group E: Electrons and Bonding
 
-* E1: State and explain acidity of alcohols and phenols in light of the Brønsted–Lowry acid--base theory
-* E2: Use the MO theory to state and explain the origins of selectivity in addition reactions of dienes and pericyclic reactions (thermal and photochemical)
-* E3: **(CORE)** Construct MO diagram and use the MO theory to predict/explain whether a compound is aromatic, antiaromatic, or non-aromatic
-* E4: Determine the effect of the existing substituents on the rate and regioselectivity of electrophilic aromatic substitution
-* E5: **(CORE)** State and explain acidity of carboxylic acids and amines (and basicity of their conjugate bases) in light of the Brønsted-Lowry theory
-<!-- * E6: State and explain acidity of enolate precursors as Brønsted-Lowry acids -->
+Learning Objective: Analyze bonding and its consequences on molecular structure and reactivity of organic molecules.
 
-**Group R**: Predict products, infer substrates, and propose reagents needed to complete a reaction scheme.
+* E1: **(CORE)** Analyze structure and determine how it relates to stability and reactivity of organic molecules in the light of Brønsted and Lewis acid--base theories
+* E2: Construct molecular orbital (MO) diagrams of molecules containing multiple pi bonds. Use MO diagrams to predict the outcome of pericyclic reactions (thermal and photochemical). Classify compounds as aromatic, antiaromatic, or non-aromatic.
 
-* R1: **(CORE)** Reactions involving alcohols
-* R2: Reactions involving ethers and sulfides
-* R3: Reactions involving conjugated pi systems
-* R4: **(CORE)** Aromatic substitution reactions
-* R5: **(CORE)** Reactions involving aldehydes, ketones, imines, and enamines
-* R6: **(CORE)** Reactions involving carboxylic acids and its derivatives
-* R7: Reactions involving enols and enolates
-<!-- * R8: Reactions involving amines -->
+## Group R: Reactions and Synthesis
 
-**Group M**: Use curved arrow notation to depict plausible reaction mechanisms
+Learning Objective: Predict products, infer substrates, and propose reagents needed to complete a reaction scheme. Plan a multi-step organic synthesis, including retrosynthetic analysis of target molecules. 
 
-* M1: Draw mechanisms of reactions that involve alcohols
-* M2: Draw a mechanism to predict the outcome and selectivity of reactions that involve epoxides
-* M3: Draw a mechanism to predict the outcome and selectivity of reactions involving conjugated pi systems.
-* M4: **(CORE)** Draw a mechanism to predict the outcome and selectivity of aromatic substitution reaction.
-* M5: **(CORE)** Draw mechanisms of reactions that involve aldehydes, ketones, imines, and enamines
-* M6: **(CORE)** Draw mechanisms of reactions that involve carboxylic acids and its derivatives
-* M7: Draw mechanisms of reactions that involve enols and enolates
-<!-- * M8: Draw mechanisms of reactions that involve amines -->
+* R1: Synthesis and functional group interconversions with alkanes, alkyl halides, alkenes, alkynes, alcohols, and ethers.
+* R2 **(CORE)**: Reactions involving conjugated pi systems and aromatic rings
+* R3 **(CORE)**: Functional group interconversions involving carbonyl compounds. 
+* R4: Reaction involving enols and enolates
 
-**Group S**: Use spectroscopic data to determine the structure of a molecule
+## Group M: Mechanisms and Reaction Pathways
 
-* S1: **(CORE)** Use IR spectroscopy to determine what functional groups are present in the analyzed sample. Use MS spectrometry and the degree of unsaturation to deduce structural information about the analyzed sample
-* S2: Use NMR data and multiplet analysis to deduce detailed structural information about the analyzed sample
+Learning Objective: Use curved arrow notation to communicate plausible reaction mechanisms. Evaluate energy diagrams, reactive intermediates, and transition states of competing reaction pathways to predict regio- and stereoselectivity of organic reactions.
+
+* M1: Electrophilic addition, nucleophilic substitution, and β-elimination. 
+* M2: Reactions involving aromatic rings
+* M3 **(CORE)**: Nucleophilic addition and acyl substitution at carbonyl carbon
+* M4 **(CORE)**: Transformations involving enols and enolates
+
+## Group S: Spectroscopy
+
+Learning Objective: Analyze spectroscopic data to determine the structure of a molecule
+
+* S1 **(CORE)**: Analyze IR spectroscopy data to deduce the functional groups present in the analyzed sample. Analyze MS fragmentation data to deduce the structure of the analyzed sample.
+* S2: Analyze NMR spectroscopy data to elucidate the structure of organic compounds. 
+
+
+## AEP 
+
+1. Use combination of spectroscopic data (IR, MS, 1H NMR, 13 NMR) including multiplet analysis to propose a plausible structure of an unknown sample.
+2. Multistep synthesis of complex molecular scaffolds
 
 <!-- AEP
 
 - Sharpless asymmetric epoxidation (AEP)
 - Autoxidation of ethers (AEP)
-- Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
 - Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
 - Design multi-step synthesis that involves reactions at the benzylic position (AEP)
 - Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (AEP)
