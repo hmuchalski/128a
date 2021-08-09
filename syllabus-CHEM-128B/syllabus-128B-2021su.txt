@@ -335,10 +335,12 @@ AEP's, "M+" means "either M or E".
   LTs Mastered          7    9    11    13
   All CORE Mastered     No   No   Yes   Yes
   AEP                             1M+   1E, 1M+
-  Mechanism Portfolio   18   24   30    36
-  Perusall points       9    12   15    18
-  Final Exam (ACS)      21   28   35    42
+  Mechanism Portfolio   14   20   26    32
+  Perusall points       6    9    12    15
 
+```{=html}
+<!-- | Final Exam (ACS)    | 21 | 28 | 35  | 42      | -->
+```
 Read the example on the next page and referring back to the table above
 try to determine the final letter grade.
 
@@ -546,12 +548,12 @@ chemistry is discussed.
 4.  **(CORE)** I can use curved arrow notation to draw mechanisms and
     explain reaction pathways in nucleophilic substitution and
     β-elimination reactions
-5.  **(CORE)** Analyze IR spectroscopy data to deduce the functional
-    groups present in the analyzed sample.
-6.  Analyze MS fragmentation data to deduce the structure of the
+5.  **(CORE)** I can analyze IR spectroscopy data to deduce the
+    functional groups present in the analyzed sample.
+6.  I can analyze MS fragmentation data to deduce the structure of the
     analyzed sample.
-7.  Analyze NMR spectroscopy data to elucidate the structure of organic
-    compounds.
+7.  I can analyze NMR spectroscopy data to elucidate the structure of
+    organic compounds.
 8.  I can use molecular orbital (MO) theory to explain reactivity and
     properties of organic molecules with conjugated pi systems.
 9.  I can classify compounds as aromatic, antiaromatic, or non-aromatic.

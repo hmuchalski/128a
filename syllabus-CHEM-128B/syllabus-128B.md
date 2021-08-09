@@ -1,5 +1,5 @@
 ---
-title: "::DRAFT:: Syllabus for Organic Chemistry 2 ::DRAFT::"
+title: "Syllabus for Organic Chemistry 2"
 subtitle: "CHEM 128B, Summer 2021 (Virtual Classroom)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
@@ -18,7 +18,7 @@ header-includes:
 - Course ends with a final exam on 7/19 at 9 am.
 - Don't cheat. Consequences are severe.
 
-# Start here
+<!-- # Start here
 
 Welcome to the second semester of organic chemistry course (CHEM 128B)! I'm Hubert Muchalski, a professor in Department of Chemistry and Biochemistry. Before reading any further, here are some things to know:
 
@@ -26,7 +26,7 @@ Welcome to the second semester of organic chemistry course (CHEM 128B)! I'm Hube
 2. **College-level chemistry is more than just memorizing structures and reactions**. On the pathway to success as outlined above, you will be asked to do more than just give answers to problems. Your task is to seek deep understanding of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
 3. **Expect to be challenged intellectually throughout this course.** None of these elements of success come easily. They require a great deal of time and attention to properly deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
 4. **Intellectual struggle is normal and healthy in a challenging course.** You can expect at times to feel like you are really struggling with the material, even if learning in earlier chemistry courses came easy. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right, training your mind beyond what it is capable at the moment. My goal is to support you in this process.
-5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can.
+5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can. -->
 
 # Course information
 
@@ -142,13 +142,11 @@ The mastery-based grading system insists that you show consistent excellence in 
 | LTs Mastered        | 7  |  9 | 11  | 13      |
 | All CORE Mastered   | No | No | Yes | Yes     |
 | AEP                 |    |    | 1M+ | 1E, 1M+ |
-| Mechanism Portfolio | 18 | 24 | 30  | 36      |
-| Perusall points     | 9  | 12 | 15  | 18      |
+| Mechanism Portfolio | 14 | 20 | 26  | 32      |
+| Perusall points     | 6  | 9  | 12  | 15      |
 | Final Exam (ACS)    | 21 | 28 | 35  | 42      |
 
 Read the example on the next page and referring back to the table above try to determine the final letter grade.
-
-\clearpage
 
 ### Example
 
@@ -217,7 +215,7 @@ Changes to this syllabus may occur during the term. In those cases, the changes 
 
 ## Credits
 
-Portions of the language of this syllabus as well as ideas related to mastery grading were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
+Large portions of the language of this syllabus as well as ideas related to mastery grading and flipped learning were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
 
 # University policies and disclaimers
 
@@ -259,9 +257,9 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 2. I can solve synthesis problems involving alkanes, alkyl halides, alkenes, and alkynes.
 3. **(CORE)** I can solve synthesis problems involving alcohols and ethers.
 4. **(CORE)** I can use curved arrow notation to draw mechanisms and explain reaction pathways in nucleophilic substitution and β-elimination reactions
-5. **(CORE)** Analyze IR spectroscopy data to deduce the functional groups present in the analyzed sample.
-6. Analyze MS fragmentation data to deduce the structure of the analyzed sample.
-7. Analyze NMR spectroscopy data to elucidate the structure of organic compounds.
+5. **(CORE)** I can analyze IR spectroscopy data to deduce the functional groups present in the analyzed sample.
+6. I can analyze MS fragmentation data to deduce the structure of the analyzed sample.
+7. I can analyze NMR spectroscopy data to elucidate the structure of organic compounds.
 8. I can use molecular orbital (MO) theory to explain reactivity and properties of organic molecules with conjugated pi systems.
 9. I can classify compounds as aromatic, antiaromatic, or non-aromatic.
 10. I can solve synthesis problems involving conjugated pi systems.
