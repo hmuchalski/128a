@@ -18,7 +18,7 @@ header-includes:
 - Course ends with a final exam on 7/19 at 9 am.
 - Don't cheat. Consequences are severe.
 
-<!-- # Start here
+# Start here
 
 Welcome to the second semester of organic chemistry course (CHEM 128B)! I'm Hubert Muchalski, a professor in Department of Chemistry and Biochemistry. Before reading any further, here are some things to know:
 
@@ -26,7 +26,7 @@ Welcome to the second semester of organic chemistry course (CHEM 128B)! I'm Hube
 2. **College-level chemistry is more than just memorizing structures and reactions**. On the pathway to success as outlined above, you will be asked to do more than just give answers to problems. Your task is to seek deep understanding of underlying concepts and working on explaining of the outcomes of chemical reactions and properties of organic molecules.
 3. **Expect to be challenged intellectually throughout this course.** None of these elements of success come easily. They require a great deal of time and attention to properly deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussion board---asking questions, seeking understanding, and giving help.
 4. **Intellectual struggle is normal and healthy in a challenging course.** You can expect at times to feel like you are really struggling with the material, even if learning in earlier chemistry courses came easy. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right, training your mind beyond what it is capable at the moment. My goal is to support you in this process.
-5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can. -->
+5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can.
 
 # Course information
 

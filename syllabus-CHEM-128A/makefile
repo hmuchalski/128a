@@ -13,7 +13,7 @@
 ts := $(shell /bin/date "+%y%m%d%H%M")
 
 # Semester variable
-SEMESTER=2019fa
+SEMESTER=2021-fall
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)
@@ -26,7 +26,8 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-standalone.html) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
- $(SOURCE_DOCS:.md=-test.pdf) \
+ $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 # Define commands
@@ -43,8 +44,9 @@ PANDOC_MD_OPTIONS=-t markdown
 PANDOC_HTML_OPTIONS=--to html5
 PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
 PANDOC_LATEX_OPTIONS=-t latex
-PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
-PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.docx
+PANDOC_TOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
+PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
+PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-DOCX-template.docx
 
 
 # Pattern-matching rules. The "md" rule is for achiving purposes
@@ -70,7 +72,11 @@ PANDOC_DOCX_OPTIONS=--reference-doc=../syllabus-CHEM-128A/pandoc-DOCX-template.d
 	cp $@ pandoc-builds/$(ts)-$@
 	cp $@ ../_current_$@
 
-%-test.pdf : %.md
+%-toc-$(SEMESTER).pdf : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_TOC_PDF_OPTIONS) -o $@ $<
+	cp $@ pandoc-builds/$(ts)-$@
+
+%-$(SEMESTER)-test.pdf : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
 
 %-$(SEMESTER).docx : %.md
@@ -89,7 +95,8 @@ md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
 standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
-test : $(SOURCE_DOCS:.md=-test.pdf)
+test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
+pdf-toc : $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf)
 pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)
 docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
