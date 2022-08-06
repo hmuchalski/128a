@@ -1,6 +1,6 @@
 ---
-title: "Course Syllabus for Organic Chemistry 1 {DRAFT}"
-subtitle: "CHEM 128A, Fall 2012 (HyFlex)"
+title: "Course Syllabus for Organic Chemistry 1"
+subtitle: "CHEM 128A, Fall 2021 (HyFlex)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
@@ -14,10 +14,10 @@ header-includes:
 - **Meetings**: Mon/Wed 14:00--15:15 in Social Science Bldg Room 204
 - **Instructor office**: Science 1 room 352
 - **Office Phone**: (559) 278-2711 (redirects to my cell phone)
-- **Email**[^64ce62d3]: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
-- **Office Hours**: Mon/Wed 16:00–17:00.
+- **Email**: Send email through Canvas (preferred[^64ce62d3]) or to [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
+- **Office Hours**: Mon/Thu 16:00–17:00
 
-[^64ce62d3]: (they go to the same inbox). Usually, my response time is *within 24 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+[^64ce62d3]: All email sent through Canvas are sent to my email but sometimes I don't check my email for hours but do check Canvas inbox. Usually, my response time is *within 24 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 
 ## HyFlex Learning
 
@@ -47,7 +47,7 @@ Welcome to the first semester of course in organic chemistry (CHEM 128A)! I'm Hu
 
 # Introduction
 
-Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The millions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences. Indeed organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
+Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of function. The millions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences. Indeed organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
 # Course goals and objectives
 
@@ -65,9 +65,10 @@ To get closer to achieving course goal, we will focus on a variety of skills. At
 - analyze chemical structures and reactions to make and defend predictions about chemical processes;
 - use curved arrow notation to draw mechanisms of chemical transformations;
 - propose a synthesis of an organic molecule; and
-- connect the ideas of organic chemistry with your own personal and professional interests.
+- connect the ideas of organic chemistry with your own personal and professional interests
+- ANALYZE CHOICES AT THE SYSTEM LEVEL
 
-## Course content (What)   
+## Course content (What)
 
 To achieve course-level objectives we need material to work with. Topics in this course will be focused on the principles of bonding, structure, reactivity, and synthesis of organic molecules and materials. Lectures and problems will often feature organic compounds and reactions in the context of biology, pharmacy, medicine, materials, and energy science. The second semester in the sequence also emphasizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
@@ -109,7 +110,7 @@ You will be engaging with several kinds of activities in the course, both to fac
 3. **Class Preps** are short quizzes on WileyPLUS to get a sense of how much you learned on your own from reading and watching videos. Additional purpose of this assignment is to provide me with information about issues that the class is having, prior to class meetings. You get credit for the Prep assignment if you complete it before the deadline and if each item has a response that represents a good faith effort to be right. Remember, _mistakes are not penalized_.
 4. **Participation** Taking part in student response polls in class (iClicker). You will receive one participation credit if you answer 75% of questions in class session. Correctness is not factored into the score, only participation.
 5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps in each chapter. This is an adaptive assignment which means that the set of questions is tailored to your knowledge. The number of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you’re doing and you earn points for reaching benchmarks on the Progress bar. You’ll keep your points even if your Progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
-6. **Final exam** will be on **Wednesday, December 15th, 2021 at 15:30**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society.
+6. **Final exam** will be on **Wednesday, December 15th, 2021 at 15:30**. ~~The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Exam time is 110 minutes.~~ Final exam time block will be the last opportunity to reassess learning targets. This is the only Checkpoint that will be synchronous for all students, lasting 2 hours and without an option of time window extension.
 
 ## How student work is graded {#grading}
 
@@ -143,12 +144,12 @@ The mastery-based grading system insists that you show consistent excellence in 
 
 | Category           | D  | C  | B  | A   |
 |--------------------|----|----|----|-----|
-| LTs Mastered       |  6 |  9 | 12 | 15  |
-| AEP passed         |    |  2 |  5 |  8  |
-| Class Preps        | 10 | 15 | 20 | 25  |
+| LTs Mastered       |  5 |  8 | 11 | 14  |
+| AEP passed         |    |  1 |  4 |  7  |
+| Class Preps        |  5 | 10 | 15 | 20  |
 | iClicker Credits   |  5 | 10 | 15 | 20  |
 | WileyPLUS Homework | 70 | 80 | 90 | 100 |
-| Final Exam score   | 21 | 28 | 35 | 42  |
+<!-- | Final Exam score   | 21 | 28 | 35 | 42  | -->
 
 There are no statistical or numerical adjustments (a.k.a. grading on a curve). Outstanding work in one category, on AEPs for example, does not compensate for poor work in another category. Failing grade (F) is given if not all the requirements for a "D" are met.
 
@@ -156,9 +157,9 @@ Read the example on the next page and referring back to the table above try to d
 
 ### Example
 
-At the end of the semester Stanley showed mastery on 14 LTs, passed 9 AEPs, did all Class Preps, collected 25 iClicker credits, 120 points on Homework and scored 47 on the final exam.[^7659a235]
+At the end of the semester Morgan showed mastery on 13 LTs, passed 9 AEPs, did all Class Preps, collected 25 iClicker credits, and 120 points on Homework.[^7659a235]
 
-[^7659a235]: Stanley will receive "B" in the course, because Stanley did not meet all requirements for A (minimum 15 LTs mastered). Exceeding requirements in other categories is irrelevant.
+[^7659a235]: Morgan will receive "B" in the course, because Morgan did not meet all requirements for A (minimum 14 LTs mastered). Exceeding requirements in other categories is irrelevant.
 
 # Course policies
 
@@ -173,7 +174,7 @@ Academic dishonesty carries with it strong punitive measures mandated by Fresno 
 Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do:
 
 + *Class Prep*, *WileyPLUS Homework*: You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording).
-+ *Checkpoints*, *AEPs*, and *ACS exam*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
++ *Checkpoints*, *AEPs*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
 
 ### Resources you can and cannot use when submitting graded work
 
@@ -265,11 +266,12 @@ In addition to course policies, you are expected to be familiar with Academic Re
 | Thu | Sep-09 | Checkpoint 2    | 1–3        |
 | Thu | Sep-23 | Checkpoint 3    | 1–7        |
 | Thu | Oct-07 | Checkpoint 4    | 1–10       |
-| Thu | Oct-21 | Checkpoint 5    | 3–12       |
-| Thu | Nov-04 | Checkpoint 6    | 4–14       |
-| Thu | Nov-18 | Checkpoint 7    | 8–16       |
-| Thu | Dec-02 | Checkpoint 8    | 11–16      |
+| Thu | Nov-04 | Checkpoint 5    | 3–12       |
+| Wed | Nov-10 | Checkpoint 6    | 4–12       |
+| Thu | Nov-18 | Checkpoint 7    | 4–16       |
+| Thu | Dec-02 | Checkpoint 8    | ~~1–16~~       |
 | Thu | Dec-09 | Checkpoint 9    | 1–16       |
+| Wed | Dec-15 | Checkpoint Encore | 1–16     |
 
 # Appendix B: Learning Targets {#LT}
 
@@ -278,7 +280,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
 3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
 4. I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases.
 5. I can use conformational analysis to assess relative energy of conformations
-6. I can identify chirality centers in molecules and can assign absolute configuration using Cahn–Ingold–Prelog system.
+6. I can identify chirality centers in molecules. I can assign absolute and relative labels to designate configurational isomerism (Cahn–Ingold–Prelog, cis/trans, E/Z, etc.).
 7. I can use IUPAC nomenclature rules to convert structure to name and name to structure.
 8. I can identify types of (stereo)isomeric relationships between molecules. I can use projections to demonstrate stereoisomeric relationships.
 9. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.

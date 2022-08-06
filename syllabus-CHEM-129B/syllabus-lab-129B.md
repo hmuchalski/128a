@@ -1,6 +1,6 @@
 ---
-title: "Course Syllabus for Organic Chemistry Laboratory 2 (Virtual)"
-subtitle: "CHEM 129B, Spring 2021"
+title: "Course Syllabus for Organic Chemistry Laboratory 2"
+subtitle: "CHEM 129B, Fall 2022"
 author: "Course coordinator: Hubert Muchalski, Ph.D."
 
 header-includes:

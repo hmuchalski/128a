@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus for Organic Chemistry Laboratory 1"
-subtitle: "CHEM 129A, Fall 2019"
+subtitle: "CHEM 129A, Spring 2020 (in-person)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:

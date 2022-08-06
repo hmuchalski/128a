@@ -1,22 +1,40 @@
 ---
-title: "Syllabus for Organic Chemistry 2"
-subtitle: "CHEM 128B, Summer 2021 (Virtual Classroom)"
+title: "Course Syllabus"
+subtitle: "CHEM 128B, 2022 Spring Intersession"
 author: "Instructor: Hubert Muchalski, Ph.D."
+tags: 128b, summer, syllabus
 
 header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-# TL;DR
+# CHEM 128B Syllabus, Spring Intersession 2022
+
+| CHEM 128B    | Organic Chemistry 2 (lecture)   |  
+| ------------ | ------------------------------- |  
+| Semester     | 2022 Spring Intersession        |  
+| Units        | 3                               |  
+| Department   | Chemistry and Biochemistry      |  
+| Time         | MoTuThFr 9:00–12:15             |  
+| Location     | IT 294                          |  
+| Instructor   | Dr. Hubert Muchalski            |  
+| Email        | hmuchalski@mail.fresnostate.edu |  
+| Office phone | 559-278-2711                    |  
+| Office       | Science 1, room 352             |  
+| Office hours | after class and by appointment  |  
+
+
+TL;DR
 
 - I want you to succeed. Your classmates want you to succeed.
-- Organic chemistry is a hard subject to master, especially as an intense summer course.
+- Organic chemistry is a hard subject. This is especially true for an intense intersession course (1 day = 1 week of regular semester).
 - This course is designed according to _flipped learning_ model. It doesn't mean it is asynchronous.
-- This course uses mastery grading system. There are no points and no partial credit. Even if you took a class with me before, this implementation is different.
-- Your learning will be measured with quizzes (Learning Target problems), written assignments (AEPs), and a final exam (multiple choice ACS exam).
+- This course uses an alternative grading system called _growth grading_. There are no points and no partial credit.  
+- Your learning will be assessed with Learning Target problems, homework assignments (IPs), and a final exam (multiple choice ACS exam).
 - It doesn't matter what textbook you use but official text (Klein 4 ed) has some perks and is easily obtained via Kennel Bookstore.
-- Course ends with a final exam on 7/19 at 9 am.
-- Don't cheat. Consequences are severe.
+- Course ends with a final exam on Friday 6/10 at 9 am.
+
+\newpage
 
 # Start here
 
@@ -28,19 +46,19 @@ Welcome to the second semester of organic chemistry course (CHEM 128B)! I'm Hube
 4. **Intellectual struggle is normal and healthy in a challenging course.** You can expect at times to feel like you are really struggling with the material, even if learning in earlier chemistry courses came easy. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right, training your mind beyond what it is capable at the moment. My goal is to support you in this process.
 5. **You have a lot of help available to you as you work.** Throughout the semester, you will be given a lot of support to help you rise to the challenge. I will do my best to be available for consultations. You're not alone in this so please engage with your classmates, ask questions, seek clarification but also be provide help whenever you can.
 
-# Course information
+<!-- # Course information
 
-- **Course name and number (units)**: CHEM 128B (50171 20-LEC) (3 Units)
+- **Course name and number (units)**: CHEM 128B (50092 60-LEC) (3 Units)
 - **Pre-requisite**: Passed CHEM 128A with grade "C" or better.
-- **Meetings**: Mon–Thu 9:00--11:00 am on Zoom (look for registration link on Canvas)
+- **Meetings**: Mon, Tue, Thu, Fri 9:00--12:15 in IT 294
 - **Instructor office**: Science 1 room 352
 - **Office Phone**: (559) 278-2711 (redirects to my cell phone)
-- **Email**: [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) or [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) (they go to the same inbox). Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
-- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas.
+- **Email**: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu). Usually, my response time is *within 24 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+- **Office Hours**: Appointments can be scheduled through calendar function "Find Appointments" on Canvas. -->
 
 # Introduction
 
-Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The millions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences. Indeed organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
+Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
 The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
@@ -50,7 +68,7 @@ It is expected that you come to this course already familiar with concepts and s
 
 * communicate the structure and reactivity of organic molecules using drawing and naming conventions;
 * analyze bonding and its consequences on molecular structure and reactivity of organic molecules; and
-* analyze the interplay between electronic, steric, and orbital interactions to predict the reactivity and properties of organic molecules and reactive intermediates (carbocations, radicals, anions, etc.).
+* analyze the interplay between electronic amd steric interactions as well as stereochemistry to predict the reactivity and properties of organic molecules and reactive intermediates (carbocations, radicals, anions, etc.).
 
 Concepts and skills listed above will be further developed and reinforced in CHEM 128B. Upon successful completion of CHEM 128B students will be able to:
 
@@ -69,7 +87,6 @@ This course is part of the Immediate Access program. All students have access to
 + **A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 - **Canvas:** The central repository for all course materials and information found here:  
   [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
-+ **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. Make sure your Zoom client is up to date.
 + **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 + **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
@@ -77,56 +94,56 @@ This course is part of the Immediate Access program. All students have access to
 
 # Structure of the course
 
-I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities and class time is repurposed for collaborative work on creative applications. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
+I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, lecture videos) and class time is repurposed for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
 
-**Before class**, your task will be to review previously covered material, and get familiar with the basic concepts of the upcoming lesson. Not all new material needs formal instruction. Information is abundant and you can learn the basics on your own (with guidance from the instructor). I will provide a list of suggested reading and video content for you to review before the lesson. Most times the pre-class activities will include a discussion on Perusall.
+**Before class**, your task will be to review previously covered material and get familiar with the basic concepts of the upcoming lesson. Not all new material needs formal instruction. Information is abundant and you can learn the basics on your own (with guidance from the instructor). I will provide a list of suggested reading and video content for you to review before the lesson. Most times the pre-class activities will include a discussion on Perusall.
 
-**Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems. We will have Zoom conference calls on the days/times the class is scheduled. The sessions will be recorded, but it is in your best interest to attend live class meetings.
+**Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems.
 
-**After class** you must continue to engage with the material through deliberate practice and deliberation on the ideas discussed in class until you're ready to show mastery by attempting Learning Target problems on Checkpoints.
+**After class** you must continue to engage with the material through deliberate practice and reflection on the ideas discussed in class. When you're ready to show what you learned, you will attempt Learning Target problems on Checkpoints.
 
 ## Learning activities and assessments
 
-You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *mastery-based grading system* in which your work will be required to meet certain levels of quality that demonstrate *mastery*. These include:
+You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *growth grading system* in which your work will be required to meet certain levels of quality that demonstrate achievement of learning objectives. These include:
 
-1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128B. There are 15 Learning Targets in the course (see [Appendix B](#appendix-a)), 6 of which are designated as **CORE** targets due to their central nature in Organic Chemistry. Your primary goal is to provide evidence of mastery on as many targets as possible. You will do that through *Checkpoints* which are asynchronous at-home exams. See ["How work is graded in CHEM 128B"](#grading) below for details.
-2. **Perusall** is a tool for collective and collaborative reading and annotating. We will use Perusall to read and discuss class material. Hopefully you're reading this syllabus on Perusall right now and getting the idea of how it works.
+1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128B. There are XYZ Learning Targets in the course (see [Appendix B](#appendix-a)), XX of which are designated as **CORE** targets due to their central nature in Organic Chemistry. Your primary goal is to provide evidence of mastery on as many targets as possible. You will do that through *Checkpoints* which are asynchronous at-home exams. See ["How work is graded in CHEM 128B"](#grading) below for details.
+<!-- 2. **Perusall** is a tool for collective and collaborative reading and annotating. We will use Perusall to read and discuss class material. Hopefully you're reading this syllabus on Perusall right now and getting the idea of how it works. -->
 3. **Mechanism Portfolio** is a collection of reaction mechanisms that you draw as you learn material in this course. Writing reaction mechanisms by using curved arrow notation will help you better understand reaction pathways.
-4. **Application/Extension Problems (AEP)** are more challenging integrated problems for which students must clearly communicate a complete solution. AEPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. Submission and grading of AEPs is discussed in ["How work is graded in CHEM 128B"](#grading) section below.
-5. **Final exam** will be on **Monday, July 19th, 2021 at 9:00 am**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. The final exam will be administered online via Canvas and the Respondus Lockdown Browser.
+4. **Integrated Problems (IPs)** are more challenging integrated problems for which students must clearly communicate a complete solution. IPs assesses student skills across multiple learning objectives, may require technology, and all will require a formal writeup. Submission and grading of IPs is discussed in ["How work is graded in CHEM 128B"](#grading) section below.
+5. **Final exam** will be on **Friday, June 10th, 2022 at 9:00 am**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society.
 
 # How work is graded in CHEM 128B {#grading}
 
-CHEM 128B uses a mastery-based grading system that is designed to provide you with control over the grading process. The final grade in CHEM 128B will be determined by the quantity and quality of evidence you provide that show you have mastered the course learning objectives.
+CHEM 128B uses an alternative grading system that is designed to provide you with control over the grading process. If this is your first college course where growth grading is used, you may wonder why there is no partial credit on your graded work. Generally, graded work can be approached in one of two ways: 1) one shot at a problem and partial credit for partially correct work; or 2) forego partial credit, allow repeated attempts until the student meets the standard. I strongly believe that the second option is a better choice. 
 
-## Checkpoints and scoring of graded work
+## Checkpoints and scoring Learning Target Problems
 
 One of your primary responsibilities in the course is to demonstrate as much skill as possible on as many Learning Targets as possible through doing "acceptable" work on *Checkpoints*. Checkpoint is a window of time during which a packet of problems (containing one problem per learning target) will be available on Canvas You will have 3 hours, from the moment you download the document, to submit your work. *You will only need to attempt problems for Learning Targets that you have not yet mastered*.
 
-Your skill on Learning Targets is indicated in the gradebook by a **rating**. There are three ratings available:
+Your skill on each Learning Target is indicated in the gradebook, a separate entry for each LT. There are three ratings available:
 
-- **No Rating**. A blank entry or zero will appear in the gradebook if you have not yet attempted a Learning Target through a Checkpoint. Everyone begins the semester with "No Rating" on all 15 Learning Targets.
-- **Proficiency.** Once you complete **one** Checkpoint problem on a Learning Target that meets the standards for acceptable work, you will "level up" to *Proficiency*.
-- **Mastery.** Once you complete **a second** Checkpoint problem on a Learning Target that meets the standards for acceptable work, you will "level up" to *Mastery*.
+- **No Rating**. A blank entry or zero will appear in the gradebook if you have not yet attempted a Learning Target through a Checkpoint. Everyone begins the semester with "No Rating" on all Learning Targets.
+- **Proficiency.** The first time you solve a Checkpoint problem assessing a Learning Target and the solution meets standards for acceptable work, you will "level up" to *Proficiency*. It will be indicated in the gradebook as "1". 
+- **Mastery.** The second time your submitted solution to a Checkpoint problem assessing a Learning Target meets standards for acceptable work, you will "level up" to *Mastery*. It will be indicated in the gradebook as "2" and you don't have to be tested on that LT anymore. 
 
-**Every Checkpoint is cumulative**, with new Learning Targets represented but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you do not "level up" on. Work that meets the criteria will be given a *satisfactory* score. Work that does not meet the criteria can be attempted again at later checkpoint (see the [Revision](revisions) policy for details.
+The pool of LT problems will grow as time goes by, with new Learning Targets added but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you did not "level up" on yet. Work that meets the criteria will be given a *satisfactory* score. Work that does not meet the criteria can be attempted again at later checkpoint (see the [Revision](revisions) policy for details.
 
-## Scoring of AEPs and the EMPX rubric
+## Scoring of IPs and the EMPX rubric
 
-Work on Application/Extension Problems (AEPs) is scored not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets Expetations), "P" (Progressing), or "X" (Not Assessable). Whenever your work on an AEP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown on the rubric diagram below:
+Work on Integrated Problems (IPs) is scored not with points but with one of four designation: "E" (Excellent/Exemplary), "M" (Meets Expetations), "P" (Progressing), or "X" (Not Assessable). Whenever your work on an IP is graded, you will be given extensive actionable feedback on what was done well and what needs improvement. The process of assigning these marks is shown on the rubric diagram below:
 
 ![EMPX rubric](./empx-rubric-v2021.png)
 
 ## Revisions and reassessment {#revisions}
 
-You can reattempt Learning Target problems which you did not master yet at a later *Checkpoint*. AEPs earning M, P, or X can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. Only one AEP submission can may be made per week. This can be one new submission, or one revision. A second submission can be purchased with a [token](#tokens) (below) but three or more submissions in a week are not allowed under any circumstance. Students have to spend a token in order to revise any AEP that was scored as "X" (Not Assessable).
+You can reattempt Learning Target problems which you did not master yet at a later *Checkpoint*. IPs earning M, P, or X can be revised and resubmitted at any time. They will be regraded using the same standards as originally used. Only three IP may be submitted for grading per week. This can be a mix of new submissions and revisions. One additional submission can be purchased with a [token](#tokens) (below). A token is required to revise IPs that were scored as "X" (Not Assessable).
 
 ## Tokens {#tokens}
 
 Tokens are a fake currency that are used to "purchase" exceptions to course policies and other advantageous items in the course. Every student starts with five tokens which can be spent for any of the following at any time:
 
-+ submit a second AEP (either revision or new submission) in a given week;
-+ revise an AEP scored as "X"; and
++ submit additional IP (either revision or new submission) in a given week;
++ revise an IP scored as "X"; and
 + extend the checkpoint deadline by 1 hour.
 
 Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *Checkpoint* deadline extension.
@@ -135,24 +152,24 @@ Tokens may not be "stacked". For example, by spending 3 tokens to get a 3-hour *
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met.
 
-The mastery-based grading system insists that you show consistent excellence in all assignments in the course. That is, an outstanding work on AEPs, for example, does not “bring up” poor work on LTs. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For AEP's, "M+" means "either M or E".
+The mastery-based grading system insists that you show consistent excellence in all assignments in the course. That is, an outstanding work on IPs, for example, does not “bring up” poor work on LTs. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "either M or E".
 
 | Category            | D  | C  | B   | A       |
 |---------------------|----|----|-----|---------|
 | LTs Mastered        | 7  |  9 | 11  | 13      |
 | All CORE Mastered   | No | No | Yes | Yes     |
-| AEP                 |    |    | 1M+ | 1E, 1M+ |
+| IP                  |    |    | 1M+ | 1E, 1M+ |
 | Mechanism Portfolio | 14 | 20 | 26  | 32      |
-| Perusall points     | 6  | 9  | 12  | 15      |
+<!-- | Perusall points     | 6  | 9  | 12  | 15      | -->
 | Final Exam (ACS)    | 21 | 28 | 35  | 42      |
 
 Read the example on the next page and referring back to the table above try to determine the final letter grade.
 
 ### Example
 
-At the end of the semester Alex earned 44 points on the final exam, and 24 points on Perusall. Alex has 30 mechanisms in the Porfrolio as well as three AEPs (one graded "E", two graded "M"). Alex showed *Mastery* on 12 Learning Targets including all CORE targets.[^7659a235]
+At the end of the semester Alex earned 54 points on the final exam, 30 mechanisms in the Porfrolio as well as three IPs (one graded "E", two graded "M"). Alex achieved *Mastery* on 12 Learning Targets including all CORE targets.[^7659a235]
 
-[^7659a235]: The final grade in the course for Alex will be "B", because Alex did not meet all requirements for A (minimum 13 LTs mastered).
+[^7659a235]: The final grade in the course for Alex will be "B", because Alex did not meet all requirements for A (minimum 13 LTs mastered). 
 
 # Course policies
 
@@ -167,7 +184,7 @@ Academic dishonesty carries with it strong punitive measures mandated by Fresno 
 Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do:
 
 + *Mechanism Portfolio*: You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording).
-+ *Checkpoints*, *AEPs*, and *ACS exam*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
++ *Checkpoints*, *IPs*, and *ACS exam*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
 
 ### Resources you can and cannot use when submitting graded work
 
@@ -188,7 +205,7 @@ Here are the approved resources you can access on all _Checkpoints_:
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be:
 
 - "no pass" grade on a checkpoint and no possibility for retake;
-- grade of "N" on AEP assignment and no possibility for revision; and
+- grade of "N" on IP assignment and no possibility for revision; and
 - point deduction on final ACS exam.
 
 ## Deadlines and late work
@@ -197,7 +214,7 @@ Deadlines for course work are clearly indicated on the Course Calendar; in cases
 
 + *Mechanism Portfolio and Perusall Activities*: No extensions to deadlines are available. Simply submit a good faith effort on all items by the deadline.
 + *Checkpoints*: Submission window may be extended by spending a token. No other extensions are available.
-+ *AEPs*: There is only one deadline for AEP's: **Monday, July 19th, 2021 at 5 pm** Otherwise you simply submit your work when it is ready to be graded (subject to weekly limits). This deadline will not be extended.
++ *IPs*: There is only one deadline for IP's: **Monday, July 19th, 2021 at 5 pm** Otherwise you simply submit your work when it is ready to be graded (subject to weekly limits). This deadline will not be extended.
 
 ## Intellectual Property
 
@@ -270,15 +287,14 @@ Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is dis
 15. I can use retrosynthesis method and solve synthesis problems involving functional group interconversions and enol/enolate-mediated C–C bond forming reactions.
 
 
-
-<!-- ## AEP
+<!-- ## IP
 
 1. Use combination of spectroscopic data (IR, MS, NMR, UV) including multiplet analysis to propose a plausible structure of an unknown sample.
 2. Multistep synthesis of complex molecular scaffolds
 3. Acid–base extraction problems
-4. Sharpless asymmetric epoxidation (AEP)
-5. Autoxidation of ethers (AEP)
-6. Design a multi-step synthesis that involves substitution on the aromatic ring (AEP)
-7. Design multi-step synthesis that involves reactions at the benzylic position (AEP)
-8. Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (AEP)
+4. Sharpless asymmetric epoxidation (IP)
+5. Autoxidation of ethers (IP)
+6. Design a multi-step synthesis that involves substitution on the aromatic ring (IP)
+7. Design multi-step synthesis that involves reactions at the benzylic position (IP)
+8. Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (IP)
 -->
