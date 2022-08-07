@@ -1,0 +1,29 @@
+﻿vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,mastery_points,parent_guids,ratings,,,,,,,
+a,group,LTs,,,,,,,,,,,,,,,
+b,group,IPs,,,,,,,,,,,,,,,
+svnw,outcome,LT1,,LT1,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+wnmx,outcome,LT2,,LT2,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+gsch,outcome,LT3,,LT3,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+xfuz,outcome,LT4,,LT4,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+ijty,outcome,LT5,,LT5,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+pimp,outcome,LT6,,LT6,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+bknc,outcome,LT7,,LT7,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+itgf,outcome,LT8,,LT8,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+adsn,outcome,LT9,,LT9,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+mcqn,outcome,LT10,,LT10,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+vhuv,outcome,LT11,,LT11,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+xyps,outcome,LT12,,LT12,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+jaef,outcome,LT13,,LT13,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+nlnp,outcome,LT14,,LT14,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+csuk,outcome,LT15,,LT15,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+gfce,outcome,LT16,,LT16,highest,,active,2,a,2,Success x2,1,Success x1,0,Retry,,
+kobv,outcome,IP1,,IP1,highest,,active,3,b,3,E,2,M,1,R,0,N
+anyk,outcome,IP2,,IP2,highest,,active,3,b,3,E,2,M,1,R,0,N
+sprb,outcome,IP3,,IP3,highest,,active,3,b,3,E,2,M,1,R,0,N
+ytgw,outcome,IP4,,IP4,highest,,active,3,b,3,E,2,M,1,R,0,N
+qajb,outcome,IP5,,IP5,highest,,active,3,b,3,E,2,M,1,R,0,N
+owqc,outcome,IP6,,IP6,highest,,active,3,b,3,E,2,M,1,R,0,N
+tyrc,outcome,IP7,,IP7,highest,,active,3,b,3,E,2,M,1,R,0,N
+dvds,outcome,IP8,,IP8,highest,,active,3,b,3,E,2,M,1,R,0,N
+skhz,outcome,IP9,,IP9,highest,,active,3,b,3,E,2,M,1,R,0,N
+inub,outcome,IP10,,IP10,highest,,active,3,b,3,E,2,M,1,R,0,N
