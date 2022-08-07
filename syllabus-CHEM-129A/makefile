@@ -13,7 +13,7 @@
 ts := $(shell /bin/date "+%y%m%d%H%M")
 
 # Semester variable
-SEMESTER=AY20-21_Spring
+SEMESTER=AY20-21-fall
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)
@@ -41,11 +41,11 @@ PANDOC=/usr/local/bin/pandoc
 PANDOC_OPTIONS=-f markdown+smart
 
 PANDOC_MD_OPTIONS=-t markdown
-PANDOC_HTML_OPTIONS=--to html5
-PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
+PANDOC_HTML_OPTIONS=--filter pandoc-crossref --to html5
+PANDOC_STANDALONE_HTML_OPTIONS=--filter pandoc-crossref --to html5 -s --toc
 PANDOC_LATEX_OPTIONS=-t latex
-PANDOC_TOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
-PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
+PANDOC_TOC_PDF_OPTIONS=--pdf-engine=xelatex --filter pandoc-crossref -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
+PANDOC_PDF_OPTIONS=--pdf-engine=xelatex --filter pandoc-crossref -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
 PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-DOCX-template.docx
 
 
@@ -83,6 +83,9 @@ PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-D
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
 
+%-$(SEMESTER)-test.docx : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_DOCX_OPTIONS) -o $@ $<
+
 # Targets and dependencies
 
 .PHONY: all clean
@@ -96,8 +99,9 @@ standalone : $(SOURCE_DOCS:.md=-standalone.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
 test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
+test-docx : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.docx)
 pdf-toc : $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf)
-pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)	
+pdf : $(SOURCE_DOCS:.md=-$(SEMESTER).pdf)
 docx : $(SOURCE_DOCS:.md=-$(SEMESTER).docx)
 
 clean:

@@ -1,219 +1,233 @@
 ---
 title: "Course Syllabus for Organic Chemistry 1"
-subtitle: "CHEM 128A, Fall 2019"
+subtitle: "CHEM 128A, Fall 2021 (HyFlex)"
 author: "Instructor: Hubert Muchalski, Ph.D."
 
 header-includes:
 - \usepackage[document]{ragged2e}
 ---
 
-\newpage
-
-Welcome to CHEM 128A, Organic Chemistry 1! This course will introduce you to one of the richest and most beautiful areas of modern chemistry: *chemistry of carbon compounds*. In CHEM 128A we will learn skills that are essential for understanding modern biochemistry, medicine, and the chemical reactions related to life.
-
-**Important note:** This course uses mastery-based grading system. It is different than the one that you might be used to. The details are explained in sections below so *please read the syllabus carefully.* It is nearly 3,300 words for a reason. Almost all questions about the course that you might ask can be answered by referencing the syllabus. If you are uncertain that you understand all rules and regulations, please contact me.
-
-# Changelog
-
-Until the census date, the content of this syllabus may change. The schedule and procedures for this course are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections are listed in the changelog below and will be announced on Canvas.
-
-- 2019-08-14: Syllabus updated and published on Canvas
-- 2019-08-22: Updated final exam date. Added office hours information. Corrected typographical errors.
-- 2019-09-17: Updated LTA re-take pricing table
-
 # Course information
 
-- **Course name and number**: CHEM 128A (76318-07-LEC), 3 units
-- **Prerequisites**: Grade C or better in CHEM 1B or CHEM 8.
-- **Meetings**: Tu/Th 3:30--4:45 PM in S1-109
-- **Instructor office and phone**: Science 1 room 352; (559) 278-2711
-- **Email**[^email-philosophy]: [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu) or [hmuchalski@csufresno.edu](hmuchalski@csufresno.edu) (they go to the same inbox).
-- **Office Hours**: Walk-in office hours are Monday and Wednesday 12:00--01:00 pm. Additional consultation appointments can be scheduled through calendar function "Find Appointments" on Canvas.
+- **Course name and number (units)**: CHEM 128A (76409-06 LEC) (3 Units)
+- **Pre-requisite**: Passed CHEM 1B/L (or CHEM 8) with grade "C" or better.
+- **Meetings**: Mon/Wed 14:00--15:15 in Social Science Bldg Room 204
+- **Instructor office**: Science 1 room 352
+- **Office Phone**: (559) 278-2711 (redirects to my cell phone)
+- **Email**: Send email through Canvas (preferred[^64ce62d3]) or to [hmuchalski@mail.fresnostate.edu](hmuchalski@mail.fresnostate.edu)
+- **Office Hours**: Mon/Thu 16:00–17:00
 
-[^email-philosophy]: Please note that I typically check email between 11 am and 5 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+[^64ce62d3]: All email sent through Canvas are sent to my email but sometimes I don't check my email for hours but do check Canvas inbox. Usually, my response time is *within 24 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 
-# Course description
+## HyFlex Learning
 
-CHEM 128A is the first part of a two-semester course in organic chemistry, the chemistry of carbon-containing compounds. Topics in this course will be focused on the principles of bonding, structure, reactivity, and synthesis of organic materials. Also, a significant portion of this course will address the analytical techniques routinely used by organic chemists in their research. Organic chemistry is central to understanding multiple other disciplines. Lectures and problems will often feature organic compounds and reactions in the context of biology, pharmacy, medicine, materials, and energy science.
+This course is taught in a HyFlex format which combines face-to-face (F2F) and online learning. Some students in the class will learn inside the physical classroom and other students will connect remotely and synchronously using Zoom when needed. Whether remote or in the classroom, students will benefit from the same live synchronous learning session. The goal of HyFlex is to provide a flexible and seamless engagement for the classroom experience responsive to student needs  as well as campus, local, state, and federal guidelines. You initially registered for this class in person and should expect to attend each class session in the assigned classroom. If you cannot attend in person let me know and arrange to connect via Zoom.
 
-## Course goals and learning objectives
+\newpage
 
-The goal of this course is that students reach fluency in communicating structure and reactivity of orgnic molecules. This knowledge is essential for appreciating the world and preparing for future professional work. At the successful completion of this course you will be able to:
+# TL;DR
 
-- communicate the structure and properties of organic molecules using common drawing and naming conventions;
+- I want you to succeed. Your classmates want you to succeed.
+- Organic chemistry is a hard subject to master.
+- This course is designed according to _flipped learning_ model.
+- This course uses _mastery grading system_. There is no partial/extra credit.
+- Official text (Klein 4 ed) is available to all students on the first day via Inclusive Access.
+- Course ends with a final exam on 12/15 at 15:30.
+- Don't cheat. Consequences are severe.
+
+# Start here
+
+Welcome to the first semester of course in organic chemistry (CHEM 128A)! I'm Hubert Muchalski, Associate Professor in the Department of Chemistry and Biochemistry. Before reading any further, I'd like you to know that:
+
+1. **I want you to be successful in this course.** I will do my utmost to help you do this, by creating and maintaining a learning environment based on challenge and support. "Success" in the course is more than your performance on tests. It means that you are being challenged to grow as a learner, that you are engaging actively with tasks that feed your growth, and that you are doing your best work by solving challenging organic chemistry problems. I also hope that you are here to build your lifelong learning skills so that once the course is over, you are better and stronger as a learner and can continue to learn new things independently.
+2. **College-level organic chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your task is to seek deep understanding of underlying concepts and develop an array of skills such as predicting the outcomes of chemical reactions and properties of organic molecules.
+3. **Expect to be challenged intellectually throughout this course.** None of these elements of success come easily. They require a great deal of time and attention to properly deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis. You will need to stay engaged by participating in class meetings and on the class discussions. Students who succeed in this course have few things in common: they ask questions, seek understanding (not answers), form study groups, and help others learn.
+4. **Intellectual struggle is normal and healthy in a challenging course.** You can expect at times to feel like you are really struggling with the material, even if learning in earlier chemistry courses came easy. This is a normal and healthy experience. Legitimate struggle is actually a sign you are doing things right---training your mind beyond what it is capable at the moment. My goal is to support you in this process.
+5. **You have a lot of help available to you as you work.** You are not expected to do this all on your own. There is a lot of support to help you rise to the challenge. I will do my best to be available for consultations during office hours. You're not alone in this so please engage with your classmates, ask questions, seek clarification and provide help whenever you can.
+
+# Introduction
+
+Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of function. The millions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences. Indeed organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
+
+# Course goals and objectives
+
+The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. As much as this is true, this explanation is vague and doesn't answer a key question: "Why should you, the student, study organic chemistry?"
+
+## Why study organic chemistry?
+
+"To be an organic chemist, or course!" one might say. The fact is, that approximately 1% of all students whom I taught this course are chemists or pursue a graduate degree in organic chemistry. For most students this course is just a part of the curriculum or a requirement for an advanced training program in health-related field. Why, you may wonder, is this course a hard requirement? **Successful completion of organic chemistry is a signal to the outside world.** It demonstrates your competence in self-regulated learning. It shows that you can quickly learn hard abstract concepts and that you know how to work with models and theories. Doing well in organic chemistry also reveals that you can manage time and tasks, and that you can use highly technical language to communicate with peers.
+
+## Course learning objectives (How)
+
+To get closer to achieving course goal, we will focus on a variety of skills. At the successful completion of this course you will be able to:
+
+- use common drawing and naming conventions to communicate the structure and properties of organic molecules;
 - analyze chemical structures and reactions to make and defend predictions about chemical processes;
-- use curved arrow notation to draw mechanisms of chemical reactions;
-- propose a synthesis of an organic molecule;
-- connect the ideas of organic chemistry with your own personal and professional interests; and
-- demonstrate competence in self-regulated learning of new technical material, managing time and tasks, and educational interactions with peers.
+- use curved arrow notation to draw mechanisms of chemical transformations;
+- propose a synthesis of an organic molecule; and
+- connect the ideas of organic chemistry with your own personal and professional interests
+- ANALYZE CHOICES AT THE SYSTEM LEVEL
 
-# Requirements
+## Course content (What)
 
-## Course materials and technology
+To achieve course-level objectives we need material to work with. Topics in this course will be focused on the principles of bonding, structure, reactivity, and synthesis of organic molecules and materials. Lectures and problems will often feature organic compounds and reactions in the context of biology, pharmacy, medicine, materials, and energy science. The second semester in the sequence also emphasizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
-This course uses Immediate Access to course materials. All students have access to a digital version of the textbook and associated materials on the first day of class and have until the 10th day of instruction to OPT-OUT of the low cost digital materials, but will have to purchase the materials elsewhere.  Students are automatically charged on the 10th day (5th day for Summer courses) to continue to have access to course materials for the rest of term. See Canvas for details.
-<!-- More info can be found at [http://www.kennelbookstore.com/immediateaccess][56263602] -->
+# Structure of the course
 
-- **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
-- **Textbook:** "Organic Chemistry" by David Klein 3rd edition published by Wiley (via Immediate Access)
-- **WileyPLUS with ORION:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
+I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities and class time is repurposed for collaborative work on creative applications. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
+
+**Before class**, your task will be to review previously covered material, and get familiar with the basic concepts. Not all new material needs formal instruction. Information is abundant and you can learn the basics on your own. I will provide a list of suggested reading and video content for you to review before the lesson.
+
+**Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems. It is in your best interest to come class meetings but if circumstances arise, you will have an option to review the recorded Zoom session.
+
+**After class** you should continue to engage with the material through practice and deliberation on the ideas discussed in class until you think you're ready to demonstrate your knowledge by attempting Learning Target problems on Checkpoints.
+
+# Required materials and technology
+
+- **Textbook:** "Organic Chemistry" online textbook by David Klein 4th edition published by Wiley (via Immediate Access[^immediate-access]). This is 1-semester access to e-textbook and WileyPLUS platform. I was told by the publisher that there is an option to purchase paper copy in addition to e-textbook. Consider this option if you think you'll need access to the textbook after you're done with the course (MCAT/DAT prep etc.). Contact the bookstore for details.
+- **WileyPLUS:** Online learning platform and homework. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas. [^WileyPLUS-version]
+- **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device is an acceptable alternative, but the online homework platform is not optimized for mobile devices.
+- **A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
+- **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
+  [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
+- **Zoom:** The broadcast of the class meeting will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas. Make sure your Zoom client is up to date. All Zoom recordings will be published on Panopto.
+- **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 - **Student response system:** Each student will need an _i>clicker2_ remote or access to the iClicker Reef mobile app. The officially supported model is _i>clicker2_ (available at the Bookstore). [^iclicker-registration]
-- **Study Guide and Solutions Manual** As the name suggests. This is optional item. It is included in IA.
+- **Study Guide and Solutions Manual** This is optional item that you can purchase for additional fee ($15) via IA. It contains solutions to all problems in the textbook.
 
-[56263602]: http://www.kennelbookstore.com/immediateaccess "Read more about immediate access"
-[^WileyPLUS-version]: WileyPLUS version is tied to the edition of the textbook. If you opt out of Immediate Access and decide to buy a paper version of the textbook, make sure that your access code is for the 3rd edition.
-[^iclicker-registration]: You can borrow hardware remote from a friend or buy a used one. Remotes need to be registered online to be linked to your name. We will go through registration during first class meeting.
+[^immediate-access]: This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
 
-## In-class requirements
+[^WileyPLUS-version]: WileyPLUS version must be the same as the official edition of the textbook (4th ed.). If you opt out of Immediate Access and buy the textbook and access to WileyPLUS through other means, make sure that your access code is for the 4th edition of the textbook.
 
-Five 90-minute meetings per week (Monday–Friday) where we review and discuss concepts and practice skills. You’ll be working with your classmates to make sense of concepts and work on creative applications of those basics through group problem-solving sessions, discussions driven by interactive polling activities, and more. All of the work you do in class is carefully designed to promote learning of the concepts of the course (7.5 hours per week).
-
-## Out-of-class requirements
-
-Prior to the class meeting, students are required to work actively to get their first contact with new concepts by reading the textbook, watching videos, and completing pre-class assignments. Students are also expected to engage in online discussions and Q&A (15-20 hours per week).
+[^iclicker-registration]: You can borrow hardware remote from a friend or buy a used one. Remotes need to be registered online to be linked to your name.
 
 # Types of graded work
 
-There are six types of assignments and tests that you will encounter in this course:
+You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *mastery-based grading system* in which your work will be required to meet certain levels of quality that demonstrate *mastery*. These include:
 
-1. **ORION diagnostics.** These are low-stakes online assignments assessing the knowledge you gained through self-guided learning (reading assignments and Skill Builder modules). These assignments are graded the basis of completeness and effort (not correctness).
-2. **Mastery assignments.** Online homework (WileyPLUS) designed to build expertise in newly introduced concepts.
-3. **Learning Target Assessments (LTAs).** Short quizzes on one of the 11 Learning Targets in the course. Each is graded *Satisfactory* or *Progressing* on the basis of correctness and completeness.
-4. **Participation Credits.** Taking part in student response polls in class.
-5. **Connections & Synthesis.** Take-home assignments that explore organic chemistry applications involving real life examples from the lab and beyond. *Connections* are graded *Satisfactory*, *Progresing*, or *Incomplete* on correctness, clarity, and completeness.
-6. **Final Exam.** This exam measures retention of knowledge and skills you learned throughout the semester. The exam is comprehensive (all the material covered throughout the semester) and is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Final exam will be on **Thursday, December 19th 05:45--07:45 PM**.
+1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128B. There are **16** Learning Targets in the course (see [Appendix B](#LT)). Your primary goal is to provide evidence of mastery on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. See ["How work is graded in CHEM 128A"](#grading) below for details.
+2. **Application/Extension Problems (AEPs)** are challenging integrated homework problems where students must clearly communicate a complete solution. AEPs measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. Submission and grading of AEPs is discussed in ["How work is graded in CHEM 128A"](#grading) section below.
+3. **Class Preps** are short quizzes on WileyPLUS to get a sense of how much you learned on your own from reading and watching videos. Additional purpose of this assignment is to provide me with information about issues that the class is having, prior to class meetings. You get credit for the Prep assignment if you complete it before the deadline and if each item has a response that represents a good faith effort to be right. Remember, _mistakes are not penalized_.
+4. **Participation** Taking part in student response polls in class (iClicker). You will receive one participation credit if you answer 75% of questions in class session. Correctness is not factored into the score, only participation.
+5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps in each chapter. This is an adaptive assignment which means that the set of questions is tailored to your knowledge. The number of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you’re doing and you earn points for reaching benchmarks on the Progress bar. You’ll keep your points even if your Progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
+6. **Final exam** will be on **Wednesday, December 15th, 2021 at 15:30**. ~~The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Exam time is 110 minutes.~~ Final exam time block will be the last opportunity to reassess learning targets. This is the only Checkpoint that will be synchronous for all students, lasting 2 hours and without an option of time window extension.
 
-## Pre-class readings and diagnostics
+## How student work is graded {#grading}
 
-This class is designed according to a model in which pre-class activities provide you with a structured introduction to the new material so that we can review, discuss, and practice during in-class meetings. After you read the chapter and complete guided exercises, you will be prompted to complete ORION assignment. ORION is an adaptive learning tool which tests the limits of your knowledge. It will always try to ask you questions that are appropriate for your current level of proficiency.
+### Checkpoints
 
-Completing the pre-class assignments serves two roles. First, it gives you an idea about the level of mastery you achieved through self-guided learning. Second, it helps me decide what activities to plan and what concepts to focus on in class. Please note that **for pre-class ORION questions correctness is not factored into the grade.** You should feel free to give your best effort on each question without fear of being counted off for wrong answers. That being said, it pays to learn as much as you can on your own to get the ORION proficiency score on a good start.
+One of your primary responsibilities in the course is to demonstrate as much skill as possible on as many Learning Targets as possible through doing "acceptable" work on *Checkpoints*. Checkpoints are timed do-at-home exams offered every 10--14 days (see schedule at the end of syllabus). You will have a 24-hour window of time during which a packet of problems will be available on Canvas for download. You will have 2 hours, from the moment you download the document, to submit your work. Checkpoints contain one problem (often with multiple parts) per Learning Target. Each problem is graded separately and has its own criteria for acceptable work.
 
-## Mastery homework
+Your skill on is indicated in the gradebook separately for each Learning Target using a 3-level rubric:
 
-At the end of each module you will practice by completing more online assignments. _WileyPLUS Mastery_ assignments are typically 10 questions on a particular topic and require that you attempt each of the questions and get a total percentage correct. You can attempt each question only once. However, if you do not get a percentage correct to show mastery (>75%), you can reset the assignment and try again. Resetting the assignment will generate a new set of questions for you to attempt. Your best attempt at this assignment will be your final recorded score. Resetting the assignment will not change the difficulty level of the questions. 75% or more correct to receive 10 points; 50% or more correct to receive 5 points; less than 50% correct to receive 0 points.
+- **No Rating** indicates that that you did not attempt the learning target or the attempt was unsuccessful. Everyone begins the semester with "No Rating" on all Learning Targets.
+- **Proficiency** indicates you completed **one** Checkpoint problem on a Learning Target and the solution met the standards for acceptable work.
+- **Mastery** indicates you completed **a second** Checkpoint problem on a Learning Target and the solution met the standards for acceptable work.
 
-## Learning target assessments (LTAs)
+**Every Checkpoint is cumulative**, with new Learning Targets represented but also new versions of older ones. This will allow you to reattempt, on a limited basis, any Learning Target you haven't mastered.
 
-The content and the skills you will learn in the course are divided [into Learning Targets](#LT). There are six (6) *Essential Learning Targets* related to the core skills and knowledge. Showing mastery of ELTs is required to pass the course. The remaining 5 are _Supplemental Learning Targets_ that focus on additional important skills from organic chemistry. Mastery is demonstrated by completing short quizzes, each addressing a single Learning Target. The quizzes, called Learning Target Assessments, or LTAs, are graded either *satisfactory* or *progressing*. What constitutes *satisfactory* or *progressing* work will be spelled out explicitly for each Learning Target and made known to you in advance.
+### AEPs
 
-Some in-class time will be devoted to taking LTAs. Initial attempt to pass an LTA during in-class session is mandatory for all students. Re-take can be "purchased" with tokens ([see details below](#tokens)). There is 20 minute limit on all LTAs.
+AEP assignments are like homework, they are not timed but they have deadlines (4 weeks from when they become available). Your work on Application/Extension Problems (AEPs) is scored similarly to Learning Target problems (pass/no pass) and can be revised and resubmitted (with some limitations described below).
 
-## Participation credits
+## Revisions and reassessment {#revisions}
 
-A participation credit will be awarded for participation in iClicker questions in class but can also be awarded for asking an insightful question in class or during office hours. Research shows that student response systems (clickers) help students learn more and do better in the course. I have successfully used the student response system to gauge student learning and direct the flow of the lecture. Student polling will be used in almost every lecture and students must respond to at least 75% of questions on a particular day to earn PC for participation in the session.
+You can reattempt Learning Target problems which you did not master yet at a later *Checkpoint*. AEPs can be revised and resubmitted at any time before the deadline and they will be regraded using the same standards as originally used. _Only one AEP submission can may be made per week_. This can be one new submission, or one revision. A second submission can be purchased with a [token](#tokens) (below) but three or more submissions in a week are not allowed under any circumstance.
 
-## Connections & Synthesis
+## Tokens {#tokens}
 
-Students who aspire to receive higher grade in this course and/or consider using me as a reference for their graduate/professional school applications will be asked to earn *satisfactory* grade on additional take-home assignments. _Connections_ is a written assignment that require critical analysis and evaluation of information in the context of the knowledge you learned in the course. For the _Synthesis_ assignment you will be asked to design a synthesis of a target molecule of my choice.
+Every student starts with five tokens, a fake currency which can be spent to purchase exceptions to course policies: a) submission of second AEP (either revision or new submission) in a given week; or 1-hour extension of checkpoint upload time window. Tokens may not be "stacked". For example, you cannot spend 3 tokens to get a 3-hour extension on *Checkpoint* submission deadline.
 
-# How is the letter grade determined
+# Final letter grade
 
-I use a mastery-based grading system that is designed to provide you with control over the grading process. Final letter grade in CHEM 128A will be determined by the quantity and quality of evidence you can provide that you have mastered the concepts of the course. **You will have multiple attempts to earn a *satisfactory* grade** on most assignments. The grading system in this CHEM 128A course allows revisions and multiple attempts to demonstrate a satisfactory level of learning. Grades on LTAs are not final until the end of the semester and can be attempted again. Read [Revision and reassessment](#revisions) policy for more details.
+The mastery-based grading system insists that you show consistent excellence in all assignments in the course. Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, meaning you will earn **the highest grade for which _all_ the requirements are met**. Numerical values in the table indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement.
 
-The grade you earn at the end of the semester is determined by referring to the list below. There will be no statistical or numerical adjustments (a.k.a. grading on a curve). All items within “grade bundle” must be completed to receive the letter grade. Failing grade (F) is given if not all the requirements for a “D” are met.
+| Category           | D  | C  | B  | A   |
+|--------------------|----|----|----|-----|
+| LTs Mastered       |  5 |  8 | 11 | 14  |
+| AEP passed         |    |  1 |  4 |  7  |
+| Class Preps        |  5 | 10 | 15 | 20  |
+| iClicker Credits   |  5 | 10 | 15 | 20  |
+| WileyPLUS Homework | 70 | 80 | 90 | 100 |
+<!-- | Final Exam score   | 21 | 28 | 35 | 42  | -->
 
-## D grade bundle
+There are no statistical or numerical adjustments (a.k.a. grading on a curve). Outstanding work in one category, on AEPs for example, does not compensate for poor work in another category. Failing grade (F) is given if not all the requirements for a "D" are met.
 
-- [ ] 5 ELTAs
-- [ ] 15 points on the final exam
-- [ ] ORION diagnostics for 4 chapters
-- [ ] 50% on Mastery
+Read the example on the next page and referring back to the table above try to determine the final letter grade.
 
-## C grade bundle
+### Example
 
-- [ ] 6 ELTAs
-- [ ] 22 points on the final exam
-- [ ] ORION diagnostics for 6 chapters
-- [ ] 50% on two the following: ORION proficiency, Mastery, iClicker
+At the end of the semester Morgan showed mastery on 13 LTs, passed 9 AEPs, did all Class Preps, collected 25 iClicker credits, and 120 points on Homework.[^7659a235]
 
-## B grade bundle
-
-- [ ] 6 ELTAs
-- [ ] 2 SLTAs
-- [ ] 29 points on the final exam
-- [ ] ORION diagnostics for 8 chapters
-- [ ] 60% on two of the following: ORION proficiency, Mastery, iClicker
-- [ ] One of the following: Connections, Synthesis, 36 points on the final exam
-
-## A grade bundle
-
-- [ ] 6 ELTAs
-- [ ] 4 SLTAs
-- [ ] 36 points on the final exam
-- [ ] ORION diagnostics for 10 chapters
-- [ ] 70% on two of the following: ORION proficiency, Mastery, iClicker
-- [ ] Two of the following: Connections, Synthesis, 43 points on the final exam
-
-# Revision and reassessment {#revisions}
-
-The grading system in our course insists that you show consistent excellence in all assignments in the course---outstanding work on quizzes, for example, does not “bring up” poor work on online assignments. This can be challenging, but the course also provides a robust system of revision and reassessment for most graded tasks, so that if you aren’t happy with a grade on an assignment, you’ll have multiple chances to try again or fix any mistakes.
-
-## Revision of WileyPLUS assignments
-
-When you submit WileyPLUS assignment, you receive instant feedback on which answers were right and which ones were wrong. You may reattempt any online homework set as many times as you want until the deadline for the set. After the deadline, no revision is allowed and your score is final.
-
-## Revision of Learning Target Assessments (LTAs)
-
-LTAs that receive a *Progressing* grade may be reattempted. Each additional attempt will cover the same material but will not be identical to past quizzes. LTAs can be re-attempted during scheduled LTA sessions and during office hours. 
-
-I found that students tend to defer retaking LTAs until it's too late. Therefore, each student can attempt maximum 2 LTA re-takes per week and LTA retakes will be more costly as time goes by ([see Appendix A](#lta-cost)). LTA re-take sessions schedule will be announced on Canvas. Also, I need to know in advance which LTAs you plan to re-attempt. Thus, you must fill an online form no later than 12 pm the day you plant to take the quiz. To fill out the form go to this page: [https://forms.gle/vzeBem1uMybtgb7B7][dac9248f]
-
-  [dac9248f]: https://forms.gle/vzeBem1uMybtgb7B7 "LTA re-take request"
-
-## Tokens
-
-Tokens are a “currency” in the course that you can use to purchase LTA re-takes and exceptions to some course rules. Each student begins the course with 20 tokens which can be exchanged for:
-
-* LTA re-takes according to the policy describe above;
-* feedback on a draft of _Connections_ or _Synthesis_ assignment (2 tokens/consultation);
-* 24-hour deadline extension on Mastery assignments in a module;
-* Participation Credits (2 tokens/credit);
-* total reset of ORION proficiency metric (3 tokens); and
-* points on the final exam (3 tokens/points, max 5 points).
+[^7659a235]: Morgan will receive "B" in the course, because Morgan did not meet all requirements for A (minimum 14 LTs mastered). Exceeding requirements in other categories is irrelevant.
 
 # Course policies
 
 ## Technology issues when submitting work
 
-WileyPLUS ORION and Mastery assignments are submitted electronically. It is the student’s responsibility to make sure these items are submitted on time, through any means necessary, even if technology issues arise. Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
+It is the student’s responsibility to make sure these items are submitted on time, even if technology issues arise. Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later, use different browser, upload to Google Drive and share a private link or send the file as an email attachment until you can upload it successfully.
 
-## Academic Dishonesty
+## Academic integrity
 
-Your work on Learning Target Assessments must be done individually, and all collaboration is prohibited.
+Academic dishonesty carries with it strong punitive measures mandated by Fresno State policies, including possible automatic failure of the course or suspension from the university. Details are described in Academic Policy Manual 235 which you can read here: [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf). __Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.__
 
-For most other assignments you are allowed and encouraged to work with others. However, the final product that you submit for feedback must be the result of your own efforts. Therefore you may share ideas and strategies with others, but collaboration on the actual finished product you submit is not allowed. Your work is expected to be the product of your own thinking, written and explained in your own words with no parts of the work copied from external sources such as books or websites, and done clearly enough in your own mind that you could explain the work from start to finish if asked. Specifically, this excludes:
+Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the rules for collaboration on each kind of work you do:
 
-- copying work from another student;
-- copying work from a website;
-- paraphrasing work done by another student or from print or internet resources---i.e. putting it in your own words---without coming up with the main ideas and strategies yourself; and
-- *allowing or enabling* another student to copy or paraphrase work that you did, even if you did the original work yourself.
++ *Class Prep*, *WileyPLUS Homework*: You may collaborate with others, but your writeup must be your own. You may not copy someone's work and submit it as your own, nor may you copy the ideas from someone and simply change how it's presented (or change wording).
++ *Checkpoints*, *AEPs*: No interactions at all with another person or with unauthorized sources on the internet is allowed. Any evidence of using information from another person or source will be investigated as academic dishonesty.
 
-Violation of this policy is considered “academic dishonesty” and carries with it strong punitive measures mandated by Fresno State, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
+### Resources you can and cannot use when submitting graded work
 
-You may feel tempted to academic dishonesty at some point in the semester. The work can be difficult, and many of you are under a lot of stress. If you are considering academic dishonesty, please STOP, take a breath, and remember that your classmates and I want you to succeed in the course. You are not alone, and you have a strong network in the class for getting help. The revision and resubmission policies mean that it’s OK to turn in work that isn’t perfect. There is no need to be academically dishonest! Just do your best on the work, and you'll have the chance to revise it later.
+Here are the approved resources you can access on all _Checkpoints_ and _AEPs_:
 
-## LTA make-up policy
+* the textbook;
+* video or document posted on Canvas site for this courses (but not other courses);
+* slides, class meeting notes, and other materials generated during class time; and
+* class zoom recordings.
 
-If you know in advance that you will miss an LTA (first attempt), and have a valid reason that can be verified by a document (e.g. a doctor's letter, or a letter from an athlete's sports team coach), I will decide on an individual basis. Notify me as soon as you confirm that you will not be able to take an LTA and I will arrange an alternative date/time for you.
+**Any resource NOT included on this list is to be considered off-limits and not approved for use on Checkpoints. Evidence of using unapproved resources will be considered academic dishonesty.** This includes:
 
-## Dropping the course after the census date
+- solution websites such as Chegg;
+- other students in the class, or past students from other CHEM 128 classes; and
+- other textbooks or videos not included above.
 
-A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition.
+All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I determine academic dishonesty has been committed, a report will be filed with the Dean of Students office, and the minimum penalty will be:
 
-Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+- "no pass" grade on a checkpoint and no possibility for retake;
+- "no pass" on AEP assignment and no possibility for revision; and
+- point deduction on final ACS exam.
 
-## Policy on children in class
+## Deadlines and late work
 
-Currently, the university does not have a formal policy on children in the classroom. The policy described here is thus, a reflection of my own beliefs and commitments to student, staff and faculty parents. I hope that you will feel comfortable disclosing your student-parent status to me. This is the first step in my being able to accommodate any special needs that arise. While I maintain the same high expectations for all student in my classes regardless of parenting status, I am happy to problem solve with you in a way that makes you feel supported as you strive for school-parenting balance.
+Deadlines for course work are clearly indicated on the Course Calendar; in cases of apparent conflict between dates, always assume that the Course Calendar is right.
+
++ *Class Prep* and *WileyPLUS Homework*: No extensions to deadlines are available. Simply submit a good faith effort on all items by the deadline.
++ *Checkpoints*: Submission window may be extended by spending a token. No other extensions are available.
++ *AEPs* will be active for submission for (re)assessment for 4 weeks. You simply submit your work when it is ready to be graded (subject to weekly limits). This deadline will not be extended.
+
+## Intellectual Property
+
+As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+
+## Dropping the course
+
+Dates and details on withdrawing from courses are described on the [Admissions web pages](http://fresnostate.edu/studentaffairs/are/registration/add-drop-deadlines.html).
+
+A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition. Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+
+## Changes to this syllabus
+
+Changes to this syllabus may occur during the term. In those cases, the changes will be announced in class and online, and if appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay current on the information passed along in course announcements and any changes that take place.
+
+## Credits
+
+Large portions of the language of this syllabus as well as ideas related to mastery grading and flipped learning were adapted from the syllabi of [Prof. Robert Talbert](https://hackmd.io/@rtalbert235) (Grand Valley University).
 
 # University policies and disclaimers
 
 In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
 
 **Students with Disabilities**: Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
-
-
 
 - Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/](http://fresnostate.edu/studentaffairs/classschedule/policy/)
 - Copyright Policy: [http://libguides.csufresno.edu/copyright](http://libguides.csufresno.edu/copyright)
@@ -223,7 +237,6 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/](http://www.fresnostate.edu/studentaffairs/registrar/registration/)
 - Computer requirements: [https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq][ec516c9f]
 - Disruptive classroom behavior: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf][d520cf08]
--
 
   [ec516c9f]: https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq "Computer requirements"
   [d520cf08]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf "Disruptive classroom behavior"
@@ -242,18 +255,61 @@ In addition to course policies, you are expected to be familiar with Academic Re
   [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
   [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
 
-# Appendix A {#lta-cost}
+\newpage
 
-| effective | 09/09 | 09/16 | 09/23 | 09/30 | 10/07 | 10/14 | 10/21 | 10/28 | 11/04 | 11/11 | 11/18 | 11/25 | 12/02 |
-|-----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| ELTA1 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 | 5 |
-| ELTA2 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 5 |
-| ELTA3 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 5 |
-| ELTA4 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 5 |
-| ELTA5 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
-| ELTA6 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 |
-| SLTA1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 | 3 |
-| SLTA2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 2 | 3 |
-| SLTA3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
-| SLTA4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| SLTA5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+# Appendix A: Schedule of Checkpoints {#checkpoint-schedule}
+
+| Day | Date   | Checkpoints     | LTs active |
+|-----|--------|-----------------|------------|
+| Thu | Aug-26 | Checkpoint ZERO |            |
+| Thu | Sep-02 | Checkpoint 1    | 1,2        |
+| Thu | Sep-09 | Checkpoint 2    | 1–3        |
+| Thu | Sep-23 | Checkpoint 3    | 1–7        |
+| Thu | Oct-07 | Checkpoint 4    | 1–10       |
+| Thu | Nov-04 | Checkpoint 5    | 3–12       |
+| Wed | Nov-10 | Checkpoint 6    | 4–12       |
+| Thu | Nov-18 | Checkpoint 7    | 4–16       |
+| Thu | Dec-02 | Checkpoint 8    | ~~1–16~~       |
+| Thu | Dec-09 | Checkpoint 9    | 1–16       |
+| Wed | Dec-15 | Checkpoint Encore | 1–16     |
+
+# Appendix B: Learning Targets {#LT}
+
+1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization).
+2. I can identify functional groups and convert between different drawing conventions.
+3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
+4. I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases.
+5. I can use conformational analysis to assess relative energy of conformations
+6. I can identify chirality centers in molecules. I can assign absolute and relative labels to designate configurational isomerism (Cahn–Ingold–Prelog, cis/trans, E/Z, etc.).
+7. I can use IUPAC nomenclature rules to convert structure to name and name to structure.
+8. I can identify types of (stereo)isomeric relationships between molecules. I can use projections to demonstrate stereoisomeric relationships.
+9. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
+10. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles.
+11. I can solve synthetic problems involving alkyl halides and sulfonates: substitution and elimination reactions.
+12. I can use conformational analysis to make predictions about selectivity of elimination reactions.
+13. I can solve synthetic problems involving alkenes
+14. I can use explain selectivity and divergent reaction pathways of nucleophilic substitution, β-elimination, and addition reactions.
+15. I can solve synthetic problems involving alkynes
+16. I can solve synthetic problems involving alcohols
+
+<!-- # Appendix C: AEP themes {#AEP}
+
+- Physical properties or organic compounds and intermolecular interactions
+- Position of acid–base equilibrium, concentrations of acid/conjugate base in solution, and selection of a suitable base/acid to steer the equilibrium.
+- Measures of stereochemistry and stereoselectivity
+- Explaining outcomes of chemical reactions through conformational analysis, transition state theory, and curved arrow mechanisms
+- Retrosynthetic analysis and multi-step synthesis
+ -->
+<!-- # 2019 Fall Learning Targets
+
+ELT1: Communicating Structure and Bonding
+ELT2: Nomenclature
+ELT3: Acids–Base Reactions & Resonance
+ELT4: Conformational Analysis
+ELT5: Stereochemistry
+ELT6: Communicating Reactivity and Mechanisms
+SLT1: Free Radicals and Their Reactions
+SLT2: Nucleophilic Substitution and Elimination Reactions
+SLT3: Addition C–C pi bonds
+SLT4: Alcohols and Phenols
+SLT5: Synthetic Strategies -->
