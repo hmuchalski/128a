@@ -1,112 +1,157 @@
 ---
-title: "Course Syllabus for Organic Chemistry Laboratory 2"
-subtitle: "CHEM 129B, Fall 2022"
-author: "Course coordinator: Hubert Muchalski, Ph.D."
-
-header-includes:
-- \usepackage[document]{ragged2e}
+tags: 129b, summer, syllabus
+title: Course Syllabus (CHEM 129B)
+author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
-Welcome to CHEM 129B, Organic Chemistry Laboratory 2! This document contains all the information you need to know about the course. **Read this document carefully, familiarize yourself with how the course works, and maintain that familiarity throughout the term.** Almost all questions about the course that you might ask can be answered by referencing the syllabus.
+# Course Syllabus
 
-This syllabus and schedule are subject to change in the event of extenuating circumstances. If you are absent from class, it is your responsibility to check on announcements made while you were absent. Changes and corrections will be announced on Canvas.
+| Course Name  | Organic Chemistry 2 (lab)       |  
+| :----------- | :------------------------------ |  
+| Semester     | 2022 Fall Semester              |  
+| Units        | 2                               |  
+| Department   | Chemistry and Biochemistry      |  
+| Time         | TR 12:00–15:50                  |  
+| Location     | Science 1-350                   |  
+| Instructor   | Dr. Hubert Muchalski            |  
+| Coordinator  | Dr. Hubert Muchalski            |  
+| Email        | hmuchalski@mail.fresnostate.edu |  
+| Office phone | 559-278-2711                    |  
+| Office       | Science 1, room 352             |  
+| Office hours | TBD  |  
 
-# General information
 
-- **Course name and number**: CHEM 129B (2 Units)
-- **Prerequisites**:CHEM 129A is a prerequisite. CHEM 128B is a prerequisite or corequisite. 
-- **Instructor**: Hubert Muchalski, PhD 
-    - phone[^phone-philosophy]: (559)-278-2711
-    - email[^email-philosophy]: [hmuchalski@mail.fresnostate.edu](mailto:hmuchalski@mail.fresnostate.edu))
-    - office hours[^office-hours]: Tuesday 12-1 pm ([zoom link](https://bit.ly/hubert-zoom)) or by appointment (see Canvas Calendar for available time slots)
+## How to use this syllabus
 
-[^office-hours]: It's unlikely that our class meetings will last entire time that's alloted to the course (2:50 h). There shouls be plenty of time to have office hours after our class activities are over. 
+This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
-[^phone-philosophy]: This is my campus office number that redirects to my personal cell phone. Calling me is the best way to reach me. Sometimes, a 3-minute phone call resolves an issue better than multiple email exchanges.
++ When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
++ Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
++ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
-[^email-philosophy]: Please note that I typically check email between 11 am and 6 pm, Monday through Friday. Usually, my response time is *within 12 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
+## About the course
 
-If there are questions or concerns that you have about this course that you are not able to resolve with your instructor, please contact the course coordinator Dr. Hubert Muchalski. The the issue cannot be resolved with the lab coordinator, please contact the department and/or college administrators:
+CHEM 129B is the second part of the year laboratory sequence in organic chemistry. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
 
-* Dr. Joy Goto (Chair, Chemistry Department): jgoto@mail.fresnostate.edu
-* Chemistry Department Office: (559) 278-2103
-* Dr. Christopher Meyer (Dean, College of Science and Mathematics): cmeyer@mail.fresnostate.edu
+## Assumed prior knowledge and skills
 
-# What is CHEM 129B
+Students who enroll in CHEM 129B should be able to:
 
-CHEM 129B, Organic Chemistry Laboratory 2, is the second part of the year laboratory sequence in organic chemistry.  As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
+* communicate the structure and properties of organic molecules using common drawing and naming conventions;
+* use fundamental laboratory techniques such as extraction, crystallization, distillation, chromatography
+* measure physical properties of organic compounds including melting and boiling points
+* demonstrate the ability to conduct laboratory work of high quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner
 
-# Course Learning Outcomes
 
-This course is organized into Modules and aims to help students achieve learning outcomes through online activities. Each module contains materials you need to complete the associated activities. Each course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society.
+## Course Learning Outcomes
+
+Course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society. 
 
 Upon completion of this course students will be able to:
 
-1. Communicate the structure and properties of organic molecules using common drawing and naming conventions
-2. Analyze chemical structures and reaction conditions to make and defend predictions about chemical transformations
-3. Use online databases to find relevant research articles containing information such as physical and chemical properties of organic molecules, synthetic procedures, and spectroscopic data.
-4. Use software tools such as ChemDraw to draw chemical structures, reactions, and mechanisms
-<!-- 5. Use software tools such as MestReNova and Topspin to process raw NMR data -->
-5. Plan a synthesis experiment by evaluating the information found in online databases and research articles
-<!-- 7. Carry out an experimental procedure to synthesize, isolate, purify, and analyze the product of a chemical reaction (face-to-face course only) -->
-6. Analyze the results of an experiment and be able to identify sources of error and suggest improvements;
-7. Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
-8. Communicate the results of experiments to the instructor and peers in a written form (lab report)
-9. Communicate the results of experiments to the instructor and peers in an oral or poster presentation
+* Keep accurate, clear, concise, and complete records of their laboratory work in a notebook that would allow a trained organic chemist to reproduce the results.
+* Use standard laboratory equipment and instruments, and evaluate the reliability and significance of laboratory data, all within professional ethical guidelines.
+* Use online databases to find relevant research articles containing information such as physical and chemical properties of organic molecules, synthetic procedures, and spectroscopic data.
+* Plan a synthesis experiment by evaluating the information found in online databases and research articles
+* Carry out an experimental procedure to synthesize, isolate, purify, and analyze the product of chemical synthesis
+* Analyze the results of an experiment and be able to identify sources of error and suggest improvements;
+* Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
+* Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
 
-# Department Student Learning Outcomes
 
-1. Students will apply their understanding of terminology, concepts, theories, and skills to solve problems by defining problems and research questions clearly, formulating testable hypotheses, designing and conducting experimental tests of hypotheses, analyzing and interpreting data, and drawing appropriate conclusions within professional ethical guidelines. (ACS Standards 7.1 & 7.6)
-2. Students will demonstrate the ability to conduct laboratory work of high quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner, keeping accurate, clear, concise, and complete records of their laboratory work in a notebook, properly using standard laboratory equipment and instruments, and evaluating the reliability and significance of laboratory data, all within professional ethical guidelines. (ACS Standards 7.1, 7.3, 7.6)
-3. Students will complete a literature search in one or more of the five chemical sub disciplines by using common literature search techniques and tools to find recent journal articles from the peer-reviewed literature, critically read these articles to extract relevant information, and communicate the significance of these articles in written or oral formats within professional ethical guidelines. (ACS Standards 7.2 & 7.6)
-4. Students will demonstrate the ability to clearly and effectively communicate their scientific results and opinions using written formats while following professional style and format conventions within professional ethical guidelines. (ACS Standards 7.4 & 7.6)
-5. Students will demonstrate the ability to clearly and effectively communicate their scientific results and opinions using oral formats while following professional style and format conventions within professional ethical guidelines. (ACS Standards 7.4 & 7.6)
-6. Students will demonstrate the ability to function effectively in collaborative and group work environments including the ability to work on a component of a larger project and connect work with previous results within professional ethical standards. (ACS Standard 7.5 & 7.6)
+## Course materials and technology
 
-# Course materials and technology
-
-- **Techniques Reference Manual** There are several free or affordable options here. See Canvas for the full list of resources
-<!-- - **Notebook:** Organic chemistry laboratory notebook from Hayden-McNeil, spiral-bound, (ISBN:9781930882461). General chemistry notebook (ISBN:978-1930882744) is also good alternative but will not have organic chemistry-specific reference materials on covers. -->
-<!-- - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided. -->
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/24394](https://fresnostate.instructure.com/courses/24394). The Canvas site will house assignments, grades, and links to materials/resources.
-- **Personal computer:** You will need a x86 class personal computer, either Windows of macOS that can run desktop applications. Mobile devices have potential to augment the learning experience, but are not capable to run the apps we will use. Refer to Canvas for the computer and software requirements.
-- **Zoom:** Virtual class meetings will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
-- **Document scanning**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
+- **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. Check Canvas for complete information about the textbook.
+- **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
+- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [INSERT LINK](https://). The Canvas site will house assignments, grades, and links to materials/resources.
+- **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
+- **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
+- **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Office 365 Apps**: Many assignments in this course are submitted as Word documents and are based on templates that are Word documents. Office 365 apps are available for Fresno State students. The suite includes the scanning app _Office Lens_. [Learn more](https://help.fresnostate.edu/students/software/office365.php).
 
-# Course Modules
+## Course goal
 
-* M0. Start Here: Course Orientation
-* M1. Chemical Hazards and Risk Assessment
-* M3. Research Tools: SciFinder Scholar
-* M2. Research Tools: Journals and Scientific Databases
-* M4. Green Chemistry
-* M5. Spectroscopy part 1: IR & MS
-* M6. Spectroscopy part 2: NMR
-* M7. Synthesis of Methyl Diantilis
-* M8. Greener Synthesis of Benzil
-* M9. Structural Elucidation of Acetophenone Derivatives
-* M10. Stereoselectivity of Hydride Reduction 1,2-Diketones
-* M11. Independent Project
+The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
-# Assignments and grading
+## Course workflow
 
-Graded assignments are organized into assignment groups and each group contributes to the final grade. Points earned for assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 points for a report than 100 points for completing a simulation. 
+**Before class**, your task will be to review previously covered material and for the upcoming lab by reading the assigned material, preparing the pre-experiment documentation, reviewing the relevant lab techniques, and reviewing the safety information about chemicals you will be working with.
 
-| Assignment Category                | %Weight |  
-| ---------------------------------- | ------- |  
-| Chemical Safety                    | 10%     |  
-| Reading assignments [Perusall]     | 7%      |  
-| Pre-lab assignments                | 15%     |  
-| Quizzes                            | 8%      |  
-| Homework                           | 15%     |
-| Spectroscopy assignments           | 20%     |  
-| Reports                            | 15%     |  
-| Independent Project                | 10%     |  
-| Extra credit                       | 3%      |  
-| Total                              | 103%    |  
+**Class time** will be spent on carrying out experiments, making observations, generating results, and discussions. Although results and observations are not graded directly, they are important components of lab reports. For example, not making a key observation or obtaining poor quality data may reduce your grade on the experiment.
 
-\newpage
+**After class** you will work on finalizing the documentation related to the experiment usually in a form of typed lab report. Details for each post-lab assignment will be posted on Canvas. Document templates will be available for formal lab reports.
+
+:::info
+**Keeping records**. Assume that you're in note-taking mode at all time when you are in the lab. Well prepared pre-lab and in-lab notes are very important because they are the basis for the post-lab summary or report that you will be asked to complete.
+
+In-lab notes document what you did in the lab (including notes taken during lecture and discussions) and the results of your experimental work. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need write down details that are relevant and necessary for you (for someone else) to reproduce the experiment. Assume that your notes are going to be read by a trained organic chemist. For example, you don't have to explain what is a round-bottomed flask but you should mention the size of flask, joint size, etc.
+
+Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of experimental record. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook are discussed in the textbook and will be reviewed in the lab. You will submit your in-lab notes for review before you leave the lab room.
+:::
+
+## Learning activities and assessments
+
+Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, and a written lab report where data are reported and discussed. 
+
+| Item                         | Value |
+|------------------------------|-------|
+| Pre-lab assignment           | 2%    |
+| In-lab notes                 | 2%    |
+| Lab report                   | 6%    |
+| Independent Project (notes)  | 4%    |
+| Independent Project (report) | 8%    |
+| Independent Project (poster) | 8%    |
+
+Except for lab reports, your work will be graded either as *satisfactory* or *unsatisfactory*. For chemical samples, for example, *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. Specific criteria for *satisfactory* work will be provided for each assignment.
+
+## The grading system in CHEM 129B
+
+:::warning
+Grading in this course is different than you might be used to. Please read this section carefully and ask questions as needed. 
+:::
+
+As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe your work should be evaluated by just like everyone else's work in the real world is evaluated, i.e., by giving you *clearly defined standards* for quality, *detailed verbal feedback* on your work, and *opportunities to try again* based on the feedback. This gets you into a *feedback loop*, a conversation between you and me about your work, that continues until your work meets the standards (or we reach the end of the semester). In light of the principles outlined above, in this course students can *revise and resubmit some of their work*, several times over if needed, using the feedback at each stage to improve and grow.
+
+### Types of graded work
+
+Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, data analysis, and a written lab report. 
+
+| Item                    | Value | Can be revised? |  
+| ----------------------- | ----- | --------------- |  
+| Pre-lab documentation   | 2%    | Yes             |  
+| In-lab notes            | 1%    | No              |  
+| Results (yield & purity)| 1%    | No              |  
+| Lab report              | 6%    | Yes             |  
+
+
+Pre-lab documentation, results, and notes and will be graded either as *successful* or *unsatisfactory*. For chemical samples (results), *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. 
+
+### Lab reports and the EMRN rubric
+
+One of the main objectives of this course is for you to learn to interpret and communicate experimental results. The lab report is the assignment that shows your level of understanding of the concepts, techniques, and instrumentation used in the lab. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
+
+![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
+
+Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
+
+- grade "E" or "M" receives full credit (8%),
+- grade "R" will receive half of the credit (4%) with an option to revise and resubmit,
+- grade "N" will receive quarter of the credit (2%) with an option to revise and resubmit
+- no report will not receive credit.
+
+## Assignments and grading
+
+Graded assignments are organized into assignment groups and each group contributes to the final grade. Points earned for assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 points for a report than 100 points for completing a homework problem. 
+
+| Assignment Category       | %Weight  |  
+| ------------------------- | -------- |  
+| Experiments (10% each)    | 50%      |  
+| Quizzes                   | 20%      |  
+| Independent Project       | 20%      |  
+| Misc (homework, problems) | 10%      |  
+| **Total**                 | **100%** |  
+
+
 
 Final grade will be determined based on overall performance according to the weights in the table above.
 
@@ -118,26 +163,25 @@ Final grade will be determined based on overall performance according to the wei
 | D     | 60-69%      |  
 | F     | <60%        |  
 
-# Virtual classroom policies and statements
 
-## Intellectual Property
+## Laboratory Code of Safe Practices
 
-As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms. Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, Internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
+1. NO food or drink in the laboratory.
+2. Wear clothing appropriate for laboratory work.
+3. Select and correctly use appropriate Personal Protective Equipment (PPE).
+4. Know what to do and who to contact in an emergency in the laboratory.
+5. Avoid distractions and be alert to and aware of your surroundings and potential hazards in your area.
+6. Maintain a safe and clean work area.
+7. Only conduct experiments or procedures approved by your lab instructor or research advisor.
+8. Understand the common chemical hazards and hazards specific to the chemicals and procedures with which you are working.
+9. Understand and follow best practices on how to handle, transport, store, and dispose of chemicals safely.
+10. If any equipment, glassware, or procedures are not working properly or as expected, notify your instructor before proceeding.
+11. Notify your instructor if you have, develop, or may develop any medical conditions (e.g. severe asthma, limited mobility, vision impairment, pregnancy, etc) that may affect your safety in the laboratory or sensitivity to chemicals, so that your instructor can properly advise or accommodate you on minimizing the risks associated with laboratory work.
 
-In addition to course policies, you are expected to be familiar with Academic Regulations described in the [University Catalog](http://www.fresnostate.edu/catalog/academic-regulations/) as well as policies listed below.
+These principles will be discussed in detail during the first week of class. More information can be found here: [https://goo.gl/1UFRbo](https://goo.gl/1UFRbo). Also, refer to [_Guidelines for Chemical Laboratory Safety in Academic Institutions_](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf) published by American Chemical Society.
 
-## Health screening
 
-Students who come to campus for face-to-face classes will be required to complete a daily health screening which will include temperature checks. If you have experienced COVID-19 symptoms and/or have tested positive within the past 10 days; or if you have had close contact (less than 6 feet for longer than 15 minutes while unmasked) with a suspected or confirmed COVID-19 patient within the past 14 days, you are not allowed to come to campus. Please complete the campus [online reporting form][ec7e78cb]. A campus official will reply to provide guidance and information.    
-
-  [ec7e78cb]: https://fresnostate.co1.qualtrics.com/jfe/form/SV_3faIAsuC8CzuFjD?Q_FormSessionID=FS_UFJ902LXgDJbKeZ "online reporting form"
-
-## Safety Measures
-
-Consistent with the Governor’s order and updated state public-health guidelines, face masks or cloth face coverings are required to be worn in public spaces on-campus and during in-person classes to reduce possible exposure to COVID-19 and prevent the spread of the virus. Physical distancing must be practiced by maintaining 6 feet of distance between individuals. Good hygiene of hand washing for a minimum of 20 seconds or using hand sanitizer is required. Please avoid touching your face with unclean hands. Disposable face masks will be provided to anyone who arrives to campus without one. Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](http://www.fresnostate.edu/president/coronavirus/index.html)
-
-# Course policies
-
+## Course policies
 
 ## Attendance and participation
 
@@ -236,3 +280,4 @@ Failing or performing poorly in a class is not an acceptable "serious and compel
 [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
 [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
 [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
+ 

@@ -6,14 +6,14 @@
 # Then, the output file is copied to "pandoc-builds" directory with a timestamp as a prefix
 #
 # Run "make pdf" to only execute conversion to PDF etc.
-# Run "make all" to convert to all formats (HTML, PDF, DOCX, RTF, ODT, EPUB)
+# Run "make all" to convert to formats listed under EXPORTED_DOCS
 # Run "make clean" to delete converted files (it doesn't delete files in "pandoc-builds" directory)
 
 # Defining the timestamp variable
 ts := $(shell /bin/date "+%y%m%d%H%M")
 
 # Semester variable
-SEMESTER=AY22-23_Fall
+SEMESTER=ay22-23-fall
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)
@@ -28,6 +28,12 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf) \
+ $(SOURCE_DOCS:.md=-$(SEMESTER).docx)\
+ $(SOURCE_DOCS:.md=-$(SEMESTER)-calibri.docx)
+
+PUBLISHED_DOCS=\
+ $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
+ $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).docx)\
  $(SOURCE_DOCS:.md=-$(SEMESTER)-calibri.docx)
 
@@ -99,6 +105,7 @@ PANDOC_DOCX_CALIBRI_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/
 .PHONY: all clean
 
 all : $(EXPORTED_DOCS)
+print: $(PUBLISHED_DOCS)
 
 # Individual outputs commands
 
