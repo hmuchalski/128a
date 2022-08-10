@@ -33,7 +33,11 @@ This document contains all the information you need to navigate the course. This
 
 CHEM 129B is the second part of the year laboratory sequence in organic chemistry. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
 
-## Assumed prior knowledge and skills
+### Course goal
+
+The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
+
+### Assumed prior knowledge and skills
 
 Students who enroll in CHEM 129B should be able to:
 
@@ -43,7 +47,7 @@ Students who enroll in CHEM 129B should be able to:
 * demonstrate the ability to conduct laboratory work of high quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner
 
 
-## Course Learning Outcomes
+### Course Learning Outcomes
 
 Course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society. 
 
@@ -59,7 +63,7 @@ Upon completion of this course students will be able to:
 * Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
 
 
-## Course materials and technology
+### Course materials and technology
 
 - **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. Check Canvas for complete information about the textbook.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
@@ -69,9 +73,6 @@ Upon completion of this course students will be able to:
 - **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Office 365 Apps**: Many assignments in this course are submitted as Word documents and are based on templates that are Word documents. Office 365 apps are available for Fresno State students. The suite includes the scanning app _Office Lens_. [Learn more](https://help.fresnostate.edu/students/software/office365.php).
 
-## Course goal
-
-The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
 ## Course workflow
 
@@ -113,7 +114,7 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 
 ### Grading of experiments
 
-Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, data analysis, and a written lab report. Each experiment is worth 10% of the final grade and each will have several components contributing to the score. See table below for details. 
+Graded work that you produce in- and outside the lab include prelab documentation, experimental notes and observations, results (yield, spectroscopic data) and a written lab report. Each experiment contributes 10% to the final grade and will have several components (see table below for details). 
 
 | Item                    | Value | Can be revised? |  
 | ----------------------- | ----- | --------------- |  
@@ -136,6 +137,8 @@ Each lab report can be revised and resubmitted before the grade becomes final. D
 - grade "R" will receive half of the credit (4%) with an option to revise and resubmit,
 - grade "N" will receive quarter of the credit (2%) with an option to revise and resubmit
 - no report will not receive credit.
+
+### Independent project
 
 ### Assingment of letter grades
 
@@ -167,7 +170,7 @@ Final grade will be determined based on overall performance according to the wei
 These principles will be discussed in detail during the first week of class. More information can be found here: [https://goo.gl/1UFRbo](https://goo.gl/1UFRbo). Also, refer to [_Guidelines for Chemical Laboratory Safety in Academic Institutions_](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf) published by American Chemical Society.
 
 
-## Course policies
+# Policies and disclaimers
 
 ## Attendance and participation
 
@@ -212,7 +215,7 @@ A *serious and compelling reason* is defined as an unexpected condition that is 
 
 Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
 
-# University policies and disclaimers
+## University policies and disclaimers
 
 **Students with Disabilities**: Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
 
@@ -234,7 +237,7 @@ Failing or performing poorly in a class is not an acceptable "serious and compel
 [7]: https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq "Computer requirements"
 [8]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf "Disruptive classroom behavior"
 
-# University Services
+## University Services
 
 - [Associated Students, Inc.][aef8ae07]
 - [Dream Success Center][a7e41318]
