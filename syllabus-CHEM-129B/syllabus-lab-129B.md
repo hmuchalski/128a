@@ -89,22 +89,21 @@ In-lab notes document what you did in the lab (including notes taken during lect
 Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of experimental record. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook are discussed in the textbook and will be reviewed in the lab. You will submit your in-lab notes for review before you leave the lab room.
 :::
 
-## Learning activities and assessments
+## Learning activities, assessments, and grades
 
-Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, and a written lab report where data are reported and discussed. 
+The main "unit" that divides the content of the course is an experiment. Each experiment will have several learning activities. You will be in the lab for several hours, but there will also be work assigned outside of lab time. Graded work that you produce in- and outside the lab include prelab documentation, experimental notes, chemical product, and a written lab report. There will also be quizzes, homework problems, as well as presentation of the assigned independent project.
 
-| Item                         | Value |
-|------------------------------|-------|
-| Pre-lab assignment           | 2%    |
-| In-lab notes                 | 2%    |
-| Lab report                   | 6%    |
-| Independent Project (notes)  | 4%    |
-| Independent Project (report) | 8%    |
-| Independent Project (poster) | 8%    |
+Graded assignments are organized into assignment groups and each group contributes to the final grade. Point values used to score assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 points for a report than 100 points for completing a homework problem. 
 
-Except for lab reports, your work will be graded either as *satisfactory* or *unsatisfactory*. For chemical samples, for example, *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. Specific criteria for *satisfactory* work will be provided for each assignment.
+| Assignment Category       | %Weight  |  
+| ------------------------- | -------- |  
+| Experiments (10% each)    | 50%      |  
+| Quizzes                   | 20%      |  
+| Independent Project       | 20%      |  
+| Misc (homework, problems) | 10%      |  
+| **Total**                 | **100%** |  
 
-## The grading system in CHEM 129B
+### Grading philosophy
 
 :::warning
 Grading in this course is different than you might be used to. Please read this section carefully and ask questions as needed. 
@@ -112,9 +111,9 @@ Grading in this course is different than you might be used to. Please read this 
 
 As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe your work should be evaluated by just like everyone else's work in the real world is evaluated, i.e., by giving you *clearly defined standards* for quality, *detailed verbal feedback* on your work, and *opportunities to try again* based on the feedback. This gets you into a *feedback loop*, a conversation between you and me about your work, that continues until your work meets the standards (or we reach the end of the semester). In light of the principles outlined above, in this course students can *revise and resubmit some of their work*, several times over if needed, using the feedback at each stage to improve and grow.
 
-### Types of graded work
+### Grading of experiments
 
-Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, data analysis, and a written lab report. 
+Graded work that you produce in- and outside the lab include prelab and in-lab documentation, chemical product, data analysis, and a written lab report. Each experiment is worth 10% of the final grade and each will have several components contributing to the score. See table below for details. 
 
 | Item                    | Value | Can be revised? |  
 | ----------------------- | ----- | --------------- |  
@@ -123,10 +122,9 @@ Graded work that you produce in- and outside the lab include prelab and in-lab d
 | Results (yield & purity)| 1%    | No              |  
 | Lab report              | 6%    | Yes             |  
 
+Pre-lab documentation, results, and notes and will be graded either as *satisfactory* or *unsatisfactory*. For chemical samples (results), *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. 
 
-Pre-lab documentation, results, and notes and will be graded either as *successful* or *unsatisfactory*. For chemical samples (results), *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. 
-
-### Lab reports and the EMRN rubric
+### Grading of lab reports and the EMRN rubric
 
 One of the main objectives of this course is for you to learn to interpret and communicate experimental results. The lab report is the assignment that shows your level of understanding of the concepts, techniques, and instrumentation used in the lab. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
 
@@ -139,19 +137,7 @@ Each lab report can be revised and resubmitted before the grade becomes final. D
 - grade "N" will receive quarter of the credit (2%) with an option to revise and resubmit
 - no report will not receive credit.
 
-## Assignments and grading
-
-Graded assignments are organized into assignment groups and each group contributes to the final grade. Points earned for assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 points for a report than 100 points for completing a homework problem. 
-
-| Assignment Category       | %Weight  |  
-| ------------------------- | -------- |  
-| Experiments (10% each)    | 50%      |  
-| Quizzes                   | 20%      |  
-| Independent Project       | 20%      |  
-| Misc (homework, problems) | 10%      |  
-| **Total**                 | **100%** |  
-
-
+### Assingment of letter grades
 
 Final grade will be determined based on overall performance according to the weights in the table above.
 
@@ -187,17 +173,6 @@ These principles will be discussed in detail during the first week of class. Mor
 
 Students are expected to attend and actively participate in all class sessions. During the Zoom calls, students are expected to engage and collaborate with peers on assigned tasks. Outside of the synchronous class time, students are expected to complete reading assignments (Perusall) to prepare for the class and help the instructor shape the lesson plan.
 
-### Definitions
-
-_Absence_ = Not attending the zoom meeting or more than 15 min late to the zoom meeting. 
-
-### Consequences
-
-- 1 Absence: Notification and a reminder about the attendance policy
-- 2 Absences: 1-on-1 zoom meeting with the instructor
-- 3 Absences: 3% reduction of the final grade; and 
-- 1% reduction for each additional absence
-
 Excuses and exceptions will be interpreted by following university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). 
 
 ## Late work/make-up policy
@@ -217,14 +192,6 @@ I understand that life gets in the way. I also strongly believe in revision and 
 ## Technology issues when submitting work
 
 For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to the instructor (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
-
-## Respondus Lockdown Browser
-
-Respondus Lockdown Browser is a custom browser that locks down the testing environment within Canvas. When students use the Respondus Lockdown Browser they are unable to print, copy, go to a URL, or access other applications. When an assessment is started, students are locked into it until they submit it for grading. Available for both Windows and Mac. Respondus Lockdown Browser does not work on a Chromebook.
-
-Respondus Lockdown Browser uses a standard Windows or Mac installer that can be downloaded by faculty or students from the following link (note: this link is unique for Fresno State):
-
-[http://www.respondus.com/lockdown/download.php?id=749643058](http://www.respondus.com/lockdown/download.php?id=749643058)
 
 ## Academic Dishonesty
 
