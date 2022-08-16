@@ -226,6 +226,33 @@ All course materials, including but not limited to the syllabus, readings, quiz 
 
 In the final weeks of the semester, you will be asked to complete a short survey to provide feedback about this class. The primary goal of student ratings is to help your instructor improve the class. Feedback will also be reviewed by the department chair and the college dean. You will be given 15 minutes of class time to complete student ratings. Please offer feedback honestly and thoughtfully. Your participation is appreciated. You can access your student rating surveys and get more information at: https://sites.google.com/mail.fresnostate.edu/fresno-state-sri/fssri-for-students.
 
+## COVID Policies
+
+The following sections regarding COVID are subject to change given changing circumstances on-campus and in the community. Please check the COVID website for the most up-to-date information at [covid.fresnostate.edu](https://covid.fresnostate.edu)
+
+### Vaccination
+
+All Students who access Campus/Programs must be Fully Vaccinated (including the booster dose when eligible to receive it) in order to participate in any in-person course-related activities (either on-campus or off-campus). Students may select that they will not be participating in any in-person activities (which includes use of the Library, Student Union and/or Student Health & Counseling Center) and/or may attest to a Medical or Religious Exemption from the vaccine policy requirement in accordance with CSU and campus procedures. Students should go to the Student Portal to update their COVID self-certification form and vaccine documentation. Requests for exemptions can be found there. You are not to come to campus if any of the following are true:
+
+* You are not considered fully vaccinated, and you have not attested to a medical or religious exemption.
+* You have attested to an exemption, but you have not completed your mandatory weekly COVID-19 test. 
+
+Health Screening: Please do not come to campus or off-campus learning site if any of the following is true: 
+
+* If you have experienced COVID-19 symptoms (vaccinated or not). 
+* If you have tested positive within the past 10 days.
+
+Please complete the campus online reporting form (https://covid.fresnostate.edu/cases/reporting.html), and you will then receive further guidance.
+Safety Measures:  While masks will no longer be required, we strongly encourage their use, as face coverings are still a valuable tool in the fight against COVID-19, especially in large group settings. We fully support and respect those who wish to continue wearing face coverings.
+Individuals can pick up face coverings, provided at no cost, at any of the following locations: 
+
+* Library
+* University Student Union
+* Student Health and Counseling Center
+* Student Housing Atrium
+* COVID Testing Site – check the below website for location
+
+Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](https://www.fresnostate.edu/coronavirus)
 
 ## University policies and disclaimers
 
