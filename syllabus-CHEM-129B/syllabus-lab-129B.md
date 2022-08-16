@@ -11,7 +11,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Semester     | 2022 Fall Semester              |  
 | Units        | 2                               |  
 | Department   | Chemistry and Biochemistry      |  
-| Time         | TR 12:00–15:50                  |  
+| Time         | TR 13:00–15:50                  |  
 | Location     | Science 1-350                   |  
 | Instructor   | Dr. Hubert Muchalski            |  
 | Coordinator  | Dr. Hubert Muchalski            |  
@@ -62,17 +62,17 @@ Upon completion of this course students will be able to:
 * Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
 * Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
 
+For more details refer to [Department Student Learning Outcomes](http://) modeled after American Chemical Society Standards. 
+
 
 ### Course materials and technology
 
-- **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. Check Canvas for complete information about the textbook.
+- **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. If you own a copy of Pavia's textbook (5th or 6th edition), you can use it in addition to the [LibreTexts book by Lisa Nichols](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)) Check Canvas for complete information about the textbook.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [INSERT LINK](https://). The Canvas site will house assignments, grades, and links to materials/resources.
 - **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 - **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
-- **Office 365 Apps**: Many assignments in this course are submitted as Word documents and are based on templates that are Word documents. Office 365 apps are available for Fresno State students. The suite includes the scanning app _Office Lens_. [Learn more](https://help.fresnostate.edu/students/software/office365.php).
-
 
 ## Course workflow
 
@@ -80,7 +80,7 @@ Upon completion of this course students will be able to:
 
 **Class time** will be spent on carrying out experiments, making observations, generating results, and discussions. Although results and observations are not graded directly, they are important components of lab reports. For example, not making a key observation or obtaining poor quality data may reduce your grade on the experiment.
 
-**After class** you will work on finalizing the documentation related to the experiment usually in a form of typed lab report. Details for each post-lab assignment will be posted on Canvas. Document templates will be available for formal lab reports.
+**After class** you will work on finalizing the documentation related to the experiment usually in a form of typed lab report. Details for each post-lab assignment will be posted on Canvas. Document templates will be available for formal lab reports. 
 
 :::info
 **Keeping records**. Assume that you're in note-taking mode at all time when you are in the lab. Well prepared pre-lab and in-lab notes are very important because they are the basis for the post-lab summary or report that you will be asked to complete.
@@ -98,10 +98,10 @@ Graded assignments are organized into assignment groups and each group contribut
 
 | Assignment Category       | %Weight  |  
 | ------------------------- | -------- |  
-| Experiments (10% each)    | 50%      |  
-| Quizzes                   | 20%      |  
-| Independent Project       | 20%      |  
-| Misc (homework, problems) | 10%      |  
+| Experiments (6)           | 48%      |  
+| Quizzes                   | 16%      |  
+| Independent Project       | 30%      |  
+| Misc (homework, problems) | 6%       |  
 | **Total**                 | **100%** |  
 
 ### Grading philosophy
@@ -118,12 +118,12 @@ Graded work that you produce in- and outside the lab include prelab documentatio
 
 | Item                    | Value | Can be revised? |  
 | ----------------------- | ----- | --------------- |  
-| Pre-lab documentation   | 2%    | Yes             |  
+| Pre-lab documentation   | 1%    | Yes             |  
 | In-lab notes            | 1%    | No              |  
 | Results (yield & purity)| 1%    | No              |  
-| Lab report              | 6%    | Yes             |  
+| Lab report              | 5%    | Yes             |  
 
-Pre-lab documentation, results, and notes and will be graded either as *satisfactory* or *unsatisfactory*. For chemical samples (results), *satisfactory* typically means that evidence a product of reasonable yield and purity was submitted by the due date. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. 
+Pre-lab documentation, lab notes, and results and will be graded either as *satisfactory* (credit) or *unsatisfactory* (no credit). *Satisfactory* score for experimental results typically means that evidence a product of reasonable yield and purity was submitted by the due date *unsatisfactory* mark will be given if the yield and/or purity are compromised. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. Pre-labs and reports can be revised based on feedback from the instructor. In-lab notes and results cannot be revised and are final. 
 
 ### Grading of lab reports and the EMRN rubric
 
@@ -133,12 +133,14 @@ One of the main objectives of this course is for you to learn to interpret and c
 
 Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
 
-- grade "E" or "M" receives full credit (8%),
-- grade "R" will receive half of the credit (4%) with an option to revise and resubmit,
-- grade "N" will receive quarter of the credit (2%) with an option to revise and resubmit
+- grade "E" or "M" receives full score (5%),
+- grade "R" will receive partial score (3%) with an option to revise and resubmit,
+- grade "N" will receive partial score (2%) with an option to revise and resubmit
 - no report will not receive credit.
 
 ### Independent project
+
+Last 5 weeks of the semester students will carry out independent synthesis project. The goal of the project is to synthesize a target molecule but this time the methods are not given by the instructor. Instead, students will complete literature research to find the necessary information needed to complete the synthesis. The culminating assignment is a presentation to the class. 
 
 ### Assingment of letter grades
 
@@ -170,33 +172,23 @@ Final grade will be determined based on overall performance according to the wei
 These principles will be discussed in detail during the first week of class. More information can be found here: [https://goo.gl/1UFRbo](https://goo.gl/1UFRbo). Also, refer to [_Guidelines for Chemical Laboratory Safety in Academic Institutions_](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf) published by American Chemical Society.
 
 
-# Policies and disclaimers
+## Policies and disclaimers
 
-## Attendance and participation
+### Attendance and participation
 
 Students are expected to attend and actively participate in all class sessions. During the Zoom calls, students are expected to engage and collaborate with peers on assigned tasks. Outside of the synchronous class time, students are expected to complete reading assignments (Perusall) to prepare for the class and help the instructor shape the lesson plan.
 
 Excuses and exceptions will be interpreted by following university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). 
 
-## Late work/make-up policy
+### Late work/make-up policy
 
-It is important that you understand my homework policy. I don't want to weigh the different reasons students had for turning in late work using my own social filters because it is unfair. As adult learners, sometimes we must pay more attention to our lives than our schoolwork. That’s OK; I don’t think students who do that are bad students. If the grade is important to you, somehow you will find a way to get the stuff turned in on time. No single missed weekly assignment will cause you to fail this class. 
+Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the univeristy policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
 
-I understand that life gets in the way. I also strongly believe in revision and refinement of academic work and have developed the following late work policy: 
-
-1. Homework assignments are due on Sunday at 11:59 pm and at 12:00 am (Monday) a 5-day grace period begins. 
-2. Assignments received by the Sunday deadline will be graded first and returned as soon as possible. During the grace period you can revise/resubmit returned assignments[^assessable] based on the feedback. 
-3. During the grace period you can still turn in the assignment without penalty, no questions asked, but it will not be graded in time for you to revise/resubmit based on the feedback. 
-4. Revision and resubmission is not available for assignments that aim to prepare you for the class meeting: pre-lab assignments and Perusall reading assignments. Those deadlines are final. 
-5. Assignments received after the grace period will not be accepted for a grade unless the reason meets the guidelines set forth by the university policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
-
-[^assessable]: The assignment needs to be complete in order to qualify for the revision and resubmission. In other words, an incomplete assignment submitted just to meet the deadline will not be allowed to be revised/resubmitted. In such case, it is better to complete the assignment and turn it in within the 5-day grace period.
-
-## Technology issues when submitting work
+### Technology issues when submitting work
 
 For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to the instructor (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
 
-## Academic Dishonesty
+### Academic Dishonesty
 
 For most assignments you are allowed and encouraged to work with others. However, the final product that you submit for feedback must be the result of your own efforts. Therefore you may share ideas and strategies with others, but collaboration on the actual finished product you submit is not allowed. Your work is expected to be the product of your own thinking, written and explained in your own words with no parts of the work copied from external sources such as books or websites, and done clearly enough in your own mind that you could explain the work from start to finish if asked. Specifically, this excludes:
 
@@ -207,13 +199,33 @@ For most assignments you are allowed and encouraged to work with others. However
 
 Violation of this policy is considered “academic dishonesty” and carries with it strong punitive measures mandated by Fresno State, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
-You may feel tempted to academic dishonesty at some point in the semester. The work can be difficult, and many of you are under a lot of stress. If you are considering academic dishonesty, please STOP, take a breath, and remember that your classmates and I want you to succeed in the course. You are not alone, and you have a strong network in the class for getting help. The revision and resubmission policies mean that it’s OK to turn in work that isn’t perfect. There is no need to be academically dishonest! Just do your best on the work, and you'll have the chance to revise it later.
-
-## Dropping the course after the census date
+### Dropping the course after the census date
 
 A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition.
 
 Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+
+### Plagiarism Detection
+
+The campus subscribes to Turnitin, a plagiarism prevention service, through Canvas. You will need to submit written assignments to Turnitin. Student work will be used for plagiarism detection and for no other purpose. The student may indicate in writing to the instructor that he/she refuses to participate in the plagiarism detection process, in which case the instructor can use other electronic means to verify the originality of their work. Turnitin Originality Reports WILL NOT be available for your viewing. 
+
+### Dispute Resolution
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter. 
+
+* Chair's name: Dr. Krish Krishnan
+* Department name: Chemistry and Biochemistry
+* Chair's email: krish@csufresno.edu
+* Department phone number: 
+
+### Intellectual Property
+
+All course materials, including but not limited to the syllabus, readings, quiz questions, exam questions, and assignments prepared by the instructor are property of the instructor and University. Students are prohibited from posting course materials online (e.g., Course Hero) and from selling course materials to or being paid for providing materials to any person or commercial firm without the express written permission of the professor teaching this course. Doing so will constitute both an academic integrity violation and a copyright violation. Audio and video recordings of class lectures are prohibited unless I give you explicit permission in advance. Students with an official letter from the Services for Students with Disabilities office may record the class if SSD has approved that service. Otherwise, recordings of lectures are included in the intellectual property notice described above.
+
+### Student Ratings of Instruction
+
+In the final weeks of the semester, you will be asked to complete a short survey to provide feedback about this class. The primary goal of student ratings is to help your instructor improve the class. Feedback will also be reviewed by the department chair and the college dean. You will be given 15 minutes of class time to complete student ratings. Please offer feedback honestly and thoughtfully. Your participation is appreciated. You can access your student rating surveys and get more information at: https://sites.google.com/mail.fresnostate.edu/fresno-state-sri/fssri-for-students.
+
 
 ## University policies and disclaimers
 
