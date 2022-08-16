@@ -10,6 +10,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | :----------- | :------------------------------ |  
 | Semester     | 2022 Fall Semester              |  
 | Units        | 2                               |  
+| Canvas URL   | [https://fresnostate.instructure.com/courses/61072](https://fresnostate.instructure.com/courses/61072) |  
 | Department   | Chemistry and Biochemistry      |  
 | Time         | TR 13:00–15:50                  |  
 | Location     | Science 1-350                   |  
@@ -62,7 +63,7 @@ Upon completion of this course students will be able to:
 * Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
 * Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
 
-For more details refer to [Department Student Learning Outcomes](http://) modeled after American Chemical Society Standards. 
+For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after American Chemical Society Standards. 
 
 
 ### Course materials and technology
