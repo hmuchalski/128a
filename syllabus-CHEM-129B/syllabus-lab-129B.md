@@ -10,7 +10,6 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | :----------- | :------------------------------ |  
 | Semester     | 2022 Fall Semester              |  
 | Units        | 2                               |  
-| Canvas URL   | [https://fresnostate.instructure.com/courses/61072](https://fresnostate.instructure.com/courses/61072) |  
 | Department   | Chemistry and Biochemistry      |  
 | Time         | TR 13:00–15:50                  |  
 | Location     | Science 1-350                   |  
@@ -19,7 +18,8 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours | TBD  |  
+| Office hours | Monday, 3–4:30 pm               |  
+
 
 
 ## How to use this syllabus
@@ -27,7 +27,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
-+ Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
++ Links to all important documents and information can be found on the course [Canvas site][cnvs]
 + Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
 ## About the course
@@ -36,7 +36,7 @@ CHEM 129B is the second part of the year laboratory sequence in organic chemistr
 
 ### Course goal
 
-The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
+The goal of this course is to encourage students to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
 ### Assumed prior knowledge and skills
 
@@ -65,12 +65,11 @@ Upon completion of this course students will be able to:
 
 For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after American Chemical Society Standards. 
 
-
 ### Course materials and technology
 
 - **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. If you own a copy of Pavia's textbook (5th or 6th edition), you can use it in addition to the [LibreTexts book by Lisa Nichols](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)) Check Canvas for complete information about the textbook.
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [INSERT LINK](https://). The Canvas site will house assignments, grades, and links to materials/resources.
+- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/61072](https://fresnostate.instructure.com/courses/61072). The Canvas site will house assignments, grades, and links to materials/resources.
 - **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 - **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
@@ -119,10 +118,11 @@ Graded work that you produce in- and outside the lab include prelab documentatio
 
 | Item                    | Value | Can be revised? |  
 | ----------------------- | ----- | --------------- |  
-| Pre-lab documentation   | 1%    | Yes             |  
+| Pre-lab documentation   | 1%    | Yes             | 
+| Risk assessment &safety | 1%    | Yes             | 
 | In-lab notes            | 1%    | No              |  
 | Results (yield & purity)| 1%    | No              |  
-| Lab report              | 5%    | Yes             |  
+| Lab report              | 4%    | Yes             |  
 
 Pre-lab documentation, lab notes, and results and will be graded either as *satisfactory* (credit) or *unsatisfactory* (no credit). *Satisfactory* score for experimental results typically means that evidence a product of reasonable yield and purity was submitted by the due date *unsatisfactory* mark will be given if the yield and/or purity are compromised. For notes, *satisfactory* means that the experiment can be reproduced by a trained organic chemist using only the information in the notebook. Pre-labs and reports can be revised based on feedback from the instructor. In-lab notes and results cannot be revised and are final. 
 
@@ -134,9 +134,9 @@ One of the main objectives of this course is for you to learn to interpret and c
 
 Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
 
-- grade "E" or "M" receives full score (5%),
-- grade "R" will receive partial score (3%) with an option to revise and resubmit,
-- grade "N" will receive partial score (2%) with an option to revise and resubmit
+- grade "E" or "M" receives full score (4%),
+- grade "R" will receive partial score (2%) with an option to revise and resubmit,
+- grade "N" will receive partial score (1%) with an option to revise and resubmit
 - no report will not receive credit.
 
 ### Independent project
@@ -290,4 +290,4 @@ Please see university website for the most updated information: [www.fresnostate
 [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
 [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
 [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
- 
+[cnvs]: https://fresnostate.instructure.com/courses/61072 
