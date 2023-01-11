@@ -11,14 +11,14 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Semester     | 2022 Fall Semester              |  
 | Units        | 2                               |  
 | Department   | Chemistry and Biochemistry      |  
-| Time         | TR 13:00–15:50                  |  
+| Time         | TR 1:00–3:50 pm                |  
 | Location     | Science 1-350                   |  
 | Instructor   | Dr. Hubert Muchalski            |  
 | Coordinator  | Dr. Hubert Muchalski            |  
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours | Monday, 3–4:30 pm               |  
+| Office hours | Monday, 3–4:30 pm; Wed 2-3:30 pm |  
 
 
 
