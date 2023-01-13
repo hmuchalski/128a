@@ -1,3 +1,21 @@
+# AY 22--23
+
+1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization). I can draw chemical structures using bond--line (zig--zag) style.
+2. I can identify functional groups and convert between different drawing conventions and styles. I can draw constitutional isomers given the atomic formula. 
+3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
+4. I can use the Brønsted–Lowry theory to explain p*K*a trends of organic acids, correlations between structure and stability of organic bases, and behavior or organic compounds in proton transfer reactions.
+5. I can use drawings of structures and projection and conformational analysis to assess relative energy of conformations of chain molecules and cyclohexane derivatives.
+6. I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
+7. I can identify types of isomeric relationships between molecules, including stereoisomeric relationships. I can use drawings of structures and projections to demonstrate stereoisomeric relationships.
+8. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
+9. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles. I can draw structures of transition states and reactive intermediates. 
+10. I can solve synthesis problems involving alkyl halides and sulfonates: substitution and elimination reactions.
+11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
+12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
+13. I can solve multi-step synthesis problems involving alkynes.
+14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways.
+15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
+
 # AY 21-22 Fall
 
 1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization).
@@ -6,8 +24,8 @@
 4. I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases.
 5. I can use conformational analysis to assess relative energy of conformations
 6. I can identify chirality centers in molecules and can assign absolute configuration using Cahn–Ingold–Prelog system.
-7. I can use IUPAC nomenclature rules to convert structure to name and name to structure.
-8. I can identify types of (stereo)isomeric relationships between molecules. I can use projections to demonstrate stereoisomeric relationships.
+7. I can identify types of (stereo)isomeric relationships between molecules. I can use projections to demonstrate stereoisomeric relationships.
+8. I can use IUPAC nomenclature rules to convert structure to name and name to structure.
 9. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
 10. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles.
 11. I can solve synthetic problems involving alkyl halides and sulfonates: substitution and elimination reactions.

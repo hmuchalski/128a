@@ -1,4 +1,4 @@
----
+
 tags: 128a, spring, syllabus
 title: Course Syllabus (CHEM 128A)
 author: "Instructor: Hubert Muchalski"
@@ -8,7 +8,7 @@ author: "Instructor: Hubert Muchalski"
 
 | Course Name  | Organic Chemistry 2 (lecture)   |  
 | :----------- | :------------------------------ |  
-| Semester     | 2022 Summer Intersession        |  
+| Semester     | 2023 Fall        |  
 | Units        | 3                               |  
 | Department   | Chemistry and Biochemistry      |  
 | Time         | MW 14:00–15:15                  |  
@@ -17,7 +17,7 @@ author: "Instructor: Hubert Muchalski"
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours |   |  
+| Office hours |  |  
 
 
 ## How to use this syllabus
@@ -31,24 +31,28 @@ This document contains all the information you need to navigate the course. This
 
 ## About the course
 
-In Organic Chemistry 2 you will **continue to learn about structure, properties, and reactivity of organic compounds**. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
+In Organic Chemistry 1 you will learn about structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
 Before reading any further, here are some things to know:
 
-1. **The pace of this course is dangerously fast**. One class meeting covers equivalent of one week of regular semester. Not only there is a lot of material introduced in a short amount of time, there is less time between classes. To reduce the risk of falling behind, check announcements and the calendar daily; get to work immediately on assignments; and above all stay active, ask questions and don't procrastinate. 
-2. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
-3. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn.
-4. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
+1. **The pace of this course is fast**. We will cover approximately one chapter per week and there is a lot of material introduced in each chapter. New chapters build on the content introduced in prior chapters. To reduce the risk of falling behind, start working on assignments immediaterly,check announcements, ask questions and resists the urge to procrastinate. 
+3. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
+2. **Make sure you understand the grading system.** It is definitely different from what you experienced in the past. 
+4. **Expect to be challenged intellectually throughout this course.** Nothing of true value comes easily and requires a great deal of time and attention. There will be a good deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis and challenge your current understanding of chemistry. 
+5. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with growth mindset, on the other hand, often surprise themselves with how much and how well they learn. You will need to stay engaged by participating in class meetings and on the class discussions. Students who succeed in this course have few things in common: they ask questions, seek understanding (not answers), form study groups, and help others learn.
+6. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
+
 
 :::info
-**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128B a class where you can make mistakes and grow safely and productively.
+**My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128A a class where you can make mistakes and grow safely and productively.
 :::
 
 ### Course materials and technology
 
-**Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you may not have the access to the WileyPLUS platform.
+**Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you will not have the access to the WileyPLUS platform.
 
 **WileyPLUS:** Online learning platform with e-textbook, practice problems, videos, etc. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas.
+
 
 :::info 
 This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
@@ -66,101 +70,107 @@ This course is part of the Immediate Access program. All students have access to
 
 ## Course goals
 
-The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
+The goal of this course is to drive the student to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. As much as this is true, this explanation is vague and doesn't answer a key question: "Why should you, the student, study organic chemistry?"
+
+### Why study organic chemistry?
+
+"To be an organic chemist, or course!" one might say. The fact is, that approximately 1% of all students whom I taught this course are chemists or pursue a graduate degree in organic chemistry. For most students this course is just a part of the curriculum or a requirement for an advanced training program in health-related field. Why, you may wonder, is this course a hard requirement? **Successful completion of organic chemistry is a signal to the outside world.** It demonstrates your competence in self-regulated learning. It shows that you can quickly learn hard abstract concepts and that you know how to work with models and theories. Doing well in organic chemistry also reveals that you can manage time and tasks, and that you can use highly technical language to communicate with peers.
 
 ## Assumed prior knowledge and skills
 
-This course is a continuation of CHEM 128A. I am assuming that you come to this course already familiar with concepts and skills introduced in CHEM 128A and you are able to:
+This course is a continuation of _General Chemistry_. I am assuming that you come to this course already familiar with concepts and skills introduced in CHEM 1A/B and you are able to:
 
-- communicate the structure and reactivity of organic molecules using drawing and naming conventions;
-- analyze bonding and its consequences on molecular structure and reactivity of organic molecules; and
-- analyze the interplay between electronic amd steric interactions as well as stereochemistry to predict the reactivity and properties of organic molecules and reactive intermediates (carbocations, radicals, anions, etc.).
+[Under construction]
 
 ## Course-level learning objectives
 
-Concepts and skills listed above will be further developed and reinforced in CHEM 128B. Upon successful completion of CHEM 128B students will be able to:
+To get closer to achieving course goal, we will focus on a variety of skills. At the successful completion of this course you will be able to:
 
-- predict products, infer substrates, and propose reagents needed to complete a chemical reactions;
-- use spectroscopic data to deduce the structure of the molecule.
-- use retrosynthetic analysis to plan multi-step synthesis of target molecules; and
-- use curved arrow notation to depict organic reaction mechanisms including addition, elimination, substitution, rearrangement, functional group interconversions and redox transformations.
+- use common drawing and naming conventions to communicate the structure and properties of organic molecules;
+- analyze chemical structures and reactions to make and defend predictions about chemical processes;
+- use curved arrow notation to draw mechanisms of chemical transformations;
+- propose a synthesis of an organic molecule; and
+- connect the ideas of organic chemistry with your own personal and professional interests
+- ANALYZE CHOICES AT THE SYSTEM LEVEL
 
-## Course workflow
+### Course content
 
-I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, lecture videos) and class time is repurposed for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
+To achieve course-level objectives we need material to work with. Topics in this course will be focused on the principles of bonding, structure, reactivity, and synthesis of organic molecules and materials. Lectures and problems will often feature organic compounds and reactions in the context of biology, pharmacy, medicine, materials, and energy science. The second semester in the sequence also emphasizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
 
-Our class meetings are very long (3 hours and 15 minutes). To maintain our energy at sufficient levels, I envisioned the following timeline of each class meeting:
+### Course workflow
 
-| Time | Focus | 
-| :--- | :---- |
-| 09:00–09:30 | Q&A and review of the Daily Prep assignment followed by a 5-min break|
-| 09:30–10:00 | Focused group work on problems followed a 5-min break |
-| 10:00–10:30 | Focused group work on problems followed a 5-min break |
-| 10:30–11:00 | Focused group work on problems followed a 5-min break |
-| 11:00–11:30 | Summary of day's topics, wrap-up fo the day and a 5-min break to get ready for LT Test |
-| 11:30–12:15 | LT Test & Office Hours |
+I designed this course according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, lecture videos) and class time is focused for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
 
-**Before class**, your task will be to review previously covered material and get familiar with the basic concepts of the upcoming lesson by reading the appropriate sections in the textbook and completing **Daily Prep** assignment. This way, you'll come to class ready to work, and we can skip the lecturing in class unless it's really needed.
+**Before class**, your task will be to review previously covered material, and get familiar with the basic concepts. Not all new material needs formal instruction. Information is abundant and you can learn the basics on your own. I will provide a list of suggested reading and video content for you to review before the lesson.
 
-**Class time** is intended to focus on *answering questions* and *doing active work*. There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems.
+**Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems. It is in your best interest to come class meetings but if circumstances arise, you will have an option to review the recorded Zoom session.
 
-**After class** you must continue to engage with the material through deliberate practice and reflection on the ideas discussed in class. As you study, you should write down your questions and put into words what you don't yet understand. This is the time when you'll work on **Daily Prep** for the upcoming class as well as **Integrated Problems** (IPs). 
-
-:::info
-**No class meeting on Wednesday**. Use that day to to rest and regroup after Monday and Tuesday meetings. My hope is that you will use that time to study, do practice problems, and reflect on feedback you receive from me. And of course, complete Daily Prep assignment for classes on Thursday and Friday. 
-:::
+**After class** you should continue to engage with the material through practice and deliberation on the ideas discussed in class until you think you're ready to demonstrate your knowledge by attempting Learning Target problems on Checkpoints and work on Class Journal entries.
 
 ## Learning activities and assessments
 
-To achieve the learning objectives of this course you will do a variety of things, but not all of them will be formally assessed or graded. 
+You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *growth grading system* in which your work will be required to meet certain levels of quality that demonstrate mastery of the material. These include:
 
+1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. See ["How work is graded in CHEM 128A"](#grading) below for details.
+3. **Class Primers** are weekly assignments on WileyPLUS designed to give you a sense of how much you learned on your own from reading and watching videos. Aggregate results for the entire class highlight points of confusion. You get credit for the assignment if you complete it before the deadline and if each item has a response that represents a good faith effort to be right. Remember, _mistakes are not penalized_.
+2. **Class Journal** are challenging integrated homework problems where students must clearly communicate a complete solution. Journal entries measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. Submission and grading of Class Journal entries is discussed in ["How work is graded in CHEM 128A"](#grading) section below.
+4. **Engagement** Taking part in student response polls in class (iClicker). You will receive one participation credit if you answer 75% of questions in class session. Correctness is not factored into the score, only participation.
+5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps in each chapter. This is an adaptive assignment which means that the set of questions is tailored to your knowledge. The number of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you’re doing and you earn points for reaching benchmarks on the Progress bar. You’ll keep your points even if your Progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
+6. **Final exam** will be on **Wednesday, May 17th, 2023 at 15:30**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Exam time is 110 minutes. Final exam time block will be the last opportunity to reassess learning targets. This is the only Checkpoint that will be synchronous for all students, lasting 2 hours and without an option of time window extension.
 
-- **Daily Prep** are WileyPLUS assignments that lead you through an active reading of the textbook and videos. 
-- **Learning Targets** are main skills and tasks you should be able to do if you're achieving the learning objectives of the course. You will be asked to "demonstrate" your knowledge and skills mainly by taking short quizzes on them at regular intervals. 
-- **Integrated Problems (IPs)** are more challenging homework problems that cannot be confined to a single learning objective or textbook chapter. The correctness of the solution and clarity of communication are equally important. 
-- **Final exam** will be on **Friday, June 10th, 2022 at 9:00 am**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society.
-
-## The grading system in CHEM 128B
 
 :::warning
-Grading in this course is different than you might be used to. Please read this section carefully and ask questions as needed. 
+Grading in this course is different than you might be used to. Make sure you understand it completely. Read this section carefully and ask questions as needed. 
 :::
+
+
+## My views on grading
 
 As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe you should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course. 
 
-I also strongly believe that *assigning points to your work is deeply unhelpful* for all parties involved. Points give the appearance of a scientific measurement, but in reality *all grading involves a judgment call by the instructor* based on their professional expertise. And points lead to arguments about points and grades (unhelpful) rather than learning and knowledge (helpful). I believe your work should be evaluated by just like everyone else's work in the real world is evaluated, i.e., by giving you: 
+I also strongly believe that *assigning points to your work is deeply unhelpful* for all parties involved. Points give the appearance of a scientific measurement, but in reality *all grading involves a judgment call by the instructor* based on their professional expertise. And points lead to arguments about points and grades (unhelpful) rather than learning and knowledge (constructive). I believe your work should be evaluated by just like everyone else's work in the real world is evaluated, i.e., by giving you: 
 
-- *clearly defined standards* for quality, 
-- *detailed verbal feedback* on your work instead of points, and 
-- *opportunities to try again* based on the feedback. 
+- clearly defined standards for quality, 
+- detailed feedback on your work instead of points, and 
+- opportunities to try again based on the feedback. 
  
-This gets you into a *feedback loop*, a conversation between you and me about your work, that continues until your work meets the standards (or we reach the end of the semester). In light of the principles outlined above, in this course:
+This gets you into a *feedback loop*, a conversation between you and me about your progress toward reaching learning objectives, a conversation that continues until your work meets the standards (or we reach the end of the semester). In light of the principles outlined above, in this course:
 
-* *there are no points on your work* except for the final exam. (Daily Preps use 0 or 1 but that's not a point, that's a label.); 
-* *there is also no partial credit* awarded on your work, because there's no points; and
-* students can *revise and resubmit almost any piece of work*, several times over if needed, using the feedback at each stage to improve and grow.
+- *there are no points to grade your work you produce throughout the semester*---points are used in the Canvas gradebook to communicate the number of successful attempts;
+- *there is no partial credit* awarded on your work; and
+- students can *reattempt, revise, and resubmit almost any piece of graded work*, several times over if needed, using the feedback at each stage to improve and grow.
 
-This is not as weird as it sounds. **It's actually the way all human learning works, and the way most professionals are evaluated in their work**. It only seems strange because it's not how school is typically done. But school and the real world are, well, not necessarily aligned. We will take the "real world" approach. Keep reading for more details.
+This is not as weird as it sounds, it's actually the way human learning naturally occurs and the way most professionals are evaluated in their work. It only seems strange because it's not how school is typically done. But school and the real world are, well, not necessarily aligned. We will take the "real world" approach. Keep reading for more details.
 
 ### How each assignment is graded
 
 Refer to the table for an overview of who each assignment is graded. Details are explained below. 
 
-| Assignment       | How it's graded                                      | What's recorded in Canvas.                         |  
-| :--------------- | :--------------------------------------------------- | :------------------------------------------------- |  
-| Daily Prep       | Completeness and effort only                         | `1` for complete, good-faith effort; `0` otherwise |  
-| Learning Targets | Completeness and correctness                         | *Successful* or *Retry* (see below)                |  
-| IPs              | Completeness, effort, correctness, and communication | `E`, `M`, `R`, or `N` (see below)                  |  
-| Final exam       | Completeness and correctness                         | Points, 70 maximum                                 |  
+| Assignment       | How it's graded                                                 | What's recorded in Canvas.                         |  
+| :--------------- | :-------------------------------------------------------------- | :------------------------------------------------- |  
+| Learning Targets | Completeness and correctness                                    | `0`, `1`, or `2` (see below)                       |  
+| Class Primer     | Completeness and effort only                                    | `1` for Progress Bar >50%; `0` otherwise |  
+| Class Journal    | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N` (see below)                  |  
+| Final exam       | Correctness only (multiple choice exam)                         | Points, 70 maximum                                 |  
 
-#### Learning Targets
 
-Your primary responsibility in the course is to demonstrate your achievement of Learning Targets. The primary way you'll demonstrate skill is through *Learning Target Tests* given at the end of each class meeting. Each test will contain a pool problems, one per Learning Target. Each _Learning Target Test_ is cumulative, meaning the number of LT problems will grow as we cover more material. Problems for _new_ LTs will be added along with _new versions_ of LTs that are already in the pool. 
+### Learning Targets and Checkpoints
 
-Successful demonstration of learning on a Learning Target will be marked *Successful*, work that doesn't yet meet the standards will be marked *Retry*. Alternatively, you can demonstrate your skill on a Learning target via an oral quiz of sorts. I will give you a new version of a problem, and you work it out on the board "live". 
+One of your primary responsibilities in the course is to demonstrate as much skill as possible on as many Learning Targets as possible through solving LT problems during *Checkpoints*. 
+
+Checkpoint a period of class time set aside for assessment. We will a Checkpoints frequently (at least every 2 weeks) and they will be approximately 25 min long. 
+
+Your skill on is indicated in the gradebook separately for each Learning Target using a 3-level rubric:
+
+- **No Rating** indicates that that you did not attempt the learning target or the attempt was unsuccessful. Everyone begins the semester with "No Rating" on all Learning Targets. Shows in Canvas gradebook as `0`
+- **Proficiency** indicates you successfully completed **one** LT problem, i.e., the solution met the standards for acceptable work. Shows in Canvas gradebook as `1`
+- **Mastery** indicates you completed **a second** LT problem and the solution met the standards for acceptable work. Shows in Canvas gradebook as `2`. 
+
+Every Checkpoint is cumulative, with new Learning Targets added and new versions of older ones added to the pool. This will allow you to reattempt, on a limited basis, any Learning Target you haven't mastered.
+
 
 :::success
-**_Successful_ does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](https://hackmd.io/@hmuchalski/BJKWouND5) for detailed description of criteria for success.
+_Successful_ as used in descriptions above **does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](https://hackmd.io/@hmuchalski/BJKWouND5) for detailed description of criteria for success.
 :::
 
 
@@ -168,63 +178,71 @@ Successful demonstration of learning on a Learning Target will be marked *Succes
 **Important**: Each _Learning Target_ requires two successful demonstrations of skill. Then, the Target is considered **completed** and no further assessment on that target is necessary.
 :::
 
-#### Integrated Problems (IPs)
+#### Class Journal
 
-Course grade of B or better asks you to show acceptable work on at least one Integrated Problem (IP). These problems involve a written solution as well as commentary that guides the reader throught the work. The process of assigning these marks is shown on the rubric diagram below:
+To earn letter grade of B or higher you will be asked to submit Class Journal entries. Class Journal is a collection of organic chemistry problems that contain a correct written solution as well as commentary and guidance for the reader. Class Journal entries are marked using EMRN rubric shown below:
 
 ![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
 
+I will publish (and keep additing throughout the semester) a list of problems for students to sign up for. Once you sign up, you will have 1 week to submit a publication-ready solution. You may only work on one problem at a time. If more than one person requests the same problem at the same time, I will choose based on who has completed fewer journals.
+
+Journal problems must be correct and clearly communicate the process obtaining the solution. Editor-in-Chief (me) will review your submission and choose whether to accept it or return for revisions. 
+
 ### Final letter grade
 
-Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. For IP's, "M+" means "M" or better (either "M" or "E").
+Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. 
 
-| Category               | D  | C     | B      | A       |  
-| ---------------------- | -- | ----- | ------ | ------- |  
-| Daily Prep (16)        | 5  | 8     | 11     | 14      |  
-| LTs Completed (==15==) | 5  | ==7== | ==10== | ==13==  |  
-| All CORE Completed (6) | No | No    | Yes    | Yes     |  
-| Integrated Problems    |    |       | 1M+    | 1E, 1M+ |  
-| ~~Final Exam (ACS)~~       | ~~21~~ | ~~28~~    | ~~35~~     | ~~42~~      |  
+| Category           | D  | C  | B  | A   |
+|--------------------|----|----|----|-----|
+| Learning Targets   |  5 |  7 | 10 | 13  |
+| Class Primer       |    |  7 | 10 | 13  |
+| Class Journal      |    |    |  3 |  5  |
+| iClicker Credits   |  5 | 10 | 15 | 20  |
+| WP Homework        | 70 | 80 | 90 | 100 |
+| Final Exam         | 21 | 28 | 35 | 42  |
 
-:::success
-**Example**: At the end of the semester Alex accomplished the following:
 
-- completed 14 out of 16 Daily Prep assignments;
-- completed (= done two successful demonstrations of skill on) 12 Learning Targets, including all CORE LTs; 
-- submitted 3 IPs (one graded "E", two graded "M"); and
+:::success 
+:checkered_flag: **Example**: At the end of the semester Alex accomplished the following:
+
+- completed 14 Class Primer assignments;
+- completed (= done two successful demonstrations of skill on) 12 Learning Targets; 
+- submitted 3 Class Journal (one graded "E", two graded "M"); 
+- stayed engaged in class meetings and earned 20 iClicker Credits; and
 - earned 54 points on the final exam.
 
-Looking across the column for grade of "B", Alex satisfied all the requirements for that grade. Although Alex's work on Daily Preps, IPs, and the final exam is at grade "A" level, not all requirements for "A" are met, and Alex earns "B" in the course. 
+Looking across the column for grade of "B", Alex satisfied all the requirements for that grade. Although Alex's work on Class Primers, Class Journal, and the final exam is at grade "A" level, Learning Targets are at "B" level and Alex's course letter grade will be "B". 
 :::
 
+
 :::info
-**Important:** You can't prop-up work on IPs, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_, only 14 of them (as long as all CORE LTs are among them). And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
+**Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
 :::
 
 ## Revision and resubmission
 
-Except for Daily Prep and the Final Exam, you can revise and resubmit any work you turn in, _without penalty_, until it meets course standards. How this works depends on the assignment.
+Except for Class Primer and the Final Exam, you can revise and resubmit any work you turn in, _without penalty_, until it meets course standards. How this works depends on the assignment.
 
 **Learning Targets**. As detailed above, work on a Learning Target (via a quiz or other means) that doesn't meet the standards for "success" can be reattempted, through work on a new version of the same problem, on a later test or an oral quiz. No revisions are allowed after 12:15 pm PT on Friday, June 10.
 
-**Integrated Problems**. An IP earning a mark of M, R, or N can be revised and resubmitted by uploading a revised version of the work to the same Canvas location where it was originally submitted (Canvas automatically keeps all versions of all uploads). Only two IP submissions per week are allowed. This can be new submissions of two different problems, revisions of two different problems, or one new submission and one revision.
+**Class Journals**. An Class Journal earning a mark of M, R, or N can be revised and resubmitted by uploading a revised version of the work to the same Canvas location where it was originally submitted (Canvas automatically keeps all versions of all uploads). Only two Class Journal submissions per week are allowed. This can be new submissions of two different problems, revisions of two different problems, or one new submission and one revision.
 
 
 ## Academic integrity
 
 :::warning
-This course  is subject to [Standards of Student Conduct](https://studentaffairs.fresnostate.edu/studentconduct/academic-integrity/) and  [The Code of Academic Integrity](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf). Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.
+:zap: This course  is subject to [Standards of Student Conduct](https://studentaffairs.fresnostate.edu/studentconduct/academic-integrity/) and  [The Code of Academic Integrity](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf). Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.
 :::
 
 Some of the work you will do in the course involves collaboration; at other times collaboration may be allowed but not required; while at others it may not be allowed. Here are the specific rules for the extend of collaboration on each kind of work you do:
 
 
-| Assessment | Collaboration allowed |
+| Assessment | Restrictions |
 | :--------  | :--------------------- |
-| Daily Prep | Collaboration is allowed but responses must be your own and reflect your own understanding. |
-| Learning Targets | **No collaboration is allowed at all** with other people (including online forums such as Stack Exchange, Reddit, Chegg). You are allowed to use resources from the class such as the textbook, your notes, and your past quiz work. |
-| IPs | **No collaboration is allowed at all** with other people. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably journal articles, books). |
-| ~~Final Exam~~ | ~~**No collaboration is allowed at all**.~~ |
+| Class Primer | no restrictions |
+| Learning Targets | No collaboration is allowed but you can use your notes |
+| Class Journal | No collaboration is allowed. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably primary or secondary sources). |
+| Final Exam | No collaboration is allowed |
 
 All suspected instances of academic dishonesty will be thoroughly investigated, and whether a student has committed academic dishonesty is my determination to make based on the evidence. If I suspect that academic dishonesty has been committed, a report will be filed with the Dean of Students office according to APM 235
 
@@ -248,12 +266,12 @@ Missing a class meeting also means missing an opportunity to demonstrate skills 
 
 ### Deadlines and late work
 
-Deadlines for Daily Preps, and IPs are listed on Canvas. In cases of apparent conflict between dates (different date on a description page and different in the calendar), always assume that the Course Calendar is right.
+Deadlines for Class Primers, and Class Journal are listed on Canvas. In cases of apparent conflict between dates (different date on a description page and different in the calendar), always assume that the Course Calendar is right.
 
 | Assignment | Deadline policy |
 | :--------- | :-------------- |
-| Daily Preps | Due at 11:59 pm the night before class. The deadline will not be extended. |
-| IPs | Due on the last day of Summer Intersession but there is a limit of how many you can submit for grading per week. If you plan to submit IP for grading, start early so you can act on the feedback. | 
+| Class Primers | Due at 9 am the morning before class. |
+| Class Journal | Due one week after claiming the problem. Submitted electronically on Canvas. If revisions are requested, they are due 1 week after feedback was released to the student. | 
 
 ### Instructor availability and message responses
 
@@ -267,7 +285,6 @@ It is the student’s responsibility to make sure these items are submitted on t
 
 ### Intellectual Property
 
-<!-- As part of your participation in virtual/online instruction, please remember that the same student conduct rules that are used for in-person classrooms instruction also apply for virtual/online classrooms.  -->
 Students are prohibited from any unauthorized recording, dissemination, or publication of any academic presentation, including any online classroom instruction, for any commercial purpose. In addition, students may not record or use virtual/online instruction in any manner that would violate copyright law. Students are to use all online/virtual instruction exclusively for the educational purpose of the online class in which the instruction is being provided. Students may not re-record any online recordings or post any online recordings on any other format (e.g., electronic, video, social media, audio recording, web page, internet, hard paper copy, etc.) for any purpose without the explicit written permission of the faculty member providing the instruction. Exceptions for disability-related accommodations will be addressed by Services for Students with Disabilities (SSD) working in conjunction with the student and faculty member.
 
 <!-- ## Dropping the course
@@ -288,13 +305,13 @@ In addition to course policies, you are expected to be familiar with Academic Re
 - [Add/Drop Course](http://fresnostate.edu/studentaffairs/classschedule/registration/add-drop.html)
 
 :::info
+:mega: 
 Changes to this syllabus may occur during the term. In those cases, the ==changes will be highlighted in this document== and be announced in class. If appropriate, students will be given a voice on how the changes will be implemented. It is your responsibility stay abreast of the information passed along in course announcements so that you will be aware of any changes that take place.
 :::
 
 ## FAQ
 
-- **Q: I understand that a computer will be required to complete homework and other course work. Should I expect to bring my laptop to class everyday?**
-	+ **A**: Most in-class activities will be paper-based but often will require looking up information in the textbook. I suggest having a device, preferably a laptop. 
+
 
 ## Acknowledgments
 
@@ -303,111 +320,51 @@ Large portions of the language of this syllabus as well as ideas related to grow
 <!-- ## About the instructor 
 _WHO-bert_ _moo-HAL-ski_-->
 
-## Appendix A: Tentative Schedule of Course Modules
+## Appendix A: List of Learning Targets
 
-| Date      | Topics                                         | Chapter | LT Focus |
-|:----------|:-----------------------------------------------|---------|----------|
-| Mon 05/23 | Review of important concepts                   | 1–10    | 1–4      |
-| Tue 05/24 | Chemistry of alcohols and ethers               | 11–13   | 3–8      |
-| Wed 05/25 | Asynchronous activites                         | 1–13    | 9–11     |
-| Thu 05/26 | Spectroscopic methods                          | 14-15   | 9–11     |
-| Fri 05/27 | Spectrocsopic methods                          | 14-15   | 9–11     |
-| Mon 05/30 | NO CLASS Asynchronous activities               | 16-17   | 12–13    |
-| Tue 05/31 | Conjugated and aromatic systems                | 16-17   | 12–13    |
-| Wed 06/01 | Asynchronous activities                        | 16-18   | 12–13    |
-| Thu 06/02 | Reactions of aromatic compounds                | 17–18   | 12–13    |
-| Fri 06/03 | Addition to carbonyls (aldehydes and ketones)  | 19      | 14-15    |
-| Mon 06/06 | Carboxylic acids and their derivatives         | 20      | 14-15    |
-| Tue 06/07 | Enols and enolates                             | 21      | 14–16    |
-| Wed 06/08 | Asynchronous activities                        |         | 1–16     |
-| Thu 06/09 | Synthesis and review                           |         | 1–16     |
-| Fri 06/10 | ~~Final exam and~~ LT retakes                      |         |
+1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization). I can draw chemical structures using bond--line (zig--zag) style.
+2. I can identify functional groups and convert between different drawing conventions and styles.
+3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
+4. I can use the Brønsted–Lowry theory to explain p*K*a trends of organic acids, correlations between structure and stability of organic bases, and behavior or organic compounds in proton transfer reactions.
+5. I can use drawings of structures and projection and conformational analysis to assess relative energy of conformations of chain molecules and cyclohexane derivatives.
+6. I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
+7. I can identify types of isomeric relationships between molecules, including stereoisomeric relationshiops. I can use drawings of structures and projections to demonstrate stereoisomeric relationships.
+8. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
+9. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles. I can draw structures of transition states and reactive intermediates. 
+10. I can solve synthesis problems involving alkyl halides and sulfonates: substitution and elimination reactions.
+11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
+12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions
+13. I can solve multi-step synthetis problems involving alkynes
+14. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of addition to alkenes and alkynes.
+15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
 
-Chapter 22 (Amines) will be incorporated in parts when relevant chemistry is discussed.
+## Appendix B: Tentative Course Schedule
 
-<!-- Insert iframe of Google Calendar -->
+<!-- Insert iframe of Google Sheets -->
 
-## Appendix B: List of Learning Targets
 
-1. **(CORE)** I can use the Brønsted–Lowry theory to explain pKa trends of organic acids and correlations between structure and thermodynamic stability of organic bases. I can select suitable bases to deprotonate organic acids.
-2. ==~~I can explain how different factors influence acid–base equilibrium. I can use acid–base theories to predict the position of acid–base equilibrium, compute concentrations of acid/conjugate base in solution, and how protonation state is correlated with solubility.~~==
-3. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 1_)
-4. **(CORE)** I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 1_)
-5. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 2_)
-6. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 2_)
-7. **(CORE)** I can use IR data to identify diagnostic functional group and propose plausible structures of organic compounds that are consistent with the given IR spectrum and molecular formula.
-8. I can use mass spectrometry data to propose a plausible structure of an unknown compound by identifying stable fragment ions and showing their fragmentation patterns.
-9. I can use NMR data to propose a plausible structure of an unknown compound by analyzing chemical shift, integration, and multiplicity data.
-10. I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 3_)
-11. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 3_)
-12. **(CORE)** I can solve synthesis problems by filling the gaps in a multi-step synthesis scheme or providing a list of reagents needed to implement a given retrosynthetic plan (_Reaction Group 4_)
-13. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 4_)
-14. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (_Reaction Group 5_)
-15. I can explain the chemo- regio- and steroselectivity outcome of chemical reactions by drawing curved arrow mechanisms, orbital diagrams, and/or reaction coordinate diagrams  (_Mechanism Group 5_)
-16. I can propose reagents needed to execute multi-step reaction sequence for a given retrosynthetic plan (_Reaction Group 6_)
+Alert Area
+---
+:::success
+Yes :tada:
+:::
 
-### Reaction and Mechanism Groups
+:::info
+This is a message :mega:
+:::
 
-#### Reaction Group 1
-- nucleophilic substitution (SN1, SN2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch12, Ch13)
-- elimination reactions (E1, E2) of alkyl halides, alcohols, and sulfonates (Ch7, Ch8, Ch12)
-- ==addition to C–C pi bonds (Ch8, Ch9, Ch12, Ch13)==
+:::warning
+Watch out :zap:
+:::
 
-#### Reaction Group 2
-- Reaction Group 1
-- Redox transformations of alcohols
-- Grignard reaction with carbonyls and epoxides
+:::danger
+Oh No! :fire:
+:::
 
-#### Reaction Group 3
-- Reaction Group 2
-- formation and cleavage of ethers and epoxides
-- addition reactions of conjugated pi systems
+:::spoiler Click to show details
+You found me :stuck_out_tongue_winking_eye:
+:::
 
-#### Reaction Group 4
-- Reaction Group 3
-- pericyclic reactions
-- reactions at the benzylic position
-- reactions of aromatic compounds
-
-#### Reaction Group 5
-- Reaction Group 4
-- reactions at carbonyl carbon (ketone/aldehyde oxidation state)
-- reactions involving carboxylic acids and their derivatives
-
-#### Reaction Group 6
-- Reaction Group 5
-- reactions at alpha carbon (enols, enolates, and equivalents)
-- reactions of amines
-
-#### Mechanism Group 1
-- substitution reactions
-- carbocation-mediated reactions
-- bimolecular elimination reactions including Hoffmann elimination of tertiary amines
-
-#### Mechanism Group 2
-- Grignard reaction with carbonyls and epoxides
-- reactions involving formation of ethers and/or opening of strained rings (bromonium, mercurinium, epoxides)
-
-#### Mechanism Group 3
-- addition to C–C pi bonds of alkenes and alkynes including conjugated pi systems
-- cycloaddition and electrocyclic reactions
-
-#### Mechanism Group 4
-- reactions involving aromatic/antiaromatic intermediates
-- substitution reactions at aromatic ring
-
-#### Mechanism Group 5
-- reactions involving enols, enolates, enamines, etc.
-- reactions of amines
-
-<!-- ## IP
-
-1. Use combination of spectroscopic data (IR, MS, NMR, UV) including multiplet analysis to propose a plausible structure of an unknown sample.
-2. Multistep synthesis of complex molecular scaffolds
-3. Acid–base extraction problems
-4. Sharpless asymmetric epoxidation (IP)
-5. Autoxidation of ethers (IP)
-6. Design a multi-step synthesis that involves substitution on the aromatic ring (IP)
-7. Design multi-step synthesis that involves reactions at the benzylic position (IP)
-8. Spectroscopic identification of organic compounds using IR, MS, NMR, and UV-vis (IP)
--->
+:::spoiler {state="open"} Expand the spoiler container by default
+You found me :stuck_out_tongue_winking_eye:
+:::
