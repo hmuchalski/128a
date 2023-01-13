@@ -29,7 +29,7 @@ This document contains all the information you need to navigate the course. This
 + Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://hackmd.io/@hmuchalski/HJGEmMjKd). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
 + Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
-## About the course
+## Introductions
 
 In Organic Chemistry 1 you will learn about structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
@@ -47,15 +47,15 @@ Before reading any further, here are some things to know:
 **My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128A a class where you can make mistakes and grow safely and productively.
 :::
 
-### Course materials and technology
+
+## Course materials and technology
 
 **Textbook:** "Organic Chemistry" online textbook with integrated Study Guide and Solutions Manual by David Klein 4th edition published by Wiley (via Immediate Access). It is okay to use prior editions of the textbook but you will not have the access to the WileyPLUS platform.
 
 **WileyPLUS:** Online learning platform with e-textbook, practice problems, videos, etc. WileyPLUS is integrated with Canvas and all links to assignments and materials will be posted on Canvas.
 
-
 :::info 
-This course is part of the Immediate Access program. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
+This course is part of the *Immediate Access program*. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
 :::
 
 **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform is not yet optimized for mobile devices.
@@ -64,7 +64,7 @@ This course is part of the Immediate Access program. All students have access to
 
 **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 
-**Document scanning tool or a tablet with pen imput**: Assignments in this course are handwritten on paper and some assignments are uploaded to Canvas as PDF. A mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
+**Document scanning tool or a tablet with pen imput**: Some assignments in this course are handwritten on paper and then uploaded to Canvas as PDF files. A mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 
 **Active Fresno State network account** so that you can access email, Canvas, and Google Suite. If you have any issue with accessing any of the above, please let me know as soon as possible. We will use a variety of additional course tools during the semester, but they will be free to use, and you will be taught how to use them as part of the class.
 
@@ -74,15 +74,9 @@ The goal of this course is to drive the student to appreciate the breadth of org
 
 ### Why study organic chemistry?
 
-"To be an organic chemist, or course!" one might say. The fact is, that approximately 1% of all students whom I taught this course are chemists or pursue a graduate degree in organic chemistry. For most students this course is just a part of the curriculum or a requirement for an advanced training program in health-related field. Why, you may wonder, is this course a hard requirement? **Successful completion of organic chemistry is a signal to the outside world.** It demonstrates your competence in self-regulated learning. It shows that you can quickly learn hard abstract concepts and that you know how to work with models and theories. Doing well in organic chemistry also reveals that you can manage time and tasks, and that you can use highly technical language to communicate with peers.
+"To be an organic chemist, or course!" one might say. The fact is, that approximately 1% of all students whom I taught this course are chemists or pursue a graduate degree in organic chemistry. For most students this course is just a part of the curriculum or a requirement for an advanced training program in health-related field. Why, you may wonder, is this course a hard requirement? **Successful completion of organic chemistry is a signal to the outside world.** It demonstrates your competence in self-regulated learning. It shows that you can quickly learn hard abstract concepts and that you know how to work with models and theories. Doing well in organic chemistry also reveals that you can manage time and tasks, and that you can use highly technical language to communicate with peers. 
 
-## Assumed prior knowledge and skills
-
-This course is a continuation of _General Chemistry_. I am assuming that you come to this course already familiar with concepts and skills introduced in CHEM 1A/B and you are able to:
-
-[Under construction]
-
-## Course-level learning objectives
+### Course learning objectives
 
 To get closer to achieving course goal, we will focus on a variety of skills. At the successful completion of this course you will be able to:
 
@@ -105,26 +99,27 @@ I designed this course according to the flipped learning model, an instructional
 
 **Class time** will be structured around agile lesson plans that aim to operate within middle third of [Bloom taxonomy](https://flic.kr/p/LQuqT2). There may be some small lectures or tutorials, but active work will be the main component since the best way to learn organic chemistry is by doing lots of problems. It is in your best interest to come class meetings but if circumstances arise, you will have an option to review the recorded Zoom session.
 
-**After class** you should continue to engage with the material through practice and deliberation on the ideas discussed in class until you think you're ready to demonstrate your knowledge by attempting Learning Target problems on Checkpoints and work on Class Journal entries.
+**After class** you should continue to engage with the material through practice and deliberation on the ideas discussed in class. The goal of these activities is to prepare you to attempt Learning Target problems on Checkpoints and work on Class Journal entries.
 
 ## Learning activities and assessments
 
 You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The course uses a *growth grading system* in which your work will be required to meet certain levels of quality that demonstrate mastery of the material. These include:
 
 1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. See ["How work is graded in CHEM 128A"](#grading) below for details.
-3. **Class Primers** are weekly assignments on WileyPLUS designed to give you a sense of how much you learned on your own from reading and watching videos. Aggregate results for the entire class highlight points of confusion. You get credit for the assignment if you complete it before the deadline and if each item has a response that represents a good faith effort to be right. Remember, _mistakes are not penalized_.
+3. **Class Primers** are weekly assignments on WileyPLUS designed to give you a sense of how much you learned on your own from reading and watching videos. Aggregate results for the entire class highlight points of confusion. You get credit for the assignment if you complete it before the deadline and move the *Progress Bar* above 50%. 
 2. **Class Journal** are challenging integrated homework problems where students must clearly communicate a complete solution. Journal entries measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. Submission and grading of Class Journal entries is discussed in ["How work is graded in CHEM 128A"](#grading) section below.
 4. **Engagement** Taking part in student response polls in class (iClicker). You will receive one participation credit if you answer 75% of questions in class session. Correctness is not factored into the score, only participation.
-5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps in each chapter. This is an adaptive assignment which means that the set of questions is tailored to your knowledge. The number of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you’re doing and you earn points for reaching benchmarks on the Progress bar. You’ll keep your points even if your Progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
-6. **Final exam** will be on **Wednesday, May 17th, 2023 at 15:30**. The final exam is composed of 70 multiple choice questions designed by experts from the American Chemical Society. Exam time is 110 minutes. Final exam time block will be the last opportunity to reassess learning targets. This is the only Checkpoint that will be synchronous for all students, lasting 2 hours and without an option of time window extension.
-
+5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps through adaptive online assignments similar to Class Primers. The number and difficulty of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you’re doing and you earn points for reaching benchmarks on the Progress Bar. You’ll keep your points even if your progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
+6. **Final exam** will be on **Wednesday, May 17th, 2023 at 15:30**. The final exam is composed of 70 multiple choice questions designed by education experts from the American Chemical Society. Exam time is 110 minutes. 
 
 :::warning
 Grading in this course is different than you might be used to. Make sure you understand it completely. Read this section carefully and ask questions as needed. 
 :::
 
 
-## My views on grading
+## Assessments and grading
+
+### My views on grading
 
 As a teacher and learner, I strongly believe that *learning takes time* and that grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from your past mistakes and demonstrate not only your skill, but also your growth. I believe you should not be penalized for having a bad day that results in a bad test score, so long as you can show evidence that you've *eventually* learned what you need to learn. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course. 
 
@@ -141,18 +136,6 @@ This gets you into a *feedback loop*, a conversation between you and me about yo
 - students can *reattempt, revise, and resubmit almost any piece of graded work*, several times over if needed, using the feedback at each stage to improve and grow.
 
 This is not as weird as it sounds, it's actually the way human learning naturally occurs and the way most professionals are evaluated in their work. It only seems strange because it's not how school is typically done. But school and the real world are, well, not necessarily aligned. We will take the "real world" approach. Keep reading for more details.
-
-### How each assignment is graded
-
-Refer to the table for an overview of who each assignment is graded. Details are explained below. 
-
-| Assignment       | How it's graded                                                 | What's recorded in Canvas.                         |  
-| :--------------- | :-------------------------------------------------------------- | :------------------------------------------------- |  
-| Learning Targets | Completeness and correctness                                    | `0`, `1`, or `2` (see below)                       |  
-| Class Primer     | Completeness and effort only                                    | `1` for Progress Bar >50%; `0` otherwise |  
-| Class Journal    | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N` (see below)                  |  
-| Final exam       | Correctness only (multiple choice exam)                         | Points, 70 maximum                                 |  
-
 
 ### Learning Targets and Checkpoints
 
@@ -188,6 +171,20 @@ I will publish (and keep additing throughout the semester) a list of problems fo
 
 Journal problems must be correct and clearly communicate the process obtaining the solution. Editor-in-Chief (me) will review your submission and choose whether to accept it or return for revisions. 
 
+
+### How each assignment is graded
+
+Refer to the table for an overview of who each assignment is graded. Details are explained below. 
+
+| Assignment       | How it's graded                                                 | What's recorded in Canvas.                         |  
+| :--------------- | :-------------------------------------------------------------- | :------------------------------------------------- |  
+| Learning Targets | Completeness and correctness                                    | `0`, `1`, or `2` (see below)                       |  
+| Class Primer     | Completeness and effort only                                    | `1` for Progress Bar >50%; `0` otherwise |  
+| Class Journal    | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N` (see below)                  |  
+| Final exam       | Correctness only (multiple choice exam)                         | Points, 70 maximum                                 |  
+
+
+
 ### Final letter grade
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. 
@@ -198,12 +195,14 @@ Your course grade is determined using the table below. In order to earn a partic
 | Class Primer       |    |  7 | 10 | 13  |
 | Class Journal      |    |    |  3 |  5  |
 | iClicker Credits   |  5 | 10 | 15 | 20  |
-| WP Homework        | 70 | 80 | 90 | 100 |
+| Online Homework    | 50 | 60 | 70 | 80  |
 | Final Exam         | 21 | 28 | 35 | 42  |
 
 
 :::success 
-:checkered_flag: **Example**: At the end of the semester Alex accomplished the following:
+:checkered_flag: **Example** 
+
+At the end of the semester Alex accomplished the following:
 
 - completed 14 Class Primer assignments;
 - completed (= done two successful demonstrations of skill on) 12 Learning Targets; 
@@ -323,19 +322,19 @@ _WHO-bert_ _moo-HAL-ski_-->
 ## Appendix A: List of Learning Targets
 
 1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization). I can draw chemical structures using bond--line (zig--zag) style.
-2. I can identify functional groups and convert between different drawing conventions and styles.
+2. I can identify functional groups and convert between different drawing conventions and styles. I can draw constitutional isomers given the atomic formula. 
 3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
 4. I can use the Brønsted–Lowry theory to explain p*K*a trends of organic acids, correlations between structure and stability of organic bases, and behavior or organic compounds in proton transfer reactions.
 5. I can use drawings of structures and projection and conformational analysis to assess relative energy of conformations of chain molecules and cyclohexane derivatives.
-6. I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
-7. I can identify types of isomeric relationships between molecules, including stereoisomeric relationshiops. I can use drawings of structures and projections to demonstrate stereoisomeric relationships.
+6. I can identify types of isomeric relationships between molecules, including stereoisomeric relationships. I can use drawings of structures and projections to demonstrate stereoisomeric relationships.
+7. I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
 8. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
 9. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles. I can draw structures of transition states and reactive intermediates. 
 10. I can solve synthesis problems involving alkyl halides and sulfonates: substitution and elimination reactions.
 11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
-12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions
-13. I can solve multi-step synthetis problems involving alkynes
-14. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of addition to alkenes and alkynes.
+12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
+13. I can solve multi-step synthesis problems involving alkynes.
+14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways.
 15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
 
 ## Appendix B: Tentative Course Schedule
