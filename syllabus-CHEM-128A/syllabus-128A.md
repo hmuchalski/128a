@@ -104,9 +104,9 @@ I designed this course according to the flipped learning model, an instructional
 
 You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. These include:
 
-1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. See ["How work is graded in CHEM 128A"](#grading) below for details.
+1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. 
 3. **Class Primers** are weekly assignments on WileyPLUS designed to give you a sense of how much you learned on your own from reading and watching videos. Aggregate results for the entire class highlight points of confusion. You get credit for the assignment if you complete it before the deadline and move the *Progress Bar* above 50%. 
-2. **Class Journal** are challenging integrated homework problems where students must clearly communicate a complete solution. Journal entries measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. Submission and grading of Class Journal entries is discussed in ["How each assignment is graded"](#grading) section below.
+2. **Class Journal** are challenging integrated homework problems where students must clearly communicate a complete solution. Journal entries measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. 
 4. **iClicker Credits** are earned by taking part in student response polls in class (iClicker Reef). You will receive one participation credit if you answer 75% of questions asked in class session. Correctness is not factored into the score, only participation.
 5. **Online Homework (WileyPLUS)** will help you identify knowledge gaps through adaptive online assignments similar to Class Primers. The number and difficulty of questions in the set varies depending how well you know the material. As your answer questions, the progress bar tracks completion. It can increase and decrease based on how you're doing and you earn points for reaching benchmarks on the Progress Bar. You'll keep your points even if your progress decreases. Work toward 100% Progress to complete your assignment and show that you know your stuff.
 6. **Final exam** will be on **Wednesday, May 17th, 2023 at 15:30**. The final exam is composed of 70 multiple choice questions designed by education experts from the American Chemical Society. Exam time is 110 minutes. 
@@ -155,7 +155,7 @@ Checkpoint is a period of class time set aside for assessment. We will a Checkpo
 As the semester progresses, new Learning Targets and new versions of older ones will added to the pool of LTs available for (re)assessment. This will allow you to reattempt, on a limited basis, any Learning Target you haven't mastered. Refer to the schedule table on what LTs are available for (re)assessment. 
 
 :::success
-_Successful_ as used in descriptions above **does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the companion document titled [Standards for Assessment](https://hackmd.io/@hmuchalski/BJKWouND5) for detailed description of criteria for success.
+_Successful_ as used in descriptions above **does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the [companion document]([https://](https://hackmd.io/@hmuchalski/SkGJe0kii) "Standards for Reassessment in CHEM 129") for detailed description of criteria for success.
 :::
 
 #### Class Journal
@@ -169,7 +169,7 @@ I will publish (and keep adding throughout the semester) a list of problems for 
 Journal problems must be correct and clearly communicate the process obtaining the solution. Editor-in-Chief (me) will review your submission and choose whether to accept it or return for revisions. 
 
 
-### How each assignment is graded {#grading}
+### How each assignment is graded
 
 Refer to the table for an overview of who each assignment is graded. Details are explained below. 
 
@@ -307,7 +307,7 @@ Changes to this syllabus may occur during the term. In those cases, the ==change
 
 ## FAQ
 
-
+Answers to student questions will appear here
 
 ## Acknowledgments
 
@@ -336,8 +336,48 @@ _WHO-bert_ _moo-HAL-ski_-->
 
 ## Appendix B: Tentative Course Schedule
 
-<!-- Insert iframe of Google Sheets -->
+| Week | Class | Day | Date | Topic | Checkpoints | LTs active  |
+|-|-|-|-|-|-|-|
+| 0 |  | Tue | Jan/17 | First day of semester. Course site launched. |  |   |
+| 0 |  | Thu | Jan/19 | First day of instruction |  |   |
+| 1 | 1 | Mon | Jan/23 | Ch01: Review of General Chemistry |  |   |
+| 1 | 2 | Wed | Jan/25 | Ch01: Review of General Chemistry |  |   |
+| 2 | 3 | Mon | Jan/30 | Ch02: Molecular Representations | X | 1–2  |
+| 2 | 4 | Wed | Feb/01 | Ch02: Molecular Representations |  |   |
+| 3 | 5 | Mon | Feb/06 | Ch03: Acid–Base Chemistry of Organic Compounds | X | 1–3  |
+| 3 | 6 | Wed | Feb/08 | Ch03: Acid–Base Chemistry of Organic Compounds |  |   |
+| 4 | 7 | Mon | Feb/13 | Ch04: Alkanes and cycloalkanes. Conformational analysis | X | 1–4  |
+| 4 | 8 | Wed | Feb/15 | Ch04: Alkanes and cycloalkanes. Conformational analysis |  |   |
+| 5 | X | Mon | Feb/20 | NO CLASS: President's Day | A | 1–5  |
+| 5 | 9 | Wed | Feb/22 | Ch05: Stereochemistry |  |   |
+| 6 | 10 | Mon | Feb/27 | Ch05: Stereochemistry | X | 3–7  |
+| 6 | 11 | Wed | Mar/01 | IUPAC Nomenclature (multiple chapters) |  |   |
+| 7 | 12 | Mon | Mar/06 | Ch06: Chemical Reactivity and Mechanisms |  |   |
+| 7 | 13 | Wed | Mar/08 | Ch06: Chemical Reactivity and Mechanisms | X | 4–8  |
+| 8 | 14 | Mon | Mar/13 | Ch06: Chemical Reactivity and Mechanisms |  |   |
+| 8 | 15 | Wed | Mar/15 | Ch07: Nucleophilic Substitution & Elimination |  |   |
+| 9 | 16 | Mon | Mar/20 | Ch07: Nucleophilic Substitution & Elimination | X | 5–9  |
+| 9 | 17 | Wed | Mar/22 | Ch07: Nucleophilic Substitution & Elimination |  |   |
+| 10 | 18 | Mon | Mar/27 | Ch08: Alkenes (virtual, asynchronous) | A | 6–11  |
+| 10 | 19 | Wed | Mar/29 | Ch08: Alkenes (virtual, asynchronous) |  |   |
+| 11 | X | Mon | Apr/03 | SPRING BREAK |  |   |
+| 11 | X | Wed | Apr/05 | SPRING BREAK |  |   |
+| 12 | 20 | Mon | Apr/10 | Ch08: Alkenes | X | 8–12  |
+| 12 | 21 | Wed | Apr/12 | Ch09: Alkynes |  |   |
+| 13 | 22 | Mon | Apr/17 | Ch09: Alkynes |  |   |
+| 13 | 23 | Wed | Apr/19 | Ch10: Chemistry of free radicals | X | 9–14  |
+| 14 | 24 | Mon | Apr/24 | Ch10: Chemistry of free radicals |  |   |
+| 14 | 25 | Wed | Apr/26 | Ch11: Synthetic strategies |  |   |
+| 15 | 26 | Mon | May/01 | Ch11: Synthetic strategies |  |   |
+| 15 | 27 | Wed | May/03 | Ch12: Alcohols and phenols | X | 10–15  |
+| 16 | 28 | Mon | May/08 | Ch12: Alcohols and phenols |  |   |
+| 16 | 29 | Wed | May/10 | Ch12: Alcohols and phenols |  |   |
+| 16 | X | Thu | May/11 | Consultation Day | X | 14–15  |
+| 16 | X | Fri | May/12 | Consultation Day | X | 1–15  |
+| 17 |  | Wed | May/17 | Final Exam |  |   |
 
+X = in-class Checkpoint
+A = online, asynchronous Checkpoint
 
 Alert Area
 ---
