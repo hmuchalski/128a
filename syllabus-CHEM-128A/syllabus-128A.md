@@ -155,7 +155,7 @@ Checkpoint is a period of class time set aside for assessment. We will a Checkpo
 As the semester progresses, new Learning Targets and new versions of older ones will added to the pool of LTs available for (re)assessment. This will allow you to reattempt, on a limited basis, any Learning Target you haven't mastered. Refer to the schedule table on what LTs are available for (re)assessment. 
 
 :::success
-_Successful_ as used in descriptions above **does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the [companion document]([https://](https://hackmd.io/@hmuchalski/SkGJe0kii) "Standards for Reassessment in CHEM 129") for detailed description of criteria for success.
+_Successful_ as used in descriptions above **does not mean "perfect" or "error-free"**. A limited number of minor errors is allowed. See the [companion document](https://hackmd.io/@hmuchalski/SkGJe0kii) "Standards for Reassessment in CHEM 129") for detailed description of criteria for success.
 :::
 
 #### Class Journal
@@ -313,9 +313,6 @@ Answers to student questions will appear here
 
 Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clarck (Grand Valley University).
 
-<!-- ## About the instructor 
-_WHO-bert_ _moo-HAL-ski_-->
-
 ## Appendix A: List of Learning Targets
 
 1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization). I can draw chemical structures using bond--line (zig--zag) style.
@@ -334,52 +331,7 @@ _WHO-bert_ _moo-HAL-ski_-->
 14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways.
 15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
 
-## Appendix B: Tentative Course Schedule
-
-| Week | Class | Day | Date | Topic | Checkpoints | LTs active  |
-|-|-|-|-|-|-|-|
-| 0 |  | Tue | Jan/17 | First day of semester. Course site launched. |  |   |
-| 0 |  | Thu | Jan/19 | First day of instruction |  |   |
-| 1 | 1 | Mon | Jan/23 | Ch01: Review of General Chemistry |  |   |
-| 1 | 2 | Wed | Jan/25 | Ch01: Review of General Chemistry |  |   |
-| 2 | 3 | Mon | Jan/30 | Ch02: Molecular Representations | X | 1–2  |
-| 2 | 4 | Wed | Feb/01 | Ch02: Molecular Representations |  |   |
-| 3 | 5 | Mon | Feb/06 | Ch03: Acid–Base Chemistry of Organic Compounds | X | 1–3  |
-| 3 | 6 | Wed | Feb/08 | Ch03: Acid–Base Chemistry of Organic Compounds |  |   |
-| 4 | 7 | Mon | Feb/13 | Ch04: Alkanes and cycloalkanes. Conformational analysis | X | 1–4  |
-| 4 | 8 | Wed | Feb/15 | Ch04: Alkanes and cycloalkanes. Conformational analysis |  |   |
-| 5 | X | Mon | Feb/20 | NO CLASS: President's Day | A | 1–5  |
-| 5 | 9 | Wed | Feb/22 | Ch05: Stereochemistry |  |   |
-| 6 | 10 | Mon | Feb/27 | Ch05: Stereochemistry | X | 3–7  |
-| 6 | 11 | Wed | Mar/01 | IUPAC Nomenclature (multiple chapters) |  |   |
-| 7 | 12 | Mon | Mar/06 | Ch06: Chemical Reactivity and Mechanisms |  |   |
-| 7 | 13 | Wed | Mar/08 | Ch06: Chemical Reactivity and Mechanisms | X | 4–8  |
-| 8 | 14 | Mon | Mar/13 | Ch06: Chemical Reactivity and Mechanisms |  |   |
-| 8 | 15 | Wed | Mar/15 | Ch07: Nucleophilic Substitution & Elimination |  |   |
-| 9 | 16 | Mon | Mar/20 | Ch07: Nucleophilic Substitution & Elimination | X | 5–9  |
-| 9 | 17 | Wed | Mar/22 | Ch07: Nucleophilic Substitution & Elimination |  |   |
-| 10 | 18 | Mon | Mar/27 | Ch08: Alkenes (virtual, asynchronous) | A | 6–11  |
-| 10 | 19 | Wed | Mar/29 | Ch08: Alkenes (virtual, asynchronous) |  |   |
-| 11 | X | Mon | Apr/03 | SPRING BREAK |  |   |
-| 11 | X | Wed | Apr/05 | SPRING BREAK |  |   |
-| 12 | 20 | Mon | Apr/10 | Ch08: Alkenes | X | 8–12  |
-| 12 | 21 | Wed | Apr/12 | Ch09: Alkynes |  |   |
-| 13 | 22 | Mon | Apr/17 | Ch09: Alkynes |  |   |
-| 13 | 23 | Wed | Apr/19 | Ch10: Chemistry of free radicals | X | 9–14  |
-| 14 | 24 | Mon | Apr/24 | Ch10: Chemistry of free radicals |  |   |
-| 14 | 25 | Wed | Apr/26 | Ch11: Synthetic strategies |  |   |
-| 15 | 26 | Mon | May/01 | Ch11: Synthetic strategies |  |   |
-| 15 | 27 | Wed | May/03 | Ch12: Alcohols and phenols | X | 10–15  |
-| 16 | 28 | Mon | May/08 | Ch12: Alcohols and phenols |  |   |
-| 16 | 29 | Wed | May/10 | Ch12: Alcohols and phenols |  |   |
-| 16 | X | Thu | May/11 | Consultation Day | X | 14–15  |
-| 16 | X | Fri | May/12 | Consultation Day | X | 1–15  |
-| 17 |  | Wed | May/17 | Final Exam |  |   |
-
-X = in-class Checkpoint
-A = online, asynchronous Checkpoint
-
-Alert Area
+<!-- Alert Area
 ---
 :::success
 Yes :tada:
@@ -403,4 +355,4 @@ You found me :stuck_out_tongue_winking_eye:
 
 :::spoiler {state="open"} Expand the spoiler container by default
 You found me :stuck_out_tongue_winking_eye:
-:::
+::: -->
