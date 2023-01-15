@@ -104,7 +104,7 @@ I designed this course according to the flipped learning model, an instructional
 
 You will be engaging with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. These include:
 
-1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible. You will do that through *Checkpoints*, asynchronous at-home exams. 
+1. **Learning Targets** are main skills and tasks you should be able to do if you're successfully learning in CHEM 128A. There are **15** Learning Targets in the course (see [Appendix A](#LT)). Your primary goal is to provide evidence of learning on as many targets as possible by solving LT problems during  *Checkpoints*.. 
 3. **Class Primers** are weekly assignments on WileyPLUS designed to give you a sense of how much you learned on your own from reading and watching videos. Aggregate results for the entire class highlight points of confusion. You get credit for the assignment if you complete it before the deadline and move the *Progress Bar* above 50%. 
 2. **Class Journal** are challenging integrated homework problems where students must clearly communicate a complete solution. Journal entries measure student skills across multiple learning objectives, will require a formal writeup, and may require additional technology. 
 4. **iClicker Credits** are earned by taking part in student response polls in class (iClicker Reef). You will receive one participation credit if you answer 75% of questions asked in class session. Correctness is not factored into the score, only participation.
@@ -142,7 +142,7 @@ This is not as weird as it sounds, it's actually the way human learning naturall
 
 One of your primary responsibilities in the course is to demonstrate as much skill as possible on as many Learning Targets as possible through solving LT problems during *Checkpoints*. 
 
-Checkpoint is a period of class time set aside for assessment. We will a Checkpoints frequently (check the schedule), usually during the first 25 min if the class period. Each Learning Target is listed in the gradebook separately and is marked using the following 3-level rubric:
+Checkpoint is a period of class time set aside for assessment. We will have Checkpoints frequently (check the schedule), usually during the first 25 min if the class period. Each Learning Target is listed in the gradebook separately and is marked using the following 3-level rubric:
 
 - **No Rating** indicates that that you did not attempt the learning target or the attempt was unsuccessful. Everyone begins the semester with "No Rating" on all Learning Targets. Shows in Canvas gradebook as `0`
 - **Proficiency** indicates you successfully completed **one** LT problem, i.e., the solution met the standards for acceptable work. Shows in Canvas gradebook as `1`
@@ -173,12 +173,12 @@ Journal problems must be correct and clearly communicate the process obtaining t
 
 Refer to the table for an overview of who each assignment is graded. Details are explained below. 
 
-| Assignment       | How it's graded                                                 | What's recorded in Canvas.                         |  
-| :--------------- | :-------------------------------------------------------------- | :------------------------------------------------- |  
-| Learning Targets | Completeness and correctness                                    | `0`, `1`, or `2` (see below)                       |  
+| Assignment       | How it's graded                                                 | What's recorded in Canvas.               |  
+| :--------------- | :-------------------------------------------------------------- | :--------------------------------------- |  
+| Learning Targets | Completeness and correctness                                    | `0`, `1`, or `2` (see below)             |  
 | Class Primer     | Completeness and effort only                                    | `1` for Progress Bar >50%; `0` otherwise |  
-| Class Journal    | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N` (see below)                  |  
-| Final exam       | Correctness only (multiple choice exam)                         | Points, 70 maximum                                 |  
+| Class Journal    | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N`                    |  
+| Final ACS exam   | Correctness only (multiple choice exam)                         | Points, 70 maximum                       |  
 
 
 ### Final letter grade
@@ -189,24 +189,23 @@ Your course grade is determined using the table below. In order to earn a partic
 **Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
 :::
 
-| Category           | D  | C  | B  | A   |
-|--------------------|----|----|----|-----|
-| Learning Targets   |  5 |  7 | 10 | 13  |
-| Class Primer       |    |  7 | 10 | 13  |
-| Class Journal      |    |    |  3 |  5  |
-| iClicker Credits   |  5 | 10 | 15 | 20  |
-| Online Homework    | 50 | 60 | 70 | 80  |
-| Final Exam         | 21 | 28 | 35 | 42  |
-
+| Category         | D  | C  | B  | A     | 
+| ---------------- | -- | -- | -- | ----- | 
+| Learning Targets | 5  | 7  | 10 | 13    | 
+| Class Primer     |    | 7  | 10 | 13    | 
+| Class Journal    |    |    | 3M | 4M 1E | 
+| iClicker Credits | 5  | 10 | 15 | 20    | 
+| Online Homework  | 50 | 60 | 70 | 80    | 
+| Final Exam       | 21 | 28 | 35 | 42    | 
 
 :::success 
 :checkered_flag: **Example** 
 
 At the end of the semester Alex accomplished the following:
 
-- completed 14 Class Primer assignments;
-- completed (= done two successful demonstrations of skill on) 12 Learning Targets; 
-- submitted 3 Class Journal (one graded "E", two graded "M"); 
+- completed 15 Class Primer assignments;
+- completed (= done two successful demonstrations of skill on) 11 Learning Targets; 
+- submitted 5 Class Journal (two graded "E", three graded "M"); 
 - stayed engaged in class meetings and earned 20 iClicker Credits; and
 - earned 54 points on the final exam.
 

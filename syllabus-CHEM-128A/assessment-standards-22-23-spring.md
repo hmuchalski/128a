@@ -1,5 +1,5 @@
 ---
-tags: 128q, spring, ay22-23, standards
+tags: 128a, spring, ay22-23, standards
 title: "Standards for Assessment in CHEM 128"
 ---
 
@@ -9,20 +9,19 @@ In the syllabus I regularly refer to *successful* or *acceptable* work without d
 
 ## Class Primer
 
-Class Primers are adaptive WileyPLUS assignments assigned as pre-class work. You get credit for completing the assignment before the deadline and giving each item a good faith effort to solve it correctly. As you answer questions you will see the Progress Bar move, it can increase and decrease based on how you’re doing. Once you reach the threshold of 50% AND attempt all questions you earn credit for this assignment (shows as `1` . 
+Class Primers are WileyPLUS assignments done prior to the class. You get credit for completing the assignment before the deadline and giving each item a good faith effort to solve it correctly. As you answer questions you will see the `Progress Bar` move, it can increase and decrease based on how you’re doing. Once you pass the threshold of 50% AND attempt all questions you earn credit for this assignment (shows as `1`). 
+
+## Online Homework
+
+Homework assignments are weekly assignments that give you space to practice what we covered that week. Similarly to Class Primers, you work on "charging" the `Progress Bar` by solving problems. Passing the threshold of 50% gives you 5 points, passing 80% gives you 8 point, reaching 100% earns 10 points. 
 
 :::info
-WileyPLUS assignments use adaptive learning engine. This means that then number and difficulty of questions is determined by how you are doing. Before each batch of questions you will be asked to review appropriate sections of the textbook. Incorrect answers are not penelized, i.e., the difficulty is adjusted until you answer correctly, although some additional review may be needed. 
+All WileyPLUS assignments use adaptive learning engine. This means that then number and difficulty of questions is determined by how you are doing. Before each batch of questions you will be asked to review relevant sections in the textbook. Incorrect answers are not penelized, i.e., the difficulty is adjusted until you answer correctly, although some additional review may be needed. 
 :::
 
 ## Learning Targets
 
-There are two different ways to demonstrate skill on a Learning Target: 
-
-- by working a problem on a Learning Target tests, or
-- by working a problem in an oral quiz during office hours.
-
-Both **written and oral quizzes** are graded on the basis of *completeness and correctness*. A mark of `Successful` will show on the page and `1` will show on Canvas if the work meets the standards; a mark of `Retry` is recorded otherwise. 
+The primary way of demonstrating skill on a Learning Target is to solve LT problem during Checkpoint, a period of class time set aside for assessment. We will have Checkpoints frequently (check the schedule), usually during the first 25 min if the class period. Your work on LT problems are graded on the basis of *completeness and correctness*. 
 
 | The work receives a mark of... | If it meets these criteria: | 
 | :----: | ---- | 
@@ -36,7 +35,7 @@ Both **written and oral quizzes** are graded on the basis of *completeness and c
 ### Alternative ways to demonstrate skill
 
 :::success
-You can demonstrate your skill and knowledge during office hours as an oral presentation. In this option, you schedule an appointment, I’ll give you a new instance of a problem, a whiteboard marker, and your job will be to generate the solution on the spot.
+You can demonstrate your skill and knowledge during office hours as an oral presentation. In this option, you schedule an appointment, I’ll give you a new instance of a problem, a whiteboard marker, and your job will be to generate the solution on the spot. No more than one LT problem per week can be attempted via oral examination.
 :::
 
 ### What is a "simple error"?
