@@ -189,14 +189,14 @@ Your course grade is determined using the table below. In order to earn a partic
 **Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
 :::
 
-| Category         | D  | C  | B  | A     | 
-| ---------------- | -- | -- | -- | ----- | 
-| Learning Targets | 5  | 7  | 10 | 13    | 
-| Class Primer     |    | 7  | 10 | 13    | 
-| Class Journal    |    |    | 3M | 4M 1E | 
-| iClicker Credits | 5  | 10 | 15 | 20    | 
-| Online Homework  | 50 | 60 | 70 | 80    | 
-| Final Exam       | 21 | 28 | 35 | 42    | 
+| Category         | D  | C  | B   | A       |  
+| ---------------- | -- | -- | --- | ------- |  
+| Learning Targets | 5  | 7  | 10  | 13      |  
+| Class Primer     |    | 7  | 10  | 13      |  
+| Class Journal    |    |    | 3xM | 4xM 1xE |  
+| iClicker Credits | 5  | 10 | 15  | 20      |  
+| Online Homework  | 50 | 60 | 70  | 80      |  
+| Final Exam       | 21 | 28 | 35  | 42      |  
 
 :::success 
 :checkered_flag: **Example** 
@@ -327,7 +327,7 @@ Large portions of the language of this syllabus as well as ideas related to grow
 11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
 12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
 13. I can solve multi-step synthesis problems involving alkynes.
-14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways.
+14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes.
 15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
 
 <!-- Alert Area

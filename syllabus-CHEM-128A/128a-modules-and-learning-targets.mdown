@@ -13,7 +13,7 @@
 11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
 12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
 13. I can solve multi-step synthesis problems involving alkynes.
-14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways.
+14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes.
 15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
 
 
