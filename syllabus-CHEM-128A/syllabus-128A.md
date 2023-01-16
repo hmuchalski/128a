@@ -6,18 +6,19 @@ author: "Instructor: Hubert Muchalski"
 
 # Course Syllabus
 
-| Course Name  | Organic Chemistry 2 (lecture)   |  
+| Course Name  | Organic Chemistry 1 (lecture)   |  
 | :----------- | :------------------------------ |  
-| Semester     | 2023 Fall        |  
+| Semester     | AY 22–23 Spring                 |  
 | Units        | 3                               |  
 | Department   | Chemistry and Biochemistry      |  
-| Time         | MW 14:00–15:15                  |  
-| Location     | MCL        |  
+| Time (Sec 8) | Mon/Wed 14:00–15:15             |  
+| Time (Sec 9) | Tue/Thu 14:00–15:15             |  
+| Location     | MCL 161 (Sec 8); IT 290 (Sec 9) |  
 | Instructor   | Dr. Hubert Muchalski            |  
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours |  |  
+| Office hours |                                 |  
 
 
 ## How to use this syllabus
