@@ -8,7 +8,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 | Course Name  | Organic Chemistry 2 (laboratory) |  
 | :----------- | :------------------------------- |  
-| Semester     | AY 22–23 Spring.                |  
+| Semester     | AY 22–23 Spring                  |  
 | Units        | 2                                |  
 | Department   | Chemistry and Biochemistry       |  
 | Time         | TR 9:00–11:50 pm                 |  
@@ -82,7 +82,7 @@ Passing CHEM 129A with a grade of "C" or better is the formal pre-requisite for 
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/66127](https://fresnostate.instructure.com/courses/66127). The Canvas site will house assignments, grades, and links to materials/resources.
 - **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
-- 
+
 ## Course workflow
 
 Activities in this course follows a cyclical pattern. Over the semester you will engage in several experiment sets. At the heart of each step will be a synthesis of an organic compound (1–3 steps). Specific requirements will be communicated by the instructor at the beginning of the semester. 
@@ -294,36 +294,36 @@ This syllabus and schedule are subject to change in the event of extenuating cir
 
 | Day | Tue/Thu        | Topic                                                                       |  
 | --- | -------------- | --------------------------------------------------------------------------- |  
-|     | Thurs., Jan 19 | NO LAB                                                                      |  
-| 1   | Tues., Jan 24  | Lab orientation, policies, chemical safety, lab notebooks.                  |  
-| 2   | Thurs., Jan 26 | Develop protocol for acid–base extraction. Lab locker check-in.             |  
-| 3   | Tues., Jan 31  | Isolation–purification scheme (unknown solid mix)                           |  
-| 4   | Thurs., Feb 2  | Isolation–purification scheme (unknown solid mix)                           |  
-| 5   | Tues., Feb 7   | Solvent-free synthesis of chalcones                                         |  
-| 6   | Thurs., Feb 9  | Solvent-free synthesis of chalcones                                         |  
-| 7   | Tues., Feb 14  | Introduction to NMR (chalcones & substrates). Prepare for the next experiment|  
-| 8   | Thurs., Feb 16 | Hydrobenzoin: synthesis and purification                                    |  
-| X   | Tues., Feb 21  | NO LAB (President’s Day)                                                    |  
-| 9   | Thurs., Feb 23 | Acetonide of hydrobenzoin: synthesis and purification                       |  
-| 10  | Tues., Feb 28  | NMR analysis of acetonide. Prepare for CIP experiment set                   |  
-| 11  | Thurs., Mar 2  | Reduction with CIP in water: synthesis and monitoring with TLC              |  
-| 12  | Tues., Mar 7   | Reduction with CIP in water: isolation & NMR                                |  
-| 13  | Thurs., Mar 9  | qNMR analysis of CIP reduction product. Prepare for the next experiment     |  
-| 14  | Tues., Mar 14  | Unknown arene: Friedel–Crafts acylation                                     |  
-| 15  | Thurs., Mar 16 | Unknown arene: isolation, purification, and NMR                             |  
-| 16  | Tues., Mar 21  | Unknown arene: NMR analysis                                                 |  
-| 17  | Thurs., Mar 23 | Research tools (class meeting at the library)                               |  
-| 18  | Tues., Mar 28  | Research Project                                                            |  
-| 19  | Thurs., Mar 30 | Research Project                                                            |  
-| X   | Tues., Apr 4   | NO LAB (Spring Break)                                                       |  
-| X   | Thurs., Apr 6  | NO LAB (Spring Break)                                                       |  
-| 20  | Tues., Apr 11  | Research Project                                                            |  
-| 21  | Thurs., Apr 13 | Research Project                                                            |  
-| 22  | Tues., Apr 18  | Research Project                                                            |  
-| 23  | Thurs., Apr 20 | Research Project                                                            |  
-| 24  | Tues., Apr 25  | Research Project                                                            |  
-| 25  | Thurs., Apr 27 | Research Project                                                            |  
-| 26  | Tues., May 2   | Research Project                                                            |  
-| 27  | Thurs., May 4  | Presentations                                                               |  
-| 28  | Tues., May 9   | Locker check-out                                                            |  
-| 29  | Thurs., May 11 | Consultation Days                                                           |  
+|     | Thu, Jan 19 | NO LAB                                                                      |  
+| 1   | Tue, Jan 24  | Lab orientation, policies, chemical safety, lab notebooks.                  |  
+| 2   | Thu, Jan 26 | Develop protocol for acid–base extraction. Lab locker check-in.             |  
+| 3   | Tue, Jan 31  | Isolation–purification scheme (unknown solid mix)                           |  
+| 4   | Thu, Feb 2  | Isolation–purification scheme (unknown solid mix)                           |  
+| 5   | Tue, Feb 7   | Solvent-free synthesis of chalcones                                         |  
+| 6   | Thu, Feb 9  | Solvent-free synthesis of chalcones                                         |  
+| 7   | Tue, Feb 14  | Introduction to NMR (chalcones & substrates). Prepare for the next experiment|  
+| 8   | Thu, Feb 16 | Hydrobenzoin: synthesis and purification                                    |  
+| X   | Tue, Feb 21  | NO LAB (President’s Day)                                                    |  
+| 9   | Thu, Feb 23 | Acetonide of hydrobenzoin: synthesis and purification                       |  
+| 10  | Tue, Feb 28  | NMR analysis of acetonide. Prepare for CIP experiment set                   |  
+| 11  | Thu, Mar 2  | Reduction with CIP in water: synthesis and monitoring with TLC              |  
+| 12  | Tue, Mar 7   | Reduction with CIP in water: isolation & NMR                                |  
+| 13  | Thu, Mar 9  | qNMR analysis of CIP reduction product. Prepare for the next experiment     |  
+| 14  | Tue, Mar 14  | Unknown arene: Friedel–Crafts acylation                                     |  
+| 15  | Thu, Mar 16 | Unknown arene: isolation, purification, and NMR                             |  
+| 16  | Tue, Mar 21  | Unknown arene: NMR analysis                                                 |  
+| 17  | Thu, Mar 23 | Research tools (class meeting at the library)                               |  
+| 18  | Tue, Mar 28  | Research Project                                                            |  
+| 19  | Thu, Mar 30 | Research Project                                                            |  
+| X   | Tue, Apr 4   | NO LAB (Spring Break)                                                       |  
+| X   | Thu, Apr 6  | NO LAB (Spring Break)                                                       |  
+| 20  | Tue, Apr 11  | Research Project                                                            |  
+| 21  | Thu, Apr 13 | Research Project                                                            |  
+| 22  | Tue, Apr 18  | Research Project                                                            |  
+| 23  | Thu, Apr 20 | Research Project                                                            |  
+| 24  | Tue, Apr 25  | Research Project                                                            |  
+| 25  | Thu, Apr 27 | Research Project                                                            |  
+| 26  | Tue, May 2   | Research Project                                                            |  
+| 27  | Thu, May 4  | Presentations                                                               |  
+| 28  | Tue, May 9   | Locker check-out                                                            |  
+| 29  | Thu, May 11 | Consultation Days                                                           |  
