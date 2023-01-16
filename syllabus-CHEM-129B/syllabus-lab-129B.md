@@ -1,30 +1,30 @@
 ---
-tags: 129b, summer, syllabus
+tags: 129b, spring, syllabus
 title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
 # Course Syllabus
 
-| Course Name  | Organic Chemistry 2 (lab)       |  
-| :----------- | :------------------------------ |  
-| Semester     | 2022 Fall Semester              |  
-| Units        | 2                               |  
-| Department   | Chemistry and Biochemistry      |  
-| Time         | TR 1:00–3:50 pm                |  
-| Location     | Science 1-350                   |  
-| Instructor   | Dr. Hubert Muchalski            |  
-| Coordinator  | Dr. Hubert Muchalski            |  
-| Email        | hmuchalski@mail.fresnostate.edu |  
-| Office phone | 559-278-2711                    |  
-| Office       | Science 1, room 352             |  
-| Office hours | Monday, 3–4:30 pm; Wed 2-3:30 pm |  
+| Course Name  | Organic Chemistry 2 (laboratory) |  
+| :----------- | :------------------------------- |  
+| Semester     | 2023 Spring Semester             |  
+| Units        | 2                                |  
+| Department   | Chemistry and Biochemistry       |  
+| Time         | TR 9:00–11:50 pm                 |  
+| Location     | Science 1-350                    |  
+| Instructor   | Dr. Hubert Muchalski             |  
+| Coordinator  | Dr. Hubert Muchalski             |  
+| Email        | hmuchalski@mail.fresnostate.edu  |  
+| Office phone | 559-278-2711                     |  
+| Office       | Science 1, room 352              |  
+| Office hours |                                  |  
 
 
 
 ## How to use this syllabus
 
-This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
+This document contains all the information you need to navigate the course. This syllabus is long (nearly 4,000 words) for a reason. **It is meant to be carefully read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
 + Links to all important documents and information can be found on the course [Canvas site][cnvs]
