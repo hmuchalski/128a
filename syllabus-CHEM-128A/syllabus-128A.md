@@ -59,9 +59,9 @@ Before reading any further, here are some things to know:
 This course is part of the *Immediate Access program*. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
 :::
 
-**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform is not yet optimized for mobile devices.
+**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform may not work well on mobile devices. Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 
-**A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
+**iClicker Reef**
 
 **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 
@@ -194,7 +194,7 @@ Your course grade is determined using the table below. In order to earn a partic
 | ---------------- | -- | -- | --- | ------- |  
 | Learning Targets | 5  | 7  | 10  | 13      |  
 | Class Primer     |    | 7  | 10  | 13      |  
-| Class Journal    |    |    | 3xM | 4xM 1xE |  
+| Class Journal    |    |    | 2xM | 3xM 1xE |  
 | iClicker Credits | 5  | 10 | 15  | 20      |  
 | Online Homework  | 50 | 60 | 70  | 80      |  
 | Final Exam       | 21 | 28 | 35  | 42      |  
