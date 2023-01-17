@@ -61,7 +61,7 @@ This course is part of the *Immediate Access program*. All students have access 
 
 **A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform may not work well on mobile devices. Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 
-**iClicker Reef**
+**Student response system:** Most students use iClicker Reef mobile app but a physical remote (_i>clicker2_) will also work. Make sure you use your university email when signing up for iClicker service or registering the physical remote. 
 
 **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 
