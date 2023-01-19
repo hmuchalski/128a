@@ -6,19 +6,19 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 # Course Syllabus
 
-| Course Name  | Organic Chemistry 2 (laboratory) |  
-| :----------- | :------------------------------- |  
-| Semester     | AY 22–23 Spring                  |  
-| Units        | 2                                |  
-| Department   | Chemistry and Biochemistry       |  
-| Time         | TR 9:00–11:50 pm                 |  
-| Location     | Science 1-350                    |  
-| Instructor   | Dr. Hubert Muchalski             |  
-| Coordinator  | Dr. Hubert Muchalski             |  
-| Email        | hmuchalski@mail.fresnostate.edu  |  
-| Office phone | 559-278-2711                     |  
-| Office       | Science 1, room 352              |  
-| Office hours |                                  |  
+| Course Name  | Organic Chemistry 2 (laboratory)                    |  
+| :----------- | :-------------------------------------------------- |  
+| Semester     | AY 22–23 Spring                                     |  
+| Units        | 2                                                   |  
+| Department   | Chemistry and Biochemistry                          |  
+| Time         | TR 9:00–11:50 pm                                    |  
+| Location     | Science 1-350                                       |  
+| Instructor   | Dr. Hubert Muchalski                                |  
+| Coordinator  | Dr. Hubert Muchalski                                |  
+| Email        | hmuchalski@mail.fresnostate.edu                     |  
+| Office phone | 559-278-2711                                        |  
+| Office       | Science 1, room 352                                 |  
+| Office hours | Mon 11:30–12:30; Tue 12:30–13:30 and by appointment |  
 
 
 
