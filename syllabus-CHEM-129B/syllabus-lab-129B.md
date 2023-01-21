@@ -18,7 +18,9 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Email        | hmuchalski@mail.fresnostate.edu                     |  
 | Office phone | 559-278-2711                                        |  
 | Office       | Science 1, room 352                                 |  
-| Office hours | Mon 11:30–12:30; Tue 12:30–13:30 and by appointment |  
+| Office hours | Mon 11:30–12:30; Tue 12:30–13:30 and [by appointment][appointments] |  
+
+[appointments]: https://calendar.app.google/94r2GYBhhbMAawzeA
 
 
 

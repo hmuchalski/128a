@@ -18,7 +18,12 @@ author: "Instructor: Hubert Muchalski"
 | Email        | hmuchalski@mail.fresnostate.edu                     |  
 | Office phone | 559-278-2711                                        |  
 | Office       | Science 1, room 352                                 |  
-| Office hours | Mon 11:30–12:30; Tue 12:30–13:30 and by appointment |  
+| Office hours | Mon 11:30–12:30; Tue 12:30–13:30 and [by appointment][appointments] |  
+| Class schedule | [Mon/Wed Schedule][MW-schedule] \| [Tue/Thu Schedule][TR-schedule] |  
+
+[appointments]: https://calendar.app.google/94r2GYBhhbMAawzeA
+[MW-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=141646670&single=true
+[TR-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=687187314&single=true
 
 ## How to use this syllabus
 
