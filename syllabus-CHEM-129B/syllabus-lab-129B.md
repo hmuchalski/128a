@@ -11,7 +11,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Semester     | AY 22–23 Spring                                     |  
 | Units        | 2                                                   |  
 | Department   | Chemistry and Biochemistry                          |  
-| Time         | TR 9:00–11:50 pm                                    |  
+| Time         | TR 9:00–11:50 pm [link text][reference]                                   |  
 | Location     | Science 1-350                                       |  
 | Instructor   | Dr. Hubert Muchalski                                |  
 | Coordinator  | Dr. Hubert Muchalski                                |  
@@ -22,7 +22,9 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 [appointments]: https://calendar.app.google/94r2GYBhhbMAawzeA
 
+## Note about class time
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et eros vel erat mattis porttitor ut non felis. Curabitur egestas diam sem, sit amet tristique lacus sagittis eget. Curabitur non efficitur lacus. In vitae dignissim dui, ac pulvinar ligula. Fusce in sapien eu libero tristique sodales non non elit. Nulla facilisi. Curabitur semper sed ex a porttitor. Ut eu aliquam turpis. Suspendisse vitae lacus volutpat, dapibus ipsum ac, varius massa. Mauris nec venenatis neque. Morbi id elit quis sem luctus aliquam. Maecenas non erat malesuada, elementum mi vitae, fermentum nunc. Nullam tempor dolor quis fermentum interdum. Curabitur at porttitor urna. Nullam in tellus lectus.
 
 ## How to use this syllabus
 
