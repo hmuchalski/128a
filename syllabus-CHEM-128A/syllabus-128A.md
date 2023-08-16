@@ -36,34 +36,34 @@ Grade **A** in this class means that by the end of the semester you demonstrated
 
 
 
+[appointments]: https://calendar.app.google/94r2GYBhhbMAawzeA
+[MW-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=141646670&single=true
+[TR-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=687187314&single=true
 
 ## How to use this syllabus
 
 This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
-
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
-+ Links to all important documents and information can be found on the course Canvas site and also on our **Class Page**, which you can access [by clicking here](https://hackmd.io/@hmuchalski/HJGEmMjKd). The Class Page will also contain links, a record of what we do in class each day, and more. **Bookmark the Class Page in your browser and check it daily.**
++ Links to all important documents and information can be found on the course Canvas site.
 + Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
 
-## Introductions
+## Introduction
 
 In Organic Chemistry 1 you will learn about structure, properties, and reactivity of organic compounds. Carbon-based molecules are central to a host of chemical and biological processes because of their broad range of structure and reactivity. The billions of organic compounds alone, ranging from polymers to pharmaceuticals, make the field important for study. Yet, organic chemistry is also a highly integrated discipline that impacts and is impacted by the other branches of chemistry and other sciences, because **organic chemistry enables a molecular understanding of physicochemical phenomena in materials science, the environment, biology, and medicine**. Because the field has reached a high level of integration with these areas, progress in organic chemistry continues at a fast pace and much more remains to be discovered.
 
 Before reading any further, here are some things to know:
 
-1. **The pace of this course is fast**. We will cover approximately one chapter per week and there is a lot of material introduced in each chapter. New chapters build on the content introduced in prior chapters. To reduce the risk of falling behind, start working on assignments immediaterly,check announcements, ask questions and resists the urge to procrastinate. 
-3. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
-2. **Make sure you understand the grading system.** It is definitely different from what you experienced in the past. 
-4. **Expect to be challenged intellectually throughout this course.** Nothing of true value comes easily and requires a great deal of time and attention. There will be a good deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis and challenge your current understanding of chemistry. 
+1. **The pace of this course is fast**. We will cover approximately one chapter per week and there is a lot of material introduced in each chapter. New chapters build on the content introduced in prior chapters. To reduce the risk of falling behind, start working on assignments immediaterly,check announcements, ask questions and resists the urge to procrastinate.
+2. **College-level chemistry is more than just memorizing structures and reactions**. You will be asked to do more than just give answers to problems. Your goal should be to seek deep understanding of underlying concepts because they are universal and the list is much shorter than a disconnected list of reactions and reagents.
+3. **Make sure you understand the grading system.** It is definitely different from what you experienced in the past.
+4. **Expect to be challenged intellectually throughout this course.** Nothing of true value comes easily and requires a great deal of time and attention. There will be a good deal with ambiguity of the concepts and tasks in the course. This will require you to leave your comfort zones on a regular basis and challenge your current understanding of chemistry.
 5. **Your success in the course depends on your willingness to be actively engaged during class time**. We will spend most of the in-class time practicing the skills related to learning targets. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with growth mindset, on the other hand, often surprise themselves with how much and how well they learn. You will need to stay engaged by participating in class meetings and on the class discussions. Students who succeed in this course have few things in common: they ask questions, seek understanding (not answers), form study groups, and help others learn.
 6. **Asking questions is a not a sign of weakness**. It is guaranteed that you will be confused, lost, and stuck every day we meet in class. **That's a good sign!** Asking and answering questions requires you to leave your comfort zones on a regular basis, but is a crucial ingredient in learning. 
-
 
 :::info
 **My #1 job as the professor is to make sure you succeed in learning.** Success in the course doesn't come cheap. Learning hard things involves hard work, a willingness to try things that might not work the first time, and the ability to improve using feedback. But I promise you that I will work to make CHEM 128A a class where you can make mistakes and grow safely and productively.
 :::
-
 
 ## Course materials and technology
 
@@ -75,9 +75,9 @@ Before reading any further, here are some things to know:
 This course is part of the *Immediate Access program*. All students have access to a digital version of the textbook and associated materials on the first day of class. Students who wish to purchase course materials on their own can opt-out before their account is automatically charged on the 10th day (5th day for Summer courses) of instruction. Contact the Kennel Bookstore for more details.
 :::
 
-**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform is not yet optimized for mobile devices.
+**A personal computer**: running Windows or macOS, that can run desktop applications and has a reliable access to high-speed internet. A tablet device may work as well but the online homework platform may not work well on mobile devices. Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
 
-**A modern web browser**: Chrome is the recommended browser by Fresno State IT. Other browsers such as Edge, Firefox, or Safari are likely to work just as well but the support will be limited.
+**Student response system:** Most students use iClicker Reef mobile app but a physical remote (_i>clicker2_) will also work. Make sure you use your university email when signing up for iClicker service or registering the physical remote. 
 
 **Canvas:** The central repository for all course materials and information found here: [https://fresnostate.instructure.com](https://fresnostate.instructure.com).
 
@@ -210,7 +210,7 @@ Your course grade is determined using the table below. In order to earn a partic
 | ---------------- | -- | -- | --- | ------- |  
 | Learning Targets | 5  | 7  | 10  | 13      |  
 | Class Primer     |    | 7  | 10  | 13      |  
-| Class Journal    |    |    | 3xM | 4xM 1xE |  
+| Class Journal    |    |    | 2xM | 3xM 1xE |  
 | iClicker Credits | 5  | 10 | 15  | 20      |  
 | Online Homework  | 50 | 60 | 70  | 80      |  
 | Final Exam       | 21 | 28 | 35  | 42      |  
