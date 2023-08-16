@@ -6,19 +6,35 @@ author: "Instructor: Hubert Muchalski"
 
 # Course Syllabus
 
+
 | Course Name  | Organic Chemistry 1 (lecture)   |  
 | :----------- | :------------------------------ |  
 | Semester     | AY 22–23 Spring                 |  
 | Units        | 3                               |  
 | Department   | Chemistry and Biochemistry      |  
-| Time (Sec 8) | Mon/Wed 14:00–15:15             |  
-| Time (Sec 9) | Tue/Thu 14:00–15:15             |  
-| Location     | MCL 161 (Sec 8); IT 290 (Sec 9) |  
+| Time         | Mon/Wed 14:00–15:15             |  
+| Location     | MCL 162                         |  
 | Instructor   | Dr. Hubert Muchalski            |  
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours |                                 |  
+| Office hours | Mon, Tue 16:00--17:15 and by appointment |
+
+Grade **A** in this class means that by the end of the semester you demonstrated that you can mastered all of the basic concepts and essential skills of organic chemistry. You developed these those skills further and regularly demonstrated their application in new contexts by solving integrated and challenging problems. I will be very surprised if you are not successful in CHEM 128B and beyond. More specifically it means:
+
+- Mastery of all Core Learning Targets without significant delay
+- Mastery of the vast majority of remaining Learning Targets
+- Significant evidence of ability to apply basic concepts and skills in new contexts (integrated problems, class journals)
+- Strong mechanism reading and writing skills 
+
+**C** letter grade in this course means that by the end of the semester you demonstrated that you have a solid grasp of most but not all basic concepts and essential skills of organic chemistry. You did not, however, develop these skills to a point where you can demonstrate application of these concepts and skills in new contexts or by solving integrated and challenging problems. Success in the subsequent course (CHEM 128B) is possible but not guaranteed. Specifically, it means
+
+- Mastery of almost all Core Learning Targets
+
+
+# Step 4: Outline the core feedback loops
+
+
 
 
 ## How to use this syllabus
@@ -85,7 +101,7 @@ To get closer to achieving course goal, we will focus on a variety of skills. At
 - analyze chemical structures and reactions to make and defend predictions about chemical processes;
 - use curved arrow notation to draw mechanisms of chemical transformations;
 - propose a synthesis of an organic molecule; and
-- connect the ideas of organic chemistry with your own personal and professional interests
+- connect the ideas of organic chemistry with your own personal and professional interests.
 
 ### Course content
 
@@ -309,22 +325,25 @@ Changes to this syllabus may occur during the term. In those cases, the ==change
 
 Answers to student questions will appear here
 
+
 ## Acknowledgments
 
 Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clarck (Grand Valley University).
 
 ## Appendix A: List of Learning Targets
 
-1. I can read molecular representations and deduce bonding information (hybridization, formal charge, geometry, valence, polarization). I can draw chemical structures using bond--line (zig--zag) style.
+Learning Targets listed with a star emoji ⭐️ are CORE LTs.
+
+1. ⭐️ I can deduce bonding information (hybridization, formal charge, geometry, valence, polarization) embedded in a chemical representations. I can draw chemical structures using bond--line (zig--zag) style.
 2. I can identify functional groups and convert between different drawing conventions and styles. I can draw constitutional isomers given the atomic formula. 
-3. I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
-4. I can use the Brønsted–Lowry theory to explain p*K*a trends of organic acids, correlations between structure and stability of organic bases, and behavior or organic compounds in proton transfer reactions.
+3. ⭐️ I can distinguish between localized and delocalized bonding. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the electronic character of the molecule.
+4. ⭐️ I can use the Brønsted–Lowry theory to explain p*K*a trends of organic acids, correlations between structure and stability of organic bases, and behavior or organic compounds in proton transfer reactions.
 5. I can use drawings of structures and projection and conformational analysis to assess relative energy of conformations of chain molecules and cyclohexane derivatives.
 6. I can identify types of isomeric relationships between molecules, including stereoisomeric relationships. I can use drawings of structures and projections to demonstrate stereoisomeric relationships.
-7. I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
+7. ⭐️ I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (cis/trans, E/Z, syn/anti) stereochemical information.
 8. I can categorize chemical transformations as substitution, addition, or elimination. I can identify reaction steps, draw curved arrow mechanisms, and identify flaws in mechanisms.
-9. I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles. I can draw structures of transition states and reactive intermediates. 
-10. I can solve synthesis problems involving alkyl halides and sulfonates: substitution and elimination reactions.
+9. ⭐️ I can analyze thermodynamics and kinetics of chemical reactions and use reaction--energy diagrams to communicate reaction profiles. I can draw structures of transition states and reactive intermediates. 
+10. ⭐️ I can solve synthesis problems involving alkyl halides and sulfonates: substitution and elimination reactions.
 11. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and β-elimination reactions.
 12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
 13. I can solve multi-step synthesis problems involving alkynes.

@@ -1,24 +1,24 @@
 ---
-tags: 129b, fall, syllabus
+tags: 129b, spring, syllabus
 title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
 # Course Syllabus
 
-| Course Name  | Organic Chemistry 2 (Laboratory) |  
+| Course Name  | Organic Chemistry 2 (laboratory) |  
 | :----------- | :------------------------------- |  
 | Semester     | AY 22–23 Spring                  |  
 | Units        | 2                                |  
 | Department   | Chemistry and Biochemistry       |  
-| Time         | TR 1:00–3:50 pm ([see note below](#note-about-the-duration-of-a-lab-session)) |  
+| Time         | TR 9:00–11:50 pm                 |  
 | Location     | Science 1-350                    |  
 | Instructor   | Dr. Hubert Muchalski             |  
 | Coordinator  | Dr. Hubert Muchalski             |  
 | Email        | hmuchalski@mail.fresnostate.edu  |  
 | Office phone | 559-278-2711                     |  
 | Office       | Science 1, room 352              |  
-| Office hours | Mon, Tue 16:00--17:15 and by appointment |  
+| Office hours |                                  |  
 
 
 
@@ -32,7 +32,7 @@ This document contains all the information you need to navigate the course. This
 
 ## About the course
 
-CHEM 129B is the second part of the 2-semester sequence in organic chemistry laboratory. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
+CHEM 129B is the second part of the year laboratory sequence in organic chemistry. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
 
 ### Course goal
 
@@ -82,10 +82,6 @@ Passing CHEM 129A with a grade of "C" or better is the formal pre-requisite for 
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/66127](https://fresnostate.instructure.com/courses/66127). The Canvas site will house assignments, grades, and links to materials/resources.
 - **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
-
-## Note about the duration of a lab session
-
-The CSU defines _one class hour_ as 50 minutes of instruction. Science laboratories are designated as supervision courses ([C16 class](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)), 1 unit = 3 hours of instruction/supervision. We meet for two lab sessions per week, 3 hours each. Keep in mind, however, that the 3 hours equal 150 min of instruction. The duration of one lab session is officially listed as 2 hours and 50 min because according to university rules we should have 10 min break after each 50 min of instruction but it is difficult to do in a lab where each student or group works at their own pace. Therefore, although the time for the lab is officially listed as 13:00–15:50, we will aim to finish each lab session by 15:30 after exactly 150 minutes of instruction/supervision. 
 
 ## Course workflow
 
