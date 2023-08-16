@@ -1,28 +1,26 @@
 ---
-tags: 129b, fall, syllabus
+tags: 129b, spring, syllabus
 title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
 # Course Syllabus
 
-| Course Name  | Organic Chemistry 2 (Laboratory) |  
+| Course Name  | Organic Chemistry 2 (laboratory) |  
 | :----------- | :------------------------------- |  
 | Semester     | AY 22–23 Spring                  |  
 | Units        | 2                                |  
 | Department   | Chemistry and Biochemistry       |  
-| Time         | TR 1:00–3:50 pm ([see note below](#note-about-the-duration-of-a-lab-session)) |  
+| Time         | TR 9:00–11:50 pm                 |  
 | Location     | Science 1-350                    |  
 | Instructor   | Dr. Hubert Muchalski             |  
 | Coordinator  | Dr. Hubert Muchalski             |  
 | Email        | hmuchalski@mail.fresnostate.edu  |  
 | Office phone | 559-278-2711                     |  
 | Office       | Science 1, room 352              |  
-| Office hours | Mon, Tue 16:00--17:15 and by appointment |  
+| Office hours |                                  |  
 
-## Note about class time
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et eros vel erat mattis porttitor ut non felis. Curabitur egestas diam sem, sit amet tristique lacus sagittis eget. Curabitur non efficitur lacus. In vitae dignissim dui, ac pulvinar ligula. Fusce in sapien eu libero tristique sodales non non elit. Nulla facilisi. Curabitur semper sed ex a porttitor. Ut eu aliquam turpis. Suspendisse vitae lacus volutpat, dapibus ipsum ac, varius massa. Mauris nec venenatis neque. Morbi id elit quis sem luctus aliquam. Maecenas non erat malesuada, elementum mi vitae, fermentum nunc. Nullam tempor dolor quis fermentum interdum. Curabitur at porttitor urna. Nullam in tellus lectus.
 
 ## How to use this syllabus
 
@@ -34,7 +32,7 @@ This document contains all the information you need to navigate the course. This
 
 ## About the course
 
-CHEM 129B is the second part of the 2-semester sequence in organic chemistry laboratory. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
+CHEM 129B is the second part of the year laboratory sequence in organic chemistry. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
 
 ### Course goal
 
@@ -85,10 +83,6 @@ Passing CHEM 129A with a grade of "C" or better is the formal pre-requisite for 
 - **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 
-## Note about the duration of a lab session
-
-The CSU defines _one class hour_ as 50 minutes of instruction. Science laboratories are designated as supervision courses ([C16 class](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)), 1 unit = 3 hours of instruction/supervision. We meet for two lab sessions per week, 3 hours each. Keep in mind, however, that the 3 hours equal 150 min of instruction. The duration of one lab session is officially listed as 2 hours and 50 min because according to university rules we should have 10 min break after each 50 min of instruction but it is difficult to do in a lab where each student or group works at their own pace. Therefore, although the time for the lab is officially listed as 13:00–15:50, we will aim to finish each lab session by 15:30 after exactly 150 minutes of instruction/supervision. 
-
 ## Course workflow
 
 Activities in this course follows a cyclical pattern. Over the semester you will engage in several experiment sets. At the heart of each step will be a synthesis of an organic compound (1–3 steps). Specific requirements will be communicated by the instructor at the beginning of the semester. 
@@ -122,7 +116,7 @@ Additional benefit of writing it all down in real time is that it can help you e
 The final grade in the course will be based on your work in three areas (see table below). There will be five experiment sets, independent project, and quizzes. Each experiment set will have variety of graded work (pre-lab, lab notebook, report, and other assignments) that add contributes to the 13% value for each lab set. 
 
 | Assignment Category       | %Weight  |  
-| :------------------------ | :------- |  
+| ------------------------- | -------- |  
 | Experiments (5)           | 65%      |  
 | Research Project          | 25%      |  
 | Quizzes                   | 10%      |  
@@ -141,7 +135,7 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 You will receive feedback and marks on work that you produce in- and outside the lab. Those include prelab documentation, experimental notes and observations, results (yield, spectroscopic data), and written lab report. Each of the regular experiments contributes 13% to the final grade and will have several components (see table below for details). 
 
 | Item                    | Value | Can be revised? |  
-| :---------------------- | :---- | :-------------- |  
+| ----------------------- | ----- | --------------- |  
 | Pre-lab documentation   | 2%    | Yes             |  
 | Risk assessment         | 1%    | Yes             |  
 | In-lab notes            | 3%    | No              |  
@@ -170,7 +164,7 @@ Last 5 weeks of the semester students will carry out independent research projec
 Final grade will be determined based on overall performance according to the weights in the table above.
 
 | Grade | Total Score |  
-| :---- | :---------- |  
+| ----- | ----------- |  
 | A     | 90--100%    |  
 | B     | 80--89%     |  
 | C     | 70--79%     |  
@@ -298,38 +292,38 @@ The following sections regarding COVID are subject to change given changing circ
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. 
 
-| Day | Tue/Thu     | Topic                                                                       |  
-| :-- | :---------- | :-------------------------------------------------------------------------- |  
+| Day | Tue/Thu        | Topic                                                                       |  
+| --- | -------------- | --------------------------------------------------------------------------- |  
 |     | Thu, Jan 19 | NO LAB                                                                      |  
-| 1   | Tue, Jan 24 | Lab orientation, policies, chemical safety, lab notebooks.                  |  
+| 1   | Tue, Jan 24  | Lab orientation, policies, chemical safety, lab notebooks.                  |  
 | 2   | Thu, Jan 26 | Develop protocol for acid–base extraction. Lab locker check-in.             |  
-| 3   | Tue, Jan 31 | Isolation–purification scheme (unknown solid mix)                           |  
+| 3   | Tue, Jan 31  | Isolation–purification scheme (unknown solid mix)                           |  
 | 4   | Thu, Feb 2  | Isolation–purification scheme (unknown solid mix)                           |  
-| 5   | Tue, Feb 7  | Solvent-free synthesis of chalcones                                         |  
+| 5   | Tue, Feb 7   | Solvent-free synthesis of chalcones                                         |  
 | 6   | Thu, Feb 9  | Solvent-free synthesis of chalcones                                         |  
-| 7   | Tue, Feb 14 | Introduction to NMR (chalcones & substrates). Prepare for the next experiment|  
+| 7   | Tue, Feb 14  | Introduction to NMR (chalcones & substrates). Prepare for the next experiment|  
 | 8   | Thu, Feb 16 | Hydrobenzoin: synthesis and purification                                    |  
-| X   | Tue, Feb 21 | NO LAB (President’s Day)                                                    |  
+| X   | Tue, Feb 21  | NO LAB (President’s Day)                                                    |  
 | 9   | Thu, Feb 23 | Acetonide of hydrobenzoin: synthesis and purification                       |  
-| 10  | Tue, Feb 28 | NMR analysis of acetonide. Prepare for CIP experiment set                   |  
+| 10  | Tue, Feb 28  | NMR analysis of acetonide. Prepare for CIP experiment set                   |  
 | 11  | Thu, Mar 2  | Reduction with CIP in water: synthesis and monitoring with TLC              |  
-| 12  | Tue, Mar 7  | Reduction with CIP in water: isolation & NMR                                |  
+| 12  | Tue, Mar 7   | Reduction with CIP in water: isolation & NMR                                |  
 | 13  | Thu, Mar 9  | qNMR analysis of CIP reduction product. Prepare for the next experiment     |  
-| 14  | Tue, Mar 14 | Unknown arene: Friedel–Crafts acylation                                     |  
+| 14  | Tue, Mar 14  | Unknown arene: Friedel–Crafts acylation                                     |  
 | 15  | Thu, Mar 16 | Unknown arene: isolation, purification, and NMR                             |  
-| 16  | Tue, Mar 21 | Unknown arene: NMR analysis                                                 |  
+| 16  | Tue, Mar 21  | Unknown arene: NMR analysis                                                 |  
 | 17  | Thu, Mar 23 | Research tools (class meeting at the library)                               |  
-| 18  | Tue, Mar 28 | Research Project                                                            |  
+| 18  | Tue, Mar 28  | Research Project                                                            |  
 | 19  | Thu, Mar 30 | Research Project                                                            |  
-| X   | Tue, Apr 4  | NO LAB (Spring Break)                                                       |  
+| X   | Tue, Apr 4   | NO LAB (Spring Break)                                                       |  
 | X   | Thu, Apr 6  | NO LAB (Spring Break)                                                       |  
-| 20  | Tue, Apr 11 | Research Project                                                            |  
+| 20  | Tue, Apr 11  | Research Project                                                            |  
 | 21  | Thu, Apr 13 | Research Project                                                            |  
-| 22  | Tue, Apr 18 | Research Project                                                            |  
+| 22  | Tue, Apr 18  | Research Project                                                            |  
 | 23  | Thu, Apr 20 | Research Project                                                            |  
-| 24  | Tue, Apr 25 | Research Project                                                            |  
+| 24  | Tue, Apr 25  | Research Project                                                            |  
 | 25  | Thu, Apr 27 | Research Project                                                            |  
-| 26  | Tue, May 2  | Research Project                                                            |  
+| 26  | Tue, May 2   | Research Project                                                            |  
 | 27  | Thu, May 4  | Presentations                                                               |  
-| 28  | Tue, May 9  | Locker check-out                                                            |  
+| 28  | Tue, May 9   | Locker check-out                                                            |  
 | 29  | Thu, May 11 | Consultation Days                                                           |  
