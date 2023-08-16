@@ -40,6 +40,13 @@ Grade **A** in this class means that by the end of the semester you demonstrated
 [MW-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=141646670&single=true
 [TR-schedule]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSV3AtfUP2TaHmTSXgb8UmTn2EVW3xPXDHgQnfC0nRN1p0qZzyjfCbp3F-W-28VnYV1XhKuGuwaAvNR/pubhtml?gid=687187314&single=true
 
+## Summary of updates to the syllabus
+
+See Canvas announcement for details on specifics of changes:
+
+- 2023-04-26: Letter grade brackets update 
+- 2023-04-12: ACS exam removed as requirement for course grade
+
 ## How to use this syllabus
 
 This document contains all the information you need to navigate the course. This syllabus is long (nearly 5,000 words) for a reason. **It is meant to be read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
@@ -208,12 +215,14 @@ Your course grade is determined using the table below. In order to earn a partic
 
 | Category         | D  | C  | B   | A       |  
 | ---------------- | -- | -- | --- | ------- |  
-| Learning Targets | 5  | 7  | 10  | 13      |  
+| Learning Targets | ==4==  | ==6==  | ==9==  | ==12==      |  
 | Class Primer     |    | 7  | 10  | 13      |  
-| Class Journal    |    |    | 2xM | 3xM 1xE |  
-| iClicker Credits | 5  | 10 | 15  | 20      |  
+| Class Journal    |    |    | 2xM+ | ==2xM+==, 1xE |  
+| iClicker Credits | 5  | 8 | 11  | 14      |  
 | Online Homework  | 50 | 60 | 70  | 80      |  
-| Final Exam       | 21 | 28 | 35  | 42      |  
+| ==~~ACS Exam (Final)~~==       | ==~~21~~== | ==~~28~~== | ==~~35~~==  | ==~~42~~==      |  
+
+M+ = M or better
 
 :::success 
 :checkered_flag: **Example** 
@@ -249,8 +258,8 @@ Some of the work you will do in the course involves collaboration; at other time
 
 | Assessment | Restrictions |
 | :--------  | :--------------------- |
-| WileyPLUS Assignments (Primers, Homework) | no restrictions |
-| Learning Targets | No collaboration is allowed but you can use your notes |
+| WileyPLUS Assignments (Primers, Homework) | none |
+| Learning Targets | No collaboration is allowed but you can use notes ==that you authored. If the notes are in electronic form (on iPad etc.), then please notify me. You will be asked to turn off communication functions (Airplane Mode) during Checkpoints.== |
 | Class Journal | No collaboration is allowed. You can use your textbook, notes, or other sources (printed or electronic) as long as source can be cited (preferably primary or secondary sources). |
 | Final Exam | No collaboration is allowed |
 
@@ -280,7 +289,7 @@ Deadlines for Class Primers, and Class Journal are listed on Canvas. In cases of
 
 | Assignment | Deadline policy |
 | :--------- | :-------------- |
-| Class Primers | Due at 9 am the morning before first class meeting that week |
+| Class Primers | Due at 9 am the morning before the class meeting. ~~that week~~ |
 | Class Journal | Due one week after claiming the problem. Submitted electronically on Canvas. If revisions are needed, they are due 1 week after feedback was released to the student. | 
 
 ### Instructor availability and message responses
@@ -348,9 +357,25 @@ Learning Targets listed with a star emoji ⭐️ are CORE LTs.
 12. I can solve multi-step synthesis problems involving alkenes: elimination and addition reactions.
 13. I can solve multi-step synthesis problems involving alkynes.
 14. I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes.
-15. I can solve multi-step synthesis problems involving alcohols, phenols, and diols. 
+15. ==~~I can solve multi-step synthesis problems involving alcohols, phenols, and diols.~~==
 
-<!-- Alert Area
+<!-- Learning Objectives (source: ACS Institute Think like chemist course) 
+
+Describe what you see (macroscopic) with chemical language (microscopic & sub-microscopic)
+Design ways you can separate a mixture into its components by manipulating physical and chemical properties
+Use the Periodic Table to support decision-making
+Differentiate between chemical elements using subatomic particles (protons, neutrons and electrons)
+Explain how type of chemical bond governs behavior of a compound
+Identify elements and chemicals using “light”
+Understand practical applications of radiation/radioactivity
+Connect molecular shape to function, use, and activity
+Rationalize physical phenomena using polarity and intermolecular forces
+Understand the organic chemistry of polymers
+Analyze MSDS/SDS to make informed decisions
+
+-->
+
+<!-- Alert Areas
 ---
 :::success
 Yes :tada:
