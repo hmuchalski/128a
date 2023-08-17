@@ -4,7 +4,7 @@ title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
-# Course Syllabus
+# Course Syllabus <!-- omit from toc -->
 
 | Course Name  | Organic Chemistry 2 (Laboratory) |  
 | :----------- | :------------------------------- |  
@@ -18,41 +18,70 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Email        | hmuchalski@mail.fresnostate.edu  |  
 | Office phone | 559-278-2711                     |  
 | Office       | Science 1, room 352              |  
-| Office hours | Mon, Tue 16:00--17:15 and by appointment |  
+| Office hours | Mon, Tue 16:00--17:15 and by [appointment][1-on-1-calendar] |  
 
-## Note about class time
+[1-on-1-calendar]: https://calendar.app.google/mHM77jzbU5KJoiaF6
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et eros vel erat mattis porttitor ut non felis. Curabitur egestas diam sem, sit amet tristique lacus sagittis eget. Curabitur non efficitur lacus. In vitae dignissim dui, ac pulvinar ligula. Fusce in sapien eu libero tristique sodales non non elit. Nulla facilisi. Curabitur semper sed ex a porttitor. Ut eu aliquam turpis. Suspendisse vitae lacus volutpat, dapibus ipsum ac, varius massa. Mauris nec venenatis neque. Morbi id elit quis sem luctus aliquam. Maecenas non erat malesuada, elementum mi vitae, fermentum nunc. Nullam tempor dolor quis fermentum interdum. Curabitur at porttitor urna. Nullam in tellus lectus.
+## Note about the duration of a lab session <!-- omit from toc -->
 
-## How to use this syllabus
+The CSU defines _one class hour_ as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of _supervision courses_ ([C16 category](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)). For laboratory sessions, 1 unit corresponds to 3 _class hours_, totaling 150 minutes (2 hours and 30 minutes) of instruction or supervision. It's worth noting that this differs from the duration indicated in the catalog (2 hours and 50 minutes), as university regulations stipulate a 10-minute break after each 50 minutes of instruction. However, adhering to fixed break times presents challenges in a lab setting where students or groups work at individual paces, and interrupting for breaks might be impractical or unsafe. Consequently, while the official lab time is listed as 13:00–15:50, our goal is to conclude each lab session by 15:30, ensuring a full 150 minutes of instruction or supervision.
 
-This document contains all the information you need to navigate the course. This syllabus is long (nearly 4,000 words) for a reason. **It is meant to be carefully read once, then searched as needed.** If you need to find something, use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
+## How to use this syllabus <!-- omit from toc -->
+
+This document contains all the information you need to navigate the course. *Read it once giving it your full attention*, then search as needed. Use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
 + Links to all important documents and information can be found on the course [Canvas site][cnvs]
-+ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. *The PDF version will only be updated occasionally and you should use it only for archival purposes.*
++ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. Updates in the PDF version will not be highlighted. 
+
+## Table of Contents <!-- omit from toc -->
+
+- [About the course](#about-the-course)
+  - [Assumed prior knowledge and skills](#assumed-prior-knowledge-and-skills)
+- [Course Learning Outcomes](#course-learning-outcomes)
+- [Course materials and technology](#course-materials-and-technology)
+- [Course workflow](#course-workflow)
+- [On keeping records (lab notebook)](#on-keeping-records-lab-notebook)
+  - [Lab notes guiding principles](#lab-notes-guiding-principles)
+- [Assessments and grading](#assessments-and-grading)
+  - [Grading philosophy](#grading-philosophy)
+  - [Grading of experiments](#grading-of-experiments)
+  - [Grading of lab reports and the EMRN rubric](#grading-of-lab-reports-and-the-emrn-rubric)
+  - [Research project](#research-project)
+  - [Letter grades](#letter-grades)
+- [Laboratory Code of Safe Practices](#laboratory-code-of-safe-practices)
+- [Policies and disclaimers](#policies-and-disclaimers)
+  - [Attendance and make-up policy](#attendance-and-make-up-policy)
+  - [Technology issues when submitting work](#technology-issues-when-submitting-work)
+  - [Academic Dishonesty](#academic-dishonesty)
+  - [Dropping the course after the census date](#dropping-the-course-after-the-census-date)
+  - [Plagiarism detection](#plagiarism-detection)
+  - [Intellectual Property](#intellectual-property)
+  - [Dispute Resolution](#dispute-resolution)
+  - [Student Ratings of Instruction](#student-ratings-of-instruction)
+- [University policies and disclaimers](#university-policies-and-disclaimers)
+  - [COVID Policies](#covid-policies)
+  - [Links to relevant University Policies](#links-to-relevant-university-policies)
+- [University Services](#university-services)
+- [Course Calendar](#course-calendar)
+
 
 ## About the course
 
-CHEM 129B is the second part of the 2-semester sequence in organic chemistry laboratory. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. Although many of the techniques familiar to you from the first semester lab will be used, additional ones will be introduced including NMR, multi-step syntheses, green chemistry, and introduction to the chemical literature and research through project-based experiments.  There will also be more emphasis on problem solving, the application of theory, and structure identification via IR and NMR spectroscopy. 
+The aim of this course is to inspire students to explore the breadth of organic chemistry, fostering an understanding of its principles and their practical application. This, in turn, equips students with a functional knowledge and genuine appreciation of organic structure and reactivity. In the second semester of the sequence, the emphasis shifts towards the pivotal role of experimentation in gaining molecular insights. This involves correlating molecular structure, reactivity, and function through the use of wet chemical methods and spectroscopy.
 
-### Course goal
-
-The goal of this course is to encourage students to appreciate the breadth of organic chemistry by facilitating an understanding of the principles, and the practice of applying them, to gain a working knowledge and appreciation of organic structure and reactivity. The second semester in the sequence also emphesizes that our only way to molecular knowledge is through experimentation; correlating structure with reactivity and function through wet chemical methods, spectroscopy, and use of computational simulations.
+CHEM 129B is the second part of the 2-semester sequence in organic chemistry laboratory. As such it is primarily concerned with introducing intermediate level concepts and techniques used in organic chemistry. We will continue to use the techniques covered in the first semester lab and will introduce additional methods and techniques such as NMR spectroscopy, multi-step synthesis, green chemistry, and chemical literature. 
 
 ### Assumed prior knowledge and skills
 
-Students who enroll in CHEM 129B should be able to:
+The formal pre-requisite to enroll in CHEM 129B is passing CHEM 129A (or equivalent) with a grade of "C" or better. In practice it means that students who enroll in CHEM 129B should be able to:
 
-* communicate the structure and properties of organic molecules using common drawing and naming conventions;
-* use fundamental laboratory techniques such as extraction, crystallization, distillation, chromatography
-* measure physical properties of organic compounds including melting and boiling points
-* demonstrate the ability to conduct laboratory work of high quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner
-
+* communicate the structure and properties of organic molecules using common drawing and naming conventions; 
+* conduct laboratory work of high quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner;
+* use basic laboratory techniques such as extraction, crystallization, filtration, distillation, column chromatography, TLC; and
+* measure melting point and acquire IR spectrum of a sample.
 
 ## Course Learning Outcomes
-
-Course-level student learning outcome is aligned with department-level learning outcomes which are modeled after the standards set by the American Chemical Society. 
 
 Upon completion of this course students will be able to:
 
@@ -65,57 +94,52 @@ Upon completion of this course students will be able to:
 * Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
 * Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
 
-For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after American Chemical Society Standards. 
+For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after [ACS Guidelines for Bachelor’s Degree Programs][ACS-guidelines].
 
-## Assumed prior knowledge and skills
+[ACS-guidelines]: https://www.acs.org/education/policies/acs-approval-program/guidelines.html
 
-Passing CHEM 129A with a grade of "C" or better is the formal pre-requisite for the course. In practice in means that students who enroll in CHEM 129B should be able to:
+## Course materials and technology
 
-- Demonstrate the ability to conduct laboratory work of high-quality including handling chemicals and other laboratory hazards in a safe, ethical, and socially responsible manner. 
-- Communicate the structure and properties of organic molecules using structure drawing and naming conventions (structures, reactions, resonance, curved-arrow mechanisms, etc.).
-- Use fundamental laboratory techniques such as liquid–liquid extraction, crystal-lization, distillation, chromatography, etc. 
-- Measure physical properties of organic compounds including melting and boil-ing points. 
-
-### Course materials and technology
-
-- **Techniques Reference Manual** Experiments in this course is based on the textbook titled "Micro-scale Approach to Organic Laboratory Techniques" by Pavia et al. This title is still listed as the official required course textbook, but we are in the process of phasing it out. If you own a copy of Pavia's textbook (5th or 6th edition), you can use it in addition to the [LibreTexts book by Lisa Nichols](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)) Check Canvas for complete information about the textbook.
-- **Document scanning tool**: Many assignments in this course are designed to be prepared by hand on paper. Few people own document scanners nowadays, but a mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
+- **Techniques Reference Manual** [LibreTexts e-book by Lisa Nichols](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)) is our recommended reference for laboratory techniques. The textbook by Pavia et al. is listed as the official textbook for this course, but we are in the process of phasing it out. If you own a copy of Pavia's textbook (5th or 6th edition), then feel free to use it in addition to the LibreTexts option
 - **Personal protective equipment (PPE)**: Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/66127](https://fresnostate.instructure.com/courses/66127). The Canvas site will house assignments, grades, and links to materials/resources.
-- **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
+- **Canvas:** The central repository for all course materials and information is our [Canvas site][cnvs] which will be the main repository for assignments, grades, and links to materials/resources.
+- **Document scanning tool**: Most documents you will turn in for feedback and grading will be submitted electronically but prepared on paper. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it.
+- **Personal computer:** You will need a x86 class personal computer[^1] that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 
-## Note about the duration of a lab session
-
-The CSU defines _one class hour_ as 50 minutes of instruction. Science laboratories are designated as supervision courses ([C16 class](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)), 1 unit = 3 hours of instruction/supervision. We meet for two lab sessions per week, 3 hours each. Keep in mind, however, that the 3 hours equal 150 min of instruction. The duration of one lab session is officially listed as 2 hours and 50 min because according to university rules we should have 10 min break after each 50 min of instruction but it is difficult to do in a lab where each student or group works at their own pace. Therefore, although the time for the lab is officially listed as 13:00–15:50, we will aim to finish each lab session by 15:30 after exactly 150 minutes of instruction/supervision. 
+[^1]: Chromebooks and iPads are a powerful devices but are not x86-class computers. They can't run ChemDraw or MestReNova software (at least not yet).  
 
 ## Course workflow
 
-Activities in this course follows a cyclical pattern. Over the semester you will engage in several experiment sets. At the heart of each step will be a synthesis of an organic compound (1–3 steps). Specific requirements will be communicated by the instructor at the beginning of the semester. 
+Activities in this course follows a cyclical pattern. Over the semester you will engage in 5 experimental modules and an independent research project. At the heart of each module is a synthesis of an organic compound (1–3 steps). Specific requirements will be communicated by the instructor at the beginning of the semester. 
 
 **Before class**, your task will be to prepare for the experiment by studying the relevant reactions and mechanisms, lab techniques, and safety information about chemicals you will be work-ing with. Your instructor may assign graded pre-lab assignment to help you prepare for the lab.
 
-**Class time** will be focused primarily on doing experiments, making observations, generating re-sults, processing spectroscopic data, and group discussions. Results and observations made during lab are important inputs for writing post-lab reports. For example, not making a key observation or obtaining poor quality data may reduce your grade on the experiment because you will not have all information to write the lab report or discuss the results. 
+**Class time** will be focused primarily on doing experiments, making observations, generating results, processing spectroscopic data, and group discussions. Results and observations made during lab are important inputs for writing post-lab reports. For example, not making a key observation or obtaining poor quality data may reduce your grade on the experiment because you will not have all information to write the lab report or discuss the results. 
 
 **After class** you will work on finalizing the documentation related to the experiment, usually in a form of typed lab report. Details for each post-lab assignment will be posted on Can-vas by the instructor. Document templates will be available for formal lab reports.
 
 ## On keeping records (lab notebook)
 
-Human brain is the worst whiteboard and the worst alarm clock. Assume that you will quickly forget what you did and what you observed while being in the lab. Therefore, write it down as it happens because your notes (and the pre-lab documentation) will contain the information needed to complete the post-lab assignment(s) (report, presentation, etc.).
+The human brain is both the least reliable whiteboard and the least dependable alarm clock. It's crucial to acknowledge that memories of your actions and observations in the lab can fade rapidly once you step away. To counteract this, it's essential to document your experiences in real time, as these notes (combined with pre-lab documentation) will serve as the foundation for your subsequent post-lab tasks, such as reports and presentations.
 
-Keep all prints (IR and NMR spectra, gas chromatograms, etc.) and sketches of TLC plates as part of experimental record. Your lab notebook is subject to evaluation at any time and must be kept current. Instructions on how to keep laboratory notebook will be at the beginning of the semester. You may be asked to submit your in-lab notes for review before you leave the lab room.
+Maintain a comprehensive record of what you did and observed. Also keep all physical copies such as IR and NMR spectra, gas chromatograms, and sketches of TLC plates. These components contribute to your experimental record. Remember that your lab notes are subject to evaluation at any point and should remain up-to-date. Your instructor will provide guidelines on how to maintain your laboratory notebook at the start of the semester. Be prepared to submit your in-lab notes for assessment before concluding your time in the lab. your time in the lab. 
 
-## Lab notes guiding principles
+### Lab notes guiding principles
 
-Lab notes should document what you did and how, what you observed, and the data you collected. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need write down details that are relevant and necessary for someone to reproduce your work. This hypothetical chemist will not have access to any auxiliary documentation that you had access to while doing the experi-ment, and therefore, you need to write down what you did and how. 
+The paragraphs are well-written overall, but I've made a few minor adjustments for clarity and grammar:
 
-It is safe to assume that the person wanting to reproduce your work has training in key laboratory techniques. For example, you don’t have to explain how to do a recrystallization because a person who will reproduce your work should know how to do recrystallization (and if not, they can refer to a techniques manual). However, writing down the approximate volume of solvent that was used for recrystallization is an important and helpful detail. Lab notes should also easy to read—use paragraph breaks, headings, etc., to help the reader navigate the notebook. 
+Lab notes should document what you did, how you did it, what you observed, and the data you collected. Knowing what to include and exclude in your notebook involves a balancing act between relevance and brevity. You need to record details that are pertinent and necessary for someone else to replicate your work. This hypothetical chemist won't have the opportunity to consult with you or access any auxiliary documentation you used during the experiment. Therefore, you must provide clear descriptions of your actions and methods.
 
-Contrary to common belief, reproducible and detailed lab notes can be brief. Below is an example a statement that captures all important information without being too long: 
+Lab notes should be easy to read—use paragraph breaks, headings, etc. to help the reader navigate the notebook.
 
-> “The crude product (brown solid, 1.231 g) was recrystallized from boiling ethanol (20 mL). The material was collected by vacuum filtration, washed with ice-cold water, and dried in air for 1 h to give the product as a white crystalline solid (0.383 g), mp 87–89 °C.”
+It is safe to assume, however, that the reader of your notes has been trained in basic organic laboratory techniques. For instance, you don’t need to explain how to perform a recrystallization because the intended reader should already be familiar with the process (and if not, they can refer to a techniques manual). What will be beneficial to them are the specific details related to the particular recrystallization: the solvent used, approximate volume of solvent, and the duration it took for cooling and crystal growth.
 
-Additional benefit of writing it all down in real time is that it can help you explain errors, unexpected outcomes and/or troubleshoot the experiment that went wrong. In the recrystallization described above, the mass recovery is poor and a chemist repeating the experiment may decide to use less ethanol (or a different solvent) to improve the mass recovery. 
+Contrary to common belief, reproducible and detailed lab notes don’t have to be lengthy or time-consuming. Here's an example statement that captures all the crucial information without being overly verbose:
+
+> “The crude product (sticky brown solid, 1.23 g) was recrystallized from hot ethanol (15 mL) in an Erlenmeyer flask. After cooling to rt and then to 0 °C, the solid was collected by vacuum filtration, washed with ice-cold water, and dried in air for 1 h to give the product as a white crystalline solid (0.38 g), mp 87–89 °C.”
+
+Another benefit of recording everything in real time is that it can help you identify errors, explain unexpected outcomes, and troubleshoot experiments that go awry. In the recrystallization process described above, the mass recovery is notably low. A chemist repeating the experiment might decide to use less ethanol (or a different solvent) to enhance the mass recovery.
 
 ## Assessments and grading
 
@@ -123,9 +147,9 @@ The final grade in the course will be based on your work in three areas (see tab
 
 | Assignment Category       | %Weight  |  
 | :------------------------ | :------- |  
-| Experiments (5)           | 65%      |  
+| Experiments (5)           | 70%      |  
 | Research Project          | 25%      |  
-| Quizzes                   | 10%      |  
+| Take-home quiz            | 5%       |  
 | **Total**                 | **100%** |  
 
 ### Grading philosophy
@@ -138,32 +162,32 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 
 ### Grading of experiments
 
-You will receive feedback and marks on work that you produce in- and outside the lab. Those include prelab documentation, experimental notes and observations, results (yield, spectroscopic data), and written lab report. Each of the regular experiments contributes 13% to the final grade and will have several components (see table below for details). 
+You will receive feedback and marks on work that you produce in- and outside the lab. Those include pre-lab documentation, experimental notes and observations, results (yield, spectroscopic data), and written lab report. Each of the regular experiments contributes 13% to the final grade and will have several components (see table below for details). 
 
 | Item                    | Value | Can be revised? |  
 | :---------------------- | :---- | :-------------- |  
 | Pre-lab documentation   | 2%    | Yes             |  
-| Risk assessment         | 1%    | Yes             |  
+| Risk assessment         | 2%    | Yes             |  
 | In-lab notes            | 3%    | No              |  
 | Results                 | 3%    | No              |  
 | Lab report              | 4%    | Yes             |  
 
 ### Grading of lab reports and the EMRN rubric
 
-One of the main objectives of this course is for you to learn to interpret and communicate experimental results. The lab report is the assignment that shows your level of understanding of the concepts, techniques, and instrumentation used in the lab. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
+One of the main objectives of this course is for you to learn to interpret and communicate experimental results. This is a difficult skill that needs to be developed over time through iteration and feedback loops. At the end of each module you will submit a formal lab report, short version for the first two modules, and more extensive for modules 3-5. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
 
 ![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
 
 Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
 
-- grade "E" or "M" receives full score (4%),
-- grade "R" will receive partial score (2%) with an option to revise and resubmit,
-- grade "N" will receive partial score (1%) with an option to revise and resubmit
-- no report will not receive credit.
+- Grade "E" or "M" receives full score (4%)
+- Grade "R" will receive partial score (2%) with an option to revise and resubmit.
+- Grade "N" will receive partial score (1%) with an option to revise and resubmit but the feedback will be very limited. 
+- No report will not receive credit (0%). Submissions after the deadline will be reviewed as-is with no possibility for revision and resubmission. 
 
 ### Research project
 
-Last 5 weeks of the semester students will carry out independent research project (CURE). The objective and methods needed to accomplish the project will not given by the instructor and the results are unknown. Students will complete literature research to find the information needed to complete the synthesis. The culminating assignment is a presentation to the class. 
+During the final five weeks of the semester, students will engage in an autonomous research project known as a CURE (Course-based Undergraduate Research Experience). The instructor will not provide the project's objective and methods, and the outcomes are either entirely unknown or only partially revealed. To accomplish the project, students will conduct comprehensive literature research to gather the essential information required for the synthesis. The culmination of this endeavor will involve delivering a presentation to the class.
 
 ### Letter grades
 
@@ -288,7 +312,7 @@ The following sections regarding COVID are subject to change given changing circ
 [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
 [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
 [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
-[cnvs]: https://fresnostate.instructure.com/courses/66127 
+[cnvs]: https://fresnostate.instructure.com/courses/76128
 [SSD]: http://fresnostate.edu/studentaffairs/ssd/
 [library]: https://library.fresnostate.edu/
 [SupportNet]: https://studentaffairs.fresnostate.edu/lrc/supportnet/index.html
@@ -298,38 +322,37 @@ The following sections regarding COVID are subject to change given changing circ
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. 
 
-| Day | Tue/Thu     | Topic                                                                       |  
-| :-- | :---------- | :-------------------------------------------------------------------------- |  
-|     | Thu, Jan 19 | NO LAB                                                                      |  
-| 1   | Tue, Jan 24 | Lab orientation, policies, chemical safety, lab notebooks.                  |  
-| 2   | Thu, Jan 26 | Develop protocol for acid–base extraction. Lab locker check-in.             |  
-| 3   | Tue, Jan 31 | Isolation–purification scheme (unknown solid mix)                           |  
-| 4   | Thu, Feb 2  | Isolation–purification scheme (unknown solid mix)                           |  
-| 5   | Tue, Feb 7  | Solvent-free synthesis of chalcones                                         |  
-| 6   | Thu, Feb 9  | Solvent-free synthesis of chalcones                                         |  
-| 7   | Tue, Feb 14 | Introduction to NMR (chalcones & substrates). Prepare for the next experiment|  
-| 8   | Thu, Feb 16 | Hydrobenzoin: synthesis and purification                                    |  
-| X   | Tue, Feb 21 | NO LAB (President’s Day)                                                    |  
-| 9   | Thu, Feb 23 | Acetonide of hydrobenzoin: synthesis and purification                       |  
-| 10  | Tue, Feb 28 | NMR analysis of acetonide. Prepare for CIP experiment set                   |  
-| 11  | Thu, Mar 2  | Reduction with CIP in water: synthesis and monitoring with TLC              |  
-| 12  | Tue, Mar 7  | Reduction with CIP in water: isolation & NMR                                |  
-| 13  | Thu, Mar 9  | qNMR analysis of CIP reduction product. Prepare for the next experiment     |  
-| 14  | Tue, Mar 14 | Unknown arene: Friedel–Crafts acylation                                     |  
-| 15  | Thu, Mar 16 | Unknown arene: isolation, purification, and NMR                             |  
-| 16  | Tue, Mar 21 | Unknown arene: NMR analysis                                                 |  
-| 17  | Thu, Mar 23 | Research tools (class meeting at the library)                               |  
-| 18  | Tue, Mar 28 | Research Project                                                            |  
-| 19  | Thu, Mar 30 | Research Project                                                            |  
-| X   | Tue, Apr 4  | NO LAB (Spring Break)                                                       |  
-| X   | Thu, Apr 6  | NO LAB (Spring Break)                                                       |  
-| 20  | Tue, Apr 11 | Research Project                                                            |  
-| 21  | Thu, Apr 13 | Research Project                                                            |  
-| 22  | Tue, Apr 18 | Research Project                                                            |  
-| 23  | Thu, Apr 20 | Research Project                                                            |  
-| 24  | Tue, Apr 25 | Research Project                                                            |  
-| 25  | Thu, Apr 27 | Research Project                                                            |  
-| 26  | Tue, May 2  | Research Project                                                            |  
-| 27  | Thu, May 4  | Presentations                                                               |  
-| 28  | Tue, May 9  | Locker check-out                                                            |  
-| 29  | Thu, May 11 | Consultation Days                                                           |  
+| #  | Wk # | Week of | Lab Day | Module                               | Lab Activities                                                                 |
+|----|------|---------|---------|--------------------------------------|--------------------------------------------------------------------------------|
+| 1  | 1    | 21-Aug  | Mon/Tue | Module 1: Onboarding                 | Lab orientation, syllabus, chemical safety. Locker check-in.                 |
+| 2  |      |         | Wed/Thu |                                      | Laboratory mise en place. Separation of a mixture of solids: SOP development |
+| 3  | 2    | 28-Aug  | Mon/Tue |                                      | Separation of a mixture of solids: separation & purification                 |
+| 4  |      |         | Wed/Thu |                                      | Separation of a mixture of solids: data analysis                             |
+| X  | 3    | 4-Sep   | Mon/Tue |                                      | NO LAB (Labor Day)                                                             |
+| 5  |      |         | Wed/Thu | Module 2: Solvent-less reactions     | Solvent-less synthesis of chalcones: grinding, isolation                     |
+| 6  | 4    | 11-Sep  | Mon/Tue |                                      | Solvent-less synthesis of chalcones: recrystallization, mp, IR, NMR          |
+| 7  |      |         | Wed/Thu |                                      | Solvent-less synthesis of chalcones: data analysis                           |
+| 8  | 5    | 18-Sep  | Mon/Tue |                                      | Literature Research Tools (with Mystery New Person @Library)                 |
+| 9  |      |         | Wed/Thu | Module 3: Acetonide                  | Synthesis experiment   stoichiometry. Preparation of hydrobenzoin.             |
+| 10 | 6    | 25-Sep  | Mon/Tue |                                      | Acetonide of hydrobenzoin: reaction & work-up                                |
+| 11 |      |         | Wed/Thu |                                      | Acetonide of hydrobenzoin: NMR data analysis                                 |
+| 12 | 7    | 2-Oct   | Mon/Tue | Module 4: Organic chemistry in water | Reduction with CIP in water: synthesis and monitoring with TLC               |
+| 13 |      |         | Wed/Thu |                                      | Reduction with CIP in water: work-up, isolation, NMR sample prep             |
+| 14 | 8    | 9-Oct   | Mon/Tue |                                      | Reaction efficiency   metrics: qNMR assay of reaction yield                    |
+| 15 |      |         | Wed/Thu |                                      | Buffer zone                                                                    |
+| 16 | 9    | 16-Oct  | Mon/Tue | Module 5: Friedel–Crafts of Unknown  | Unknown arene: Friedel–Crafts acylation                                      |
+| 17 |      |         | Wed/Thu |                                      | Unknown arene: isolation, purification, and NMR                              |
+| 18 | 10   | 23-Oct  | Mon/Tue |                                      | Unknown arene: NMR analysis                                                  |
+| 19 |      |         | Wed/Thu | Module 6: Independent Projects       | Research Projects                                                              |
+| 20 | 11   | 30-Oct  | Mon/Tue |                                      | Research Projects                                                              |
+| 21 |      |         | Wed/Thu |                                      | Research Projects                                                              |
+| 22 | 12   | 6-Nov   | Mon/Tue |                                      | Research Projects                                                              |
+| 23 |      |         | Wed/Thu |                                      | Research Projects                                                              |
+| 24 | 13   | 13-Nov  | Mon/Tue |                                      | Research Projects                                                              |
+| 25 |      |         | Wed/Thu |                                      | Research Projects                                                              |
+| 26 | 14   | 20-Nov  | Mon/Tue |                                      | Catch-up, wrap-up, etc.                                                        |
+| 27 |      |         | Wed/Thu |                                      | NO LAB (Thanksgiving Break)                                                  |
+| 28 | 15   | 27-Nov  | Mon/Tue |                                      | Presentations                                                                  |
+| 29 |      |         | Wed/Thu |                                      | Presentations                                                                  |
+| 30 | 16   | 4-Dec   | Mon/Tue | Locker check-out                     | Locker check-out                                                               |
+|    |      |         | Wed/Thu | NO LAB                               | NO LAB                                                                         |
