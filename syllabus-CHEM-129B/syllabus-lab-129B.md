@@ -8,7 +8,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 | Course Name  | Organic Chemistry 2 (Laboratory) |  
 | :----------- | :------------------------------- |  
-| Semester     | AY 22–23 Spring                  |  
+| Semester     | AY 23–24 Fall                    |  
 | Units        | 2                                |  
 | Department   | Chemistry and Biochemistry       |  
 | Time         | TR 1:00–3:50 pm ([see note below](#note-about-the-duration-of-a-lab-session)) |  
@@ -83,16 +83,19 @@ The formal pre-requisite to enroll in CHEM 129B is passing CHEM 129A (or equival
 
 ## Course Learning Outcomes
 
-Upon completion of this course students will be able to:
+Upon completion of this course, students will be able to:
 
 * Keep accurate, clear, concise, and complete records of their laboratory work in a notebook that would allow a trained organic chemist to reproduce the results.
-* Use standard laboratory equipment and instruments, and evaluate the reliability and significance of laboratory data, all within professional ethical guidelines.
+* Describe what you see (macroscopic) with chemical language (microscopic & sub-microscopic).
+* Design ways you can separate a mixture into its components by manipulating physical and chemical properties.
+* Use standard laboratory equipment and instruments and evaluate the reliability and significance of laboratory data, all within professional ethical guidelines.
 * Use online databases to find relevant research articles containing information such as physical and chemical properties of organic molecules, synthetic procedures, and spectroscopic data.
-* Plan a synthesis experiment by evaluating the information found in online databases and research articles
-* Carry out an experimental procedure to synthesize, isolate, purify, and analyze the product of chemical synthesis
-* Analyze the results of an experiment and be able to identify sources of error and suggest improvements;
-* Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds
-* Communicate the results of experiments to the instructor and peers in a written form (lab report) and presentation (slide deck or poster).
+* Rationalize physical phenomena using polarity and intermolecular forces.
+* Plan a synthesis experiment by evaluating the information found in online databases and research articles.
+* Carry out an experimental procedure to synthesize, isolate, purify, and analyze the product of chemical synthesis.
+* Analyze the results of an experiment and be able to identify sources of error and suggest improvements.
+* Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds.
+* Communicate the results of experiments to the instructor and peers in written form (lab report) and presentation (slide deck or poster).
 
 For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after [ACS Guidelines for Bachelor’s Degree Programs][ACS-guidelines].
 
@@ -126,8 +129,6 @@ The human brain is both the least reliable whiteboard and the least dependable a
 Maintain a comprehensive record of what you did and observed. Also keep all physical copies such as IR and NMR spectra, gas chromatograms, and sketches of TLC plates. These components contribute to your experimental record. Remember that your lab notes are subject to evaluation at any point and should remain up-to-date. Your instructor will provide guidelines on how to maintain your laboratory notebook at the start of the semester. Be prepared to submit your in-lab notes for assessment before concluding your time in the lab. your time in the lab. 
 
 ### Lab notes guiding principles
-
-The paragraphs are well-written overall, but I've made a few minor adjustments for clarity and grammar:
 
 Lab notes should document what you did, how you did it, what you observed, and the data you collected. Knowing what to include and exclude in your notebook involves a balancing act between relevance and brevity. You need to record details that are pertinent and necessary for someone else to replicate your work. This hypothetical chemist won't have the opportunity to consult with you or access any auxiliary documentation you used during the experiment. Therefore, you must provide clear descriptions of your actions and methods.
 

@@ -282,26 +282,27 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 # Acknowledgments and attributions
 
-Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clarck (Grand Valley University).
+Large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert](https://rtalbert.org/) and David Clark (Grand Valley State University).
 
 # Appendix A: List of Learning Targets
 
-1. (**CORE**) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in a chemical representations. I can draw Lewis structures compliant with bond--line (zig--zag) convention.
-2. I can identify functional groups and common abbreviations. I can convert between different drawing conventions and styles. I can recognize implicit carbons and hydrogens in a structure and draw constitutional isomers given the atomic formula. 
-3. (**CORE**) I can distinguish between localized and delocalized bonding systems. I can draw resonance structures to show electron delocalization and assess relative their relative contribution to the overall electronic character of the molecule.
-4. (**CORE**) I can rationalize acidity and basicity trends of organic molecules according to the Brønsted–Lowry theory.
-5. (**CORE**) I can predict the position of acid–base equilibrium and choose a suitable reagent for an efficient proton transfer reaction.
-6. I can use various projections of structures and conformational analysis to assess relative energy of conformations of chain molecules and cyclohexane derivatives.
-7. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate stereoisomeric relationship between molecules.
-8. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
-9. (**CORE**) I can identify reaction mechanism patterns and draw curved arrows to illustrate bond-forming and bond-breaking steps. I can draw structures of transition states and reactive intermediates. I can identify nucleophilic and electrophilic centers in organic molecules. 
-10. (**CORE**) I can categorize chemical transformations as substitution, addition, or elimination. I determine the change in enthalpy using values of bond dissociation energy. I can use reaction--energy diagrams to communicate kinetics and thermodynamics of chemical reactions. 
-11. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
-12. I can use conformational analysis and reaction mechanisms to explain selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions.
-13. (**CORE**) I can complete reaction schemes (provide missing reactants, products, or reagents + conditions) involving alkenes
-14. I can complete reaction schemes (provide missing reactants, products, or reagents + conditions) involving alkynes
-15. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
+Here are the suggested edits and grammar corrections for your list of learning objectives:
 
+1. (**CORE**) I can deduce bonding information (hybridization, formal charge, geometry, valence, charge polarization) embedded in chemical representations. I can draw Lewis structures compliant with the bond-line (zig-zag) convention.
+2. I can identify functional groups and common abbreviations. I can convert between different drawing conventions and styles and recognize implicit carbons and hydrogens in a structure.
+3. (**CORE**) I can distinguish between localized and delocalized bonding systems. I can draw resonance structures to show electron delocalization and assess their relative contribution to the overall electronic character of the molecule.
+4. (**CORE**) I can rationalize acidity and basicity trends of organic molecules according to the Brønsted–Lowry theory.
+5. (**CORE**) I can predict the position of acid-base equilibrium and choose a suitable reagent for an efficient proton transfer reaction.
+6. I can use various projections of structures and conformational analysis to assess the relative energy of conformations of chain molecules and cyclohexane derivatives.
+7. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
+8. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure, including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
+9. (**CORE**) I can identify reaction mechanism patterns and draw curved arrows to illustrate bond-forming and bond-breaking steps. I can draw structures of transition states and reactive intermediates. I can identify nucleophilic and electrophilic centers in organic molecules.
+10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using values of bond dissociation energy. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
+11. (**CORE**) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
+12. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms. 
+13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
+14. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
+15. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
 
 <!-- JOURNAL -->
 <!-- I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes. -->
