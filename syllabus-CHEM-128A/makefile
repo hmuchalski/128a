@@ -13,7 +13,7 @@
 ts := $(shell /bin/date "+%y%m%d%H%M")
 
 # Semester variable
-SEMESTER=2021-fall
+SEMESTER=2023-fall
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)
@@ -24,6 +24,7 @@ EXPORTED_DOCS=\
  $(SOURCE_DOCS:.md=-$(SEMESTER).txt) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).html) \
  $(SOURCE_DOCS:.md=-standalone.html) \
+ $(SOURCE_DOCS:.md=-bootstrap.html) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).tex) \
  $(SOURCE_DOCS:.md=-$(SEMESTER).pdf) \
  $(SOURCE_DOCS:.md=-toc-$(SEMESTER).pdf) \
@@ -43,10 +44,11 @@ PANDOC_OPTIONS=-f markdown+smart
 PANDOC_MD_OPTIONS=-t markdown
 PANDOC_HTML_OPTIONS=--to html5
 PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
+PANDOC_BOOTSTRAP_HTML_OPTIONS=--to html5 -s --toc --template=bootstrap
 PANDOC_LATEX_OPTIONS=-t latex
 PANDOC_TOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
-PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-DOCX-template.docx
+PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski-local/.pandoc/templates/pandoc-DOCX-template.docx
 
 
 # Pattern-matching rules. The "md" rule is for achiving purposes
@@ -62,6 +64,9 @@ PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-D
 %-standalone.html : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_STANDALONE_HTML_OPTIONS) -o $@ $<
 	cp $@ pandoc-builds/$(ts)-$@
+
+%-bootstrap.html : %.md
+	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_BOOTSTRAP_HTML_OPTIONS) -o $@ $<
 
 %-$(SEMESTER).tex : %.md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_PDF_OPTIONS) -o $@ $<
@@ -93,6 +98,7 @@ all : $(EXPORTED_DOCS)
 
 md : $(SOURCE_DOCS:.md=-$(SEMESTER).txt)
 standalone-html : $(SOURCE_DOCS:.md=-standalone.html)
+bootstrap : $(SOURCE_DOCS:.md=-bootstrap.html)
 html : $(SOURCE_DOCS:.md=-$(SEMESTER).html)
 latex : $(SOURCE_DOCS:.md=-$(SEMESTER).tex)
 test : $(SOURCE_DOCS:.md=-$(SEMESTER)-test.pdf)
