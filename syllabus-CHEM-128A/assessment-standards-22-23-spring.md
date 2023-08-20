@@ -3,6 +3,10 @@ tags: 128a, spring, ay22-23, standards
 title: "Standards for Assessment in CHEM 128"
 ---
 
+New version of this document can be found at:
+
+https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
+
 # Standards for Assessment in CHEM 128
 
 :::danger
