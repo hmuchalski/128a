@@ -13,7 +13,7 @@
 ts := $(shell /bin/date "+%y%m%d%H%M")
 
 # Semester variable
-SEMESTER=2023-fall
+SEMESTER=ay-23-24-fall
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)
