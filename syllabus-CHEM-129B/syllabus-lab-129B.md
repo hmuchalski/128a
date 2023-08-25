@@ -4,6 +4,9 @@ title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
+<!-- Change class of all <table> tags in HTML page before pasting to canvas
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> -->
+
 # Course Syllabus <!-- omit from toc -->
 
 | Course Name  | Organic Chemistry 2 (Laboratory) |  
@@ -224,7 +227,7 @@ These principles will be discussed in detail during the first week of class. Mor
 
 ### Attendance and make-up policy
 
-Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the university policy. Excuses and exceptions will be interpreted will also be interpreted in light of the APM 232.
+Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the university policy. Excuses and exceptions will be interpreted will in light of the APM 232.
 
 ### Technology issues when submitting work
 
@@ -323,37 +326,37 @@ The following sections regarding COVID are subject to change given changing circ
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. 
 
-| #  | Wk # | Week of | Lab Day | Module                               | Lab Activities                                                                 |
-|----|------|---------|---------|--------------------------------------|--------------------------------------------------------------------------------|
-| 1  | 1    | 21-Aug  | Mon/Tue | Module 1: Onboarding                 | Lab orientation, syllabus, chemical safety. Locker check-in.                 |
-| 2  |      |         | Wed/Thu |                                      | Laboratory mise en place. Separation of a mixture of solids: SOP development |
-| 3  | 2    | 28-Aug  | Mon/Tue |                                      | Separation of a mixture of solids: separation & purification                 |
-| 4  |      |         | Wed/Thu |                                      | Separation of a mixture of solids: data analysis                             |
-| X  | 3    | 4-Sep   | Mon/Tue |                                      | NO LAB (Labor Day)                                                             |
-| 5  |      |         | Wed/Thu | Module 2: Solvent-less reactions     | Solvent-less synthesis of chalcones: grinding, isolation                     |
-| 6  | 4    | 11-Sep  | Mon/Tue |                                      | Solvent-less synthesis of chalcones: recrystallization, mp, IR, NMR          |
-| 7  |      |         | Wed/Thu |                                      | Solvent-less synthesis of chalcones: data analysis                           |
-| 8  | 5    | 18-Sep  | Mon/Tue |                                      | Literature Research Tools (with Mystery New Person @Library)                 |
-| 9  |      |         | Wed/Thu | Module 3: Acetonide                  | Synthesis experiment   stoichiometry. Preparation of hydrobenzoin.             |
-| 10 | 6    | 25-Sep  | Mon/Tue |                                      | Acetonide of hydrobenzoin: reaction & work-up                                |
-| 11 |      |         | Wed/Thu |                                      | Acetonide of hydrobenzoin: NMR data analysis                                 |
-| 12 | 7    | 2-Oct   | Mon/Tue | Module 4: Organic chemistry in water | Reduction with CIP in water: synthesis and monitoring with TLC               |
-| 13 |      |         | Wed/Thu |                                      | Reduction with CIP in water: work-up, isolation, NMR sample prep             |
-| 14 | 8    | 9-Oct   | Mon/Tue |                                      | Reaction efficiency   metrics: qNMR assay of reaction yield                    |
-| 15 |      |         | Wed/Thu |                                      | Buffer zone                                                                    |
-| 16 | 9    | 16-Oct  | Mon/Tue | Module 5: Friedel–Crafts of Unknown  | Unknown arene: Friedel–Crafts acylation                                      |
-| 17 |      |         | Wed/Thu |                                      | Unknown arene: isolation, purification, and NMR                              |
-| 18 | 10   | 23-Oct  | Mon/Tue |                                      | Unknown arene: NMR analysis                                                  |
-| 19 |      |         | Wed/Thu | Module 6: Independent Projects       | Research Projects                                                              |
-| 20 | 11   | 30-Oct  | Mon/Tue |                                      | Research Projects                                                              |
-| 21 |      |         | Wed/Thu |                                      | Research Projects                                                              |
-| 22 | 12   | 6-Nov   | Mon/Tue |                                      | Research Projects                                                              |
-| 23 |      |         | Wed/Thu |                                      | Research Projects                                                              |
-| 24 | 13   | 13-Nov  | Mon/Tue |                                      | Research Projects                                                              |
-| 25 |      |         | Wed/Thu |                                      | Research Projects                                                              |
-| 26 | 14   | 20-Nov  | Mon/Tue |                                      | Catch-up, wrap-up, etc.                                                        |
-| 27 |      |         | Wed/Thu |                                      | NO LAB (Thanksgiving Break)                                                  |
-| 28 | 15   | 27-Nov  | Mon/Tue |                                      | Presentations                                                                  |
-| 29 |      |         | Wed/Thu |                                      | Presentations                                                                  |
-| 30 | 16   | 4-Dec   | Mon/Tue | Locker check-out                     | Locker check-out                                                               |
-|    |      |         | Wed/Thu | NO LAB                               | NO LAB                                                                         |
+| #  | Week of | Day | Lab Activities                                                      |  
+| -- | ------- | --- | ------------------------------------------------------------------- |  
+| 1  | 21-Aug  | Tue | Lab orientation, syllabus, chemical safety. Locker check-in.        |  
+| 2  |         | Thu | Separation of a mixture of solids: SOP development                  |  
+| 3  | 28-Aug  | Tue | Separation of a mixture of solids: separation & purification        |  
+| 4  |         | Thu | Separation of a mixture of solids: data analysis                    |  
+| X  | 4-Sep   | Tue | NO LAB (Labor Day)                                                  |  
+| 5  |         | Thu | Solvent-less synthesis of chalcones: grinding, isolation            |  
+| 6  | 11-Sep  | Tue | Solvent-less synthesis of chalcones: recrystallization, mp, IR, NMR |  
+| 7  |         | Thu | Solvent-less synthesis of chalcones: data analysis                  |  
+| 8  | 18-Sep  | Tue | Literature Research Tools (with Mystery New Person @Library)        |  
+| 9  |         | Thu | Synthesis experiment stoichiometry. Preparation of hydrobenzoin.    |  
+| 10 | 25-Sep  | Tue | Acetonide of hydrobenzoin: reaction & work-up                       |  
+| 11 |         | Thu | Acetonide of hydrobenzoin: NMR data analysis                        |  
+| 12 | 2-Oct   | Tue | Reduction with CIP in water: synthesis and monitoring with TLC      |  
+| 13 |         | Thu | Reduction with CIP in water: work-up, isolation, NMR sample prep    |  
+| 14 | 9-Oct   | Tue | Reaction efficiency   metrics: qNMR assay of reaction yield         |  
+| 15 |         | Thu | Buffer zone                                                         |  
+| 16 | 16-Oct  | Tue | Clove oil as feedstock material for synthesis                       |  
+| 17 |         | Thu | Clove oil as feedstock material for synthesis                       |  
+| 18 | 23-Oct  | Tue | Clove oil as feedstock material for synthesis                       |  
+| 19 |         | Thu | Research Projects                                                   |  
+| 20 | 30-Oct  | Tue | Research Projects                                                   |  
+| 21 |         | Thu | Research Projects                                                   |  
+| 22 | 6-Nov   | Tue | Research Projects                                                   |  
+| 23 |         | Thu | Research Projects                                                   |  
+| 24 | 13-Nov  | Tue | Research Projects                                                   |  
+| 25 |         | Thu | Research Projects                                                   |  
+| 26 | 20-Nov  | Tue | Catch-up, wrap-up, etc.                                             |  
+| 27 |         | Thu | NO LAB (Thanksgiving Break)                                         |  
+| 28 | 27-Nov  | Tue | Presentations                                                       |  
+| 29 |         | Thu | Presentations                                                       |  
+| 30 | 4-Dec   | Tue | Locker check-out                                                    |  
+|    |         | Thu | NO LAB: Consultation Days                                           |  

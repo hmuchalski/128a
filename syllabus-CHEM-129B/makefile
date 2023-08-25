@@ -54,8 +54,8 @@ PANDOC_STANDALONE_HTML_OPTIONS=--to html5 -s --toc
 PANDOC_LATEX_OPTIONS=-t latex
 PANDOC_TOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks --toc --toc-depth=1
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex -V geometry:margin=1.25in -V fontsize=11pt -V mainfont='Minion Pro' -V colorlinks
-PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-DOCX-template.docx
-PANDOC_DOCX_CALIBRI_OPTIONS=--reference-doc=/Users/hmuchalski/.pandoc/templates/pandoc-DOCX-template-calibri.docx
+PANDOC_DOCX_OPTIONS=--reference-doc=/Users/hmuchalski-local/.pandoc/templates/pandoc-DOCX-template.docx
+PANDOC_DOCX_CALIBRI_OPTIONS=--reference-doc=/Users/hmuchalski-local/.pandoc/templates/pandoc-DOCX-template-calibri.docx
 
 
 # Pattern-matching rules. The "md" rule is for achiving purposes
