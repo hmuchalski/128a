@@ -10,10 +10,10 @@
 # Run "make clean" to delete converted files (it doesn't delete files in "pandoc-builds" directory)
 
 # Defining the timestamp variable
-ts := $(shell /bin/date "+%y%m%d%H%M")
+ts := $(shell /bin/date "+%y%m%d%H%M") 
 
 # Semester variable
-SEMESTER=2023-fall
+SEMESTER=AY-23-24-spring
 
 # Convert all files in this directory that have a .md suffix
 SOURCE_DOCS := $(wildcard *.md)

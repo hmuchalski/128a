@@ -1,5 +1,5 @@
 ---
-tags: 129b, fall, syllabus
+tags: 129b, spring, syllabus
 title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
@@ -11,31 +11,31 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 | Course Name  | Organic Chemistry 2 (Laboratory) |  
 | :----------- | :------------------------------- |  
-| Semester     | AY 23–24 Fall                    |  
+| Semester     | AY 23–24 Spring                  |  
 | Units        | 2                                |  
 | Department   | Chemistry and Biochemistry       |  
-| Time         | TR 1:00–3:50 pm ([see note below](#note-about-the-duration-of-a-lab-session)) |  
+| Time         | TR 9:00–11:50 pm ([see note below](#note-about-the-duration-of-a-lab-session)) |  
 | Location     | Science 1-350                    |  
 | Instructor   | Dr. Hubert Muchalski             |  
 | Coordinator  | Dr. Hubert Muchalski             |  
 | Email        | hmuchalski@mail.fresnostate.edu  |  
 | Office phone | 559-278-2711                     |  
 | Office       | Science 1, room 352              |  
-| Office hours | Mon, Tue 16:00--17:15 and by [appointment][1-on-1-calendar] |  
+| Office hours | Monday 15:00-15:50 and by [appointment][1-on-1-calendar] |  
 
-[1-on-1-calendar]: https://calendar.app.google/mHM77jzbU5KJoiaF6
+[1-on-1-calendar]: https://calendar.app.google/mUmzNPCnZLXESrCQ8
 
 ## Note about the duration of a lab session <!-- omit from toc -->
 
-The CSU defines _one class hour_ as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of _supervision courses_ ([C16 category](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)). For laboratory sessions, 1 unit corresponds to 3 _class hours_, totaling 150 minutes (2 hours and 30 minutes) of instruction or supervision. It's worth noting that this differs from the duration indicated in the catalog (2 hours and 50 minutes), as university regulations stipulate a 10-minute break after each 50 minutes of instruction. However, adhering to fixed break times presents challenges in a lab setting where students or groups work at individual paces, and interrupting for breaks might be impractical or unsafe. Consequently, while the official lab time is listed as 13:00–15:50, our goal is to conclude each lab session by 15:30, ensuring a full 150 minutes of instruction or supervision.
+The CSU defines _one class hour_ as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of _supervision courses_ ([C16 category](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)). For laboratory sessions, 1 unit corresponds to _3 class hours_, totaling 150 minutes (2 hours and 30 minutes) of instruction/supervision. This differs from the duration listed in the catalog (2 hours and 50 minutes) because it includes a 10-minute break after each 50 minutes of instruction. However, adhering to fixed time frame in a lab setting is challenging because work is asynchronous---students work at their own pace, often in groups. Having fixed times for breaks might be impractical or unsafe. Consequently, on days when we work without a break, our goal will be to finish the lab session by 11:30 (3:30 for PM sections), after 150 minutes of instruction/supervision. 
 
 ## How to use this syllabus <!-- omit from toc -->
 
-This document contains all the information you need to navigate the course. *Read it once giving it your full attention*, then search as needed. Use the table of contents found in the left sidebar of the web version. Click "Expand All" to see the subsections in the table. You can also hit `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
+This document contains all the information you need to navigate the course. *Read it once giving it your full attention*, then search as needed. Use the table of contents found in the sidebar of the web version or use `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 + When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for pictures of dogs in clothes](https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1).
 + Links to all important documents and information can be found on the course [Canvas site][cnvs]
-+ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. Updates in the PDF version will not be highlighted. 
++ Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed. 
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -49,10 +49,9 @@ This document contains all the information you need to navigate the course. *Rea
 - [Assessments and grading](#assessments-and-grading)
   - [Grading philosophy](#grading-philosophy)
   - [Grading of experiments](#grading-of-experiments)
-  - [Grading of lab reports and the EMRN rubric](#grading-of-lab-reports-and-the-emrn-rubric)
   - [Research project](#research-project)
   - [Letter grades](#letter-grades)
-- [Laboratory Code of Safe Practices](#laboratory-code-of-safe-practices)
+- [Safe Chemical Laboratory Practices](#safe-chemical-laboratory-practices)
 - [Policies and disclaimers](#policies-and-disclaimers)
   - [Attendance and make-up policy](#attendance-and-make-up-policy)
   - [Technology issues when submitting work](#technology-issues-when-submitting-work)
@@ -63,10 +62,16 @@ This document contains all the information you need to navigate the course. *Rea
   - [Dispute Resolution](#dispute-resolution)
   - [Student Ratings of Instruction](#student-ratings-of-instruction)
 - [University policies and disclaimers](#university-policies-and-disclaimers)
-  - [COVID Policies](#covid-policies)
   - [Links to relevant University Policies](#links-to-relevant-university-policies)
 - [University Services](#university-services)
 - [Course Calendar](#course-calendar)
+- [Appendix A: Rubrics](#appendix-a-rubrics)
+  - [Lab readiness](#lab-readiness)
+  - [Risk assessment rubric](#risk-assessment-rubric)
+  - [Lab notebook rubric](#lab-notebook-rubric)
+  - [Experimental results rubric](#experimental-results-rubric)
+  - [Grading of lab reports and the EMRN rubric](#grading-of-lab-reports-and-the-emrn-rubric)
+  - [Research report and presentation](#research-report-and-presentation)
 
 
 ## About the course
@@ -111,7 +116,6 @@ For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6
 - **Canvas:** The central repository for all course materials and information is our [Canvas site][cnvs] which will be the main repository for assignments, grades, and links to materials/resources.
 - **Document scanning tool**: Most documents you will turn in for feedback and grading will be submitted electronically but prepared on paper. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Personal computer:** You will need a x86 class personal computer[^1] that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
-- **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
 
 [^1]: Chromebooks and iPads are a powerful devices but are not x86-class computers. They can't run ChemDraw or MestReNova software (at least not yet).  
 
@@ -133,27 +137,27 @@ Maintain a comprehensive record of what you did and observed. Also keep all phys
 
 ### Lab notes guiding principles
 
-Lab notes should document what you did, how you did it, what you observed, and the data you collected. Knowing what to include and exclude in your notebook involves a balancing act between relevance and brevity. You need to record details that are pertinent and necessary for someone else to replicate your work. This hypothetical chemist won't have the opportunity to consult with you or access any auxiliary documentation you used during the experiment. Therefore, you must provide clear descriptions of your actions and methods.
+Lab notes should document what you did and how, what you observed, and the data you collected. To know what to write and not to write in the notebook is a balancing act of relevance and brevity. You need write down details that are relevant and necessary for someone to reproduce your work. This hypothetical chemist will not be able to consult with you or have access to any auxiliary documentation that you had access to while doing the experiment. Therefore, you need to describe what you did and how. 
 
-Lab notes should be easy to read—use paragraph breaks, headings, etc. to help the reader navigate the notebook.
+It is safe to assume, however, that the reader of your notes has been trained in the basic organic laboratory techniques. For example, you don’t have to explain how to do a recrystallization because the reader who will should know how to carry out recrystallization (and if not, they can refer to a techniques manual). What will be helpful to them are the details relevant to this particular recrystallization: solvent used, approximate volume of solvent, time it took to cool and grow crystals. 
 
-It is safe to assume, however, that the reader of your notes has been trained in basic organic laboratory techniques. For instance, you don’t need to explain how to perform a recrystallization because the intended reader should already be familiar with the process (and if not, they can refer to a techniques manual). What will be beneficial to them are the specific details related to the particular recrystallization: the solvent used, approximate volume of solvent, and the duration it took for cooling and crystal growth.
+Lab notes should be easy to read—use paragraph breaks, headings, etc. to help the reader navigate the notebook. 
 
-Contrary to common belief, reproducible and detailed lab notes don’t have to be lengthy or time-consuming. Here's an example statement that captures all the crucial information without being overly verbose:
+Contrary to common belief, reproducible and detailed lab notes don’t have to be long and take a lot of time and effort to produce. Below is an example statement that captures all important information about purification of the crude material, yield, and the appearance of the final product:
 
 > “The crude product (sticky brown solid, 1.23 g) was recrystallized from hot ethanol (15 mL) in an Erlenmeyer flask. After cooling to rt and then to 0 °C, the solid was collected by vacuum filtration, washed with ice-cold water, and dried in air for 1 h to give the product as a white crystalline solid (0.38 g), mp 87–89 °C.”
 
-Another benefit of recording everything in real time is that it can help you identify errors, explain unexpected outcomes, and troubleshoot experiments that go awry. In the recrystallization process described above, the mass recovery is notably low. A chemist repeating the experiment might decide to use less ethanol (or a different solvent) to enhance the mass recovery.
+Additional benefit of writing it all down in real time is that it can help you track down errors, explain unexpected outcomes, and/or troubleshoot the experiment that went wrong. In the recrystallization described above, the mass recovery is quite poor and a chemist repeating the experiment may decide to use less ethanol (or a different solvent) to improve the mass recovery. 
 
 ## Assessments and grading
 
-The final grade in the course will be based on your work in three areas (see table below). There will be five experiment sets, independent project, and quizzes. Each experiment set will have variety of graded work (pre-lab, lab notebook, report, and other assignments) that add contributes to the 13% value for each lab set. 
+The final grade in the course will be based on your work in three areas (see table below). There will be four experiment sets, independent project, and quizzes. Each experiment set will have variety of graded work (pre-lab, lab notebook, report, and other assignments) that add contributes to the 15% value for each lab set. 
 
 | Assignment Category       | %Weight  |  
 | :------------------------ | :------- |  
-| Experiments (5)           | 70%      |  
-| Research Project          | 25%      |  
-| Take-home quiz            | 5%       |  
+| Experiments (4×15)        | 60%      |  
+| Research Project          | 30%      |  
+| Quizzes                   | 10%       |  
 | **Total**                 | **100%** |  
 
 ### Grading philosophy
@@ -166,32 +170,19 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 
 ### Grading of experiments
 
-You will receive feedback and marks on work that you produce in- and outside the lab. Those include pre-lab documentation, experimental notes and observations, results (yield, spectroscopic data), and written lab report. Each of the regular experiments contributes 13% to the final grade and will have several components (see table below for details). 
+You will receive feedback and marks on work that you produce in- and outside the lab. Those include pre-lab documentation, experimental notes and observations, results (yield, spectroscopic data), and written lab report. Each of the regular experiments contributes 15% to the final grade and will have several components (see table below for details). 
 
-| Item                    | Value | Can be revised? |  
+| Item                    | Value | Revision policy |  
 | :---------------------- | :---- | :-------------- |  
-| Pre-lab documentation   | 2%    | Yes             |  
-| Risk assessment         | 2%    | Yes             |  
+| Pre-lab documentation   | 2%    | Before the experiment begins |  
+| Risk assessment         | 2%    | Before the experiment begins        |  
 | In-lab notes            | 3%    | No              |  
 | Results                 | 3%    | No              |  
-| Lab report              | 4%    | Yes             |  
-
-### Grading of lab reports and the EMRN rubric
-
-One of the main objectives of this course is for you to learn to interpret and communicate experimental results. This is a difficult skill that needs to be developed over time through iteration and feedback loops. At the end of each module you will submit a formal lab report, short version for the first two modules, and more extensive for modules 3-5. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
-
-![EMPX rubric](http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png)
-
-Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
-
-- Grade "E" or "M" receives full score (4%)
-- Grade "R" will receive partial score (2%) with an option to revise and resubmit.
-- Grade "N" will receive partial score (1%) with an option to revise and resubmit but the feedback will be very limited. 
-- No report will not receive credit (0%). Submissions after the deadline will be reviewed as-is with no possibility for revision and resubmission. 
+| Lab report              | 5%    | Within one week after report returned with comments |  
 
 ### Research project
 
-During the final five weeks of the semester, students will engage in an autonomous research project known as a CURE (Course-based Undergraduate Research Experience). The instructor will not provide the project's objective and methods, and the outcomes are either entirely unknown or only partially revealed. To accomplish the project, students will conduct comprehensive literature research to gather the essential information required for the synthesis. The culmination of this endeavor will involve delivering a presentation to the class.
+During the second half of the semester, students will engage in an independent research project known as a CURE (Course-based Undergraduate Research Experience). The instructor will not provide the project's objective and methods, and the outcomes are either entirely unknown or only partially revealed. To accomplish the project, students will conduct comprehensive literature research to gather the essential information required for the synthesis. The culmination of this endeavor will involve delivering a presentation to the class.
 
 ### Letter grades
 
@@ -206,19 +197,19 @@ Final grade will be determined based on overall performance according to the wei
 | F     | <60%        |  
 
 
-## Laboratory Code of Safe Practices
+## Safe Chemical Laboratory Practices
 
-1. NO food or drink in the laboratory.
-2. Wear clothing appropriate for laboratory work.
-3. Select and correctly use appropriate Personal Protective Equipment (PPE).
-4. Know what to do and who to contact in an emergency in the laboratory.
-5. Avoid distractions and be alert to and aware of your surroundings and potential hazards in your area.
-6. Maintain a safe and clean work area.
-7. Only conduct experiments or procedures approved by your lab instructor or research advisor.
-8. Understand the common chemical hazards and hazards specific to the chemicals and procedures with which you are working.
-9. Understand and follow best practices on how to handle, transport, store, and dispose of chemicals safely.
-10. If any equipment, glassware, or procedures are not working properly or as expected, notify your instructor before proceeding.
-11. Notify your instructor if you have, develop, or may develop any medical conditions (e.g. severe asthma, limited mobility, vision impairment, pregnancy, etc) that may affect your safety in the laboratory or sensitivity to chemicals, so that your instructor can properly advise or accommodate you on minimizing the risks associated with laboratory work.
+1. NO food or drink in the laboratory. 
+2. Wear clothing appropriate for laboratory work. 
+3. Select and correctly use appropriate Personal Protective Equipment (PPE). 
+4. Know what to do and who to contact in an emergency in the laboratory. 
+5. Avoid distractions and be alert to and aware of your surroundings and potential hazards in your area. 
+6. Maintain a safe and clean work area. 
+7. Only conduct experiments or procedures approved by your lab instructor or research advisor. 
+8. Understand the common chemical hazards and hazards specific to the chemicals and procedures with which you are working. 
+9. Understand and follow best practices on how to handle, transport, store, and dispose of chemicals safely. 
+10. If any equipment, glassware, or procedures are not working properly or as expected, notify your instructor before proceeding. 
+11. Notify your instructor if you have, develop, or may develop any medical conditions (e.g. severe asthma, limited mobility, vision impairment, pregnancy, etc) that may affect your safety in the laboratory or sensitivity to chemicals, so that your instructor can properly advise or accommodate you on minimizing the risks associated with laboratory work. 
 
 These principles will be discussed in detail during the first week of class. More information can be found here: [https://goo.gl/1UFRbo](https://goo.gl/1UFRbo). Also, refer to [_Guidelines for Chemical Laboratory Safety in Academic Institutions_](https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf) published by American Chemical Society.
 
@@ -240,7 +231,7 @@ For most assignments you are allowed and encouraged to work with others. However
 - copying work from another student;
 - copying work from a website;
 - copying work generated by an AI bot such as ChatGPT;
-- paraphrasing work done by another student or from print or Internet resources---i.e.,  putting it in your own words---without coming up with the main ideas and strategies yourself; and
+- paraphrasing work done by another student or from print or Internet resources---i.e.,putting it in your own words---without coming up with the main ideas and strategies yourself; and
 - *allowing or enabling* another student to copy or paraphrase work that you did, even if you did the original work yourself.
 
 Violation of this policy is considered “academic dishonesty” and carries with it strong punitive measures mandated by Fresno State, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
@@ -274,10 +265,6 @@ In the final weeks of the semester, you will be asked to complete a short survey
 
 
 ## University policies and disclaimers
-
-### COVID Policies
-
-The following sections regarding COVID are subject to change given changing circumstances on-campus and in the community. Please check the COVID website for the most up-to-date information at [covid.fresnostate.edu](https://covid.fresnostate.edu)
 
 ### Links to relevant University Policies
 
@@ -326,37 +313,85 @@ The following sections regarding COVID are subject to change given changing circ
 
 This syllabus and schedule are subject to change in the event of extenuating circumstances. 
 
-| #  | Week of | Day | Lab Activities                                                      |  
-| -- | ------- | --- | ------------------------------------------------------------------- |  
-| 1  | 21-Aug  | Tue | Lab orientation, syllabus, chemical safety. Locker check-in.        |  
-| 2  |         | Thu | Separation of a mixture of solids: SOP development                  |  
-| 3  | 28-Aug  | Tue | Separation of a mixture of solids: separation & purification        |  
-| 4  |         | Thu | Separation of a mixture of solids: data analysis                    |  
-| X  | 4-Sep   | Tue | NO LAB (Labor Day)                                                  |  
-| 5  |         | Thu | Solvent-less synthesis of chalcones: grinding, isolation            |  
-| 6  | 11-Sep  | Tue | Solvent-less synthesis of chalcones: recrystallization, mp, IR, NMR |  
-| 7  |         | Thu | Solvent-less synthesis of chalcones: data analysis                  |  
-| 8  | 18-Sep  | Tue | Literature Research Tools (with Mystery New Person @Library)        |  
-| 9  |         | Thu | Synthesis experiment stoichiometry. Preparation of hydrobenzoin.    |  
-| 10 | 25-Sep  | Tue | Acetonide of hydrobenzoin: reaction & work-up                       |  
-| 11 |         | Thu | Acetonide of hydrobenzoin: NMR data analysis                        |  
-| 12 | 2-Oct   | Tue | Reduction with CIP in water: synthesis and monitoring with TLC      |  
-| 13 |         | Thu | Reduction with CIP in water: work-up, isolation, NMR sample prep    |  
-| 14 | 9-Oct   | Tue | Reaction efficiency   metrics: qNMR assay of reaction yield         |  
-| 15 |         | Thu | Buffer zone                                                         |  
-| 16 | 16-Oct  | Tue | Clove oil as feedstock material for synthesis                       |  
-| 17 |         | Thu | Clove oil as feedstock material for synthesis                       |  
-| 18 | 23-Oct  | Tue | Clove oil as feedstock material for synthesis                       |  
-| 19 |         | Thu | Research Projects                                                   |  
-| 20 | 30-Oct  | Tue | Research Projects                                                   |  
-| 21 |         | Thu | Research Projects                                                   |  
-| 22 | 6-Nov   | Tue | Research Projects                                                   |  
-| 23 |         | Thu | Research Projects                                                   |  
-| 24 | 13-Nov  | Tue | Research Projects                                                   |  
-| 25 |         | Thu | Research Projects                                                   |  
-| 26 | 20-Nov  | Tue | Catch-up, wrap-up, etc.                                             |  
-| 27 |         | Thu | NO LAB (Thanksgiving Break)                                         |  
-| 28 | 27-Nov  | Tue | Presentations                                                       |  
-| 29 |         | Thu | Presentations                                                       |  
-| 30 | 4-Dec   | Tue | Locker check-out                                                    |  
-|    |         | Thu | NO LAB: Consultation Days                                           |  
+| Week of | Lab     | Lab Activities                                               |  
+| ------- | ------- | ------------------------------------------------------------ |  
+| 15-Jan  | Mon/Tue | NO LAB (MLK Holiday)                                         |  
+|         | Wed/Thu | NO LAB (Administrative Day)                                  |  
+| 22-Jan  | Mon/Tue | Lab orientation, syllabus, chemical safety, locker check-in. |  
+|         | Wed/Thu | Module 1: Mechanochemistry (synthesis of chalcones)          |  
+| 29-Jan  | Mon/Tue | Module 1: Mechanochemistry (synthesis of chalcones)          |  
+|         | Wed/Thu | Module 1: Mechanochemistry (synthesis of chalcones)          |  
+| 5-Feb   | Mon/Tue | Module 2: Renewable feedstocks and qNMR purity assay         |  
+|         | Wed/Thu | Module 2: Renewable feedstocks and qNMR purity assay         |  
+| 12-Feb  | Mon/Tue | Module 2: Renewable feedstocks and qNMR purity assay         |  
+|         | Wed/Thu | Module 3: Synthesis with renewable feedstocks in water       |  
+| 19-Feb  | Mon/Tue | NO LAB (President's   Day)                                   |  
+|         | Wed/Thu | Module 3: Synthesis with renewable feedstocks in water       |  
+| 26-Feb  | Mon/Tue | Module 3: Synthesis with renewable feedstocks in water       |  
+|         | Wed/Thu | Module 3: Synthesis with renewable feedstocks in water       |  
+| 4-Mar   | Mon/Tue | Module 4: Stereochemistry of Suzuki-Miyaura reaction         |  
+|         | Wed/Thu | Module 4: Stereochemistry of Suzuki-Miyaura reaction         |  
+| 11-Mar  | Mon/Tue | Module 4: Stereochemistry of Suzuki-Miyaura reaction         |  
+|         | Wed/Thu | ACS NOLA ** Literature Research Tools (@Library)             |  
+| 18-Mar  | Mon/Tue | Module 5: Research project                                   |  
+|         | Wed/Thu | Module 5: Research project                                   |  
+| 25-Mar  | Mon/Tue | Spring Break Recess                                          |  
+|         | Wed/Thu | Spring Break Recess                                          |  
+| 1-Apr   | Mon/Tue | NO LAB (Cesar Chavez)                                        |  
+|         | Wed/Thu | Module 5: Research project                                   |  
+| 8-Apr   | Mon/Tue | Module 5: Research project                                   |  
+|         | Wed/Thu | Module 5: Research project                                   |  
+| 15-Apr  | Mon/Tue | Module 5: Research project                                   |  
+|         | Wed/Thu | Module 5: Research project                                   |  
+| 22-Apr  | Mon/Tue | Module 5: Research project                                   |  
+|         | Wed/Thu | Module 5: Research project                                   |  
+| 29-Apr  | Mon/Tue | Module 5: Research project                                   |  
+|         | Wed/Thu | Module 5: Research project (clean-up & wrap-up)              |  
+| 6-May   | Mon/Tue | Module 5: Research project presentations                     |  
+
+## Appendix A: Rubrics
+
+### Lab readiness
+
+-	**Satisfactory (2)**: Prelab documentation (stoichiometry table, calculations, etc) is complete, accurate and conveys student’s readiness to carry out the experiment. 
+-	**Progressing (1**): Prelab documentation (stoichiometry table, calculations, etc) is complete but contains errors or inaccuracies. The errors don’t compromise student’s readiness to carry out the experiment. 
+-	**Incomplete (0**): Prelab documentation was not submitted OR the submitted material is incomplete, contains critical errors or significant inaccuracies that compromise student’s readiness for the experiment. 
+
+### Risk assessment rubric
+
+-	**Complete (2)**: Hazard and risk assessment is complete, accurate, and relevant to the experiment. Significant risks and hazards are identified and a safety recommendation is provided. Errors are insignificant or inconsequential
+-	**Progressing (1)**: Hazard and risk assessment is provided but significant gaps remain, the safety information is inaccurate or not irrelevant to the experiment. 
+-	**Incomplete (0)**: Safety information is not provided OR the information provided significantly increases the risk of exposure to hazards. 
+
+### Lab notebook rubric
+
+The notes will allow others to reproduce the work. The notes include observations and communicate what was done, how, when, and by whom.
+
+-	**Fully reproducible (3)**: The notes are complete and include all key information. A person unfamiliar with the experiment is highly likely to obtain similar results. Errors are insignificant or inconsequential.
+-	**Somewhat reproducible (2)**: The notes include most of the experimental details needed to repeat the experiment. A person unfamiliar with the experiment is somewhat likely to obtain similar results.
+-	**Reproducibility compromised (1)**: The notes don't include necessary information needed to repeat the experiment. Significant omissions and errors are present. Even a person familiar with the experiment is unlikely to obtain similar results.
+-	**Not reproducible (0)**: The copy of lab notes was not submitted, the notes are incomplete or not helpful. A person unfamiliar with the experiment is very unlikely to obtain similar results. 
+
+### Experimental results rubric
+
+-	**Reasonable (3)**: Product obtained with reasonable yield and purity.
+-	**Somewhat reproducible (2)**: Product obtained but either yield or purity are compromised.
+-	**Reproducibility compromised (1)**: Product obtained but both yield and purity are severely compromised.
+-	**Not reproducible (0)**: No product was obtained.
+
+### Grading of lab reports and the EMRN rubric
+
+One of the main objectives of this course is for you to learn to interpret and communicate experimental results. This is a difficult skill that needs to be developed over time through iteration and feedback loops. At the end of each module you will submit a formal lab report, short version for the first two modules, and more extensive for modules 3-5. Each experiment will end with submission of a written lab report which will be evaluated using "EMRN" rubric shown below. 
+
+![EMRN rubric](EMRN-rubric-2020.png)
+
+Each lab report can be revised and resubmitted before the grade becomes final. Deadlines and conditions for submission of revised reports will be communicated in Canvas.
+
+- Grade "E" or "M" receives full score (5%)
+- Grade "R" will receive partial score (3%) with an option to revise and resubmit.
+- Grade "N" will receive partial score (2%) with an option to revise and resubmit but the feedback will be very limited. 
+- No report will not receive credit (0%). Submissions after the deadline will be reviewed as-is with no possibility for revision and resubmission. 
+
+### Research report and presentation
+
+Written reports and oral presentations will be evaluated using the [ELIPSS rubric](https://drive.google.com/file/d/1ZAL5_sTpci3waFMQVWRrhFqTF9uOIwv9/view?usp=sharing). Enhancing Learning by Improving Process Skills in STEM (ELIPSS) is an NSF-funded project that focuses on the identification, development, and assessment of process skills (also known as professional skills, practical skills, workplace skills, transferable skills, or soft skills) in active learning, undergraduate STEM classrooms. Assessing process skill development and providing feedback to students and instructors is a key component for enhancing these skills in STEM programs. 
