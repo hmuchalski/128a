@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "./syllabus-CHEM-128A"
+		},
+		{
+			"path": "../ochem1"
+		},
+		{
+			"path": "../lt-problems-128a"
+		},
+		{
+			"path": "./syllabus-CHEM-129B"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.pdf": true,
+			"**/*.bbl": true,
+			"**/*.blg": true
+		}
+	}
+}

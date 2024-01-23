@@ -1,7 +1,7 @@
 ---
 title: Course Syllabus (CHEM 128A) 
-author: "Instructor: Hubert Muchalski"
-date: August 18, 2023
+author: Hubert Muchalski
+date: August 26, 2023
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
@@ -16,12 +16,12 @@ date: August 18, 2023
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Student support hours | Mon, Tue 16:00--17:15 and by [appointment][1-on-1-calendar] |  
+| Student support hours | Mon, Tue 15:45--17:00 and by [appointment][1-on-1-calendar] |  
 
 <!-- Reference URLs -->
 [dogs-in-clothes]: https://start.duckduckgo.com/?q=dogs+wearing+clothes&iar=images&iax=images&ia=images&kp=1
 [1-on-1-calendar]: https://calendar.app.google/mHM77jzbU5KJoiaF6
-[standards-for-student-work]: https://hackmd.io/@hmuchalski/SkGJe0kii
+[standards-for-student-work]: https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
 [cnvs]: https://fresnostate.instructure.com/courses/78400
 [signaling]: https://socialsci.libretexts.org/Bookshelves/Economics/Principles_of_Microeconomics_(Curtis_and_Irvine)/05%3A_The_Factors_of_Production/13%3A_Human_capital_and_the_income_distribution/13.04%3A_Education_as_signalling
 [emrn]: http://rtalbert.org/content/images/2022/04/EMRN-rubric-2020.png
@@ -151,7 +151,7 @@ You will be engaging with several kinds of activities in the course, both to fac
 | Class Primer    | Completeness and effort only                                    | `1` or `0`                 | No              |  
 | iClicker Credit | Participation (answer given to >75 questions)                   | `1` or `0`                 | No              |  
 | Learning Target | Completeness and correctness                                    | `0`, `1`, or `2`           | Yes             |  
-| Class Journal   | Completeness, effort, correctness, and clarity of communication | `E`, `M`, `R`, or `N`      | Yes             |  
+| Class Journal   | Completeness, effort, correctness, and clarity of communication | `0` or `1`                 | Yes             |  
 | Final Exam      | Correctness only                                                | Points, 70 maximum         | No              |  
 
 ## Learning Targets and Checkpoints
@@ -164,9 +164,7 @@ Everyone begins the semester with `0` on all Learning Targets in Canvas gradeboo
 
 ## Class Journal
 
-Integrated problems called Class Journal articles will be used to assess broader range of skills and knowledge that span multiple Learning Targets. Class Journal _article_ must contain a solution to the problem but also commentary and guidance for the reader. The article should be standalone artifact of organic chemistry knowledge from which a reader can learn. Class Journal submissions will require a formal writeup, and may require additional technology. The submissions are marked using EMRN rubric shown below:
-
-![EMRN rubric][emrn]
+Integrated problems called Class Journal articles will be used to assess broader range of skills and knowledge that span multiple Learning Targets. Class Journal _article_ must contain a solution to the problem but also commentary and guidance for the reader. The article should be standalone artifact of organic chemistry knowledge from which a reader can learn. Class Journal submissions will require a formal writeup, and may require additional technology. Consult the [Standards for Student Work][standards-for-student-work] document for specific criteria that will be used to evaluate Class Journal submissions.
 
 I will publish (and keep adding throughout the semester) a list of problems for students to sign up for. Once you sign up, you will have 1 week to submit your entry for review. You may only work on one new problem at a time (it is okay to work on a new problem and a revision of previous problem at the same time). If more than one person requests the same problem at the same time, I will choose based on who has completed fewer journals. Journal problems must be correct and clearly communicate the process obtaining the solution. Editor-in-Chief (me) will review your submission and choose whether to accept it or return for revisions. 
 
@@ -174,16 +172,13 @@ I will publish (and keep adding throughout the semester) a list of problems for 
 
 Your course grade is determined using the table below. In order to earn a particular letter grade, each requirement must be met in the column for that grade, **the highest grade for which all the requirements are met**. There are no statistical or numerical adjustments (a.k.a. grading on a curve). Failing grade (F) is given if not all the requirements for a "D" are met. In the table below, numerical values indicate the minimum level needed to meet the requirement; amounts above this level also meet the requirement. 
 
-If the total number of assignments of a given type is changed due to scheduling or other issues, this table will be updated. "M+" means mark "M" or better. I recommend using Course Grade Tracker as the semester progresses to have a full view of your course grade. 
-
-| Category (total)           | D     | C                 | B                 | A                 |  
-| -------------------------- | ----- | ----------------- | ----------------- | ----------------- |  
-| Class Primer (24)          | 8     | 12                | 16                | 20                |  
-| Learning Targets @ Level 1 | any 8 | 8 CORE + 2 others | 8 CORE + 4 others | 8 CORE + 6 others |  
-| Learning Targets @ Level 2 | 0     | 8 CORE            | 8 CORE + 2 others | 8 CORE + 4 others |  
-| Class Journal              | 0     | 0                 | 3xM+              | 4xM+, 1xE         |  
-| iClicker Credits           | 8     | 12                | 16                | 20                |  
-| Final Exam (70)            | 21    | 28                | 35                | 42                |  
+| Category (total)           | D     | C          | B           | A           |
+| -------------------------- | ----- | ---------- | ----------- | ----------- |
+| Class Primer (24)          | 8     | 12         | 16          | 20          |
+| Learning Targets Passed 1X | any 7 | 9 (7 CORE) | 11 (7 CORE) | 13 (7 CORE) |
+| Learning Targets Passed 2X | 0     | 7 CORE     | 9 (7 CORE)  | 11 (7 CORE) |
+| Class Journal              | 0     | 0          | 1           | 3           |
+| iClicker Credits           | 8     | 12         | 16          | 20          |
 
 <!-- :::info
 **Important:** You can't prop-up work on Class Journal, for example, by doing more Learning Targets. Also, you don't have to do it all. If you aim for "A", you don't have to complete _every Learning Target_. And let me repeat, to "complete" a Learning Target means to **demonstrate skill two times**. 
@@ -294,15 +289,15 @@ Here are the suggested edits and grammar corrections for your list of learning o
 4. (**CORE**) I can rationalize acidity and basicity trends of organic molecules according to the Brønsted–Lowry theory.
 5. (**CORE**) I can predict the position of acid-base equilibrium and choose a suitable reagent for an efficient proton transfer reaction.
 6. I can use various projections of structures and conformational analysis to assess the relative energy of conformations of chain molecules and cyclohexane derivatives.
-7. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
-8. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure, including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
+7. (**CORE**) I can use IUPAC nomenclature rules to convert structure to name and name to structure, including markers of absolute (R/S) and relative (*cis*/*trans*, *E*/*Z*, *syn*/*anti*) stereochemical information.
+8. I can identify types of isomeric relationships between molecules. I can use drawings of structures and projections to demonstrate the stereoisomeric relationship between molecules.
 9. (**CORE**) I can identify reaction mechanism patterns and draw curved arrows to illustrate bond-forming and bond-breaking steps. I can draw structures of transition states and reactive intermediates. I can identify nucleophilic and electrophilic centers in organic molecules.
 10. I can categorize chemical transformations as substitution, addition, or elimination. I can determine the change in enthalpy using values of bond dissociation energy. I can use reaction-energy diagrams to communicate the kinetics and thermodynamics of chemical reactions.
 11. (**CORE**) Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkyl halides and sulfonates.
 12. I can explain the selectivity and divergent reaction pathways of nucleophilic substitution and elimination reactions using conformational analysis and curved arrow mechanisms. 
 13. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkenes.
-14. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
-15. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
+14. Given an incomplete chemical reaction scheme, I can provide missing reactants, products, or reagents & conditions for transformations involving alkynes
+15. I can identify the monomer and type of polymerization (cationic, anionic, or radical) needed to prepare a given polymer. I can draw a mechanism of formation of a tetramer for the selected polymer.
 
 <!-- JOURNAL -->
 <!-- I can use conformational analysis and reaction mechanisms (ionic and radical-mediated) to explain selectivity and divergent reaction pathways of addition reactions of alkenes and alkynes. -->
@@ -323,43 +318,3 @@ Understand the organic chemistry of polymers
 Analyze MSDS/SDS to make informed decisions
 
 -->
-
-<!-- Alert Areas
-
----
-:::success
-Yes :tada:
-:::
-
-:::info
-This is a message :mega:
-:::
-
-:::warning
-Watch out :zap:
-:::
-
-:::danger
-Oh No! :fire:
-:::
-
-:::spoiler Click to show details
-You found me :stuck_out_tongue_winking_eye:
-:::
-
-:::spoiler {state="open"} Expand the spoiler container by default
-You found me :stuck_out_tongue_winking_eye:
-::: 
-
-
-
-Grade **A** in this class means that by the end of the semester you demonstrated that you can mastered all of the basic concepts and essential skills of organic chemistry. You developed these those skills further and regularly demonstrated their application in new contexts by solving integrated and challenging problems. I will be very surprised if you are not successful in CHEM 128B and beyond. More specifically it means:
-
-- Mastery of all Core Learning Targets without significant delay
-- Mastery of the vast majority of remaining Learning Targets
-- Significant evidence of ability to apply basic concepts and skills in new contexts (integrated problems, class journals)
-- Strong mechanism reading and writing skills 
-
-**C** letter grade in this course means that by the end of the semester you demonstrated that you have a solid grasp of most but not all basic concepts and essential skills of organic chemistry. You did not, however, develop these skills to a point where you can demonstrate application of these concepts and skills in new contexts or by solving integrated and challenging problems. Success in the subsequent course (CHEM 128B) is possible but not guaranteed. Specifically, it means
-
-- Mastery of almost all Core Learning Targets

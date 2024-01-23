@@ -3,7 +3,15 @@ tags: 128a, spring, ay22-23, standards
 title: "Standards for Assessment in CHEM 128"
 ---
 
+New version of this document can be found at:
+
+https://github.com/hmuchalski/ochem1/blob/main/CHEM128A-AY23-24-Fall/standards-for-student-work.md
+
 # Standards for Assessment in CHEM 128
+
+:::danger
+This document is currently being revised for Academic Year 2023--2024
+:::
 
 In the syllabus I regularly refer to *successful* or *acceptable* work without defining it. This document is an attempt at defining those categories. Use the table of contents in the upper-left to navigate to specific assignment types. 
 
