@@ -18,7 +18,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Location     | Science 1-350                    |  
 | Instructor   | Dr. Hubert Muchalski             |  
 | Coordinator  | Dr. Hubert Muchalski             |  
-| Email        | hmuchalski@mail.fresnostate.edu  |  
+| Email        | hmuchalski@mail.fresnostate.edu (read the [communication policy](#communication-policy))  |  
 | Office phone | 559-278-2711                     |  
 | Office       | Science 1, room 352              |  
 | Office hours | Monday 15:00-15:50 and by [appointment][1-on-1-calendar] |  
@@ -27,7 +27,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 ## Note about the duration of a lab session <!-- omit from toc -->
 
-The CSU defines _one class hour_ as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of _supervision courses_ ([C16 category](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)). For laboratory sessions, 1 unit corresponds to _3 class hours_, totaling 150 minutes (2 hours and 30 minutes) of instruction/supervision. This differs from the duration listed in the catalog (2 hours and 50 minutes) because it includes a 10-minute break after each 50 minutes of instruction. However, adhering to fixed time frame in a lab setting is challenging because work is asynchronous---students work at their own pace, often in groups. Having fixed times for breaks might be impractical or unsafe. Consequently, on days when we work without a break, our goal will be to finish the lab session by 11:30 (3:30 for PM sections), after 150 minutes of instruction/supervision. 
+The CSU defines _one class hour_ as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of _supervision courses_ ([C16 category](https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf)). For laboratory sessions, 1 unit corresponds to _3 class hours_, totaling 150 minutes (2 hours and 30 minutes) of instruction/supervision. This differs from the duration listed in the catalog (2 hours and 50 minutes) because it assumes a 10-minute break after each 50 minutes of instruction. However, adhering to a fixed time frame in a lab setting is challenging because students work at their own pace, often in groups. Having fixed times for breaks might be impractical or unsafe. Consequently, on days when we work without a break, we will finish the lab session after 150 minutes of instruction/supervision, 11:30 am for AM sections and 3:30 for PM sections. 
 
 ## How to use this syllabus <!-- omit from toc -->
 
@@ -53,6 +53,7 @@ This document contains all the information you need to navigate the course. *Rea
   - [Letter grades](#letter-grades)
 - [Safe Chemical Laboratory Practices](#safe-chemical-laboratory-practices)
 - [Policies and disclaimers](#policies-and-disclaimers)
+  - [Communication policy](#communication-policy)
   - [Attendance and make-up policy](#attendance-and-make-up-policy)
   - [Technology issues when submitting work](#technology-issues-when-submitting-work)
   - [Academic Dishonesty](#academic-dishonesty)
@@ -215,6 +216,14 @@ These principles will be discussed in detail during the first week of class. Mor
 
 
 ## Policies and disclaimers
+
+### Communication policy
+
+Please note that I rarely respond immediately to messages. In particular, I typically do not check email between 6:00 pm and 6:00 am on weeknights, and I typically do not check email at all on weekends. That said,
+
+- Messages sent on a weekday (Monday--Friday) before 4:00 pm will get a response the same day. 
+- Messages sent after 4:00 Monday--Thursday will get a response the next day. 
+- Messages sent after 4:00 pm on Fridays or on the weekend will get a response the following Monday.
 
 ### Attendance and make-up policy
 

@@ -37,6 +37,102 @@
     pointer-events: none;
 }
 </style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
         
         </head>
         <body class="vscode-body vscode-light">
@@ -85,7 +181,7 @@ author: &quot;Instructor: Hubert Muchalski, Ph.D.&quot;</h2>
 </tr>
 <tr>
 <td style="text-align:left">Email</td>
-<td style="text-align:left"><a href="mailto:hmuchalski@mail.fresnostate.edu">hmuchalski@mail.fresnostate.edu</a></td>
+<td style="text-align:left"><a href="mailto:hmuchalski@mail.fresnostate.edu">hmuchalski@mail.fresnostate.edu</a> (read the <a href="#communication-policy">communication policy</a>)</td>
 </tr>
 <tr>
 <td style="text-align:left">Office phone</td>
@@ -95,18 +191,20 @@ author: &quot;Instructor: Hubert Muchalski, Ph.D.&quot;</h2>
 <td style="text-align:left">Office</td>
 <td style="text-align:left">Science 1, room 352</td>
 </tr>
+<tr>
+<td style="text-align:left">Office hours</td>
+<td style="text-align:left">Monday 15:00-15:50 and by <a href="https://calendar.app.google/mUmzNPCnZLXESrCQ8">appointment</a></td>
+</tr>
 </tbody>
 </table>
-<!-- | Office hours | TBA and by [appointment][1-on-1-calendar] |   -->
-<p>[1-on-1-calendar]:</p>
 <h2 id="note-about-the-duration-of-a-lab-session-">Note about the duration of a lab session <!-- omit from toc --></h2>
-<p>The CSU defines <em>one class hour</em> as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of <em>supervision courses</em> (<a href="https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf">C16 category</a>). For laboratory sessions, 1 unit corresponds to <em>3 class hours</em>, totaling 150 minutes (2 hours and 30 minutes) of instruction/supervision. This differs from the duration listed in the catalog (2 hours and 50 minutes) because it includes a 10-minute break after each 50 minutes of instruction. However, adhering to fixed time frame in a lab setting is challenging because work is asynchronous---students work at their own pace, often in groups. Having fixed times for breaks might be impractical or unsafe. Consequently, on days when we work without a break, our goal will be to finish the lab session by 11:30 (3:30 for PM sections), after 150 minutes of instruction/supervision.</p>
+<p>The CSU defines <em>one class hour</em> as 50 minutes of instruction, which is the default duration for a 1-unit lecture. Science laboratories fall under the category of <em>supervision courses</em> (<a href="https://academics.fresnostate.edu/scheduling/documents/CourseClassificationSystem%201.3.18.pdf">C16 category</a>). For laboratory sessions, 1 unit corresponds to <em>3 class hours</em>, totaling 150 minutes (2 hours and 30 minutes) of instruction/supervision. This differs from the duration listed in the catalog (2 hours and 50 minutes) because it assumes a 10-minute break after each 50 minutes of instruction. However, adhering to a fixed time frame in a lab setting is challenging because students work at their own pace, often in groups. Having fixed times for breaks might be impractical or unsafe. Consequently, on days when we work without a break, we will finish the lab session after 150 minutes of instruction/supervision, 11:30 am for AM sections and 3:30 for PM sections.</p>
 <h2 id="how-to-use-this-syllabus-">How to use this syllabus <!-- omit from toc --></h2>
 <p>This document contains all the information you need to navigate the course. <em>Read it once giving it your full attention</em>, then search as needed. Use the table of contents found in the sidebar of the web version or use <code>Ctrl/Cmd+F</code> to bring up a search field, and then type in the text you are looking for.</p>
 <ul>
 <li>When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, <a href="https://start.duckduckgo.com/?q=dogs+wearing+clothes&amp;iar=images&amp;iax=images&amp;ia=images&amp;kp=1">click here for pictures of dogs in clothes</a>.</li>
 <li>Links to all important documents and information can be found on the course <a href="https://fresnostate.instructure.com/courses/76128">Canvas site</a></li>
-<li>Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed, with updates ==highlighted in yellow like this==. Updates in the PDF version will not be highlighted.</li>
+<li>Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed.</li>
 </ul>
 <h2 id="table-of-contents-">Table of Contents <!-- omit from toc --></h2>
 <ul>
@@ -134,6 +232,7 @@ author: &quot;Instructor: Hubert Muchalski, Ph.D.&quot;</h2>
 <li><a href="#safe-chemical-laboratory-practices">Safe Chemical Laboratory Practices</a></li>
 <li><a href="#policies-and-disclaimers">Policies and disclaimers</a>
 <ul>
+<li><a href="#communication-policy">Communication policy</a></li>
 <li><a href="#attendance-and-make-up-policy">Attendance and make-up policy</a></li>
 <li><a href="#technology-issues-when-submitting-work">Technology issues when submitting work</a></li>
 <li><a href="#academic-dishonesty">Academic Dishonesty</a></li>
@@ -335,6 +434,13 @@ Grading in this course is different than you might be used to. Please read this 
 </ol>
 <p>These principles will be discussed in detail during the first week of class. More information can be found here: <a href="https://goo.gl/1UFRbo">https://goo.gl/1UFRbo</a>. Also, refer to <a href="https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/acs-safety-guidelines-academic.pdf"><em>Guidelines for Chemical Laboratory Safety in Academic Institutions</em></a> published by American Chemical Society.</p>
 <h2 id="policies-and-disclaimers">Policies and disclaimers</h2>
+<h3 id="communication-policy">Communication policy</h3>
+<p>Please note that I rarely respond immediately to messages. In particular, I typically do not check email between 6:00 pm and 6:00 am on weeknights, and I typically do not check email at all on weekends. That said,</p>
+<ul>
+<li>Messages sent on a weekday (Monday--Friday) before 4:00 pm will get a response the same day.</li>
+<li>Messages sent after 4:00 Monday--Thursday will get a response the next day.</li>
+<li>Messages sent after 4:00 pm on Fridays or on the weekend will get a response the following Monday.</li>
+</ul>
 <h3 id="attendance-and-make-up-policy">Attendance and make-up policy</h3>
 <p>Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s <a href="http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf">APM 232: Policy on Student Absence</a>. Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the university policy. Excuses and exceptions will be interpreted will in light of the APM 232.</p>
 <h3 id="technology-issues-when-submitting-work">Technology issues when submitting work</h3>
@@ -396,7 +502,7 @@ Grading in this course is different than you might be used to. Please read this 
 <thead>
 <tr>
 <th>Week of</th>
-<th>Lab Day</th>
+<th>Lab</th>
 <th>Lab Activities</th>
 </tr>
 </thead>
@@ -414,77 +520,77 @@ Grading in this course is different than you might be used to. Please read this 
 <tr>
 <td>22-Jan</td>
 <td>Mon/Tue</td>
-<td>Lab orientation, syllabus, chemical safety. Locker check-in.</td>
+<td>Lab orientation, syllabus, chemical safety, locker check-in.</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Solvent-less synthesis of chalcones: grinding, isolation</td>
+<td>Module 1: Mechanochemistry (synthesis of chalcones)</td>
 </tr>
 <tr>
 <td>29-Jan</td>
 <td>Mon/Tue</td>
-<td>Solvent-less synthesis of chalcones: recrystallization, mp, IR, NMR</td>
+<td>Module 1: Mechanochemistry (synthesis of chalcones)</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Solvent-less synthesis of chalcones: data analysis</td>
+<td>Module 1: Mechanochemistry (synthesis of chalcones)</td>
 </tr>
 <tr>
 <td>5-Feb</td>
 <td>Mon/Tue</td>
-<td>Synthesis experiment   stoichiometry. Preparation of hydrobenzoin.</td>
+<td>Module 2: Renewable feedstocks and qNMR purity assay</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Acetonide of hydrobenzoin: reaction &amp; work-up</td>
+<td>Module 2: Renewable feedstocks and qNMR purity assay</td>
 </tr>
 <tr>
 <td>12-Feb</td>
 <td>Mon/Tue</td>
-<td>Acetonide of hydrobenzoin: work-up &amp; data acquisition</td>
+<td>Module 2: Renewable feedstocks and qNMR purity assay</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Acetonide of hydrobenzoin: data analysis</td>
+<td>Module 3: Synthesis with renewable feedstocks in water</td>
 </tr>
 <tr>
 <td>19-Feb</td>
 <td>Mon/Tue</td>
-<td>NO LAB (President's Day)</td>
+<td>NO LAB (President's   Day)</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 3: Synthesis with renewable feedstocks in water</td>
 </tr>
 <tr>
 <td>26-Feb</td>
 <td>Mon/Tue</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 3: Synthesis with renewable feedstocks in water</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 3: Synthesis with renewable feedstocks in water</td>
 </tr>
 <tr>
 <td>4-Mar</td>
 <td>Mon/Tue</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 4: Stereochemistry of Suzuki-Miyaura reaction</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 4: Stereochemistry of Suzuki-Miyaura reaction</td>
 </tr>
 <tr>
 <td>11-Mar</td>
 <td>Mon/Tue</td>
-<td>Chemistry with renewable feedstocks</td>
+<td>Module 4: Stereochemistry of Suzuki-Miyaura reaction</td>
 </tr>
 <tr>
 <td></td>
@@ -494,12 +600,12 @@ Grading in this course is different than you might be used to. Please read this 
 <tr>
 <td>18-Mar</td>
 <td>Mon/Tue</td>
-<td>Projects: Planning and Consultations</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>Projects: Planning and Consultations</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td>25-Mar</td>
@@ -519,52 +625,52 @@ Grading in this course is different than you might be used to. Please read this 
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td>8-Apr</td>
 <td>Mon/Tue</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td>15-Apr</td>
 <td>Mon/Tue</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td>22-Apr</td>
 <td>Mon/Tue</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>CURE: Experimental</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td>29-Apr</td>
 <td>Mon/Tue</td>
-<td>CURE: Wrap-up &amp; Consultations</td>
+<td>Module 5: Research project</td>
 </tr>
 <tr>
 <td></td>
 <td>Wed/Thu</td>
-<td>CURE: Presentations</td>
+<td>Module 5: Research project (clean-up &amp; wrap-up)</td>
 </tr>
 <tr>
 <td>6-May</td>
 <td>Mon/Tue</td>
-<td>Locker check-out</td>
+<td>Module 5: Research project presentations</td>
 </tr>
 </tbody>
 </table>
