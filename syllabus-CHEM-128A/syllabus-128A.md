@@ -1,7 +1,7 @@
 ---
 title: "Course Syllabus: Organic Chemistry (CHEM 128A)"
 author: Hubert Muchalski
-updated: August 18, 2024
+updated: August 21, 2024
 # css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
 ---
 
@@ -175,7 +175,7 @@ CORE Learning Targets are the most important. Failing to earning *Master* on all
 With nearly 40 students in the class, each on a different path to the final grade, it sometimes happens that a student completes almost all requirements (all except for one). I will use my professional judgment and look at the student's engagement and effort and leave an option of assigning a grade that is higher (but never lower) than the syllabus indicates. Therefore, it is to your benefit to show that you are engaged and invested in achieving learning objectives of the course.
 
 > [!IMPORTANT]
->Higher score in one category cannot be used as argument to "prop-up" insufficient score in another category. For example, earning *Master* on more LT Problems will not compensate for lower score on Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete *every* Learning Target.
+> Higher score in one category cannot be used as argument to "prop-up" insufficient score in another category. For example, earning *Master* on more LT Problems will not compensate for lower score on Integrated Problems. Also, you don't have to do it all. If you aim for "A", you **do not** have to complete *every* Learning Target.
 
 ### Why I think this is a better approach to grading
 
@@ -326,7 +326,7 @@ In addition to course policies, you are expected to be familiar with Academic Re
 
 ## Acknowledgments and attributions
 
-Embarasingly large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert and Prof. David Clark](https://gradingforgrowth.com/), mathematics faculty at Grand Valley State University.
+Embarrassingly large portions of the language of this syllabus as well as ideas related to growth grading and flipped learning are influenced by work and writing of of [Prof. Robert Talbert and Prof. David Clark](https://gradingforgrowth.com/), mathematics faculty at Grand Valley State University.
 
 ## Appendix A: List of Learning Targets
 
