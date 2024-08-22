@@ -4,8 +4,10 @@ title: Course Syllabus (CHEM 129B)
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
-<!-- Change class of all <table> tags in HTML page before pasting to canvas
-<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> -->
+<!-- Canvas Table Styling
+Change class of all table opening tags in HTML page before pasting to canvas
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> 
+-->
 
 | Course Name  | Organic Chemistry 2 (Laboratory) |  
 | :----------- | :------------------------------- |  
@@ -118,6 +120,7 @@ For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6
 - **Organic Chemistry Textbook.** "Organic Chemistry: A Tenth Edition" by John McMurry [accessible online through OpenStax][openstax-mcmurry].
 - **Personal protective equipment (PPE).** Lab coat and approved safety goggles. Disposable nitrile gloves will be provided.
 - **Canvas.** The central repository for all course materials and information is our [Canvas site][cnvs] which will be the main repository for assignments, grades, and links to materials/resources.
+- **Binder.** Three ring binder to hold lab notebook pages. After years of trying different things (bound notebooks, Blue Books, etc.) I found this is the best solution for recording student experiment notes.
 - **Document scanning tool.** Most documents you will turn in for feedback and grading will be submitted electronically but prepared on paper. A smartphone with a scanning app can be used to convert paper documents into PDFs. There are number of free options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Personal computer.** You will need a x86 class personal computer[^1] that can run standalone desktop applications. Mobile devices can be used but they are inferior or incompatible with software we will use.
 - **ChemDraw.** Leading app for drawing structures, reactions, diagrams, and more. The department purchased a license multi-user license. Instructions on how to obtain and activate the software will be provided by the instructor.

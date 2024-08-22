@@ -1,9 +1,14 @@
 ---
 title: "Course Syllabus: Organic Chemistry (CHEM 128A)"
 author: Hubert Muchalski
-updated: August 21, 2024
-# css: https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css
+date: August 21, 2024
+css: https://unpkg.com/sakura.css/css/sakura.css
 ---
+
+<!-- Canvas Table Styling
+Change class of all table opening tags in HTML page before pasting to canvas
+<table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> 
+-->
 
 | Course Name           | Organic Chemistry 1 (lecture)                         |  
 | :-------------------- | :---------------------------------------------------- |  
