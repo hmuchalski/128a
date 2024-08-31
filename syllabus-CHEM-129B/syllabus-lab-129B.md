@@ -109,7 +109,7 @@ Upon completion of this course, students will be able to:
 - Interpret spectroscopic data of organic compounds to confirm the structure of organic compounds.
 - Communicate the results of experiments to the instructor and peers in written form (lab report) and presentation (slide deck or poster).
 
-For more details refer to [Department Student Learning Outcomes](/a5Vq_rZQRI2_f6ylivvNiA) modeled after [ACS Guidelines for Bachelor’s Degree Programs][ACS-guidelines].
+For more details refer to Department Student Learning Outcomes modeled after [ACS Guidelines for Bachelor’s Degree Programs][ACS-guidelines].
 
 [ACS-guidelines]: https://www.acs.org/education/policies/acs-approval-program/guidelines.html
 [techniques-manual]: <https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)>
@@ -296,7 +296,7 @@ In the final weeks of the semester, you will be asked to complete a short survey
 
 - Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/][1]
 - Copyright Policy: [http://libguides.csufresno.edu/copyright][2]
-- Students with Disabilities: [https://studentaffairs.fresnostate.edu/ssd/index.html][3]
+- Students with Disabilities: [https://studentaffairs.fresnostate.edu/ssd/index.html][ssd]
 - Academic Integrity and Honor Code: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf][4]
 - Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html][5]
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/][6]
@@ -304,7 +304,7 @@ In the final weeks of the semester, you will be asked to complete a short survey
 
 [1]: http://fresnostate.edu/studentaffairs/classschedule/policy/
 [2]: http://libguides.csufresno.edu/copyright
-[3]: http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html
+[ssd]: https://studentaffairs.fresnostate.edu/ssd/
 [4]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf
 [5]: http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html
 [6]: http://www.fresnostate.edu/studentaffairs/registrar/registration/ "Add/Drop Course"
@@ -328,7 +328,7 @@ In the final weeks of the semester, you will be asked to complete a short survey
 [0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
 [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
 [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
-[cnvs]: https://fresnostate.instructure.com/courses/76128
+[cnvs]: https://fresnostate.instructure.com/courses/92979
 [SSD]: http://fresnostate.edu/studentaffairs/ssd/
 [library]: https://library.fresnostate.edu/
 [SupportNet]: https://studentaffairs.fresnostate.edu/lrc/supportnet/index.html
