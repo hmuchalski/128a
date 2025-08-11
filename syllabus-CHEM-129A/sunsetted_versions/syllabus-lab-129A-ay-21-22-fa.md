@@ -35,7 +35,7 @@ Welcome to CHEM 129A, Organic Chemistry Laboratory! This course will introduce y
 
 [^64ce62d3]: All email sent through Canvas are sent to my email but sometimes I don't check my email for hours but do check Canvas inbox. Usually, my response time is *within 24 hours of reading the message*. We also have online course tools where you can ask questions to the entire class at any time, making it more likely to get a quick response.
 
-# Course goals$$
+# Course goals
 
 CHEM 129A is a two-unit introductory laboratory course in organic chemistry. It is primarily concerned with introducing the tools and techniques that organic chemists use to synthesize and investigate the properties of organic compounds (see the [list below](#slo)). Some of these techniques are the same or similar to those you learned in general chemistry courses but may be modified because the experiments use very small amounts of material (micro-scale techniques). Students who successfully complete CHEM 129A generally enroll in CHEM 129B, which further develops students' laboratory skills. Some students then continue with CHEM 190, undergraduate research or independent study.
 
@@ -43,15 +43,15 @@ CHEM 129A is a two-unit introductory laboratory course in organic chemistry. It 
 
 Students who successfully complete CHEM 129A should be able to:
 
-- work safely in a laboratory;
-- communicate the structure and properties of organic molecules using common drawing and naming conventions;
-- analyze chemical structures and reaction conditions to predict the outcome chemical transformations;
-- maintain an accurate laboratory notebook that would allow a trained organic chemist to reproduce the results of an experiment;
-- plan an experiment by evaluating the information found in online databases and research articles;
-- carry out fundamental laboratory techniques such as extraction, crystallization, distillation, chromatography;
-- measure physical properties of organic compounds including melting and boiling points
-- assay purity and chemical identity of organic compounds using TLC, GC, and IR
-- communicate the results of experiments to the instructor and peers in a written form (lab report)
+* work safely in a laboratory;
+* communicate the structure and properties of organic molecules using common drawing and naming conventions;
+* analyze chemical structures and reaction conditions to predict the outcome chemical transformations;
+* maintain an accurate laboratory notebook that would allow a trained organic chemist to reproduce the results of an experiment;
+* plan an experiment by evaluating the information found in online databases and research articles;
+* carry out fundamental laboratory techniques such as extraction, crystallization, distillation, chromatography;
+* measure physical properties of organic compounds including melting and boiling points
+* assay purity and chemical identity of organic compounds using TLC, GC, and IR
+* communicate the results of experiments to the instructor and peers in a written form (lab report)
 
 # Course materials
 
@@ -61,8 +61,8 @@ The face-to-face version of this course is based on the textbook "Micro-scale Ap
 
 If you can obtain a copy of Pavia's textbook (5th or 6th edition) for affordable price, you can use it in addition to the open access materials listed below.
 
-- [Organic Chemistry Lab Techniques (by Nichols)][web-book] [Web version]
-- [Organic Chemistry Lab Techniques (by Nichols)][pdf-book] [PDF, full text] - _large download (350MB)_
+* [Organic Chemistry Lab Techniques (by Nichols)][web-book] [Web version]
+* [Organic Chemistry Lab Techniques (by Nichols)][pdf-book] [PDF, full text] - _large download (350MB)_
 
 [web-book]: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_Organic_Chemistry_Lab_Techniques_(Nichols)
 
@@ -133,7 +133,7 @@ Quizzes are short assessments (often multiple-choice) that check your knowledge 
 
 Graded assignments are organized into assignment groups (see [@tbl:assignments]) and each group contributes to the final grade.
 
-Points earned for assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 points for a report than 100 points for completing a simulation.
+Points earned for assignments in different categories are not equivalent and should not be treated as such. For example, it may take more work and effort to earn 50 poins for a report than 100 points for completing a simulation.
 
 | Assignment Group                   |     |  
 | ---------------------------------- | --- |  
@@ -168,113 +168,113 @@ Final grade will be determined based on overall performance according to the tab
 
 : Final letter grade brackets {#tbl:letter-grades}
 
-## Policies and disclaimers
+# Course policies
 
-### Instructor availability and message responses
+## Attendance, participation, and late work/make-up policy
 
-**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can use email, office hours, appointments, or grab me before or after class.
+Students are expected to attend and actively participate in all class sessions. The course attendance policy follows university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf).
 
-However, please note that I cannot always respond immediately to messages. In particular **I do not typically check email between 6:00pm and 8:00am on weeknights**, and **I do not typically check email at all on weekends** in order to prioritize time for family and other non-work pursuits. That said,
+Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the univeristy policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
 
-- Messages sent on a weekday (Monday-Friday) before 3:00 pm will likely get a response *the same day*.
-- Messages sent after 3:00 pm Monday-Thursday will get a response *the next day*.
-- Messages sent after 3:00 pm on Fridays or on the weekend will get a response *the following Monday*.
-
-**Please plan ahead for instructor availability.** For example if you have something to turn in on a Friday, and you send a question by email after 3:00pm, my reply may not come in time to help you; plan ahead for contingencies like this.
-
-### Attendance and make-up policy
-
-Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the university policy. Excuses and exceptions will be interpreted will in light of the APM 232.
-
-### Technology issues when submitting work
+## Technology issues when submitting work
 
 For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to the instructor (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
 
-### Academic integrity
+## Academic Dishonesty
 
-This course  is subject to [Standards of Student Conduct](https://studentaffairs.fresnostate.edu/studentconduct/academic-integrity/), [The Code of Academic Integrity](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf), and [APM 235: Policy on Cheating and Plagiarism](http://www.fresnostate.edu/aps/documents/apm/235.pdf). Every student has the responsibility of reading and understanding these policies, especially the consequences for engaging in academically dishonest activities.
+For most assignments you are allowed and encouraged to work with others. However, the final product that you submit for feedback must be the result of your own efforts. Therefore you may share ideas and strategies with others, but collaboration on the actual finished product you submit is not allowed. Your work is expected to be the product of your own thinking, written and explained in your own words with no parts of the work copied from external sources such as books or websites, and done clearly enough in your own mind that you could explain the work from start to finish if asked. Specifically, this excludes:
 
-None of these policies should be necessary because there's no need to be academically dishonest thanks to the revision/resubmission policy. Rather than engage in academic dishonesty and putting your entire career at risk, just turn in your best complete good-faith effort on assignments. And then, if revisions are needed, you'll typically get the chance.
+- copying work from another student;
+- copying work from a website;
+- paraphrasing work done by another student or from print or internet resources---i.e. putting it in your own words---without coming up with the main ideas and strategies yourself; and
+- *allowing or enabling* another student to copy or paraphrase work that you did, even if you did the original work yourself.
 
-> [!IMPORTANT] TL;DR
-> When you submit work on an assignment in this class, it must be your ideas and your voice, and not someone else's or those of an AI. Anything else is subject to strong penalties that are required by the university.
+Violation of this policy is considered “academic dishonesty” and carries with it strong punitive measures mandated by Fresno State, including possible automatic failure of the course or suspension from the university. For details, please see APM 235 by going to [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
-Any action or behavior that misrepresents one’s contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination will be considered academic misconduct. For example:
+You may feel tempted to academic dishonesty at some point in the semester. The work can be difficult, and many of you are under a lot of stress. If you are considering academic dishonesty, please STOP, take a breath, and remember that your classmates and I want you to succeed in the course. You are not alone, and you have a strong network in the class for getting help. The revision and resubmission policies mean that it’s OK to turn in work that isn’t perfect. There is no need to be academically dishonest! Just do your best on the work, and you'll have the chance to revise it later.
 
-- *Cheating*: Attempting to use materials, information, or aids that have not been authorized by the instructor for academic work.
-- *Collusion*: Unauthorized collaboration with another person in preparing academic assignments offered for credit, and collaboration with another person to commit a violation of any section of the rules on academic misconduct. Generative AI tools such as ChatGPT are included in the definition of "another person".
-- *Dual submission*: Submitting work that has been previously graded, or is being submitted concurrently to more than one course, without authorization from the instructor of the class to which the student wishes to submit. (This especially applies to those who are repeating CHEM 129B.)
-- *Plagiarism*: Appropriation of, buying, receiving as a gift, or obtaining by any means material that is attributable in whole or in part to another source without any indication or citation of the original source, including words, sentences, ideas, illustrations, structure, computer code, and other expression or media, and presenting that material as one’s own academic work being offered for credit or in conjunction with a program, course, or degree requirements.
-
-Please note that this is not a complete list; and note that **enabling others** to engage in academic misconduct may be considered as a form of academic misconduct.
-
-### Dropping the course after the census date
+## Dropping the course after the census date
 
 A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition.
 
 Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
 
-### Plagiarism detection
+# University policies and disclaimers
 
-The campus subscribes to Turnitin, a plagiarism prevention service, through Canvas. You will need to submit written assignments to Turnitin. Student work will be used for plagiarism detection and for no other purpose. The student may indicate in writing to the instructor that he/she refuses to participate in the plagiarism detection process, in which case the instructor can use other electronic means to verify the originality of their work. Turnitin Originality Reports WILL NOT be available for your viewing.
+## Vaccinations
 
-### Intellectual Property
+In order to create a safe environment on campus, all students must be
+vaccinated against the SARS-CoV-02 virus, or obtain an exemption, in order to
+attend classes on campus or access any services on campus. Documentation of
+the first dose of the vaccination must be uploaded to the student portal by
+Aug 20, and documentation of the final dose by Sept 30. Students may request
+an exemption to the vaccine requirement by going to their student portal to
+complete the COVID self-certification. Students with vaccination exemptions
+are subject to weekly COVID testing.
 
-All course materials, including but not limited to the syllabus, readings, quiz questions, exam questions, and assignments prepared by the instructor are property of the instructor and University. Students are prohibited from posting course materials online (e.g., Course Hero) and from selling course materials to or being paid for providing materials to any person or commercial firm without the express written permission of the professor teaching this course. Doing so will constitute both an academic integrity violation and a copyright violation. Audio and video recordings of class lectures are prohibited unless I give you explicit permission in advance. Students with an official letter from the Services for Students with Disabilities office may record the class if SSD has approved that service. Otherwise, recordings of lectures are included in the intellectual property notice described above.
+A person is not allowed to come to campus if the person is not been
+vaccinated, and has not been granted an exemption, or the person has been
+granted an exemption, but has not tested negative through required weekly
+testing.
 
-### Dispute Resolution
+## Health Screening
 
-If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter.
+Students who come to campus and/or are participating in off-campus in-person
+experiential learning will be required to complete a daily health screening
+before coming to campus or learning site.
 
-- Chair's name: Dr. Krish Krishnan
-- Department name: Chemistry and Biochemistry
-- Chair's email: <krish@csufresno.edu>
-- Department phone number:
+A person is not allowed to come to campus if the person is experiencing
+COVID-19 symptoms (vaccinated or not); or the person has tested positive
+within the past 10 days.
 
-### Student Ratings of Instruction
+If you have a suspected or confirmed case of COVID-19, please complete the
+campus online reporting form. A campus official will reply to provide guidance
+and information.
 
-In the final weeks of the semester, you will be asked to complete a short survey to provide feedback about this class. The primary goal of student ratings is to help your instructor improve the class. Feedback will also be reviewed by the department chair and the college dean. You will be given 15 minutes of class time to complete student ratings. Please offer feedback honestly and thoughtfully. Your participation is appreciated. You can access your student rating surveys and get more information at: <https://sites.google.com/mail.fresnostate.edu/fresno-state-sri/fssri-for-students>.
+## Safety Measures
 
-## University policies and disclaimers
+Face coverings are required to be worn indoors on-campus and during in-person
+classes (vaccinated or not), and/or in accordance with learning site
+requirements if participating in off-campus experiential learning, to reduce
+the risk of community spread of COVID-19. The Student Health and Counseling
+Center has complimentary masks available for students who need them. The mask
+requirement may be modified if/when transmission rates in Fresno Country drop
+below the threshold identified by the CDC.
 
-### Links to relevant University Policies
+## Students with disabilities
+
+Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
+
+## Links to other important policies
 
 - Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/][1]
 - Copyright Policy: [http://libguides.csufresno.edu/copyright][2]
-- Students with Disabilities: [https://studentaffairs.fresnostate.edu/ssd/index.html][ssd]
+- Students with Disabilities: [http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html][3]
 - Academic Integrity and Honor Code: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf][4]
 - Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html][5]
 - Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/][6]
+- Computer requirements: [https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq][7]
 - Disruptive classroom behavior: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf][8]
 
 [1]: http://fresnostate.edu/studentaffairs/classschedule/policy/
 [2]: http://libguides.csufresno.edu/copyright
-[ssd]: https://studentaffairs.fresnostate.edu/ssd/
+[3]: http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html
 [4]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf
 [5]: http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html
-[6]: http://www.fresnostate.edu/studentaffairs/registrar/registration/ "Add/Drop Course"
+[6]: http://www.fresnostate.edu/studentaffairs/registrar/registration/
 [7]: https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq "Computer requirements"
 [8]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf "Disruptive classroom behavior"
 
-## University Services
+# University Services
 
 - [Associated Students, Inc.][aef8ae07]
-- [Students with Disabilities][SSD]
 - [Dream Success Center][a7e41318]
-- [Library][library]
 - [Learning Center Information][0896546b]
 - [Student Health and Counseling Center][820f4ac6]
-- [SupportNet][SupportNet]
-- [Survivor Advocacy][fresnostate 4]
 - [Writing Center][b17a5bde]
 
 [aef8ae07]: http://fresnostateasi.org/ "ASI"
 [a7e41318]: http://fresnostate.edu/studentaffairs/dsc/index.html "Dream Success Center"
-[0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
+[0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learninc center"
 [820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
 [b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
-[cnvs]: https://fresnostate.instructure.com/courses/92979
-[SSD]: http://fresnostate.edu/studentaffairs/ssd/
-[library]: https://library.fresnostate.edu/
-[SupportNet]: https://studentaffairs.fresnostate.edu/lrc/supportnet/index.html
-[fresnostate 4]: https://studentaffairs.fresnostate.edu/survivoradvocate/
