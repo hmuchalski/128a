@@ -89,7 +89,8 @@ Active participation in class discussions is essential for maximizing the benefi
 
 ## Assessments and grading
 
->[!IMPORTANT] Grading philosophy
+>[!IMPORTANT]
+>### Grading philosophy
 >As a teacher and learner, I firmly believe that *learning takes time* and that grading work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course.
 
 The grading system emphasizes *growth*, and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will engage with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The grading system may be unusual, but in my view, it has several advantages:
@@ -152,8 +153,8 @@ That is also how due dates work in this class. If you need an extension on anyth
 
 If you have significant extenuating circumstances that cause you to miss multiple assignments, please come to office hours, and we will discuss accommodations. I'll be flexible, but it helps to know what you need so that I can find the best way to help.
 
->[!CAUTION] Class Primer due dates are non-negotiable
->Class Primers are due before class so that you're primed and ready to think about the problems, and so that I can review the work and pick up common errors. For that reason, Class Primer absolutely must be done before class. 
+>[!CAUTION] 
+>Class Primer due dates are non-negotiable. Class Primers are due before class so that you're primed and ready to think about the problems, and so that I can review the work and pick up common errors. For that reason, Class Primer absolutely must be done before class. 
 
 [^4]: Adapted from David Clark's adaptation of Spencer Bangley's snippet about due dates.
 
