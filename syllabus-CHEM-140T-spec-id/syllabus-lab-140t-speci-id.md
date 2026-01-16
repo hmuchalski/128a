@@ -42,6 +42,8 @@ This document contains all the necessary information to help you navigate the co
 - Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed.
 - All announcements made on Canvas and in class take precedence over the syllabus. Significant changes to the policies outlined in the syllabus will be communicated in writing and subject to approval by the majority of the class.
 
+[cnvs]: https://fresnostate.instructure.com/courses/122564
+
 ## Introduction
 
 In your previous chemistry courses, you were often told what a molecule was. In this course, you will learn how to prove it. This is a "detective" course where we use electromagnetic radiation to probe the architecture of carbon-based compounds. By the end of this term, you will be able to take a collection of abstract graphs and translate them into a three-dimensional molecular structure.
@@ -87,13 +89,10 @@ Active participation in class discussions is essential for maximizing the benefi
 
 ## Assessments and grading
 
-## Why I think my approach to grading is better
+>[!IMPORTANT] Grading philosophy
+>As a teacher and learner, I firmly believe that *learning takes time* and that grading work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course.
 
-As a teacher and learner, I firmly believe that *learning takes time* and that grading work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course.
-
-The grading system emphasizes *growth*, and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will engage with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. 
-
-The grading system outlined above may be unusual, but in my view, it has several advantages:
+The grading system emphasizes *growth*, and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will engage with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The grading system may be unusual, but in my view, it has several advantages:
 
 - Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)). 
 - If you're off to a shaky start and your marks early in the semester are poor, you have time to practice and improve, and past results don't hurt your final grade. The final letter grade is like a score in a video game---it stays the same or goes up.
