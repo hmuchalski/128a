@@ -87,19 +87,17 @@ This course is designed according to the flipped learning model, an instructiona
 
 Active participation in class discussions is essential for maximizing the benefits of this class. Expect to be called out to solve spectroscopy problems in front of the class. Don't be concerned if you feel weak in some areas. The goal is to identify areas that need strengthening to enhance your understanding and refine your thinking process. This means that _it is of utter importance that you come to class prepared_.
 
-## Assessments and grading
-
 >[!IMPORTANT]
->### Grading philosophy
->As a teacher and learner, I firmly believe that *learning takes time* and that grading work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. Course learning objectives are phrased as "at the end of the course the student should be able to…". Thus, nothing is final until the end of the course.
+>The next section is about grading and is by far the longest part of this syllabus. My grading philosophy is that *learning takes time* and that grading work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. A truly valid measure of learning has to involve *multiple attempts* that allow you to learn from (and correct) your past mistakes and demonstrate not only your skill, but also your growth. 
+>The grading system may seem complicated and convoluted at first, especially if you have only experienced point-based grading in your academic career. I am always happy to clarify the details.
+
+## Assessments and grading
 
 The grading system emphasizes *growth*, and your work will be required to meet certain levels of quality that demonstrate mastery of the material. You will engage with several kinds of activities in the course, both to facilitate learning of the material and to demonstrate how well you have learned it. The grading system may be unusual, but in my view, it has several advantages:
 
 - Many assignments can be revised or reattempted if you need to improve your work ([see the next section below](#revisions-and-reattempts)). 
 - If you're off to a shaky start and your marks early in the semester are poor, you have time to practice and improve, and past results don't hurt your final grade. The final letter grade is like a score in a video game---it stays the same or goes up.
 - Points, statistics, and borderline unethical approaches such as 'grading on a curve' are not involved. Your grade is tracked with a checklist.
-
-The main downside of this grading system is that it will seem complicated and convoluted if you have only experienced point-based grading in your academic career. The section about grading is by far the longest part of this syllabus. I am always happy to clarify the details.
 
 ### Class Primer
 
