@@ -29,48 +29,18 @@ Change class of all table opening tags in HTML page before pasting to canvas
 
 
 [^1]: Class time assumes 10 min break after first 50 min. If we do not have a break, the class will end at 15:40. 
-[^2]: Please read the [communication policy](#instructor-availability-and-message-responses) for details about instructor availability.  
+[^2]: Please read the [communication policy](#communication-and-instructor-availability) for details about instructor availability.  
 [^3]: [Schedule an appointment][1-on-1-calendar] using Google Calendar.
 
 [1-on-1-calendar]: https://calendar.app.google/mUmzNPCnZLXESrCQ8
 
-## How to use this syllabus <!-- omit from toc -->
+## How to use this syllabus
 
 This document contains all the necessary information to help you navigate the course. *Read it once, giving it your full attention*, then search as needed. Use the table of contents found in the sidebar of the web version or use `Ctrl/Cmd+F` to bring up a search field, and then type in the text you are looking for.
 
 - Links to all important documents and information can be found on the course [Canvas site][cnvs]
 - Once the syllabus is finalized, it will be available in electronic form (here) and as a PDF on Canvas. After that, the electronic version will be updated as needed.
 - All announcements made on Canvas and in class take precedence over the syllabus. Significant changes to the policies outlined in the syllabus will be communicated in writing and subject to approval by the majority of the class.
-
-## Table of Contents <!-- omit from toc -->
-
-- [Course Syllabus (CHEM 140T)](#course-syllabus-chem-140t)
-  - [Introduction](#introduction)
-    - [Course materials and technology](#course-materials-and-technology)
-    - [Assumed prior knowledge and skills](#assumed-prior-knowledge-and-skills)
-  - [Course-level learning objectives](#course-level-learning-objectives)
-  - [Course workflow](#course-workflow)
-  - [Assessments and grading](#assessments-and-grading)
-  - [Why I think my approach to grading is better](#why-i-think-my-approach-to-grading-is-better)
-    - [Class Primer](#class-primer)
-    - [Spec ID Datasets](#spec-id-datasets)
-    - [S3 Project](#s3-project)
-    - [Special application dataset](#special-application-dataset)
-    - [How course final grades are determined](#how-course-final-grades-are-determined)
-    - [A few words about due dates\[^4\]](#a-few-words-about-due-dates4)
-    - [Note on Canvas Gradebook](#note-on-canvas-gradebook)
-    - [Revisions and reattempts](#revisions-and-reattempts)
-  - [Policies and disclaimers](#policies-and-disclaimers)
-    - [Attendance and participation](#attendance-and-participation)
-    - [Technology issues when submitting work](#technology-issues-when-submitting-work)
-    - [Academic Integrity and Collaboration\[^5\]](#academic-integrity-and-collaboration5)
-    - [Dropping the course after the census date](#dropping-the-course-after-the-census-date)
-    - [Plagiarism Detection](#plagiarism-detection)
-    - [Dispute Resolution](#dispute-resolution)
-    - [Intellectual Property](#intellectual-property)
-    - [Student Ratings of Instruction](#student-ratings-of-instruction)
-  - [University policies and disclaimers](#university-policies-and-disclaimers)
-  - [University Services](#university-services)
 
 ## Introduction
 
@@ -81,7 +51,7 @@ In your previous chemistry courses, you were often told what a molecule was. In 
 - **Personal computer:** You will need an x86-class personal computer that can run standalone applications. Tablets and other mobile devices will not work.
 - **MestReNova (Mnova).** Leading app for processing and analyzing spectroscopic data. We will use it to process raw datasets, analyze spectra, and create publication-ready graphics and reports. The department purchased a multi-user license. Instructions on how to obtain and activate the license will be posted on Canvas and provided by the instructor.
 - **ChemDraw.** Leading app for drawing structures, reactions, diagrams, and more. The department purchased a multi-user license. The instructor will provide instructions on how to obtain and activate the software.
-- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [INSERT LINK](https://). The Canvas site will house assignments, grades, and links to materials/resources.
+- **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/122564](https://fresnostate.instructure.com/courses/122564). The Canvas site will house assignments, grades, and links to materials/resources.
 - **Document scanning tool**: Some assignments in this course are going to be done on paper. A mobile device with a scanning app can do a sufficient job at converting paper documents into PDFs. There are several options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to Zoom meetings will be published on Canvas.
 
@@ -247,6 +217,18 @@ In all aspects of the course, please understand that I am generous with hints an
 Please make frequent use of my office hours, email, and your team. You are always welcome to discuss your questions or concerns with me at any time.
 
 [^5]: Adapted from David Clark's adaptation of Matt Boelkins' policy in his MTH class at Grand Valley State University
+
+### Communication and instructor availability
+
+**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can email me, schedule an office hour, make an appointment, or grab me before or after class.
+
+However, please note that I may not always respond to messages immediately. In particular, **I do not typically check email outside of my regular business hours**, and **I do not typically check email at all on weekends** to prioritize time for family and other non-work pursuits. That said,
+
+- Messages sent on a weekday (Monday-Friday) before 3:00 pm will likely get a response *the same day*.
+- Messages sent after 3:00 pm Monday-Thursday will get a response *the following day*.
+- Messages sent after 3:00 pm on Fridays or on the weekend will get a response *the following Monday*.
+
+**Please plan for instructor availability.** For example, if you have something to turn in on a Friday, and you send a question by email after 3:00 pm, my reply may not come in time to help you; plan for contingencies like this.
 
 ### Dropping the course after the census date
 
