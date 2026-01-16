@@ -1,24 +1,24 @@
 ---
 tags: 240T, fall, syllabus
-title: Course Syllabus (CHEM 240T)
-subtitle: "CHEM 240T, Fall 2019"
+title: Course Syllabus
+subtitle: "CHEM 240T, Fall 2025"
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
 # Course Syllabus (CHEM 240T)
 
-| Course Name  | Strategies and Tactics in Organic Synthesis   |  
-| :----------- | :------------------------------ |  
-| Semester     | 2022 Fall        |  
-| Units        | 3                               |  
-| Department   | Chemistry and Biochemistry      |  
-| Time         | MW 17:00–18:15                 |  
-| Location     | Science 1 room 141       |  
-| Instructor   | Dr. Hubert Muchalski            |  
-| Email        | hmuchalski@mail.fresnostate.edu |  
-| Office phone | 559-278-2711                    |  
-| Office       | Science 1, room 352             |  
-| Office hours | TBA  |  
+| Course Name  | Strategies and Tactics in Organic Synthesis |
+| :----------- | :------------------------------------------ |
+| Semester     | 2022 Fall                                   |
+| Units        | 3                                           |
+| Department   | Chemistry and Biochemistry                  |
+| Time         | MW 17:00–18:15                              |
+| Location     | Science 1 room 141                          |
+| Instructor   | Dr. Hubert Muchalski                        |
+| Email        | hmuchalski@mail.fresnostate.edu             |
+| Office phone | 559-278-2711                                |
+| Office       | Science 1, room 352                         |
+| Office hours | TBA                                         |
 
 ## Introduction
 
@@ -132,7 +132,7 @@ Consistently meet almost all of the criteria above missing at most 2 or 3 items 
 #### Ways to show understanding or organic chemistry
 
 - **Write solutions to synthetic problems that meet objectives (after revision).**
-- **Write several exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
+- **Write multiple exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
 - **Demonstrate deep understanding of these topics: retrosynthetic analysis, chemoselectivity, regioselectivity, stereoselectivity, green chemistry.**
 - Use curved arrow electron-pushing formalism to explain reaction mechanisms and/or selectivity.
 - Find and use connections between ideas and concepts (in problems, presentations, research articles, and other places).
@@ -227,7 +227,7 @@ You may revise your work on one homework problem each week.
 **On each revision, include a short reflection:** Summarize the important items that caused you to earn a lower mark than desired. Then explain what you did to improve your understanding (be specific!), and how you have demonstrated that in this revision. With my permission, you may revise the same problem multiple times per week.
 
 :::danger
-**The reflection is essential.** This reflection is part of the revision: Without it, your revision is incomplete and won’t be reviewed. Avoid saying “it was just a small mistake” or “I made a bunch of silly mistakes.” If your progress didn’t meet the objectives, there was a major reason: What was it? In math, even “small” things can make a major difference in logic and correctness. 
+**The reflection is essential.** This reflection is part of the revision: Without it, your revision is incomplete and won’t be reviewed. Avoid saying “it was just a small mistake” or “I made a bunch of silly mistakes.” If your progress didn’t meet the objectives, there was a major reason: What was it? In organic chemistry, even “small” things can make a major difference in logic and correctness. 
 :::
  
 :::success
@@ -292,7 +292,7 @@ The student code defines academic misconduct as any action or behavior that misr
 **Consequences of academic dishonesty.** Evidence of dishonest behavior on any assignment will result, at a minimum, in not being able to use that work as evidence in your grade check-ins and final portfolio. In severe cases, the minimum penalty will be failure of the course. Peers who willingly assist others in acts of academic misconduct are equally guilty, and will suffer similar penalties. In all cases, violations will be considered according to APM 235 [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
 :::info
-**Remember that I want you to be successful.** That is, I want you to develop a deep, personal understanding of the material we study so that you become a better student of mathematics who can go on to do well in all of your future endeavors. Every part of this course structure – including both collaborative work and restrictions on collaboration – are intended to help you with this. You will often struggle, and that’s intentional – struggle (and eventual success!) is essential to learning. Indeed, productively failing (and learning from it) is part of your final grade.
+**Remember that I want you to be successful.** That is, I want you to develop a deep, personal understanding of the material we study so that you become a better student of organic chemistry who can go on to do well in all of your future endeavors. Every part of this course structure – including both collaborative work and restrictions on collaboration – are intended to help you with this. You will often struggle, and that’s intentional – struggle (and eventual success!) is essential to learning. Indeed, productively failing (and learning from it) is part of your final grade.
 
 In all aspects of the course, please understand that I am generous with hints and am always willing to discuss problems with you. I will never simply give you an answer, but I will offer direction and guidance that will assist you in coming up with a solution on your own. This is by far the most satisfying way to solve a problem, and the difficulty is well worth it.
 I hope you will make frequent use of my office hours, email, and your team. You are always welcome to discuss your questions or concerns with me at any time.
