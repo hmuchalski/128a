@@ -1,9 +1,9 @@
----
+<!-- ---
 tags: 140t, spring, syllabus
 title: Structure Determination of Organic Compounds (CHEM 140T)
 subtitle: Course Syllabus
 author: "Instructor: Hubert Muchalski, Ph.D."
----
+--- -->
 
 <!-- Canvas Table Styling
 Change class of all table opening tags in HTML page before pasting to canvas
