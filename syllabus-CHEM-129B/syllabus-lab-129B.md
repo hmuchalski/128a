@@ -10,6 +10,8 @@ Change class of all table opening tags in HTML page before pasting to canvas
 <table class="ic-Table ic-Table--condensed ic-Table--striped ic-Table--hover-row" style="width: 600px;"> 
 -->
 
+# Course Syllabus (CHEM 129B)
+
 | Course Name  | Organic Chemistry 2 (Laboratory)      |
 | :----------- | :------------------------------------ |
 | Semester     | AY 25–26 Spring                       |
@@ -33,41 +35,41 @@ Change class of all table opening tags in HTML page before pasting to canvas
 
 ## Table of Contents <!-- omit from toc -->
 
-- [About the course](#about-the-course)
-  - [Assumed prior knowledge and skills](#assumed-prior-knowledge-and-skills)
-- [Course Learning Outcomes](#course-learning-outcomes)
-- [Course materials and technology](#course-materials-and-technology)
-- [Course workflow](#course-workflow)
-- [Assessments and grading](#assessments-and-grading)
-  - [Grading philosophy](#grading-philosophy)
-  - [Grading of experiments](#grading-of-experiments)
-  - [Revisions and reattempts](#revisions-and-reattempts)
-  - [Research project](#research-project)
-  - [Letter grades](#letter-grades)
-- [Safe Chemical Laboratory Practices](#safe-chemical-laboratory-practices)
-- [Policies and disclaimers](#policies-and-disclaimers)
-  - [Length of a lab session](#length-of-a-lab-session)
-  - [Instructor availability and message responses {.availability}](#instructor-availability-and-message-responses-availability)
-  - [Attendance and make-up policy](#attendance-and-make-up-policy)
-  - [Technology issues when submitting work](#technology-issues-when-submitting-work)
-  - [Academic integrity](#academic-integrity)
-  - [Dropping the course after the census date](#dropping-the-course-after-the-census-date)
-  - [Plagiarism detection](#plagiarism-detection)
-  - [Intellectual Property](#intellectual-property)
-  - [Dispute Resolution](#dispute-resolution)
-  - [Student Ratings of Instruction](#student-ratings-of-instruction)
-- [University policies and disclaimers](#university-policies-and-disclaimers)
-  - [Links to relevant University Policies](#links-to-relevant-university-policies)
-- [University Services](#university-services)
-- [Appendix A: On keeping records of lab activities](#appendix-a-on-keeping-records-of-lab-activities)
-  - [Lab notes guiding principles](#lab-notes-guiding-principles)
-- [Appendix B: Rubrics](#appendix-b-rubrics)
-  - [Lab readiness](#lab-readiness)
-  - [Risk assessment rubric](#risk-assessment-rubric)
-  - [Lab notebook rubric](#lab-notebook-rubric)
-  - [Experimental results rubric](#experimental-results-rubric)
-  - [Grading of lab reports and the EMRN rubric](#grading-of-lab-reports-and-the-emrn-rubric)
-  - [Research report and presentation](#research-report-and-presentation)
+- [Course Syllabus (CHEM 129B)](#course-syllabus-chem-129b)
+  - [About the course](#about-the-course)
+    - [Assumed prior knowledge and skills](#assumed-prior-knowledge-and-skills)
+  - [Course Learning Outcomes](#course-learning-outcomes)
+  - [Course materials and technology](#course-materials-and-technology)
+  - [Course workflow](#course-workflow)
+  - [Assessments and grading](#assessments-and-grading)
+    - [Grading philosophy](#grading-philosophy)
+    - [Grading of experiments](#grading-of-experiments)
+    - [Revisions and reattempts](#revisions-and-reattempts)
+    - [Research project](#research-project)
+    - [Letter grades](#letter-grades)
+  - [Safe Chemical Laboratory Practices](#safe-chemical-laboratory-practices)
+  - [Policies and disclaimers](#policies-and-disclaimers)
+    - [Length of a lab session](#length-of-a-lab-session)
+    - [Attendance and make-up policy](#attendance-and-make-up-policy)
+    - [Technology issues when submitting work](#technology-issues-when-submitting-work)
+    - [Academic integrity](#academic-integrity)
+    - [Dropping the course after the census date](#dropping-the-course-after-the-census-date)
+    - [Plagiarism detection](#plagiarism-detection)
+    - [Intellectual Property](#intellectual-property)
+    - [Dispute Resolution](#dispute-resolution)
+    - [Student Ratings of Instruction](#student-ratings-of-instruction)
+  - [University policies and disclaimers](#university-policies-and-disclaimers)
+    - [Links to relevant University Policies](#links-to-relevant-university-policies)
+  - [University Services](#university-services)
+  - [Appendix A: On keeping records of lab activities](#appendix-a-on-keeping-records-of-lab-activities)
+    - [Lab notes guiding principles](#lab-notes-guiding-principles)
+  - [Appendix B: Rubrics](#appendix-b-rubrics)
+    - [Lab readiness](#lab-readiness)
+    - [Risk assessment rubric](#risk-assessment-rubric)
+    - [Lab notebook rubric](#lab-notebook-rubric)
+    - [Experimental results rubric](#experimental-results-rubric)
+    - [Grading of lab reports and the EMRN rubric](#grading-of-lab-reports-and-the-emrn-rubric)
+    - [Research report and presentation](#research-report-and-presentation)
 
 ## About the course
 
@@ -213,18 +215,6 @@ The CSU defines *one class hour* as 50 minutes of instruction, which is the defa
 Adhering to a fixed time frame in a lab setting is challenging because students work at their own pace, often in groups, and imposing fixed break times might be impractical or even unsafe. The nature of experimental work is such that there is plenty of time when you wait. You can take a short break during idle time as long as it is safe to do so.
 
 Thus, unless otherwise announced, we will work without a break and finish the lab session after 150 minutes of instruction/supervision, i.e., at 11:30 am for morning sections and 3:30 pm for afternoon sections.
-
-### Instructor availability and message responses {.availability}
-
-**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can email me, schedule an office hour, make an appointment, or grab me before or after class.
-
-However, please note that I may not always respond to messages immediately. In particular, **I do not typically check email outside of my regular business hours**, and **I do not typically check email at all on weekends** to prioritize time for family and other non-work pursuits. That said,
-
-- Messages sent on a weekday (Monday-Friday) before 3:00 pm will likely get a response *the same day*.
-- Messages sent after 3:00 pm Monday-Thursday will get a response *the following day*.
-- Messages sent after 3:00 pm on Fridays or on the weekend will get a response *the following Monday*.
-
-**Please plan for instructor availability.** For example, if you have something to turn in on a Friday, and you send a question by email after 3:00 pm, my reply may not come in time to help you; plan for contingencies like this.
 
 ### Attendance and make-up policy
 

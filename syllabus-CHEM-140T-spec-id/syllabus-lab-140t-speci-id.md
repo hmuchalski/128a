@@ -1,9 +1,9 @@
-<!-- ---
+---
 tags: 140t, spring, syllabus
 title: Structure Determination of Organic Compounds (CHEM 140T)
 subtitle: Course Syllabus
 author: "Instructor: Hubert Muchalski, Ph.D."
---- -->
+---
 
 <!-- Canvas Table Styling
 Change class of all table opening tags in HTML page before pasting to canvas
@@ -131,12 +131,12 @@ Grading regime: EMR rubric based on completion and correctness according to the 
 
 Your course grade is determined using the table below. To earn a particular letter grade, **all** requirements in the column for that grade must be met. A failing grade (F) is given if all the requirements for a "D" are not met. If the total number of assignments of a given type changes due to scheduling or other issues, this table will be updated accordingly.
 
-| Category (total)    | D   | C   | B   | A   |
+| Assignment group    | D   | C   | B   | A   |
 | ------------------- | --- | --- | --- | --- |
 | Class Primer        | 60% | 70% | 80% | 90% |
-| Spec ID Datasets    | 2   | 3   | 5   | 6   |
-| S3 Project          |     | L1  | L2  | L3  |
-| Special application |     |     |     | Y   |
+| Spec ID Datasets    | 1   | 2   | 4   | 5   |
+| S3 Project          | -   | L1  | L2  | L3  |
+| Special application | -   | -   | -   | Yes |
 
 If you complete half of the datasets, work on Class Primers before class so you can stay engaged during class, you can expect to pass the class with a grade of "C". 
 
