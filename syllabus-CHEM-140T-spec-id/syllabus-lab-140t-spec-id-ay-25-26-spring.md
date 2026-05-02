@@ -15,7 +15,7 @@ Change class of all table opening tags in HTML page before pasting to canvas
 
 | Course Name  | Structure Determination of Organic Compounds |
 | :----------- | :------------------------------------------- |
-| Semester     | AY 26-27 Spring                              |
+| Semester     | AY 25-26 Spring                              |
 | Units        | 2                                            |
 | Department   | Chemistry and Biochemistry                   |
 | Time         | Friday 14:00–15:50[^1]                       |
