@@ -131,12 +131,20 @@ Grading regime: EMR rubric based on completion and correctness according to the 
 
 Your course grade is determined using the table below. To earn a particular letter grade, **all** requirements in the column for that grade must be met. A failing grade (F) is given if all the requirements for a "D" are not met. If the total number of assignments of a given type changes due to scheduling or other issues, this table will be updated accordingly.
 
+<!-- 
+
+- Too many Spec ID assignments or they were too large. Break down into smaller assignments or reduce the number of required assignments for each grade
+- Launch the S3 project earlier in the semester so that students have more time to work on it. Consider classroom short presentations on the data and progress of the S3 project to keep it on students' minds and to encourage them to work on it throughout the semester, rather than waiting until the end. Consider breaking down the S3 project into smaller assignments with separate deadlines for each part. Consider adding a "Level 0" for the S3 project that involves training on how to use the spectrometers, so that students can get started on it earlier in the semester.
+- Special application project unlocks after a certain number of Spec ID datasets are completed. 
+
+ -->
+
 | Assignment group    | D   | C   | B   | A   |
 | ------------------- | --- | --- | --- | --- |
 | Class Primer        | 60% | 70% | 80% | 90% |
-| Spec ID Datasets    | 1   | 2   | 4   | 5   |
+| Spec ID Datasets    | 1   | 2   | 4   | 5   | 
 | S3 Project          | -   | L1  | L2  | L3  |
-| Special application | -   | -   | -   | Yes |
+| Special application | -   | -   | -   | Yes | 
 
 If you complete half of the datasets, work on Class Primers before class so you can stay engaged during class, you can expect to pass the class with a grade of "C". 
 
